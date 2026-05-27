@@ -2,5 +2,14 @@
   "iletisim": {
     "baslik": "Contact Center",
     "aciklama": "At our modern production facility in Izmir Kemalpasa, we develop world-class stainless steel technologies. Reach out directly to our technical team for your projects."
+  },
+  "nav": {
+    "tanks": "Stainless Tanks",
+    "machines": "Process Systems",
+    "pumps": "Hygienic Pumps",
+    "about": "Corporate",
+    "blog": "Blog",
+    "docs": "Documents",
+    "contact": "Contact"
   }
 }

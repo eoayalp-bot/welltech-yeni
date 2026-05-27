@@ -2,5 +2,14 @@
   "iletisim": {
     "baslik": "İletişim Merkezi",
     "aciklama": "İzmir Kemalpaşa'daki modern üretim tesisimizde, dünya standartlarında paslanmaz çelik teknolojileri geliştiriyoruz. Projeleriniz için doğrudan teknik ekibimize ulaşın."
+  },
+  "nav": {
+    "tanks": "Paslanmaz Tanklar",
+    "machines": "Proses Sistemleri",
+    "pumps": "Hijyenik Pompalar",
+    "about": "Kurumsal",
+    "blog": "Blog",
+    "docs": "Dokümanlar",
+    "contact": "İletişim"
   }
 }
