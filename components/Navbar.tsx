@@ -4,12 +4,21 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
 import { Montserrat } from 'next/font/google';
+import { usePathname } from 'next/navigation';
 
-// Sadece Navbar'ı etkileyecek premium, tok ve okunaklı font ailemiz
 const montserrat = Montserrat({ subsets: ['latin'], weight: ['500', '600', '700', '900'] });
 
 export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
   const [isOpen, setIsOpen] = useState(false);
+  
+  const pathname = usePathname();
+
+  const switchLanguage = (newLang: string) => {
+    if (!pathname) return `/${newLang}`;
+    const segments = pathname.split('/');
+    segments[1] = newLang;
+    return segments.join('/');
+  };
 
   return (
     <nav className={`flex items-center justify-between px-6 lg:px-8 py-5 bg-white sticky top-0 z-[100] border-b border-gray-50 shadow-sm ${montserrat.className}`}>
@@ -39,8 +48,18 @@ export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
 
       <div className="flex items-center gap-4 lg:gap-3">
         <div className="flex items-center gap-2 bg-gray-50 px-2 py-1 rounded-md border border-gray-100">
-          <Link href="/tr" className={`text-[11px] font-bold px-2 py-1 rounded transition-all ${lang === 'tr' ? 'bg-white text-[#E35205] shadow-sm' : 'text-gray-400 hover:text-gray-600'}`}>TR</Link>
-          <Link href="/en" className={`text-[11px] font-bold px-2 py-1 rounded transition-all ${lang === 'en' ? 'bg-white text-[#E35205] shadow-sm' : 'text-gray-400 hover:text-gray-600'}`}>EN</Link>
+          <Link 
+            href={switchLanguage('tr')} 
+            className={`text-[11px] font-bold px-2 py-1 rounded transition-all ${lang === 'tr' ? 'bg-white text-[#E35205] shadow-sm pointer-events-none' : 'text-gray-400 hover:text-gray-600'}`}
+          >
+            TR
+          </Link>
+          <Link 
+            href={switchLanguage('en')} 
+            className={`text-[11px] font-bold px-2 py-1 rounded transition-all ${lang === 'en' ? 'bg-white text-[#E35205] shadow-sm pointer-events-none' : 'text-gray-400 hover:text-gray-600'}`}
+          >
+            EN
+          </Link>
         </div>
 
         <button 
