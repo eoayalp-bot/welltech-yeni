@@ -1,51 +1,65 @@
+'use client';
+
+import { useState, use } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { ChevronRight, MapPin, Phone, Mail, Clock, Send, Globe, Factory, Building2, MessageCircle } from 'lucide-react';
+import { ChevronRight, MapPin, Phone, Mail, Clock, Send, Globe, Factory, Building2, MessageCircle, Loader2 } from 'lucide-react';
 
-export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
-  const resolvedParams = await params;
-  return {
-    title: "İletişim & Üretim Merkezi | Welltech®",
-    description: "Welltech paslanmaz çelik proses ve depolama teknolojileri üretim merkezi. İzmir Kemalpaşa fabrikamız iletişim bilgileri.",
-  };
-}
-
-export default async function ContactPage({ params }: { params: Promise<{ lang: string }> }) {
-  const resolvedParams = await params;
+export default function ContactPage({ params }: { params: Promise<{ lang: string }> }) {
+  const resolvedParams = use(params);
   const lang = resolvedParams.lang;
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "ContactPage",
-    "mainEntity": {
-      "@type": "LocalBusiness",
-      "name": "Welltech®",
-      "telephone": "+905324125152",
-      "email": "info@welltech.com.tr",
-      "address": [
-        {
-          "@type": "PostalAddress",
-          "streetAddress": "Kemalpaşa OSB Mah. 509 Sok. No: 15",
-          "addressLocality": "Kemalpaşa, İzmir",
-          "addressCountry": "TR"
-        },
-        {
-          "@type": "PostalAddress",
-          "streetAddress": "Ulucak İstiklal, Gazi Blv. No:169",
-          "postalCode": "35735",
-          "addressLocality": "Kemalpaşa, İzmir",
-          "addressCountry": "TR"
-        }
-      ]
+  const [formData, setFormData] = useState({
+    name: '',
+    company: '',
+    email: '',
+    phone: '',
+    subject: '',
+    message: ''
+  });
+
+  const [status, setStatus] = useState<{
+    type: 'idle' | 'loading' | 'success' | 'error';
+    message: string;
+  }>({ type: 'idle', message: '' });
+
+  // Input Değişim Takibi
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
+    setFormData({ ...formData, [e.target.id]: e.target.value });
+  };
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    
+    if (!formData.name || !formData.email || !formData.message) {
+      setStatus({ type: 'error', message: 'Lütfen zorunlu alanları (Ad Soyad, E-Posta, Proje Detayları) doldurunuz.' });
+      return;
+    }
+
+    setStatus({ type: 'loading', message: 'Teklif talebiniz endüstriyel sunucularımıza iletiliyor...' });
+
+    try {
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(formData),
+      });
+
+      if (response.ok) {
+        setStatus({ type: 'success', message: 'Teklif talebiniz başarıyla alındı! Teknik ekibimiz en kısa sürede sizinle iletişime geçecektir.' });
+        // Formu temizle
+        setFormData({ name: '', company: '', email: '', phone: '', subject: '', message: '' });
+      } else {
+        const errorData = await response.json().catch(() => ({}));
+        setStatus({ type: 'error', message: errorData.error || 'E-posta gönderilirken bir sunucu hatası oluştu. Lütfen tekrar deneyin.' });
+      }
+    } catch (error) {
+      setStatus({ type: 'error', message: 'Bağlantı hatası oluştu. Lütfen internet bağlantınızı kontrol edip tekrar deneyin.' });
     }
   };
 
   return (
     <div className="bg-gray-50 pb-32 selection:bg-[#E35205] selection:text-white">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
       
       <section className="relative h-[85vh] min-h-[600px] flex flex-col justify-center items-center text-center px-6 overflow-hidden">
         <div className="absolute inset-0 z-0">
@@ -207,32 +221,32 @@ export default async function ContactPage({ params }: { params: Promise<{ lang: 
                 <Globe className="w-10 h-10 text-gray-100" />
               </div>
               
-              <form className="flex flex-col gap-8">
+              <form onSubmit={handleSubmit} className="flex flex-col gap-8">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                   <div className="flex flex-col gap-2">
-                    <label htmlFor="name" className="text-xs font-bold tracking-widest text-gray-500">Ad Soyad</label>
-                    <input type="text" id="name" className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
+                    <label htmlFor="name" className="text-xs font-bold tracking-widest text-gray-500">Ad Soyad *</label>
+                    <input type="text" id="name" value={formData.name} onChange={handleChange} required className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
                   </div>
                   <div className="flex flex-col gap-2">
                     <label htmlFor="company" className="text-xs font-bold tracking-widest text-gray-500">Firma Adı</label>
-                    <input type="text" id="company" className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
+                    <input type="text" id="company" value={formData.company} onChange={handleChange} className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
                   </div>
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                   <div className="flex flex-col gap-2">
-                    <label htmlFor="email" className="text-xs font-bold tracking-widest text-gray-500">E-Posta Adresi</label>
-                    <input type="email" id="email" className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
+                    <label htmlFor="email" className="text-xs font-bold tracking-widest text-gray-500">E-Posta Adresi *</label>
+                    <input type="email" id="email" value={formData.email} onChange={handleChange} required className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
                   </div>
                   <div className="flex flex-col gap-2">
                     <label htmlFor="phone" className="text-xs font-bold tracking-widest text-gray-500">Telefon Numarası</label>
-                    <input type="tel" id="phone" className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
+                    <input type="tel" id="phone" value={formData.phone} onChange={handleChange} className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
                   </div>
                 </div>
 
                 <div className="flex flex-col gap-2">
                   <label htmlFor="subject" className="text-xs font-bold tracking-widest text-gray-500">Talep Edilen Ekipman / Proses Sistemi</label>
-                  <select id="subject" className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all cursor-pointer">
+                  <select id="subject" value={formData.subject} onChange={handleChange} className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all cursor-pointer">
                     <option value="">Lütfen ilgilendiğiniz ürün grubunu seçiniz...</option>
                     
                     <optgroup label="Paslanmaz Tanklar">
@@ -269,14 +283,29 @@ export default async function ContactPage({ params }: { params: Promise<{ lang: 
                 </div>
 
                 <div className="flex flex-col gap-2">
-                  <label htmlFor="message" className="text-xs font-bold tracking-widest text-gray-500">Proje Detayları</label>
-                  <textarea id="message" rows={5} placeholder="Örn: 20 Ton kapasiteli, 316L kalite, karıştırıcılı proses tankı talebimiz bulunmaktadır..." className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 placeholder-gray-400 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all resize-none"></textarea>
+                  <label htmlFor="message" className="text-xs font-bold tracking-widest text-gray-500">Proje Detayları *</label>
+                  <textarea id="message" rows={5} value={formData.message} onChange={handleChange} required placeholder="Örn: 20 Ton kapasiteli, 316L kalite, karıştırıcılı proses tankı talebimiz bulunmaktadır..." className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 placeholder-gray-400 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all resize-none"></textarea>
                 </div>
 
+                {status.type !== 'idle' && (
+                  <div className={`p-4 rounded-xl text-sm font-medium border ${
+                    status.type === 'loading' ? 'bg-blue-50 border-blue-100 text-blue-700 flex items-center gap-2' :
+                    status.type === 'success' ? 'bg-green-50 border-green-100 text-green-700' :
+                    'bg-red-50 border-red-100 text-red-700'
+                  }`}>
+                    {status.type === 'loading' && <Loader2 className="w-4 h-4 animate-spin" />}
+                    {status.message}
+                  </div>
+                )}
+
                 <div className="flex flex-col gap-6 mt-4">
-                  <button type="button" className="group w-full md:w-auto inline-flex items-center justify-center gap-3 bg-[#E35205] text-white px-8 py-5 rounded-xl text-sm font-bold tracking-widest hover:bg-[#005284] transition-colors shadow-lg">
-                    <Send className="w-4 h-4 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
-                    Teklif Talebi Gönder
+                  <button 
+                    type="submit" 
+                    disabled={status.type === 'loading'}
+                    className="group w-full md:w-auto inline-flex items-center justify-center gap-3 bg-[#E35205] text-white px-8 py-5 rounded-xl text-sm font-bold tracking-widest hover:bg-[#005284] transition-colors shadow-lg disabled:bg-gray-400 disabled:cursor-not-allowed"
+                  >
+                    {status.type === 'loading' ? 'Gönderiliyor...' : 'Teklif Talebi Gönder'}
+                    {status.type !== 'loading' && <Send className="w-4 h-4 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />}
                   </button>
                 </div>
               </form>
@@ -286,7 +315,6 @@ export default async function ContactPage({ params }: { params: Promise<{ lang: 
         </div>
 
         <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-8">
-          
           <div className="bg-white p-2 rounded-2xl shadow-xl border border-gray-100 overflow-hidden h-[400px] relative group">
             <div className="absolute top-6 left-6 z-10 bg-white/95 backdrop-blur px-4 py-2 rounded-lg shadow-sm border border-gray-100 pointer-events-none">
               <span className="text-xs font-black text-[#005284] tracking-widest uppercase">Genel Merkez</span>
@@ -312,7 +340,6 @@ export default async function ContactPage({ params }: { params: Promise<{ lang: 
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
           </div>
-
         </div>
 
       </section>
