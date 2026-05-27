@@ -4,6 +4,7 @@ import '../globals.css';
 import Navbar from '../../components/Navbar';
 import Footer from '../../components/Footer';
 import CookieBanner from '../../components/CookieBanner';
+import { getDictionary } from '../../dictionaries/getDictionary'; 
 
 const inter = Inter({
   subsets: ['latin'],
@@ -37,11 +38,6 @@ export const metadata: Metadata = {
   },
 };
 
-const getDictionary = async (lang: string) => {
-  if (lang === 'en') return import('../../dictionaries/en.json').then((module) => module.default);
-  return import('../../dictionaries/tr.json').then((module) => module.default);
-};
-
 export default async function RootLayout({
   children,
   params,
@@ -51,6 +47,7 @@ export default async function RootLayout({
 }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
+  
   const dict = await getDictionary(lang);
 
   return (
