@@ -11,5 +11,61 @@
     "blog": "Blog",
     "docs": "Dokümanlar",
     "contact": "İletişim"
+  },
+  "home": {
+    "hero": {
+      "badge": "Welltech® International Engineering",
+      "title": "Proses ve Depolama Teknolojileri",
+      "desc": "Gıda, kimya ve ilaç sanayisi için uluslararası ASME ve PED standartlarında tasarlanmış; 150 tona varan mega kapasiteli paslanmaz çelik çözümler.",
+      "btn1": "Mühendislik Desteği Alın",
+      "btn2": "Sertifikalarımız"
+    },
+    "stats": [
+      { "n": "150+", "t": "Ton Kapasite" },
+      { "n": "%100", "t": "NDT Kaynak Testi" },
+      { "n": "6 Kıta", "t": "Global İhracat Ağımız" },
+      { "n": "ASME", "t": "Sertifikalı Mühendislik" }
+    ],
+    "services": {
+      "title": "Endüstriyel Çözümlerimiz",
+      "desc": "Reçetenize, kapasitenize ve tesisinizin fiziksel şartlarına göre özel olarak tasarlanan tam donanımlı paslanmaz çelik sistemler.",
+      "view_details": "Detayları İncele",
+      "items": [
+        {
+          "title": "Mega Kapasiteli Depolama Çözümleri",
+          "desc": "İhtiyacınıza özel saha montajı avantajıyla, 150 tona varan kapasitelerde rüzgar ve sismik yük hesaplamalı uzun ömürlü paslanmaz silolar."
+        },
+        {
+          "title": "Yüksek Hassasiyetli Proses Tankları",
+          "desc": "Zorlu reçeteleriniz için kusursuz homojenizasyon. Termodinamik ceketli ve PLC otomasyon entegreli karıştırıcılı üretim hatları."
+        },
+        {
+          "title": "Heavy-Duty Kimyasal Reaktörler",
+          "desc": "Agresif korozyona, yüksek basınca ve tam vakuma karşı sıfır tolerans. API 650 ve ATEX standartlarında Titanyum alaşımlı güvenlik."
+        },
+        {
+          "title": "Ultra Hijyenik Gıda ve Süt Tankları",
+          "desc": "Soğuk zinciri kırmayan poliüretan izolasyon teknolojisi ve tam otomatik CIP yıkama sistemiyle bakteri riskini sıfırlayan gıda kodeksi onaylı tasarımlar."
+        }
+      ]
+    },
+    "why_us": {
+      "badge": "Neden Welltech?",
+      "title": "Sıfır Hata Prensibi İle Ağır Hizmet Üretimi",
+      "desc": "Sıradan kazan imalatçılarından farklı olarak, projenizi ASME ve EN standartlarında simüle ediyor, her bir kaynak dikişini RT (Röntgen) testinden geçirerek tehlikeli proseslerinizi garanti altına alıyoruz.",
+      "list": [
+        "EN 10204 3.1 Malzeme İzlenebilirliği",
+        "ISO 3834-2 Kalifikasyonlu Kaynak Mühendisliği",
+        "Avrupa Basınçlı Kaplar Direktifi (PED) Uyumu"
+      ],
+      "box1": {
+        "title": "Global İhracat",
+        "desc": "Asya'dan Avrupa'ya uluslararası normlarda tam teslimat."
+      },
+      "box2": {
+        "title": "A Tipi Kalite",
+        "desc": "Bağımsız denetim kuruluşları tarafından periyodik onay."
+      }
+    }
   }
 }

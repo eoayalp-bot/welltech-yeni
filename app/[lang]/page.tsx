@@ -1,10 +1,14 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { ChevronRight, ShieldCheck, Factory, CheckCircle, Globe } from 'lucide-react';
+import { getDictionary } from '../../dictionaries/getDictionary';
 
 export default async function Home({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
+  
+  // Çeviri motorunu ateşliyoruz!
+  const dict = await getDictionary(lang);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -19,26 +23,26 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
 
   const services = [
     {
-      title: "Mega Kapasiteli Depolama Çözümleri",
-      desc: "İhtiyacınıza özel saha montajı avantajıyla, 150 tona varan kapasitelerde rüzgar ve sismik yük hesaplamalı uzun ömürlü paslanmaz silolar.",
+      title: dict.home.services.items[0].title,
+      desc: dict.home.services.items[0].desc,
       image: "/assets/images/ana-sayfa/hizmet-depolama.webp",
       link: "/paslanmaz-tanklar/depolama-tanklari"
     },
     {
-      title: "Yüksek Hassasiyetli Proses Tankları",
-      desc: "Zorlu reçeteleriniz için kusursuz homojenizasyon. Termodinamik ceketli ve PLC otomasyon entegreli karıştırıcılı üretim hatları.",
+      title: dict.home.services.items[1].title,
+      desc: dict.home.services.items[1].desc,
       image: "/assets/images/ana-sayfa/hizmet-proses.webp",
       link: "/proses-sistemleri/karistiricili-tanklar"
     },
     {
-      title: "Heavy-Duty Kimyasal Reaktörler",
-      desc: "Agresif korozyona, yüksek basınca ve tam vakuma karşı sıfır tolerans. API 650 ve ATEX standartlarında Titanyum alaşımlı güvenlik.",
+      title: dict.home.services.items[2].title,
+      desc: dict.home.services.items[2].desc,
       image: "/assets/images/ana-sayfa/hizmet-mobil.webp",
       link: "/proses-sistemleri/kimyasal-reaktorler"
     },
     {
-      title: "Ultra Hijyenik Gıda ve Süt Tankları",
-      desc: "Soğuk zinciri kırmayan poliüretan izolasyon teknolojisi ve tam otomatik CIP yıkama sistemiyle bakteri riskini sıfırlayan gıda kodeksi onaylı tasarımlar.",
+      title: dict.home.services.items[3].title,
+      desc: dict.home.services.items[3].desc,
       image: "/assets/images/ana-sayfa/hizmet-sut.webp", 
       link: "/paslanmaz-tanklar/sut-tanklari"
     }
@@ -65,26 +69,26 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
         
         <div className="relative z-20 text-center px-4 sm:px-6 w-full max-w-5xl mx-auto mt-16">
           <span className="inline-block px-4 py-1.5 bg-[#E35205] text-white text-[10px] sm:text-xs font-bold tracking-[0.4em] mb-6 shadow-lg">
-            Welltech® International Engineering
+            {dict.home.hero.badge}
           </span>
           <h1 className="text-4xl sm:text-5xl md:text-7xl font-black text-white mb-6 tracking-tighter leading-[1.1] drop-shadow-2xl">
-            Proses ve Depolama Teknolojileri
+            {dict.home.hero.title}
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl text-white max-w-3xl mx-auto mb-10 font-medium leading-relaxed drop-shadow-2xl">
-            Gıda, kimya ve ilaç sanayisi için uluslararası ASME ve PED standartlarında tasarlanmış; 150 tona varan mega kapasiteli paslanmaz çelik çözümler.
+            {dict.home.hero.desc}
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Link 
               href={`/${lang}/iletisim`} 
               className="w-full sm:w-auto inline-block bg-[#E35205] text-white px-8 sm:px-10 py-4 rounded-sm font-bold text-sm tracking-widest hover:bg-white hover:text-[#E35205] transition-all duration-300 shadow-2xl hover:shadow-[#E35205]/20 hover:-translate-y-1"
             >
-              Mühendislik Desteği Alın
+              {dict.home.hero.btn1}
             </Link>
             <Link 
               href={`/${lang}/dokumanlar`} 
               className="w-full sm:w-auto inline-block bg-white/10 backdrop-blur-md border border-white/20 text-white px-8 sm:px-10 py-4 rounded-sm font-bold text-sm tracking-widest hover:bg-white/20 transition-all duration-300 shadow-xl"
             >
-              Sertifikalarımız
+              {dict.home.hero.btn2}
             </Link>
           </div>
         </div>
@@ -92,14 +96,9 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
 
       <div className="relative z-30 -mt-12 sm:-mt-16 max-w-6xl mx-auto px-4 sm:px-6">
         <div className="grid grid-cols-2 md:grid-cols-4 bg-white shadow-2xl border border-gray-100 rounded-xl overflow-hidden divide-x divide-y md:divide-y-0 divide-gray-50">
-          {[
-            { n: "150+", t: "Ton Kapasite" },
-            { n: "%100", t: "NDT Kaynak Testi" },
-            { n: "6 Kıta", t: "Global İhracat Ağımız" },
-            { n: "ASME", t: "Sertifikalı Mühendislik", color: "text-[#E35205]" }
-          ].map((stat, i) => (
+          {dict.home.stats.map((stat: any, i: number) => (
             <div key={i} className="p-6 sm:p-8 text-center group hover:bg-gray-50 transition-colors duration-300 flex flex-col justify-center">
-              <div className={`text-2xl sm:text-3xl font-black mb-2 transition-transform duration-300 group-hover:scale-110 ${stat.color || "text-[#005284]"}`}>
+              <div className={`text-2xl sm:text-3xl font-black mb-2 transition-transform duration-300 group-hover:scale-110 ${i === 3 ? "text-[#E35205]" : "text-[#005284]"}`}>
                 {stat.n}
               </div>
               <div className="text-[9px] sm:text-[10px] text-gray-400 font-bold tracking-widest">
@@ -113,11 +112,11 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       <section className="max-w-7xl mx-auto py-24 sm:py-32 px-4 sm:px-6">
         <div className="text-center mb-16 sm:mb-20">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-black text-[#005284] tracking-tighter mb-6">
-            Endüstriyel Çözümlerimiz
+            {dict.home.services.title}
           </h2>
           <div className="w-20 h-1.5 bg-gradient-to-r from-[#005284] to-[#E35205] mx-auto rounded-full"></div>
           <p className="text-gray-500 max-w-2xl mx-auto text-lg font-light leading-relaxed mt-6">
-            Reçetenize, kapasitenize ve tesisinizin fiziksel şartlarına göre özel olarak tasarlanan tam donanımlı paslanmaz çelik sistemler.
+            {dict.home.services.desc}
           </p>
         </div>
 
@@ -142,7 +141,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
               </p>
               <div className="mt-auto inline-block">
                 <span className="text-xs font-black tracking-widest text-[#005284] flex items-center gap-2 group-hover:text-[#E35205] transition-all">
-                  Detayları İncele <ChevronRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" />
+                  {dict.home.services.view_details} <ChevronRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" />
                 </span>
               </div>
             </Link>
@@ -157,21 +156,17 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           <div>
             <div className="flex items-center gap-3 mb-8">
               <Factory className="w-8 h-8 text-[#E35205]" />
-              <span className="text-xs font-bold tracking-widest text-blue-200">Neden Welltech?</span>
+              <span className="text-xs font-bold tracking-widest text-blue-200">{dict.home.why_us.badge}</span>
             </div>
             <h2 className="text-3xl md:text-5xl font-black text-white tracking-tighter mb-8 leading-tight">
-              Sıfır Hata Prensibi İle Ağır Hizmet Üretimi
+              {dict.home.why_us.title}
             </h2>
             <p className="text-lg text-blue-100 font-light leading-relaxed mb-10">
-              Sıradan kazan imalatçılarından farklı olarak, projenizi ASME ve EN standartlarında simüle ediyor, her bir kaynak dikişini RT (Röntgen) testinden geçirerek tehlikeli proseslerinizi garanti altına alıyoruz.
+              {dict.home.why_us.desc}
             </p>
             
             <div className="flex flex-col gap-6 mb-12">
-              {[
-                "EN 10204 3.1 Malzeme İzlenebilirliği",
-                "ISO 3834-2 Kalifikasyonlu Kaynak Mühendisliği",
-                "Avrupa Basınçlı Kaplar Direktifi (PED) Uyumu"
-              ].map((item, idx) => (
+              {dict.home.why_us.list.map((item: string, idx: number) => (
                 <div key={idx} className="flex items-center gap-4">
                   <div className="w-8 h-8 rounded-full bg-[#E35205]/20 flex items-center justify-center shrink-0">
                     <CheckCircle className="w-5 h-5 text-[#E35205]" />
@@ -185,13 +180,13 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           <div className="grid grid-cols-2 gap-6">
             <div className="bg-white/10 backdrop-blur-md border border-white/20 p-8 rounded-2xl flex flex-col items-center justify-center text-center transform lg:translate-y-8">
               <Globe className="w-12 h-12 text-blue-200 mb-6" />
-              <h4 className="text-white font-bold tracking-widest mb-2">Global İhracat</h4>
-              <p className="text-xs text-blue-200 leading-relaxed">Asya'dan Avrupa'ya uluslararası normlarda tam teslimat.</p>
+              <h4 className="text-white font-bold tracking-widest mb-2">{dict.home.why_us.box1.title}</h4>
+              <p className="text-xs text-blue-200 leading-relaxed">{dict.home.why_us.box1.desc}</p>
             </div>
             <div className="bg-[#E35205] p-8 rounded-2xl flex flex-col items-center justify-center text-center shadow-2xl">
               <ShieldCheck className="w-12 h-12 text-white mb-6" />
-              <h4 className="text-white font-bold tracking-widest mb-2">A Tipi Kalite</h4>
-              <p className="text-xs text-white/90 leading-relaxed">Bağımsız denetim kuruluşları tarafından periyodik onay.</p>
+              <h4 className="text-white font-bold tracking-widest mb-2">{dict.home.why_us.box2.title}</h4>
+              <p className="text-xs text-white/90 leading-relaxed">{dict.home.why_us.box2.desc}</p>
             </div>
           </div>
 

@@ -11,5 +11,61 @@
     "blog": "Blog",
     "docs": "Documents",
     "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "badge": "Welltech® International Engineering",
+      "title": "Process and Storage Technologies",
+      "desc": "Designed to international ASME and PED standards for the food, chemical, and pharmaceutical industries; mega-capacity stainless steel solutions up to 150 tons.",
+      "btn1": "Get Engineering Support",
+      "btn2": "Our Certificates"
+    },
+    "stats": [
+      { "n": "150+", "t": "Tons Capacity" },
+      { "n": "100%", "t": "NDT Welding Test" },
+      { "n": "6 Continents", "t": "Global Export Network" },
+      { "n": "ASME", "t": "Certified Engineering" }
+    ],
+    "services": {
+      "title": "Our Industrial Solutions",
+      "desc": "Fully equipped stainless steel systems custom-designed according to your recipe, capacity, and physical facility conditions.",
+      "view_details": "View Details",
+      "items": [
+        {
+          "title": "Mega Capacity Storage Solutions",
+          "desc": "Long-lasting stainless silos with wind and seismic load calculations in capacities up to 150 tons, with the advantage of on-site assembly tailored to your needs."
+        },
+        {
+          "title": "High Precision Process Tanks",
+          "desc": "Flawless homogenization for your demanding recipes. Agitated production lines integrated with thermodynamic jackets and PLC automation."
+        },
+        {
+          "title": "Heavy-Duty Chemical Reactors",
+          "desc": "Zero tolerance against aggressive corrosion, high pressure, and full vacuum. Titanium-alloyed safety at API 650 and ATEX standards."
+        },
+        {
+          "title": "Ultra Hygienic Food and Dairy Tanks",
+          "desc": "Food codex approved designs that eliminate bacterial risks with polyurethane insulation technology that maintains the cold chain and fully automatic CIP washing systems."
+        }
+      ]
+    },
+    "why_us": {
+      "badge": "Why Welltech?",
+      "title": "Heavy Duty Production with Zero Defect Principle",
+      "desc": "Unlike ordinary boiler manufacturers, we simulate your project in ASME and EN standards and guarantee your hazardous processes by passing every weld seam through RT (X-ray) testing.",
+      "list": [
+        "EN 10204 3.1 Material Traceability",
+        "ISO 3834-2 Qualified Welding Engineering",
+        "European Pressure Equipment Directive (PED) Compliance"
+      ],
+      "box1": {
+        "title": "Global Export",
+        "desc": "Full delivery in international norms from Asia to Europe."
+      },
+      "box2": {
+        "title": "A-Type Quality",
+        "desc": "Periodic approval by independent audit organizations."
+      }
+    }
   }
 }
