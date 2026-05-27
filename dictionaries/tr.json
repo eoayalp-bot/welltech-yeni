@@ -1,17 +1,6 @@
 {
-  "nav": {
-    "tanks": "Paslanmaz Tanklar",
-    "machines": "Proses Sistemleri",
-    "pumps": "Hijyenik Pompalar",
-    "turnkey": "Anahtar Teslim",
-    "about": "Hakkımızda",
-    "docs": "Dökümanlar",
-    "projects": "Projeler",
-    "contact": "İletişim"
-  },
-  "hero": {
-    "title": "İleri Teknoloji Proses ve Depolama Çözümleri",
-    "desc": "Gıda, İlaç ve Kimya Sektörleri İçin Uçtan Uca Mühendislik, Akıllı Tank Sistemleri ve Hijyenik Akışkan Transferi.",
-    "button": "Projelerimizi İnceleyin"
+  "iletisim": {
+    "baslik": "İletişim Merkezi",
+    "aciklama": "İzmir Kemalpaşa'daki modern üretim tesisimizde, dünya standartlarında paslanmaz çelik teknolojileri geliştiriyoruz. Projeleriniz için doğrudan teknik ekibimize ulaşın."
   }
 }
