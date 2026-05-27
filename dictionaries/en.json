@@ -1,0 +1,13 @@
+{
+  "nav": {
+    "tanks": "Stainless Steel Tanks",
+    "machines": "Process Systems",
+    "pumps": "Hygienic Pumps",
+    "projects": "Turnkey Projects"
+  },
+  "hero": {
+    "title": "Advanced Process and Storage Solutions",
+    "desc": "End-to-End Engineering, Smart Tank Systems, and Hygienic Fluid Transfer for Food, Pharma, and Chemical Industries.",
+    "button": "Explore Our Projects"
+  }
+}
