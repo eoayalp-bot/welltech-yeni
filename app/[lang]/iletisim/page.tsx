@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import Script from 'next/script';
 import { ChevronRight, MapPin, Phone, Mail, Clock, Send, Globe, Factory, Building2, MessageCircle } from 'lucide-react';
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
@@ -43,8 +42,6 @@ export default async function ContactPage({ params }: { params: Promise<{ lang: 
 
   return (
     <div className="bg-gray-50 pb-32 selection:bg-[#E35205] selection:text-white">
-      <Script src="https://www.google.com/recaptcha/api.js" strategy="lazyOnload" />
-
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -277,10 +274,6 @@ export default async function ContactPage({ params }: { params: Promise<{ lang: 
                 </div>
 
                 <div className="flex flex-col gap-6 mt-4">
-                  <div className="w-full flex justify-start">
-                    <div className="g-recaptcha" data-sitekey="SİTE_ANAHTARINIZI_BURAYA_EKLEYİN"></div>
-                  </div>
-
                   <button type="button" className="group w-full md:w-auto inline-flex items-center justify-center gap-3 bg-[#E35205] text-white px-8 py-5 rounded-xl text-sm font-bold tracking-widest hover:bg-[#005284] transition-colors shadow-lg">
                     <Send className="w-4 h-4 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
                     Teklif Talebi Gönder
