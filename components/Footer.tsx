@@ -33,7 +33,7 @@ export default function Footer({ lang, dict }: { lang: string; dict?: any }) {
               </Link>
             </li>
             <li>
-              <Link href={`/${lang}/hijyenik-pompalar`} className="hover:text-[#E35205] transition-colors flex items-center gap-2">
+              <Link href={`/${lang}/pompalar`} className="hover:text-[#E35205] transition-colors flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4" /> Hijyenik Pompalar
               </Link>
             </li>
