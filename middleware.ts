@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
+import { routeDictionary } from './dictionaries/routes';
 
 const locales = ['tr', 'en', 'de', 'es', 'ru', 'fr', 'ar', 'pt', 'it'];
 const defaultLocale = 'tr';
@@ -16,14 +17,33 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  const pathnameHasLocale = locales.some(
-    (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
-  );
+  const pathnameSegments = pathname.split('/').filter(Boolean);
+  const pathnameLocale = locales.includes(pathnameSegments[0]) ? pathnameSegments[0] : null;
 
-  if (pathnameHasLocale) return NextResponse.next();
+  if (!pathnameLocale) {
+    request.nextUrl.pathname = `/${defaultLocale}${pathname}`;
+    return NextResponse.redirect(request.nextUrl);
+  }
 
-  request.nextUrl.pathname = `/${defaultLocale}${pathname}`;
-  return NextResponse.redirect(request.nextUrl);
+  let needsRewrite = false;
+  const physicalSegments = pathnameSegments.map((segment, index) => {
+    if (index === 0) return segment;
+
+      for (const [physicalKey, translations] of Object.entries(routeDictionary)) {
+      if (translations[pathnameLocale as keyof typeof translations] === segment) {
+        if (physicalKey !== segment) needsRewrite = true;
+        return physicalKey;
+      }
+    }
+    return segment;
+  });
+
+  if (needsRewrite) {
+    const rewriteUrl = `/${physicalSegments.join('/')}`;
+    return NextResponse.rewrite(new URL(rewriteUrl, request.url));
+  }
+
+  return NextResponse.next();
 }
 
 export const config = {
