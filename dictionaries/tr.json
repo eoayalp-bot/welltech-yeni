@@ -18,13 +18,27 @@
       "title": "Proses ve Depolama Teknolojileri",
       "desc": "Gıda, kimya ve ilaç sanayisi için uluslararası ASME ve PED standartlarında tasarlanmış; 150 tona varan mega kapasiteli paslanmaz çelik çözümler.",
       "btn1": "Mühendislik Desteği Alın",
-      "btn2": "Sertifikalarımız"
+      "btn2": "Sertifikalarımız",
+      "bgImage": "/assets/images/ana-sayfa/hero-bg.webp",
+      "bgAlt": "Welltech Endüstriyel Tesis"
     },
     "stats": [
-      { "n": "150+", "t": "Ton Kapasite" },
-      { "n": "%100", "t": "NDT Kaynak Testi" },
-      { "n": "6 Kıta", "t": "Global İhracat Ağımız" },
-      { "n": "ASME", "t": "Sertifikalı Mühendislik" }
+      {
+        "n": "150+",
+        "t": "Ton Kapasite"
+      },
+      {
+        "n": "%100",
+        "t": "NDT Kaynak Testi"
+      },
+      {
+        "n": "6 Kıta",
+        "t": "Global İhracat Ağımız"
+      },
+      {
+        "n": "ASME",
+        "t": "Sertifikalı Mühendislik"
+      }
     ],
     "services": {
       "title": "Endüstriyel Çözümlerimiz",
@@ -33,19 +47,27 @@
       "items": [
         {
           "title": "Mega Kapasiteli Depolama Çözümleri",
-          "desc": "İhtiyacınıza özel saha montajı avantajıyla, 150 tona varan kapasitelerde rüzgar ve sismik yük hesaplamalı uzun ömürlü paslanmaz silolar."
+          "desc": "İhtiyacınıza özel saha montajı avantajıyla, 150 tona varan kapasitelerde rüzgar ve sismik yük hesaplamalı uzun ömürlü paslanmaz silolar.",
+          "image": "/assets/images/ana-sayfa/hizmet-depolama.webp",
+          "link": "paslanmaz-tanklar/depolama-tanklari"
         },
         {
           "title": "Yüksek Hassasiyetli Proses Tankları",
-          "desc": "Zorlu reçeteleriniz için kusursuz homojenizasyon. Termodinamik ceketli ve PLC otomasyon entegreli karıştırıcılı üretim hatları."
+          "desc": "Zorlu reçeteleriniz için kusursuz homojenizasyon. Termodinamik ceketli ve PLC otomasyon entegreli karıştırıcılı üretim hatları.",
+          "image": "/assets/images/ana-sayfa/hizmet-proses.webp",
+          "link": "proses-sistemleri/karistiricili-tanklar"
         },
         {
           "title": "Heavy-Duty Kimyasal Reaktörler",
-          "desc": "Agresif korozyona, yüksek basınca ve tam vakuma karşı sıfır tolerans. API 650 ve ATEX standartlarında Titanyum alaşımlı güvenlik."
+          "desc": "Agresif korozyona, yüksek basınca ve tam vakuma karşı sıfır tolerans. API 650 ve ATEX standartlarında Titanyum alaşımlı güvenlik.",
+          "image": "/assets/images/ana-sayfa/hizmet-mobil.webp",
+          "link": "proses-sistemleri/kimyasal-reaktorler"
         },
         {
           "title": "Ultra Hijyenik Gıda ve Süt Tankları",
-          "desc": "Soğuk zinciri kırmayan poliüretan izolasyon teknolojisi ve tam otomatik CIP yıkama sistemiyle bakteri riskini sıfırlayan gıda kodeksi onaylı tasarımlar."
+          "desc": "Soğuk zinciri kırmayan poliüretan izolasyon teknolojisi ve tam otomatik CIP yıkama sistemiyle bakteri riskini sıfırlayan gıda kodeksi onaylı tasarımlar.",
+          "image": "/assets/images/ana-sayfa/hizmet-sut.webp",
+          "link": "paslanmaz-tanklar/sut-tanklari"
         }
       ]
     },
@@ -66,6 +88,2534 @@
         "title": "A Tipi Kalite",
         "desc": "Bağımsız denetim kuruluşları tarafından periyodik onay."
       }
+    }
+  },
+  "blogPost": {
+    "notFoundTitle": "Makale Bulunamadı | Welltech®",
+    "backToPosts": "Yayınlara Dön",
+    "tags": {
+      "engineering": "Mühendislik",
+      "process": "Proses"
+    },
+    "shareArticle": "Makaleyi Paylaş",
+    "sidebar": {
+      "engineeringTitle": "Proje Mühendisliği",
+      "engineeringDesc": "ASME ve PED standartlarına uygun, yüksek basınç ve tam vakum dayanımlı reaktör projeniz için teknik ekibimize ulaşın.",
+      "getSupportBtn": "Teknik Destek Alın",
+      "docsTitle": "Teknik Dökümanlar",
+      "docsSubtitle": "Sertifika ve Kalite",
+      "docsDesc": "Üretim standartlarımızı, kalite kontrol prosedürlerimizi ve sertifikalarımızı detaylı olarak inceleyin.",
+      "goToDocsBtn": "Dokümanlara Git"
+    }
+  },
+  "blogPage": {
+    "metadataTitle": "Endüstri Yayınları & Blog | Welltech®",
+    "metadataDesc": "Paslanmaz çelik proses teknolojileri, mühendislik standartları ve endüstriyel çözümler hakkında güncel makaleler.",
+    "breadcrumbHome": "Ana Sayfa",
+    "breadcrumbCorporate": "Kurumsal",
+    "breadcrumbBlog": "Endüstri Yayınları",
+    "title": "Endüstri Yayınları",
+    "description": "Mühendislik kadromuzun hazırladığı teknik makaleler, sektörel gelişmeler ve proses teknolojilerine dair detaylı analizler.",
+    "techArticle": "Teknik Makale",
+    "readArticle": "Makaleyi Oku",
+    "categoriesTitle": "Mühendislik Kategorileri",
+    "categories": {
+      "materials": "Malzeme Bilimi",
+      "hygiene": "Hijyenik Tasarım",
+      "standards": "Mühendislik Standartları",
+      "chemistry": "Kimya Endüstrisi"
+    },
+    "newsletterTitle": "E-Bülten Aboneliği",
+    "newsletterDesc": "Sektörel standart değişiklikleri ve yeni teknolojilerden anında haberdar olmak için mail listemize katılın.",
+    "newsletterPlaceholder": "Kurumsal E-Posta",
+    "newsletterBtn": "Abone Ol"
+  },
+  "documentsPage": {
+    "metadata": {
+      "title": "Sertifikalar ve Kalite | Welltech®",
+      "description": "Welltech paslanmaz çelik üretim standartları, kalite belgeleri, ISO 9001, PED 2014/68/EU ve kaynak test (NDT) prosedürleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "corporate": "Kurumsal",
+      "current": "Sertifikalar ve Kalite"
+    },
+    "hero": {
+      "title": "Sertifikalar ve Kalite",
+      "desc": "Sıfır hata prensibi ve tam izlenebilirlik. Ürettiğimiz her ekipman, uluslararası geçerliliğe sahip sertifikasyonlarla (PED, ASME, ISO) güvence altına alınır."
+    },
+    "globalStandards": {
+      "title": "Global Kalite Standartları",
+      "desc": "Welltech® üretim hattına giren her paslanmaz çelik plaka, EN 10204 3.1 malzeme sertifikası ile kayıt altına alınır ve projenin teslimine kadar tam izlenebilirlik sağlanır. Kaynak işlemlerimiz onaylı (Sertifikalı) kaynakçılarımız tarafından, uluslararası WPS (Kaynak Prosedür Şartnamesi) ve PQR (Prosedür Kalifikasyon Kaydı) standartlarına harfiyen uyularak gerçekleştirilir."
+    },
+    "ndt": {
+      "title": "NDT (Tahribatsız Muayene)",
+      "items": {
+        "rt": "RT (Radyografik / X-Ray) Kaynak Testi",
+        "pt": "PT (Sıvı Penetrant) Yüzey Çatlak Testi",
+        "ut": "UT (Ultrasonik) Kalınlık Muayenesi",
+        "vt": "VT (Görsel) Tahribatsız Muayene",
+        "hydro": "Hidrostatik Basınç Sızdırmazlık Testi",
+        "roughness": "Yüzey Pürüzlülük (Ra) Ölçümü"
+      }
+    },
+    "certifications": {
+      "title": "Kurumsal Sertifikasyonlar",
+      "note": "* Tesisimiz uluslararası bağımsız denetim kuruluşları (TÜV, SGS, Bureau Veritas vb.) tarafından periyodik olarak denetlenmektedir.",
+      "tableHeaders": {
+        "standard": "Standart / Yönetmelik",
+        "scope": "Kapsam",
+        "status": "Durum"
+      },
+      "status": {
+        "active": "Aktif",
+        "compliant": "Uygunluk"
+      },
+      "scopes": {
+        "iso9001": "Kalite Yönetim Sistemi",
+        "iso3834": "Metalik Kaynak Kalite Şartları",
+        "ped": "Basınçlı Ekipmanlar Direktifi",
+        "asme": "Basınçlı Kaplar Üretim Standardı",
+        "ce": "Avrupa Birliği Uygunluk Beyanı"
+      }
+    },
+    "faq": {
+      "title": "Kalite Kontrol FAQ",
+      "items": [
+        {
+          "q": "Teslimatta hangi dökümanları sağlıyorsunuz?",
+          "a": "Proje tesliminde 'Kalite Dosyası' (Data Book) sunuyoruz. Bu dosya; EN 10204 3.1 malzeme sertifikalarını, kaynakçı sertifikalarını, NDT test raporlarını, hidrostatik test tutanaklarını ve genel teknik resimleri kapsar."
+        },
+        {
+          "q": "Üçüncü taraf (Third Party) denetimlerine açık mısınız?",
+          "a": "Kesinlikle. Müşterilerimizin talebi doğrultusunda TÜV SÜD, SGS, Bureau Veritas veya Lloyd's Register gibi bağımsız kuruluşların fabrikamızdaki üretim ve test süreçlerine refakat etmesini sağlıyoruz."
+        }
+      ]
+    },
+    "sidebar": {
+      "iso": {
+        "title": "ISO 9001:2015",
+        "subtitle": "Kalite Sertifikası",
+        "desc": "Kalite yönetim sistemimizin güncel ISO 9001:2015 sertifikasını PDF formatında indirebilirsiniz.",
+        "btn": "Belgeyi İndir",
+        "fileUrl": "/assets/documents/tr/sertifikalar/welltech-kalite-belgeleri-toplu.pdf"
+      },
+      "catalog": {
+        "title": "Kurumsal Katalog",
+        "subtitle": "Genel Tanıtım",
+        "desc": "Tüm üretim bantlarımızı, kapasite bilgilerimizi ve kalite standartlarımızı içeren genel firma kataloğumuz.",
+        "btn": "Kataloğu İndir",
+        "fileUrl": "/assets/documents/tr/kataloglar/welltech-genel-katalog.pdf"
+      },
+      "department": {
+        "title": "Kalite Departmanı",
+        "desc": "Projenizle ilgili özel sertifikasyon talepleri veya kalite kontrol (QC) prosedürleri için departmanımıza ulaşın."
+      }
+    }
+  },
+  "aboutPage": {
+    "metadata": {
+      "title": "Hakkımızda | Welltech®",
+      "description": "İzmir'den dünyaya uluslararası standartlarda paslanmaz çelik proses ve depolama teknolojileri."
+    },
+    "jsonLd": {
+      "description": "İzmir'den 6 kıtaya; gıda, kimya ve ilaç sanayisi için uluslararası standartlarda (ASME, PED) paslanmaz çelik proses ve depolama teknolojileri üretiyoruz."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "corporate": "Kurumsal",
+      "current": "Hakkımızda"
+    },
+    "hero": {
+      "titleStart": "Mühendisliğin ",
+      "titleHighlight": "Gücü",
+      "desc": "İzmir'den dünyaya; gıda, kimya ve ilaç sanayisi için uluslararası standartlarda (ASME, PED) paslanmaz çelik proses ve depolama teknolojileri üretiyoruz."
+    },
+    "roots": {
+      "title": "Köklerimiz",
+      "p1": "Türkiye'nin sanayi başkentlerinden İzmir, Kemalpaşa Organize Sanayi Bölgesi'nde yer alan üretim tesisimizde, mühendislik gücümüzü uluslararası standartlarla birleştirerek endüstriyel proses ve depolama çözümleri tasarlıyoruz.",
+      "p2": "Welltech® International Engineering olarak sadece bir makine veya tank üreticisi değiliz. Projelerinizin başlangıcından devreye alınmasına kadar yanınızda olan güvenilir bir çözüm ortağıyız. Entegre tesis kurulumlarından, çok spesifik ekipman ihtiyaçlarına kadar her aşamada \"Avrupa Kalitesi\" ve \"İş Güvenliğini\" merkeze alıyoruz."
+    },
+    "global": {
+      "title": "İzmir'den 6 Kıta'ya...",
+      "desc": "Türkiye'deki üretim üssümüzden, 6 kıtada 30'dan fazla ülkeye uluslararası (ASME & PED) standartlarında mühendislik çözümleri fışkırtıyoruz. Her teslimat, global güvenin bir eseridir."
+    },
+    "cards": {
+      "mission": {
+        "title": "Misyonumuz",
+        "desc": "Müşterilerimizin operasyonel verimliliğini artıran, uzun ömürlü, enerji tasarruflu ve hijyenik proses teknolojileri üretmek; üretim bandında sıfır hata prensibiyle endüstriye hizmet etmek."
+      },
+      "vision": {
+        "title": "Vizyonumuz",
+        "desc": "Gıda, kimya, petrokimya ve ilaç sanayisinde 6 kıtada en çok güvenilen, mühendislik dendiğinde akla gelen ilk Türk paslanmaz çelik teknoloji ve proses markası olmak."
+      },
+      "quality": {
+        "title": "Kalite Anlayışımız",
+        "desc": "Tüm süreçlerimiz uluslararası sertifikasyonlara tabidir. Kaynak penetrasyonlarından yüzey pürüzlülük (Ra) testlerine kadar her teknik detay, alanında uzman mühendislerimiz tarafından doğrulanarak teslim edilir."
+      }
+    },
+    "cta": {
+      "title": "Projelerinizi Birlikte İnşa Edelim",
+      "desc": "Fabrikanızın modernizasyonu, kapasite artırımı veya sıfırdan tesis kurulumu için tecrübeli mühendislik ekibimizle tanışın.",
+      "btn": "Bizimle İletişime Geçin"
+    }
+  },
+  "contactPage": {
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "corporate": "Kurumsal",
+      "current": "İletişim"
+    },
+    "hero": {
+      "title": "İletişim Merkezi",
+      "desc": "İzmir Kemalpaşa'daki modern üretim tesisimizde, dünya standartlarında paslanmaz çelik teknolojileri geliştiriyoruz. Projeleriniz için doğrudan teknik ekibimize ulaşın."
+    },
+    "sidebar": {
+      "title": "Lokasyonlar",
+      "hq": {
+        "title": "Genel Merkez",
+        "address": "Organize Sanayi Bölgesi, Kemalpaşa OSB<br />10. Sk. No:6, 35730<br />Kemalpaşa / İZMİR / TÜRKİYE"
+      },
+      "factory": {
+        "title": "İmalathane",
+        "address": "Ulucak İstiklal, Gazi Blv. No:169<br />35735 Kemalpaşa / İZMİR"
+      },
+      "phone": {
+        "title": "Teknik Destek & Satış (GSM)"
+      },
+      "whatsapp": {
+        "title": "WhatsApp Hattı"
+      },
+      "email": {
+        "title": "Kurumsal İletişim"
+      },
+      "hours": {
+        "title": "Ziyaret & Destek Saatleri",
+        "desc1": "Hafta İçi: 08:30 - 18:30",
+        "desc2": "(Türkiye Saati, GMT+3)"
+      },
+      "social": {
+        "title": "Bizi Takip Edin"
+      }
+    },
+    "form": {
+      "title": "Proje Teklif Formu",
+      "name": "Ad Soyad *",
+      "company": "Firma Adı",
+      "email": "E-Posta Adresi *",
+      "phone": "Telefon Numarası",
+      "subject": {
+        "label": "Talep Edilen Ekipman / Proses Sistemi",
+        "placeholder": "Lütfen ilgilendiğiniz ürün grubunu seçiniz...",
+        "groups": {
+          "tanks": "Paslanmaz Tanklar",
+          "process": "Proses Sistemleri",
+          "hygienic": "Hijyenik Transfer Çözümleri",
+          "other": "Diğer Hizmetler"
+        },
+        "options": {
+          "tanks_1": "Endüstriyel Depolama Tankları",
+          "tanks_2": "Zeytinyağı Depolama Sistemleri",
+          "tanks_3": "Süt ve Gıda Proses Tankları",
+          "tanks_4": "Kimyasal ve Asit Tankları",
+          "process_1": "Karıştırıcılı Proses Tankları",
+          "process_2": "Kimyasal ve İlaç Reaktörleri",
+          "process_3": "High-Shear Homojenizatörler",
+          "process_4": "Mobil Proses Üniteleri (Skid Systems)",
+          "process_5": "Isıtma ve Soğutma Ceketli Tanklar",
+          "process_6": "Fermantasyon ve Biyoreaktörler",
+          "process_7": "Tam Otomatik CIP Sistemleri",
+          "hygienic_1": "Santrifüj Pompalar",
+          "hygienic_2": "Pozitif Deplasmanlı Pompalar",
+          "hygienic_3": "Kendinden Emişli Pompalar",
+          "hygienic_4": "Varil Pompaları",
+          "hygienic_5": "Havalı Diyafram Pompalar",
+          "hygienic_6": "Monopomp Pompalar",
+          "other_1": "Anahtar Teslim Tesis Kurulumu",
+          "other_2": "Özel / Kataloğunuzda Olmayan Bir Talebim Var"
+        }
+      },
+      "message": {
+        "label": "Proje Detayları *",
+        "placeholder": "Örn: 20 Ton kapasiteli, 316L kalite, karıştırıcılı proses tankı talebimiz bulunmaktadır..."
+      },
+      "submit": {
+        "loading": "Gönderiliyor...",
+        "idle": "Teklif Talebi Gönder"
+      },
+      "status": {
+        "errorFields": "Lütfen zorunlu alanları (Ad Soyad, E-Posta, Proje Detayları) doldurunuz.",
+        "loading": "Teklif talebiniz endüstriyel sunucularımıza iletiliyor...",
+        "success": "Teklif talebiniz başarıyla alındı! Teknik ekibimiz en kısa sürede sizinle iletişime geçecektir.",
+        "errorServer": "E-posta gönderilirken bir sunucu hatası oluştu. Lütfen tekrar deneyin.",
+        "errorConnection": "Bağlantı hatası oluştu. Lütfen internet bağlantınızı kontrol edip tekrar deneyin."
+      }
+    }
+  },
+  "storageTanksPage": {
+    "metadata": {
+      "title": "Endüstriyel Depolama Tankları | Welltech® International",
+      "description": "150 tona kadar kapasiteli, uluslararası standartlarda paslanmaz çelik sıvı depolama ve stok tankları."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "tanks": "Paslanmaz Tanklar",
+      "current": "Depolama Tankları"
+    },
+    "hero": {
+      "title": "Endüstriyel Depolama Tankları",
+      "desc": "Devasa stoklama ihtiyaçlarınız için 150 tona kadar kapasite. ASME ve EN mühendislik standartlarıyla tasarlanmış, uzun ömürlü paslanmaz çelik çözümler."
+    },
+    "engineering": {
+      "title": "150 Tonluk Mühendislik Gücü",
+      "desc": "Welltech® üretim hattı, butik ölçekli 1.000 litrelik tanklardan, endüstriyel tesisler için devasa 150 tonluk (150.000 Litre) saha tanklarına kadar geniş bir kapasite sunar. Tonaj arttıkça gövdeye binen hidrostatik yük, sismik riskler ve rüzgar yükü analizleri özel mühendislik yazılımlarıyla hesaplanarak sıfır risk hedeflenir."
+    },
+    "features": {
+      "title": "Teknik Özellikler",
+      "items": {
+        "1": "Maksimum 150 Ton Kapasite",
+        "2": "AISI 304 / 316L Yüksek Kalite Çelik",
+        "3": "Tam Otomatik Plazma Kaynak",
+        "4": "Konik, Bombe veya Düz Taban",
+        "5": "Sismik ve Rüzgar Yükü Analizleri",
+        "6": "Seviye ve Hacim Otomasyonu"
+      }
+    },
+    "capacityTable": {
+      "title": "Standart Kapasite Tablosu",
+      "note": "* Yukarıdaki değerler standarttır. Tesisinizin yüksekliğine ve zemin etüdüne göre çap/boy oranları mühendislerimizce yeniden boyutlandırılır.",
+      "headers": {
+        "volume": "Hacim",
+        "diameter": "Çap (mm)",
+        "height": "Yükseklik (mm)",
+        "material": "Sac Tipi"
+      },
+      "onSite": "Saha Montajı (On-site Fabrication)"
+    },
+    "faq": {
+      "title": "Depolama Sistemleri FAQ",
+      "items": [
+        {
+          "q": "150 tonluk tanklar tesise nasıl getiriliyor?",
+          "a": "Karayolu taşıma gabarilerini aşan 50.000 Litre ve üzeri mega tanklar, tesisinizde 'Saha Montajı' (On-site fabrication) yöntemiyle, uzman kaynak ekiplerimiz tarafından inşa edilir."
+        },
+        {
+          "q": "Sismik yük analizi neden önemlidir?",
+          "a": "Özellikle 20 ton ve üzeri tanklarda, olası bir deprem anında akışkanın yaratacağı çalkantı (sloshing) etkisi tankı devirebilir. Biz bu kuvvetleri önceden hesaplayarak özel ankraj ve et kalınlığı tasarımı yapıyoruz."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Örnek Uygulamalarımız",
+      "p1": "PROJE 01",
+      "p2": "PROJE 02",
+      "p3": "PROJE 03",
+      "p4": "PROJE 04"
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Teknik Şartname",
+        "subtitle": "DOK-01 PDF Dökümanı",
+        "desc": "Et kalınlığı hesaplamaları, kaynak sertifikasyonları ve statik yük toleransları.",
+        "btn": "Dökümanı İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-01-depolama-tanklari.pdf"
+      },
+      "reference": {
+        "badge": "Öne Çıkan Referans",
+        "desc": "Büyük ölçekli kimya tesisi için 150.000 Litre kapasiteli, saha montajlı paslanmaz çelik depolama tankı bataryası kurulumu.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Kapasite Planlama",
+        "desc": "150 tona kadar olan depolama projeleriniz için alan ölçülerinizi ve akışkan özelliklerini paylaşın, projelendirelim.",
+        "whatsappMsg": "Merhaba, endüstriyel depolama tankı kapasitesi ve fiyatlandırması hakkında bilgi almak istiyorum.",
+        "btn": "Teklif İsteyin →"
+      }
+    }
+  },
+  "chemicalTanksPage": {
+    "metadata": {
+      "title": "Kimyasal ve Asit Depolama Tankları | Welltech®",
+      "description": "150 tona kadar kapasiteli, agresif korozyona dayanıklı API 650 standartlarında 316Ti ve Hastelloy kimyasal tank çözümleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "tanks": "Paslanmaz Tanklar",
+      "current": "Kimyasal Tanklar"
+    },
+    "hero": {
+      "title": "Kimyasal ve Asit Tankları",
+      "desc": "Maksimum tehlike sınıfı için sıfır toleranslı mühendislik. 150 tona varan mega kapasiteli, korozyona ve basınca tam dayanıklı ağır hizmet (Heavy-Duty) depolama sistemleri."
+    },
+    "corrosion": {
+      "title": "Agresif Korozyon Kontrolü",
+      "desc": "Sülfürik asit, nitrik asit, kostik veya patlayıcı solventler... Kimya endüstrisindeki akışkanlar sıradan çelikleri günler içinde eriterek felakete yol açabilir. Welltech®, kimyasal stoklama projelerinde API 650 ve EN 14015 standartlarını uygular. Kimyasalın agresiflik derecesine göre AISI 316L, AISI 316Ti (Titanyum alaşımlı) veya Hastelloy kullanarak tankın mekanik bütünlüğünü güvence altına alırız. Projelendirme 1.000 litreden başlayıp 150.000 litre (150 Ton) mega tanklara kadar uzanır."
+    },
+    "features": {
+      "title": "Güvenlik ve Donanım",
+      "items": {
+        "1": "150 Ton (150.000 L) Kapasite",
+        "2": "AISI 316Ti & Hastelloy C276 Alaşım",
+        "3": "%100 RT (Röntgen) Kaynak Testi",
+        "4": "ATEX (Ex-Proof) Entegrasyona Uygun",
+        "5": "Aşırı Basınç (Relief) Vanaları",
+        "6": "Dökülme/Taşma Havuz (Bunding) Uyumu"
+      }
+    },
+    "capacityTable": {
+      "title": "Heavy-Duty Kapasite ve Et Kalınlığı",
+      "note": "* Kimyasalın özgül ağırlığına (density) göre sac et kalınlığı dramatik ölçüde artar. Değerler agresif akışkanlara göre hesaplanmış asgari referanslardır.",
+      "headers": {
+        "volume": "Hacim",
+        "diameter": "Çap (mm)",
+        "height": "Yükseklik (mm)",
+        "thickness": "Min. Sac Kalınlığı"
+      },
+      "customRow": "Mega Sahalar İçin Özel API 650 Dizaynı",
+      "heavy": " (Heavy)"
+    },
+    "faq": {
+      "title": "Kimyasal Depolama FAQ",
+      "items": [
+        {
+          "q": "NDT (Tahribatsız Muayene) Kaynak Testleri nedir?",
+          "a": "Tehlikeli kimyasal tanklarında gözle görülmeyen bir kaynak boşluğu patlamaya sebep olabilir. Üretim sürecinde kaynak dikişlerine RT (Röntgen / X-Ray) ve PT (Sıvı Penetrant) testleri uygulayarak mikroskobik çatlakların dahi olmadığını kanıtlıyoruz."
+        },
+        {
+          "q": "Hangi asit için hangi paslanmaz çeliği seçmeliyim?",
+          "a": "Nitrik asit gibi oksidasyon özellikli asitler için AISI 304L uygun olabilir. Ancak Sülfürik asit veya Fosforik asit depolanacaksa mutlaka Molybdenum içeren AISI 316L, 316Ti veya duruma göre süper alaşımlı Hastelloy kullanılmalıdır."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Örnek Uygulamalarımız",
+      "p1": {
+        "title": "PROJE 01",
+        "alt": "Sülfürik Asit Tankı"
+      },
+      "p2": {
+        "title": "PROJE 02",
+        "alt": "Ağır Hizmet (Heavy-Duty) Kaynak Testi"
+      },
+      "p3": {
+        "title": "PROJE 03",
+        "alt": "Hastelloy Alaşım Depolama"
+      },
+      "p4": {
+        "title": "PROJE 04",
+        "alt": "Petrokimya Tesisi Tank Bataryası"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Teknik Şartname",
+        "subtitle": "DOK-04 PDF Dökümanı",
+        "desc": "API 650 standartlarında hesaplanan kimyasal özgül ağırlık dirençleri, röntgen test detayları ve güvenlik armatürleri.",
+        "btn": "Dökümanı İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-04-kimyasal-tanklar.pdf"
+      },
+      "reference": {
+        "badge": "Öne Çıkan Referans",
+        "desc": "\"Petrokimya tesisi için yüksek korozyon dirençli, Hastelloy alaşımlı ve tam otomasyonlu sülfürik asit depolama tankı bataryası.\"",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Güvenli Projelendirme",
+        "desc": "Depolayacağınız kimyasalın adını, konsantrasyonunu ve hedeflediğiniz hacmi (150 tona kadar) iletin; sıfır riskli projenizi tasarlayalım.",
+        "whatsappMsg": "Merhaba, kimyasal ve asit depolama tankları hakkında kapasite ve fiyat bilgisi almak istiyorum.",
+        "btn": "Risk Analizi ve Teklif →"
+      }
+    }
+  },
+  "milkTanksPage": {
+    "metadata": {
+      "title": "Paslanmaz Süt Soğutma ve Depolama Tankları | Welltech®",
+      "description": "150 tona kadar kapasiteli, ultra hijyenik, CIP sistemli ve poliüretan izolasyonlu paslanmaz çelik çiğ süt depolama tankları."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "tanks": "Paslanmaz Tanklar",
+      "current": "Süt Tankları"
+    },
+    "hero": {
+      "title": "Süt Depolama Tankları",
+      "desc": "Süt ürünleri prosesleriniz için sıfır bakteri üremesi hedeflenen ultra hijyenik tasarım. Yüksek kapasiteli poliüretan izolasyonlu ve 150 tona varan mega depolama çözümleri."
+    },
+    "engineering": {
+      "title": "Ultra Hijyen ve Soğuk Zincir",
+      "desc": "Süt proseslerinde en ufak bir kaynak hatası veya yüzey pürüzü bakteri yuvasına dönüşebilir. Welltech® süt depolama tankları, içerisindeki akışkanın yapısını bozmamak için pürüzsüz ayna polisajlı yüzeylere ve tam ovalleştirilmiş (ölü noktasız) kaynak birleşimlerine sahiptir. 150 ton kapasiteye kadar çıkabilen mega depolama projelerimizde, +4°C soğuk zinciri kırmak istemeyen tesisler için yüksek yoğunluklu poliüretan izolasyon ve roll-bond soğutma ceketleri kullanılır."
+    },
+    "features": {
+      "title": "Teknik Özellikler",
+      "items": {
+        "1": "150 Ton (150.000 L) Üretim Kapasitesi",
+        "2": "Tam Hijyenik AISI 304 / 316L",
+        "3": "CIP (Clean-in-Place) Yıkama Sistemi",
+        "4": "Poliüretan Köpük Isı İzolasyonu",
+        "5": "Dimple (Roll-Bond) Soğutma Ceketi",
+        "6": "Yağ Ayrışmasını Önleyen Yavaş Karıştırıcı"
+      }
+    },
+    "capacityTable": {
+      "title": "Standart Süt Tankı Kapasiteleri",
+      "note": "* Yukarıdaki değerler referans içindir. Mega tesisler için 150.000 Litreye kadar olan tank bataryaları uzman ekibimizce özel projelendirilir.",
+      "headers": {
+        "volume": "Hacim",
+        "diameter": "Çap (mm)",
+        "insulation": "İzolasyon",
+        "material": "Sac Tipi"
+      },
+      "customRow": "Mega Süt Siloları - Dış Mekan / Saha Montajı",
+      "insulationTypes": {
+        "50": "50mm Poliüretan",
+        "60": "60mm Poliüretan",
+        "80": "80mm Poliüretan",
+        "100": "100mm Poliüretan"
+      },
+      "rows": [
+        {
+          "v": "5.000 L",
+          "d": "1.800",
+          "i": "50",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "10.000 L",
+          "d": "2.300",
+          "i": "60",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "15.000 L",
+          "d": "2.400",
+          "i": "60",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "20.000 L",
+          "d": "2.600",
+          "i": "80",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "25.000 L",
+          "d": "2.800",
+          "i": "80",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "50.000 L",
+          "d": "3.200",
+          "i": "100",
+          "t": "304 / 316L"
+        }
+      ],
+      "customRowVolume": "150.000 L"
+    },
+    "faq": {
+      "title": "Süt Prosesi FAQ",
+      "items": [
+        {
+          "q": "Süt depolama tanklarında neden karıştırıcı kullanılır?",
+          "a": "Uzun süre bekleyen çiğ sütün içerisindeki yağ tabakası yüzeye çıkarak kaymaklaşma (kremalaşma) yapar. Sütün homojenliğini korumak için tankın içerisine sütün yapısını bozmayacak çok düşük devirli (yaklaşık 20-30 rpm) paletli karıştırıcılar yerleştirilir."
+        },
+        {
+          "q": "CIP Sistemi (Clean-in-Place) tam olarak nedir?",
+          "a": "Tankın içerisine insan girmeden, otomatik vanalar, yüksek basınçlı pompalar ve yıkama topları (spray balls) vasıtasıyla asit, kostik ve sıcak su kullanılarak yapılan otomatik temizleme sistemidir. Süt endüstrisinde gıda güvenliği için olmazsa olmazdır."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Örnek Uygulamalarımız",
+      "p1": {
+        "title": "PROJE 01",
+        "alt": "İzolasyonlu Süt Tankı Üretimi"
+      },
+      "p2": {
+        "title": "PROJE 02",
+        "alt": "Süt Silosu Dış Mekan Kurulumu"
+      },
+      "p3": {
+        "title": "PROJE 03",
+        "alt": "CIP Yıkama Sistemi Montajı"
+      },
+      "p4": {
+        "title": "PROJE 04",
+        "alt": "Mandıra Tank Bataryası"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Teknik Şartname",
+        "subtitle": "DOK-03 PDF Dökümanı",
+        "desc": "Süt endüstrisine özel yüzey polisaj standartları (Ra değerleri), poliüretan izolasyon yoğunluğu ve CIP dizaynı.",
+        "btn": "Dökümanı İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-03-sut-tanklari.pdf"
+      },
+      "reference": {
+        "badge": "Öne Çıkan Referans",
+        "desc": "\"Ulusal süt ve süt ürünleri markası için 100.000 Litre kapasiteli, poliüretan izolasyonlu dış mekan süt depolama siloları projesi.\"",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Tesisinizi Büyütelim",
+        "desc": "Mandıranız veya mega süt üretim tesisiniz için 150 tona varan kapasitelerde hijyenik tank bataryası projelendirelim.",
+        "whatsappMsg": "Merhaba, süt depolama ve soğutma tankları hakkında teknik bilgi ve fiyat almak istiyorum.",
+        "btn": "Teklif İsteyin →"
+      }
+    }
+  },
+  "oliveOilTanksPage": {
+    "metadata": {
+      "title": "Azot Yastıklamalı Zeytinyağı Depolama Tankları | Welltech®",
+      "description": "Inert gaz teknolojisi ile oksidasyonu sıfıra indiren, 150 tona kadar kapasiteli, konik taban paslanmaz zeytinyağı tankları."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "tanks": "Paslanmaz Tanklar",
+      "current": "Zeytinyağı Tankları"
+    },
+    "hero": {
+      "title": "Zeytinyağı Depolama Sistemleri",
+      "desc": "Değerli hasadınızı yıllarca ilk günkü nefasetiyle korumak için azot yastıklama teknolojisi. 150 ton kapasiteye kadar özel projelendirilen paslanmaz çözümler."
+    },
+    "engineering": {
+      "title": "Mühendislik Harikası Depolama",
+      "desc": "Zeytinyağı depolamasında en büyük düşman hava (oksijen) ve ışıktır. Welltech® tankları, içerideki havayı tahliye edip yerine Azot (Nitrojen) gazı basmaya uygun özel armatürlerle donatılmıştır. Bu teknoloji oksidasyonu sıfıra indirir. Küçük butik tesislerden 150 tonluk mega tesislere kadar tüm ihtiyaçlarınıza uygun konik veya düz tabanlı üretim yapmaktayız."
+    },
+    "features": {
+      "title": "Teknik Özellikler",
+      "items": {
+        "1": "Azot Yastıklama (Inert) Sistemi",
+        "2": "150 Tona Kadar Kapasite Opsiyonu",
+        "3": "Tam Tahliyeli Konik Taban",
+        "4": "Gıdaya Uygun AISI 304 / 316L",
+        "5": "Işık ve Isı İzolasyon Seçenekleri",
+        "6": "Numune Alma ve Seviye Vanaları"
+      }
+    },
+    "capacityTable": {
+      "title": "Standart Kapasite ve Ölçüler",
+      "note": "* Tablodaki değerler referans içindir. Welltech mühendislik ekibi tesisinize 150 tona kadar özel ölçülendirme yapar.",
+      "headers": {
+        "volume": "Hacim",
+        "diameter": "Çap (mm)",
+        "height": "Yükseklik (mm)",
+        "thickness": "Sac Kalınlığı"
+      },
+      "customRow": "Mega Saha Montajı Tank Bataryaları"
+    },
+    "faq": {
+      "title": "Zeytinyağı Depolaması FAQ",
+      "items": [
+        {
+          "q": "Neden zeytinyağı depolamasında azot kullanılır?",
+          "a": "Zeytinyağının hava (oksijen) ile teması acılaşmayı tetikler. Azot gazı havadan daha ağır olduğu için tankın içine basıldığında yağın üzerinde koruyucu bir yastık oluşturur."
+        },
+        {
+          "q": "Konik taban mı yoksa düz taban mı seçmeliyim?",
+          "a": "Tortulu (taze) zeytinyağını dinlendirmek için tam konik taban tanklar tortuyu tek noktada toplayıp kolay tahliye sağlar. Tortudan arındırılmış yağlar için büyük tonajlı düz tabanlı tanklar uygundur."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Örnek Uygulamalarımız",
+      "p1": {
+        "title": "PROJE 01",
+        "alt": "Konik Taban Zeytinyağı Tankı"
+      },
+      "p2": {
+        "title": "PROJE 02",
+        "alt": "Azot Yastıklama Sistemi Kurulumu"
+      },
+      "p3": {
+        "title": "PROJE 03",
+        "alt": "Butik Üretim Tesis Kurulumu"
+      },
+      "p4": {
+        "title": "PROJE 04",
+        "alt": "Mega Depolama Bataryası"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Teknik Şartname",
+        "subtitle": "DOK-02 PDF Dökümanı",
+        "desc": "Boyutlandırma, sac kalınlıkları, konik taban açıları ve azot armatür detaylarını içeren döküman.",
+        "btn": "Dökümanı İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-02-zeytinyagi-tanklari.pdf"
+      },
+      "reference": {
+        "badge": "Öne Çıkan Referans",
+        "desc": "Büyük ölçekli zeytinyağı üretim tesisi için konik tabanlı, azot yastıklamalı ve tam otomasyonlu paslanmaz çelik tank bataryası.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Özel Projeniz mi var?",
+        "desc": "150 Tona kadar olan azot yastıklamalı tank bataryaları için mühendislerimizden projelendirme desteği alın.",
+        "whatsappMsg": "Merhaba, zeytinyağı depolama tankları hakkında teknik bilgi ve fiyat almak istiyorum.",
+        "btn": "Teklif İsteyin →"
+      }
+    }
+  },
+  "footer": {
+    "description": "Uluslararası standartlarda paslanmaz çelik endüstriyel tanklar, hijyenik pompalar ve proses ekipmanları üreticisi.",
+    "products": "Ürünler",
+    "locations": "Lokasyonlar",
+    "hq_title": "Genel Merkez",
+    "factory_title": "İmalathane",
+    "copyright": "Tüm Hakları Saklıdır."
+  },
+  "metadata": {
+    "default_title": "Welltech® | Global Proses ve Paslanmaz Tank Sistemleri",
+    "default_desc": "Uluslararası standartlarda paslanmaz çelik endüstriyel tanklar, hijyenik pompalar ve proses ekipmanları üreticisi. Gıda, ilaç ve kimya endüstrileri için sıfır hata prensibiyle çalışan global mühendislik çözümleri.",
+    "keywords": [
+      "paslanmaz tank",
+      "proses sistemleri",
+      "hijyenik pompalar",
+      "endüstriyel tanklar",
+      "welltech",
+      "reaktör",
+      "anahtar teslim fabrika"
+    ]
+  },
+  "stainlessTanksPage": {
+    "metadata": {
+      "title": "Paslanmaz Çelik Tanklar | Welltech®",
+      "description": "Zeytinyağı, süt, kimya ve genel depolama için yüksek kalite paslanmaz çelik endüstriyel tank çözümleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "current": "Paslanmaz Tanklar"
+    },
+    "hero": {
+      "title": "Paslanmaz Çelik Tanklar",
+      "desc": "İhtiyacınız olan sektöre özel projelendirilmiş, uluslararası kalite standartlarında (ASME/PED) üretilen uzun ömürlü depolama ve proses çözümleri."
+    },
+    "categories": [
+      {
+        "title": "Endüstriyel Depolama Tankları",
+        "desc": "Su ve genel hammadde stoklama için yüksek hacimli, 304/316L kalite paslanmaz çözümler."
+      },
+      {
+        "title": "Zeytinyağı Depolama Sistemleri",
+        "desc": "Azot yastıklama sistemli, hava ile teması keserek asiditeyi koruyan konik ve düz taban tanklar."
+      },
+      {
+        "title": "Süt ve Gıda Proses Tankları",
+        "desc": "Maksimum hijyen için Ra < 0.4µm yüzey pürüzlülüğü ve CIP yıkama sistemine uygun tasarımlar."
+      },
+      {
+        "title": "Kimyasal ve Asit Tankları",
+        "desc": "Agresif akışkanlar için yüksek korozyon direncine sahip, özel kaynak teknolojili 316L reaktörler."
+      }
+    ],
+    "viewModels": "Modelleri İncele",
+    "cta": {
+      "title": "Özel Proses İhtiyaçlarınız Mı Var?",
+      "desc": "Kataloğumuzda yer almayan özel ölçü, yüksek basınç (ASME) veya ATEX sertifikalı tehlikeli saha reaktör ihtiyaçlarınız için mühendislik departmanımızla görüşün.",
+      "btn": "Teklif İsteyin"
+    }
+  },
+  "pumpsPage": {
+    "metadata": {
+      "title": "Paslanmaz Endüstriyel Pompalar | Welltech®",
+      "description": "Santrifüj, Pozitif Deplasmanlı, Kendinden Emişli, Varil, Havalı Diyafram ve Monopomp endüstriyel hijyenik pompa sistemleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "current": "Endüstriyel Pompalar"
+    },
+    "hero": {
+      "title": "Hijyenik Transfer Çözümleri",
+      "desc": "Sıvıdan en yoğun viskoziteye, kimyasallardan akışkan gıdalara kadar her türlü ürünü prosesinize en uygun teknolojiyle transfer eden endüstriyel pompa sistemleri."
+    },
+    "categories": [
+      {
+        "title": "Santrifüj Pompalar",
+        "desc": "Süt, su, meyve suyu ve zeytinyağı gibi düşük viskoziteli ürünlerin yüksek debilerde hızlı, kesintisiz ve hijyenik (CIP) transferi için ideal çözümler."
+      },
+      {
+        "title": "Pozitif Deplasmanlı Pompalar",
+        "desc": "Bal, çikolata, salça ve kozmetik kremler gibi yüksek viskoziteli ürünleri ezmeden, yapısını bozmadan transfer eden loblu ve rotorlu hassas pompalar."
+      },
+      {
+        "title": "Kendinden Emişli Pompalar",
+        "desc": "Hatta sıvı olmasa dahi vakum oluşturarak emiş yapabilen, hava karışımlı ve köpüklü akışkanların transferinde kullanılan özel tasarımlı sistemler."
+      },
+      {
+        "title": "Varil Pompaları",
+        "desc": "Varil, IBC tank veya konteynerlerdeki asit, kimyasal ve akışkan gıdaların güvenli ve kayıpsız bir şekilde boşaltılması için portatif çözümler."
+      },
+      {
+        "title": "Havalı Diyafram Pompalar",
+        "desc": "Elektrik kıvılcımı riski olan yanıcı/parlayıcı (ATEX) ortamlarda basınçlı hava ile çalışan, katı partikül içeren ürünleri rahatça aktarabilen pompalar."
+      },
+      {
+        "title": "Monopomp Pompalar",
+        "desc": "Çamur, bal, hamur ve polimer gibi aşırı viskoziteli ve partiküllü ürünlerin darbesiz, sürekli transferi için eksantrik vidalı (Rotor-Stator) pompalar."
+      }
+    ],
+    "viewModels": "Modelleri İncele",
+    "cta": {
+      "title": "Doğru Pompa Seçimi",
+      "desc": "Akışkanınızın viskozitesi, hedeflenen transfer süresi ve boru hattındaki basınç kaybına göre prosesinize en uygun pompa gücünü mühendislerimiz hesaplasın.",
+      "btn": "Mühendislik Desteği"
+    }
+  },
+  "diaphragmPumpsPage": {
+    "metadata": {
+      "title": "Havalı Diyafram Pompalar | Welltech®",
+      "description": "Yanıcı (ATEX) ortamlar ve agresif kimyasallar için elektrik kıvılcımı riski taşımayan pnömatik havalı diyafram pompa teknolojileri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Havalı Diyafram Pompalar"
+    },
+    "hero": {
+      "title": "Havalı Diyafram Pompalar",
+      "desc": "Sıfır elektrik kıvılcımı, tam ATEX uyumu. Basınçlı hava ile çalışan; katı partiküllü, yanıcı ve agresif kimyasalların transferinde rakipsiz güvenlik sağlayan pnömatik sistemler."
+    },
+    "safety": {
+      "title": "Elektriksiz Tam Güvenlik",
+      "desc": "Solvent, alkol veya parlayıcı gaz emisyonu olan ortamlarda elektrik motorlu bir pompanın yaratacağı ufacık bir kıvılcım felakete yol açabilir. Havalı (Pnömatik) Diyafram pompalar, enerjisini fabrikadaki kompresörden gelen basınçlı havadan alır. Elektrik bağlantısı olmadığı için %100 Ex-Proof (ATEX) koruması sağlar. Ayrıca mekanik bir fana sahip olmadıkları için içinde meyve parçacıkları veya katı partiküller olan sıvıları hiç zorlanmadan, ürünü ezmeden 150 tonluk depolama silolarımıza kadar basabilir.",
+      "imgAlt": "Pnömatik Hava Valfi Detayı"
+    },
+    "features": {
+      "title": "Kritik Mühendislik Özellikleri",
+      "imgAlt": "ATEX Koruma ve Topraklama",
+      "items": [
+        "Zarar Görmeden Kuru Çalışabilme",
+        "ATEX (Ex-Proof) Bölge Uyumluluğu",
+        "Katı Partikül ve Viskoz Madde Transferi",
+        "PTFE (Teflon) ve Santopren Diyafram",
+        "Hava Basıncı İle Kolay Debi Ayarı",
+        "Sızdırmaz Contasız Tasarım"
+      ]
+    },
+    "table": {
+      "title": "Diyafram Pompa Kapasite Tablosu",
+      "note": "* Pnömatik pompaların performansı tesisinizdeki kompresörün ürettiği hava basıncına (Bar) doğrudan bağlıdır. Tablodaki veriler 7 Bar hava beslemesi referans alınarak hesaplanmıştır.",
+      "imgAlt": "Diyaframlı Pompa Performans Eğrisi",
+      "headers": [
+        "Bağlantı Çapı",
+        "Maks. Debi (lt/dk)",
+        "Maks. Hava Basıncı",
+        "Katı Partikül Çapı"
+      ],
+      "rows": [
+        {
+          "size": "1/2\" İnç",
+          "flow": "50 lt/dk",
+          "pressure": "7 Bar",
+          "particle": "3 mm",
+          "highlight": "blue"
+        },
+        {
+          "size": "1\" İnç",
+          "flow": "160 lt/dk",
+          "pressure": "7 Bar",
+          "particle": "4 mm",
+          "highlight": "blue"
+        },
+        {
+          "size": "1.5\" İnç",
+          "flow": "350 lt/dk",
+          "pressure": "7 Bar",
+          "particle": "6 mm",
+          "highlight": "orange"
+        },
+        {
+          "size": "2\" İnç",
+          "flow": "600 lt/dk",
+          "pressure": "7 Bar",
+          "particle": "8 mm",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pnömatik Transfer FAQ",
+      "items": [
+        {
+          "q": "Kuru çalışma (Dry Running) pompayı bozar mı?",
+          "a": "Hayır. Santrifüj ve loblu pompaların aksine havalı diyafram pompalar saatlerce susuz (kuru) çalışsalar dahi mekanik bir sürtünme olmadığı için ısınmaz ve bozulmazlar."
+        },
+        {
+          "q": "Debiyi (Akış hızını) nasıl ayarlayabilirim?",
+          "a": "Elektrik motorlu pompalarda pahalı invertörler (frekans sürücüleri) gerekirken, diyafram pompalarda kompresörden gelen hava vanasını kısmak veya açmak debiyi değiştirmek için yeterlidir."
+        },
+        {
+          "q": "Diyafram malzemesini neye göre seçmeliyiz?",
+          "a": "Agresif asitler ve solventler için mükemmel kimyasal dayanımı olan PTFE (Teflon), gıda uygulamaları veya aşındırıcı partiküller içeren çamurlu ürünler için ise esnek yapılı Santopren veya NBR tercih edilmelidir."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "ATEX Kimya Transfer Pompası"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "PTFE Diyafram Grubu"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Gıda Sektörü Hijyenik AODD"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Havalı Pompa Bataryası"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Doküman",
+        "subtitle": "DOK-13 PDF Şartname",
+        "desc": "ATEX sertifikasyon belgeleri, diyafram kimyasal direnç tablosu ve basınç/hava tüketim eğrileri.",
+        "btn": "Dökümanı İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-13-havali-diyafram-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Referans Uygulama",
+        "imgAlt": "Kimya ATEX Hattı Referansı",
+        "desc": "Parlama riski yüksek kimyasal üretim tesisinde reaktörlerden 50 tonluk stok tanklarına PTFE diyaframlı ATEX transfer istasyonu.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Pnömatik Projelendirme",
+        "desc": "Tesisinizdeki kompresör kapasitesini ve transfer edeceğiniz sıvıyı belirtin, doğru diyafram materyalini ve ölçüyü hesaplayalım.",
+        "btn": "Teklif İsteyin →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20havalı%20diyafram%20pompası%20hakkında%20kimyasal%20uyumluluk%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
+      }
+    }
+  },
+  "selfPrimingPumpsPage": {
+    "metadata": {
+      "title": "Kendinden Emişli Hijyenik Pompalar | Welltech®",
+      "description": "Hava ve gaz karışımlı sıvıların, köpüklü ürünlerin ve CIP dönüş hatlarının transferi için sıvı halkalı kendinden emişli paslanmaz pompalar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Kendinden Emişli Pompalar"
+    },
+    "hero": {
+      "title": "Kendinden Emişli Pompalar",
+      "desc": "Emme hattında hava olsa dahi vakum yaratarak akışı kesintiye uğratmayan, CIP dönüş hatlarının ve köpüklü sıvıların vazgeçilmez sıvı halkalı transfer teknolojisi."
+    },
+    "technology": {
+      "title": "Hava ve Sıvı Karışımında Güç",
+      "desc": "Standart santrifüj pompalar, boru hattında veya tankın dibinde hava boşluğu oluştuğunda kavitasyona uğrar ve transferi durdurur. Kendinden emişli (Yan Kanallı / Sıvı Halkalı) pompalarımız, özel yıldız fan (impeller) dizaynı sayesinde içerdeki sıvı ile havayı karıştırarak bir vakum oluşturur. Hatta hava olsa dahi emiş yapabilen bu teknoloji; özellikle tanktan kamyona ürün çekerken, peynir altı suyu gibi köpüklü ürünlerde ve CIP yıkama sıvılarının sisteme geri dönüşünde (CIP Return) kullanılır.",
+      "imgAlt": "Sıvı Halkalı Yıldız Fan Sistemi"
+    },
+    "features": {
+      "title": "Teknik Donanım ve Kapasite",
+      "imgAlt": "Çift Yönlü Motor ve Gövde",
+      "items": [
+        "8 Metreye Kadar Derin Emiş Kapasitesi",
+        "AISI 316L Hassas Döküm Açık Yıldız Fan",
+        "Köpüklü (Gaz İçeren) Akışkan Uyumu",
+        "CIP Dönüş (Return) Pompası Olarak İdeal",
+        "İki Yönlü (Reversible) Çalışabilme Seçeneği",
+        "Kolay Sökülebilir Ön Kapak Tasarımı"
+      ]
+    },
+    "table": {
+      "title": "Performans ve Seçim Tablosu",
+      "note": "* Pompanın emiş yapabilmesi için pompa gövdesinde bir miktar sıvı bulunması gerekir (priming liquid). Tablodaki değerler 1 cP viskoziteye göre hidrolik mühendislerimizce belirlenmiştir.",
+      "imgAlt": "Emiş Eğrisi ve Pompa Çizimi",
+      "headers": [
+        "Seri No",
+        "Maks. Debi (m³/h)",
+        "Emiş / Basma (mSS)",
+        "Motor Gücü (kW)"
+      ],
+      "rows": [
+        {
+          "model": "WT-SP 15",
+          "flow": "15 m³/h",
+          "head": "-7 m / 25 mSS",
+          "power": "2.2 - 3.0 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-SP 30",
+          "flow": "30 m³/h",
+          "head": "-7 m / 32 mSS",
+          "power": "4.0 - 5.5 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-SP 50",
+          "flow": "50 m³/h",
+          "head": "-8 m / 35 mSS",
+          "power": "7.5 - 11.0 kW",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-SP 70",
+          "flow": "70 m³/h",
+          "head": "-8 m / 40 mSS",
+          "power": "15.0 - 18.5 kW",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Vakum Transfer FAQ",
+      "items": [
+        {
+          "q": "CIP Return (Yıkama Dönüş) pompası olarak neden santrifüj kullanılamaz?",
+          "a": "CIP işlemi sırasında tanktan dönen kimyasal sıvının içinde yoğun miktarda hava ve köpük bulunur. Santrifüj pompa havayı görünce akışı keser ve yıkama hattı tıkanır. Kendinden emişli pompa sıvı-hava karışımını yutarak sisteme basabilir."
+        },
+        {
+          "q": "İlk çalıştırmada (Priming) neden içine sıvı koymak zorundayız?",
+          "a": "Pompa gövdesinde sıvı halkası oluşabilmesi ve içerdeki havayı vakumlayarak atabilmesi için gövdenin bir kısmının baştan sıvı ile dolu olması gerekmektedir."
+        },
+        {
+          "q": "Kamyondan veya yer altı tankından süt çekebilir miyim?",
+          "a": "Kesinlikle. Emme borusu yerin 7-8 metre altında dahi olsa, pompa vakum yaratarak sıvıyı yukarı çeker ve ana tanklara basar. Yüzeyüstü transferlerde kurtarıcıdır."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "CIP Dönüş Pompası Montajı"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "Sıvı Halkalı Fan Tasarımı"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Yer Altı Tankından Ürün Çekme"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Süt ve Köpük Transfer Hattı"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Doküman",
+        "subtitle": "DOK-11 PDF Şartname",
+        "desc": "Vakum / emiş derinlik grafikleri, sıvı halkalı fan toleransları ve mekanik bağlantı ölçüleri.",
+        "btn": "Eğrileri İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-kendinden-emisli-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Referans Uygulama",
+        "imgAlt": "CIP Return Otomasyonu",
+        "desc": "Büyük ölçekli meyve suyu tesisi için köpüklü asit ve kostik dönüş hatlarına entegre edilmiş 30 m³/h kapasiteli CIP dönüş pompaları.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Vakum Hesabı",
+        "desc": "Emme derinliğinizi (eksi kot) ve boru hattındaki hava oranını iletin, ürününüzü kavitasyonsuz taşıyacak sistemi projelendirelim.",
+        "btn": "Teklif İsteyin →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20kendinden%20emi%C5%9Fli%20ve%20CIP%20d%C3%B6n%C3%BC%C5%9F%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "monopompPumpsPage": {
+    "metadata": {
+      "title": "Monopomp (Eksantrik Vidalı) Pompalar | Welltech®",
+      "description": "Yüksek viskoziteli, çamur, bal ve aşındırıcı partiküllü akışkanlar için darbesiz ve kesintisiz transfer sağlayan rotor-stator monopomp sistemleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Monopomp Pompalar"
+    },
+    "hero": {
+      "title": "Monopomp Pompalar",
+      "desc": "Sıvıların en zorlusu için tasarlandı. Eksantrik vidalı (Rotor-Stator) çalışma prensibi ile yüksek viskoziteli, aşındırıcı ve katı partiküllü ürünlerde sıfır titreşimli, sürekli akış."
+    },
+    "technology": {
+      "title": "Darbesiz ve Sürekli Transfer",
+      "desc": "Monopomplar (Eksantrik Vidalı Pompalar), helezonik paslanmaz çelik bir rotorun, elastomerik (kauçuk) bir stator içinde dönmesi prensibiyle çalışır. Bu eşsiz geometri, sıvı içinde sürekli kapalı boşluklar (kaviteler) yaratarak akışkanı basınçla ileri iter. Su gibi akışkanlardan; hamur, bal, arıtma çamuru, meyve püresi, tutkal ve reçine gibi viskozitesi 1.000.000 cP'ye kadar olan ürünlerin transferinde hiçbir dalgalanma (pulsasyon) yapmadan kusursuz ve sabit debili bir akış sağlar.",
+      "imgAlt": "Monopomp Rotor ve Stator Detayı"
+    },
+    "features": {
+      "title": "Üstün Mekanik Özellikler",
+      "imgAlt": "Elastomer Stator ve Rotor",
+      "items": [
+        "Düşük Sürtünme (Low Shear) Teknolojisi",
+        "Katı Partiküllü ve Çamur Transferi",
+        "NBR, EPDM, FKM, PTFE Stator Opsiyonu",
+        "Hassas Oransal Dozajlama Kabiliyeti",
+        "12-24 Bar Yüksek Basınç Dayanımı",
+        "Meyve ve Gıda Hücrelerini Ezmeyen Akış"
+      ]
+    },
+    "table": {
+      "title": "Monopomp Kapasite Tablosu",
+      "note": "* Tablodaki değerler ortalama viskoziteli akışkanlar referans alınarak (12 Bar maks. basınca kadar) hesaplanmıştır. Redüktör devrine göre debi değişkenlik gösterir.",
+      "imgAlt": "Monopomp Basınç ve Kapasite Eğrisi",
+      "headers": [
+        "Seri No",
+        "Maks. Debi (m³/h)",
+        "Maks. Basınç",
+        "Bağlantı Çapı"
+      ],
+      "rows": [
+        {
+          "model": "WT-M 05",
+          "flow": "5 m³/h",
+          "pressure": "12 Bar",
+          "connection": "2\" İnç",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-M 10",
+          "flow": "10 m³/h",
+          "pressure": "12 Bar",
+          "connection": "2.5\" İnç",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-M 20",
+          "flow": "20 m³/h",
+          "pressure": "12 Bar",
+          "connection": "3\" İnç",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-M 40",
+          "flow": "40 m³/h",
+          "pressure": "12 Bar",
+          "connection": "4\" İnç",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Eksantrik Vidalı Pompa FAQ",
+      "items": [
+        {
+          "q": "Monopomplar susuz (kuru) çalışabilir mi?",
+          "a": "Hayır. Stator kısmı genellikle elastomer (kauçuk vb.) malzemeden üretildiği için, içerisinden akışkan (kaydırıcı) geçmediği durumlarda paslanmaz rotor statora sürtünerek aşırı ısınır ve statorun yanmasına sebep olur. Sistem mutlaka kuru çalışma koruma sensörleri ile donatılmalıdır."
+        },
+        {
+          "q": "Katı partiküllü veya çekirdekli ürünleri basabilir mi?",
+          "a": "Kesinlikle. Monopompların en büyük gücü budur. Arıtma çamurları, çekirdekli meyve püreleri veya zeytin hamuru gibi partikül ve elyaf içeren ürünleri, rotor/stator boşluk geometrisi sayesinde tıkanmadan ve yapısını ezmeden transfer eder."
+        },
+        {
+          "q": "Stator malzemesini neye göre seçiyoruz?",
+          "a": "Akışkanınızın kimyasal yapısına ve sıcaklığına göre. Süt ve bal gibi gıdalar için FDA uyumlu beyaz NBR veya EPDM; aşındırıcı agresif asit ve kimyasallar için ise FKM (Viton) veya PTFE (Teflon) stator tercih edilmektedir."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "Gıda Uyumlu Monopomp"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "Arıtma Çamuru Pompası"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Rotor ve Stator Detayı"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Redüktörlü Monopomp Grubu"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Doküman",
+        "subtitle": "DOK-11 PDF Şartname",
+        "desc": "Monopomp redüktör devir oranları, stator kimyasal dayanım tablosu ve basınç/debi ölçüm eğrileri.",
+        "btn": "Eğrileri İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-monopomp-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Öne Çıkan Referans",
+        "imgAlt": "Ağır Hizmet Çamur Pompası Referansı",
+        "desc": "Atıksu arıtma tesisinde %20 yoğunluklu aktif çamur transferi için FKM statorlu, 12 Bar basınca dayanıklı ağır hizmet tipi monopomp bataryası.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Monopomp Seçimi",
+        "desc": "Akışkanınızın vizkozitesini (cP) ve partikül yoğunluğunu belirtin, en uygun rotor-stator ikilisini belirleyelim.",
+        "btn": "Mühendislik Desteği →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20y%C3%BCksek%20viskoziteli%20%C3%BCr%C3%BCn%20transferi%20i%C3%A7in%20monopomp%20fiyat%C4%B1%20almak%20istiyorum."
+      }
+    }
+  },
+  "positivePumpsPage": {
+    "metadata": {
+      "title": "Pozitif Deplasmanlı ve Loblu Pompalar | Welltech®",
+      "description": "Bal, çikolata, salça ve kozmetik gibi yüksek vizkoziteli ürünler için ezmeden transfer sağlayan hijyenik loblu pompalar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Pozitif Deplasmanlı Pompalar"
+    },
+    "hero": {
+      "title": "Pozitif Deplasmanlı Pompalar",
+      "desc": "Bal, çikolata, salça ve kozmetik ürünleri gibi yüksek viskoziteli akışkanları ezmeden, hücresel yapısını bozmadan transfer eden hijyenik loblu pompa sistemleri."
+    },
+    "technology": {
+      "title": "Hassas ve Korumacı Transfer",
+      "desc": "Santrifüj pompaların yüksek devirli fanları, bal veya çikolata gibi yoğun kıvamlı ürünleri parçalayarak kalitesini bozar. Pozitif deplasmanlı (Loblu) pompalarımız ise birbirine temas etmeden çok düşük devirlerde dönen paslanmaz loblar sayesinde akışkanı geniş odacıklar halinde taşır. Bu sayede, ürünün hücresel bütünlüğü (partikül, kıvam) kesinlikle bozulmaz. 100.000 cP viskoziteye kadar olan en yoğun ürünleri bile sabit ve yüksek basınçla hatta basabilir.",
+      "imgAlt": "Loblu Rotor Sistemi Detayı"
+    },
+    "features": {
+      "title": "Donanım ve Mühendislik Özellikleri",
+      "imgAlt": "Redüktörlü Motor Bağlantısı",
+      "items": [
+        "Düşük Devirli (Low-RPM) Transfer",
+        "AISI 316L Gıdaya Uygun Gövde ve Loblar",
+        "Değişken Debiler İçin Redüktör & İnvertör",
+        "Çikolata İçin Isıtma Ceketli Ön Kapak Opsiyonu",
+        "Çift Etkili Karbon Mekanik Salmastra",
+        "Tersine Döndürülebilir (İki Yönlü) Akış"
+      ]
+    },
+    "table": {
+      "title": "Loblu Pompa Kapasite Tablosu",
+      "note": "* Viskozite (kıvam) arttıkça pompanın devir hızının düşürülmesi gerekir. Redüktör seçimi, transfer edeceğiniz spesifik ürüne (salça, bal, glikoz vb.) göre mühendislerimizce hesaplanır.",
+      "imgAlt": "Loblu Pompa Teknik Çizimi",
+      "headers": [
+        "Seri No",
+        "Maks. Debi (m³/h)",
+        "Maks. Basınç (Bar)",
+        "Bağlantı Çapı"
+      ],
+      "rows": [
+        {
+          "model": "WT-L 20",
+          "flow": "3 - 5 m³/h",
+          "pressure": "5 - 10 Bar",
+          "connection": "DN 40 / 1.5\"",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-L 40",
+          "flow": "8 - 12 m³/h",
+          "pressure": "5 - 10 Bar",
+          "connection": "DN 50 / 2.0\"",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-L 80",
+          "flow": "18 - 25 m³/h",
+          "pressure": "5 - 12 Bar",
+          "connection": "DN 65 / 2.5\"",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-L 150",
+          "flow": "30 - 45 m³/h",
+          "pressure": "5 - 12 Bar",
+          "connection": "DN 100 / 4.0\"",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pozitif Deplasman FAQ",
+      "items": [
+        {
+          "q": "Loblu pompalar CIP (Yerinde Yıkama) için uygun mudur?",
+          "a": "Evet, gıda ve ilaç sanayisi standartlarına (EHEDG ve 3A) uygun olarak tasarlandıklarından, boru hattı üzerinden gelen sıcak su ve kostik ile kendilerini mükemmel şekilde temizleyebilirler."
+        },
+        {
+          "q": "Çikolata transferinde donmayı nasıl engelliyorsunuz?",
+          "a": "Çikolata ve bitkisel yağlar oda sıcaklığında donma eğilimi gösterir. Loblu pompalarımızın ön kapağına ceket opsiyonu ekleyerek, içerisinden sıcak su dolaştırıyor ve ürünün sıvı halde kalmasını garanti ediyoruz."
+        },
+        {
+          "q": "Neden santrifüj pompalar balı basamaz?",
+          "a": "Santrifüj pompaların fanları yüksek hızda döner. Bal gibi yüksek viskoziteli bir akışkan fana çarptığında büyük bir direnç oluşturur, motoru yakabilir veya ürünün moleküler yapısını (kristallenme) bozabilir. Loblu pompalar bu yoğunluğu düşük devir ve yüksek tork ile yener."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "Hijyenik Loblu Pompa"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "Bal Transfer Hattı"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Çikolata Pompası ve Ceketli Kapak"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Redüktör ve Motor Grubu"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Doküman",
+        "subtitle": "DOK-11 PDF Şartname",
+        "desc": "Loblu pompa viskozite/devir diyagramları, ceketli kapak ölçüleri ve redüktör güç seçim tablosu.",
+        "btn": "Diyagramları İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-loblu-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Referans Uygulama",
+        "imgAlt": "Kozmetik Transfer Hattı Referansı",
+        "desc": "Vücut losyonu ve krem üretimi yapan tesis için hız kontrollü (invertörlü), çift loblu, 316L hijyenik deplasman pompası entegrasyonu.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Tork ve Güç Hesabı",
+        "desc": "Transfer edeceğiniz ürünün cinsi ve yoğunluğunu (cP) bildirin, ürününüzü ezmeyecek en doğru redüktör tahrikli loblu pompayı seçelim.",
+        "btn": "Fiyat Alın →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20y%C3%BCksek%20viskoziteli%20%C3%BCr%C3%BCn%C3%BCm%20i%C3%A7in%20loblu%20pompa%20kapasite%20hesaplamas%C4%B1%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "centrifugalPumpsPage": {
+    "metadata": {
+      "title": "Hijyenik Santrifüj Pompalar | Welltech®",
+      "description": "Süt, su, meyve suyu ve zeytinyağı transferi için yüksek debili, CIP uyumlu, paslanmaz çelik hijyenik santrifüj pompalar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Santrifüj Pompalar"
+    },
+    "hero": {
+      "title": "Hijyenik Santrifüj Pompalar",
+      "desc": "Düşük viskoziteli akışkanlar için maksimum debi ve hidrodinamik verimlilik. Süt, zeytinyağı ve içecek proseslerinde CIP standartlarına tam uyumlu transfer sistemleri."
+    },
+    "technology": {
+      "title": "Yüksek Debi, Kesintisiz Akış",
+      "desc": "Santrifüj pompalar, motorun tahrik ettiği fanın (impeller) dönüşüyle oluşan merkezkaç kuvvetini kullanarak akışkanı sisteme basar. Süt, meyve suyu, şarap, zeytinyağı ve akışkan kimyasallar gibi düşük viskoziteli (1-500 cP) ürünlerin transferi için en ideal, uzun ömürlü ve düşük maliyetli çözümdür. Tesisinizin boru çapına, istenilen debiye ve basma yüksekliğine (mSS) göre optimize edilmiş motor güçleriyle sunulur.",
+      "imgAlt": "Hidrodinamik Fan Sistemi"
+    },
+    "features": {
+      "title": "Donanım ve Malzeme Özellikleri",
+      "imgAlt": "Paslanmaz Muhafazalı Motor",
+      "items": [
+        "AISI 316L Hassas Döküm Gövde",
+        "Açık ve Kapalı Fan (Impeller) Opsiyonu",
+        "SiC/SiC/EPDM Mekanik Salmastra",
+        "CIP ve SIP Sistemlerine Tam Uyum",
+        "Paslanmaz Çelik Motor Muhafazası",
+        "Düşük NPSH (Kavitasyon Koruması)"
+      ]
+    },
+    "table": {
+      "title": "Santrifüj Kapasite Tablosu",
+      "note": "* Tablodaki değerler su (1 cP) viskozitesine göre referans alınmıştır. Hattınızdaki dirsek sayısı ve basma yüksekliğine göre hidrolik mühendislerimiz doğru motor seçimini yapacaktır.",
+      "imgAlt": "Pompa Performans Eğrisi",
+      "headers": [
+        "Seri No",
+        "Maks. Debi (m³/h)",
+        "Basma Yüksekliği (mSS)",
+        "Motor Gücü (kW)"
+      ],
+      "rows": [
+        {
+          "model": "WT-C 20",
+          "flow": "20 m³/h",
+          "head": "25 mSS",
+          "power": "1.5 - 2.2 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-C 40",
+          "flow": "40 m³/h",
+          "head": "35 mSS",
+          "power": "3.0 - 4.0 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-C 80",
+          "flow": "80 m³/h",
+          "head": "45 mSS",
+          "power": "5.5 - 7.5 kW",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-C 150",
+          "flow": "150 m³/h",
+          "head": "60 mSS",
+          "power": "11.0 - 15.0 kW",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Santrifüj Pompa FAQ",
+      "items": [
+        {
+          "q": "Açık fan (Impeller) ile kapalı fan arasındaki fark nedir?",
+          "a": "Süt ve su gibi tamamen sıvı ürünlerde kapalı fan kullanılarak maksimum basınç (mSS) elde edilir. Ancak meyve suyu (posalı) veya şıra gibi içerisinde küçük partiküller barındıran akışkanlarda tıkanmayı önlemek için açık fan tercih edilir."
+        },
+        {
+          "q": "Pompanın kavitasyon yapması ne demektir?",
+          "a": "Pompanın emiş hattındaki sıvı yetersiz kaldığında veya boru çapı dar olduğunda akışkanın kaynama noktası düşer ve hava kabarcıkları oluşur. Bu kabarcıklar fan kanatlarına çarparak metali aşındırır. Mühendislerimiz düşük NPSH değerine sahip pompalar seçerek bu riski sıfırlar."
+        },
+        {
+          "q": "Mekanik salmastra sızdırırsa ne yapmalıyım?",
+          "a": "Gıda pompalarımızda sızdırmazlık, örgülü ip yerine yüksek teknolojili Karbon/Silisyum Karbür mekanik salmastralarla sağlanır. Aşınma durumunda salmastra takımı tesisinizde dakikalar içinde kolayca değiştirilebilecek şekilde tasarlanmıştır."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "Süt Transfer Pompası"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "Mekanik Salmastra Detayı"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Hijyenik Açık Fan Uygulaması"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "CIP Yıkama Hattı Pompası"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Doküman",
+        "subtitle": "DOK-10 PDF Şartname",
+        "desc": "Santrifüj pompa performans eğrileri, NPSH değerleri ve mekanik salmastra malzeme uyumluluk tablosu.",
+        "btn": "Eğrileri İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-10-santrifuj-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Öne Çıkan Referans",
+        "imgAlt": "Süt Transfer Hattı Referansı",
+        "desc": "Günde 500 ton çiğ süt işleyen tesis için paslanmaz kapaklı, 40 m³/h kapasiteli CIP uyumlu santrifüj pompa bataryası.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Pompa Seçimi",
+        "desc": "Sıvının cinsi, debi talebiniz ve boru hattı uzunluğunu bize iletin, en verimli motor ve fan çapını hesaplayalım.",
+        "btn": "Debi Hesaplama →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20santrifüj%20pompa%20kapasite%20hesaplamas%C4%B1%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "drumPumpsPage": {
+    "metadata": {
+      "title": "Endüstriyel Varil ve IBC Pompaları | Welltech®",
+      "description": "Varil, IBC tank ve konteynerlerden asit, kimyasal ve akışkan gıdaların güvenli tahliyesi için portatif pompa çözümleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Varil Pompaları"
+    },
+    "hero": {
+      "title": "Varil & IBC Tank Pompaları",
+      "desc": "Hammaddelerin manuel tahliyesindeki ürün kayıplarına son. Asit, kimyasal ve akışkan gıdalar için özel tasarlanmış hafif, portatif ve yüksek verimli tahliye üniteleri."
+    },
+    "technology": {
+      "title": "Güvenli Hammadde Tahliyesi",
+      "desc": "Endüstriyel üretimde hammaddeler genellikle 200 litrelik varillerde veya 1000 litrelik IBC tanklarda tedarik edilir. Bu kapların manuel yöntemlerle boşaltılması hem ürün kaybına hem de iş kazalarına yol açar. Welltech varil pompaları, daldırma tipi boru tasarımı sayesinde kabın dibinde sadece birkaç damla ürün bırakacak şekilde %99 tahliye verimliliği sağlar. Elektrikli ve havalı (pneumatic) motor seçenekleriyle en zorlu saha şartlarına uyum gösterir.",
+      "imgAlt": "Varil Daldırma Ünitesi"
+    },
+    "features": {
+      "title": "Ürün ve Motor Seçenekleri",
+      "imgAlt": "Yüksek Devirli Elektrikli Motor",
+      "items": [
+        "ATEX Sertifikalı Patlama Korumalı Motor",
+        "AISI 316L veya PP / PVDF Boru Seçeneği",
+        "Yüksek Viskoziteli Bal ve Salça İçin Vidalı Tip",
+        "Kademesiz Hassas Hız Kontrolü",
+        "IBC Tanklar İçin 1200mm Boru Boyu",
+        "Kolay Temizlenebilir Modüler Tasarım"
+      ]
+    },
+    "table": {
+      "title": "Varil Pompası Seçim Tablosu",
+      "note": "* Daldırma borusu malzemesi transfer edilecek kimyasalın korozyon tablosuna göre seçilmelidir. Yanıcı sıvılarda mutlaka ATEX motor kullanılmalıdır.",
+      "imgAlt": "Boru Ölçüleri ve Montaj Çizimi",
+      "headers": [
+        "Uygulama Alanı",
+        "Boru Malzemesi",
+        "Boru Boyu (mm)",
+        "Viskozite (cP)"
+      ],
+      "rows": [
+        {
+          "application": "Standart Varil (200L)",
+          "material": "AISI 316L / PP",
+          "length": "1000 mm",
+          "viscosity": "0 - 800 cP",
+          "highlight": "blue"
+        },
+        {
+          "application": "IBC Tank (1000L)",
+          "material": "AISI 316L / PVDF",
+          "length": "1200 mm",
+          "viscosity": "0 - 1000 cP",
+          "highlight": "blue"
+        },
+        {
+          "application": "Viskoz Gıda (Bal/Krem)",
+          "material": "Gıdaya Uygun 316L",
+          "length": "1000 - 1200 mm",
+          "viscosity": "100.000 cP'ye kadar",
+          "highlight": "orange"
+        },
+        {
+          "application": "Laboratuvar/Küçük Kap",
+          "material": "PP / PVDF",
+          "length": "700 mm",
+          "viscosity": "0 - 200 cP",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Varil Tahliye FAQ",
+      "items": [
+        {
+          "q": "Solvent veya alkol transferinde hangi motoru seçmeliyim?",
+          "a": "Yanıcı ve parlayıcı akışkanların transferinde standart elektrikli motorlar kıvılcım çıkarabilir. Bu durumda mutlaka ATEX sertifikalı patlama korumalı motorlar veya basınçlı hava ile çalışan pneumatic motorlar kullanılmalıdır."
+        },
+        {
+          "q": "Vidalı (Excentric Screw) varil pompası ne işe yarar?",
+          "a": "Standart varil pompaları bal, glikoz veya yoğun kozmetik kremler gibi akışkanlığı çok az olan ürünleri çekemez. Vidalı tip varil pompaları, içerisindeki sonsuz vida mekanizması sayesinde bu yoğunluktaki ürünleri zorlanmadan vakumlayıp basabilir."
+        },
+        {
+          "q": "Pompa borusu temizliği nasıl yapılır?",
+          "a": "Welltech varil pompaları modüler yapıdadır. Motor ve boru kısmı saniyeler içinde birbirinden ayrılır. Boru içindeki mil ve fan kolayca dışarı alınarak sterilizasyon veya CIP banyosuna sokulabilir."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "ATEX Motorlu Kimyasal Transfer"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "PVDF Borulu IBC Pompa"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Vidalı Tip Gıda Pompası"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Hassas Debili Varil Boşaltma"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Doküman",
+        "subtitle": "DOK-12 PDF Şartname",
+        "desc": "Kimyasal dayanım tablosu, motor devir aralıkları ve IBC tank bağlantı aparatları teknik dökümanı.",
+        "btn": "Şartnameyi İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-12-varil-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Referans Uygulama",
+        "imgAlt": "Kimya Hammadde Transferi Referansı",
+        "desc": "Boya fabrikası için ATEX sertifikalı, solvent dayanımlı PVDF borulu otomatik varil boşaltma istasyonu.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Motor Seçimi",
+        "desc": "Transfer edeceğiniz hammaddeyi ve varil sayınızı belirtin, elektrikli veya pneumatic motor seçeneğini birlikte belirleyelim.",
+        "btn": "Teklif İsteyin →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20varil%20ve%20IBC%20bo%C5%9Faltma%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "projectsPage": {
+    "metadata": {
+      "title": "Tamamlanan Projeler | Welltech®",
+      "description": "Welltech tarafından başarıyla teslim edilen endüstriyel paslanmaz çelik projeleri ve vaka analizleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "current": "Tamamlanan Projeler"
+    },
+    "hero": {
+      "title": "Mühendislik Referansları",
+      "desc": "Sadece tank üretmiyoruz; küresel endüstrinin ihtiyaç duyduğu yüksek teknolojili proses sahalarını inşa ediyoruz."
+    },
+    "labels": {
+      "capacity": "Kapasite",
+      "material": "Malzeme",
+      "standard": "Standart",
+      "features": "Öne Çıkan"
+    },
+    "viewDetails": "Proje Detaylarını ve Teknik Analizi Gör",
+    "cta": {
+      "title": "Sizin Projeniz İçin Mühendislik Çözümü Üretelim",
+      "desc": "Spesifik kapasite ihtiyaçlarınız ve teknik standartlarınız için uzman kadromuzla iletişime geçin.",
+      "btn": "Teknik Destek Alın"
+    }
+  },
+  "processSystemsPage": {
+    "metadata": {
+      "title": "Endüstriyel Proses Sistemleri ve Reaktörler | Welltech®",
+      "description": "Yüksek viskoziteli karışımlar, tehlikeli reaksiyonlar ve termodinamik işlemler için ASME ve ATEX standartlarında projelendirilmiş karıştırıcılı üretim hatları."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "current": "Proses Sistemleri"
+    },
+    "hero": {
+      "title": "Proses Sistemleri",
+      "desc": "Yüksek viskoziteli karışımlar, tehlikeli reaksiyonlar ve termodinamik işlemler için ASME ve ATEX standartlarında projelendirilmiş karıştırıcılı üretim hatları."
+    },
+    "viewModels": "Modelleri İncele",
+    "categories": [
+      {
+        "title": "Karıştırıcılı Proses Tankları",
+        "desc": "İhtiyacınıza özel kanat geometrisi ve termodinamik ceketli ısıtma/soğutma sistemleriyle kusursuz homojenizasyon."
+      },
+      {
+        "title": "Kimyasal ve İlaç Reaktörleri",
+        "desc": "10 Bar basınca ve tam vakuma dayanıklı, 316Ti / Hastelloy alaşımlı, ATEX standartlarında ex-proof alan reaktörleri."
+      },
+      {
+        "title": "High-Shear Homojenizatörler",
+        "desc": "Sıvı-sıvı ve sıvı-katı emülsiyonları için yüksek devirli, rotor-stator teknolojili parçalayıcı mikser sistemleri."
+      },
+      {
+        "title": "Mobil Proses Üniteleri (Skid Systems)",
+        "desc": "Hızlı kurulum (Plug & Play) için tasarlanmış; reaktör, pompa ve otomasyonun tek şasede toplandığı kompakt çözümler."
+      },
+      {
+        "title": "Isıtma ve Soğutma Ceketli Tanklar",
+        "desc": "Roll-bond (dimple) ve yarım boru serpantin ceketli, yüksek termal verimliliğe sahip paslanmaz çelik proses tankları."
+      },
+      {
+        "title": "Fermantasyon ve Biyoreaktörler",
+        "desc": "Biyoteknoloji ve gıda sanayisi için hassas pH/Oksijen kontrollü, steril paslanmaz fermantasyon sistemleri."
+      },
+      {
+        "title": "Tam Otomatik CIP Sistemleri",
+        "desc": "Tesisinizin hijyen standartlarını garanti altına alan, PLC kontrollü Clean-in-Place (Yerinde Yıkama) üniteleri."
+      }
+    ],
+    "cta": {
+      "title": "Özel Proses İhtiyaçlarınız Mı Var?",
+      "desc": "Kataloğumuzda yer almayan özel ölçü, yüksek basınç (ASME) veya ATEX sertifikalı tehlikeli saha reaktör ihtiyaçlarınız için mühendislik departmanımızla görüşün.",
+      "btn": "Teklif İsteyin"
+    }
+  },
+  "jacketedTanksPage": {
+    "metadata": {
+      "title": "Isıtma ve Soğutma Ceketli Tanklar | Welltech®",
+      "description": "Roll-bond (dimple) ve yarım boru serpantin ceketli, yüksek termal verimliliğe sahip paslanmaz çelik ısıtmalı/soğutmalı proses tankları."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "Ceketli Tanklar"
+    },
+    "hero": {
+      "title": "Isıtma & Soğutma Ceketli Tanklar",
+      "desc": "Hassas sıcaklık kontrolü gerektiren prosesleriniz için maksimum termal verimlilik. Roll-bond, yarım boru veya tam ceket teknolojisiyle donatılmış özel izolasyonlu sistemler."
+    },
+    "technology": {
+      "title": "Termodinamik Mühendisliği",
+      "desc": "Üretim proseslerinde akışkanın doğru sıcaklıkta tutulması, son ürün kalitesini doğrudan belirler. Sistemlerimiz, içerisinden buhar, kızgın yağ, sıcak su veya glikol/buzlu su geçebilen özel ceketlerle tasarlanır. Düşük basınçlı soğutma prosesleri için <strong>Roll-Bond (Dimple)</strong> ceketleri tercih ederken, yüksek basınç ve buhar gerektiren ısıtma reaksiyonları için kaynatılmış <strong>Yarım Boru (Half-Pipe) Serpantin</strong> teknolojisini kullanıyoruz.",
+      "imgAlt": "Yarım Boru ve Dimple Ceket Detayı"
+    },
+    "features": {
+      "title": "Donanım ve İzolasyon Özellikleri",
+      "imgAlt": "Tank İzolasyon Kesiti",
+      "items": [
+        "Lazer Kaynaklı Dimple Jacket",
+        "Yarım Boru (Half-Pipe) Serpantin",
+        "Taşyünü (Rockwool) İzolasyon",
+        "Poliüretan İzolasyon (Soğutma)",
+        "Tam Sızdırmaz Dış Kaplama Sacı",
+        "PT100 Termokupl Sıcaklık Sensörü"
+      ]
+    },
+    "table": {
+      "title": "Ceket Teknolojisi Seçim Tablosu",
+      "note": "* Tesisinizdeki ısıtıcı/soğutucu akışkanın tipine ve basıncına göre mühendislerimiz en uygun ceket tipini belirler.",
+      "imgAlt": "Ceketli Tank Teknik Çizimi",
+      "headers": [
+        "Ceket Tipi",
+        "Kullanım Amacı",
+        "Akışkan (Medyum)",
+        "Çalışma Basıncı"
+      ],
+      "rows": [
+        {
+          "type": "Dimple (Roll-Bond)",
+          "purpose": "Hassas Soğutma",
+          "fluid": "Buzlu Su / Glikol",
+          "pressure": "Düşük / Orta (2-4 Bar)",
+          "highlight": "blue"
+        },
+        {
+          "type": "Yarım Boru Serpantin",
+          "purpose": "Hızlı Isıtma",
+          "fluid": "Buhar / Kızgın Yağ",
+          "pressure": "Yüksek (6-10+ Bar)",
+          "highlight": "orange"
+        },
+        {
+          "type": "Tam Ceket (Full Jacket)",
+          "purpose": "Genel Isıtma/Soğutma",
+          "fluid": "Sıcak veya Soğuk Su",
+          "pressure": "Düşük (1-2 Bar)",
+          "highlight": "dark"
+        },
+        {
+          "type": "İçten Serpantinli",
+          "purpose": "Şok Isıtma/Soğutma",
+          "fluid": "Buhar / Su",
+          "pressure": "Orta / Yüksek",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Isıtma / Soğutma FAQ (SSS)",
+      "items": [
+        {
+          "q": "Neden buhar uygulamalarında Dimple Ceket yerine Yarım Boru kullanmalıyım?",
+          "a": "Buhar ve kızgın yağ çok yüksek basınca ve sıcaklığa sahiptir. Dimple (petekli) ceketler ince cidarlı olduğu için yüksek basınçta şişme veya deformasyon yapabilir. Yarım boru serpantinler ise tankın gövdesine kalın kaynaklarla sarıldığı için yüksek basınç mukavemetine sahiptir."
+        },
+        {
+          "q": "Isı izolasyonu yapılmazsa ne olur?",
+          "a": "Tank ceketindeki enerji (sıcaklık veya soğukluk) sadece içindeki ürüne geçmek yerine havaya karışır. Bu durum enerji maliyetlerinizi korkunç boyutlara çıkarır ve proses süresini uzatır. Isıtma tanklarında yoğun taşyünü, soğutma tanklarında ise terlemeyi önleyen poliüretan izolasyon şarttır."
+        },
+        {
+          "q": "Ceket alanı nasıl hesaplanıyor?",
+          "a": "Ceket alanı, tankın içindeki ürünün miktarına (kg), ürünün özgül ısısına, ilk sıcaklığına ve hedeflenen sıcaklığa ne kadar sürede (dakika/saat) ulaşması gerektiğine göre termodinamik mühendislik formülleriyle hesaplanır."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "Yarım Boru Ceketli Tank"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "Dimple Ceket Soğutma"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Taşyünü İzolasyon Uygulaması"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Isıtmalı Proses Tank Bataryası"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "DOK-05 PDF Dökümanı",
+        "desc": "Termodinamik alan hesaplamaları, çalışma basınçları ve izolasyon kalınlıklarını içeren mühendislik şartnamesi.",
+        "btn": "Dökümanı İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-05-ceketli-tanklar.pdf"
+      },
+      "reference": {
+        "badge": "Öne Çıkan Referans",
+        "imgAlt": "Isıtmalı Proses Projesi Referansı",
+        "desc": "Gıda endüstrisinde buhar ısıtmalı, yarım boru serpantinli ve taşyünü izolasyonlu pişirme tankı bataryası.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Termal Hesaplama",
+        "desc": "Prosesinizin hedeflenen süre ve sıcaklık değerlerine göre gereken ceket yüzey alanını hesaplamamız için bize ulaşın.",
+        "btn": "Teklif İsteyin →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20%C4%B1s%C4%B1tma%20so%C4%9Futma%20ceketli%20tanklar%20i%C3%A7in%20termodinamik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "bioreactorsPage": {
+    "metadata": {
+      "title": "Fermantasyon ve Biyoreaktör Sistemleri | Welltech®",
+      "description": "Biyoteknoloji, ilaç ve gıda sanayisi için hassas pH, oksijen ve sıcaklık kontrollü, tam steril (SIP) paslanmaz fermantasyon sistemleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "Fermantasyon ve Biyoreaktörler"
+    },
+    "hero": {
+      "title": "Fermantasyon ve Biyoreaktörler",
+      "desc": "Mikrobiyal hücre kültürleri ve enzim üretimleri için kusursuz sterilizasyon. Hassas pH, Çözünmüş Oksijen (DO2) ve sıcaklık kontrolü sağlayan endüstriyel biyoproses sistemleri."
+    },
+    "technology": {
+      "title": "Hassas Biyoproses Kontrolü",
+      "desc": "Fermantasyon süreçlerinde mikrobiyal yaşamın sürdürülebilmesi ve hedeflenen ürün verimine ulaşılması, ortam şartlarının milimetrik kontrolüne bağlıdır.",
+      "imgAlt": "Biyoreaktör Termodinamik Kontrol Detayı"
+    },
+    "features": {
+      "title": "Donanım ve Mühendislik Özellikleri",
+      "imgAlt": "Biyoreaktör PLC SCADA Sistemi",
+      "items": [
+        "Ra < 0.4 µm Elektropolisajlı İç Yüzey",
+        "ASME BPE Standardında Steril Dizayn",
+        "Otomatik SIP (Yerinde Sterilizasyon)",
+        "Yüksek Kütle Transferli Aerasyon",
+        "Tam İzoleli Dimple/Yarım Boru Ceket",
+        "Ölü Noktasız (Dead-Leg Free) Vana Yapısı"
+      ]
+    },
+    "table": {
+      "title": "Kapasite Tablosu",
+      "note": "* Tesis kapasiteleri Ar-Ge ölçeğinden endüstriyel boyuta kadar tasarlanmaktadır.",
+      "imgAlt": "Biyoreaktör P&ID Şeması",
+      "headers": [
+        "Seri",
+        "Hacim",
+        "Basınç"
+      ],
+      "rows": [
+        {
+          "series": "WT-BIO Lab",
+          "volume": "10 L - 100 L",
+          "pressure": "-1 / +3 Bar",
+          "highlight": "blue"
+        },
+        {
+          "series": "WT-BIO Pilot",
+          "volume": "200 L - 2.000 L",
+          "pressure": "-1 / +3 Bar",
+          "highlight": "blue"
+        },
+        {
+          "series": "WT-BIO Pro",
+          "volume": "5.000 L - 20.000 L",
+          "pressure": "-1 / +4 Bar",
+          "highlight": "orange"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "Steril Biyoreaktör Montajı"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "Hücre Kültürü Fermantasyon Ünitesi"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Hassas pH Oksijen Sensor Grubu"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Endüstriyel Biyoproses Tesis Kurulumu"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Doküman",
+        "subtitle": "DOK-15 PDF Şartname",
+        "btn": "Şartnameyi İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-15-biyoreaktorler.pdf"
+      },
+      "reference": {
+        "badge": "Referans Uygulama",
+        "imgAlt": "Aşı Üretim Tesisi Biyoreaktör Referansı",
+        "desc": "Hücre kültürü üretimi yapan tesise özel; 2.000 L kapasiteli biyoreaktör hattı kurulumu."
+      },
+      "cta": {
+        "title": "Proje Mühendisliği",
+        "desc": "Laboratuvar ölçeğinden endüstriyel üretime geçiş süreçleriniz için teknik ekibimizle planlayın.",
+        "btn": "Teknik Destek Alın"
+      }
+    }
+  },
+  "homogenizersPage": {
+    "metadata": {
+      "title": "Homojenizatörlü Sistemler | Welltech®",
+      "description": "Kozmetik, ilaç ve gıda prosesleri için yüksek devirli (high-shear) rotor-stator homojenizatör sistemleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "Homojenizatörler"
+    },
+    "hero": {
+      "title": "Homojenizatörlü Sistemler",
+      "desc": "Sıvı-sıvı ve sıvı-katı emülsiyonlarında kusursuz partikül parçalama. Kozmetik, ilaç ve ileri kimya prosesleri için yüksek kesme (high-shear) gücüne sahip rotor-stator teknolojisi."
+    },
+    "technology": {
+      "title": "Rotor & Stator Teknolojisi",
+      "desc": "Sıradan karıştırıcılar (mikserler) akışkanı sadece hareket ettirir. Homojenizatörler ise çok dar bir aralıkta (micron seviyesinde) dönen rotor ve sabit stator bıçakları sayesinde akışkanı devasa bir mekanik kesme (shear) kuvvetine maruz bırakır. Bu sayede yağ ve su gibi normalde karışmayan maddeler kusursuz bir emülsiyona (krem, mayonez, losyon vb.) dönüşür ve partiküller mikronize edilerek çökme engellenir.",
+      "imgAlt": "Rotor ve Stator Bıçak Detayı"
+    },
+    "features": {
+      "title": "Kritik Mühendislik Özellikleri",
+      "imgAlt": "Yüksek Devirli Homojenizatör Motoru",
+      "items": [
+        "3000 RPM Yüksek Devir Kapasitesi",
+        "Çift Etkili Soğutmalı Salmastra",
+        "AISI 316L Özel Alaşım Kesici Kafa",
+        "Değiştirilebilir Stator Başlıkları",
+        "CIP / SIP Yıkanabilirlik (Hijyenik)",
+        "İnvertörlü Hassas Hız Kontrolü"
+      ]
+    },
+    "table": {
+      "title": "Homojenizatör Montaj Tipleri",
+      "note": "* Tesisinizin borulama sistemine, tank yapınıza ve ürün reoloji (akışkanlık) özelliklerine göre seçilir.",
+      "imgAlt": "In-Line Homojenizatör Çizimi",
+      "headers": [
+        "Montaj Tipi",
+        "Çalışma Prensibi",
+        "Kullanım Alanı"
+      ],
+      "rows": [
+        {
+          "type": "Alttan Girişli (Bottom Entry)",
+          "principle": "Tank dibine monte edilir, ürün yerçekimiyle beslenir.",
+          "usage": "Kozmetik Kremler, Mayonez, Losyon",
+          "highlight": "orange"
+        },
+        {
+          "type": "In-Line (Sürekli Akış)",
+          "principle": "Boru hattı üzerine monte edilir, sirkülasyon yapar.",
+          "usage": "Büyük hacimli şuruplar, Süt Ürünleri",
+          "highlight": "blue"
+        },
+        {
+          "type": "Üstten Daldırmalı (Top Entry)",
+          "principle": "Tankın üstünden asansör veya flanş ile daldırılır.",
+          "usage": "Açık kazanlar, Mobil ar-ge tankları",
+          "highlight": "dark"
+        },
+        {
+          "type": "Toz Emişli (Powder Mixer)",
+          "principle": "Oluşan vakumla dışarıdan toz hammadeyi çeker.",
+          "usage": "Karbon siyahı, Süt tozu, Pektin ergitme",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "Alttan Girişli Homojenizatör"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "Kozmetik Krem Üretim Tankı"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "In-Line Sürekli Akış Sistemi"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Toz Emişli Dispersiyon Ünitesi"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "DOK-08 PDF Dökümanı",
+        "desc": "Rotor-stator toleransları, mekanik salmastra soğutma devresi ve motor kw hesaplamalarını içeren teknik şartname.",
+        "btn": "Dökümanı İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-08-homojenizatorler.pdf"
+      },
+      "reference": {
+        "badge": "Öne Çıkan Referans",
+        "imgAlt": "Kozmetik Proses Projesi Referansı",
+        "desc": "Lüks cilt bakım ürünleri üreten tesis için vakum altında çalışan, alttan girişli (bottom-entry) 22kW homojenizatörlü krem üretim reaktörü.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Emülsiyon Çözümü",
+        "desc": "Kozmetik, gıda veya kimya... Ürün reçetenizi bizimle paylaşın, en verimli partikül parçalama (high-shear) sistemini tasarlayalım.",
+        "btn": "Teklif İsteyin →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20homojenizat%C3%B6r%20ve%20em%C3%BClsiyon%20sistemleri%20i%C3%A7in%20kapasite%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
+      }
+    }
+  },
+  "mixingTanksPage": {
+    "metadata": {
+      "title": "Karıştırıcılı Proses Tankları | Welltech®",
+      "description": "Farklı vizkozitelere özel mikser tasarımları, invertör destekli otomasyonlu paslanmaz çelik karıştırıcılı tanklar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "Karıştırıcılı Tanklar"
+    },
+    "hero": {
+      "title": "Karıştırıcılı Proses Tankları",
+      "desc": "Sıvı-sıvı veya sıvı-katı karışımlarınız için optimum viskozite kontrolü sağlayan, invertör destekli ve farklı kanat tiplerine sahip ileri mühendislik mikser sistemleri."
+    },
+    "technology": {
+      "title": "Homojen Karışım Teknolojisi",
+      "desc": "Bir prosesin başarısı, karışımın ne kadar doğru homojenize edildiği ile ölçülür. Ürününüzün viskozite değerine (su gibi akışkan veya bal gibi kıvamlı) ve yoğunluğuna göre; türbin, pervane, çapa (anchor) veya sıyırıcılı mikser kanatları tasarlıyoruz. Sistemlerimiz redüktörlü motorlar ve PLC kontrollü hız invertörleri ile donatılarak prosesinizde maksimum kontrol sağlar.",
+      "imgAlt": "Mikser Kanat Detayı"
+    },
+    "features": {
+      "title": "Donanım ve Otomasyon",
+      "imgAlt": "Otomasyon ve İnvertör Paneli",
+      "items": [
+        "Değişken Devirli İnvertör Sistemi",
+        "Teflon (PTFE) Duvar Sıyırıcılar",
+        "Mekanik Salmastra Sızdırmazlık",
+        "Alt, Üst veya Yandan Girişli Tasarım",
+        "CIP ve SIP Yıkama Topu Entegrasyonu",
+        "AISI 316L Komple Paslanmaz Şaft"
+      ]
+    },
+    "table": {
+      "title": "Mikser Tipi Seçim Tablosu",
+      "note": "* Karışımın viskozitesi (cP) ve içerdiği partikül yapısına göre mühendislerimiz tarafından hesaplanır.",
+      "imgAlt": "Karıştırıcılı Proses Tankı Teknik Çizimi",
+      "headers": [
+        "Kanat Tipi",
+        "Viskozite (Kıvam)",
+        "Uygulama Örneği",
+        "Devir Hızı"
+      ],
+      "rows": [
+        {
+          "type": "Pervane (Propeller)",
+          "viscosity": "Düşük (Su gibi)",
+          "usage": "Sıvı Kimyasallar, Meyve Suyu",
+          "speed": "Yüksek (900-1400 rpm)",
+          "highlight": "blue"
+        },
+        {
+          "type": "Türbin (Turbine)",
+          "viscosity": "Orta (Yağ gibi)",
+          "usage": "Şurup, Madeni Yağ, Boya",
+          "speed": "Orta (100-300 rpm)",
+          "highlight": "orange"
+        },
+        {
+          "type": "Çapa (Anchor) Sıyırıcılı",
+          "viscosity": "Yüksek (Bal gibi)",
+          "usage": "Kozmetik Krem, Çikolata",
+          "speed": "Düşük (10-60 rpm)",
+          "highlight": "dark"
+        },
+        {
+          "type": "Dispersiyon Tipi",
+          "viscosity": "Katı/Sıvı Çözeltiler",
+          "usage": "Toz Kimyasalların Sıvıya Erimesi",
+          "speed": "Çok Yüksek (1500+ rpm)",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "Özel Tasarım Çapa Mikser"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "İnvertör Kontrollü Karıştırıcı"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Boya Endüstrisi Disperser Tankı"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Gıda Sektörü Homojenizatör Bataryası"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "DOK-06 PDF Dökümanı",
+        "desc": "Farklı viskoziteler için motor gücü hesaplamaları ve mekanik salmastra sızdırmazlık detayları içeren mühendislik şartnamesi.",
+        "btn": "Dökümanı İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-06-karistiricili-tanklar.pdf"
+      },
+      "reference": {
+        "badge": "Öne Çıkan Referans",
+        "imgAlt": "Kimya Proses Projesi Referansı",
+        "desc": "Polimer kimya üretim tesisi için ex-proof motorlu, yüksek tork kapasiteli ve teflon sıyırıcılı 10.000 Litre mikser tankı.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Viskozite Analizi",
+        "desc": "Ürününüzün viskozitesini (cP) ve çalışma şartlarını bizimle paylaşın, en uygun mikser dizaynını ve redüktör gücünü hesaplayalım.",
+        "btn": "Teklif İsteyin →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20kar%C4%B1%C5%9Ft%C4%B1r%C4%B1c%C4%B1l%C4%B1%20tank%20projesi%20i%C3%A7in%20viskozite%20de%C4%9Ferlerime%20uygun%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "reactorsPage": {
+    "metadata": {
+      "title": "Kimyasal ve İlaç Reaktörleri | Welltech®",
+      "description": "10 Bar basınca ve tam vakuma dayanıklı, 316Ti / Hastelloy alaşımlı, ATEX standartlarında ex-proof üretim reaktörleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "Kimyasal Reaktörler"
+    },
+    "hero": {
+      "title": "Kimyasal ve İlaç Reaktörleri",
+      "desc": "10 Bar basınca ve tam vakuma dayanıklı, 316Ti / Hastelloy alaşımlı, ATEX standartlarında ex-proof tam otomasyonlu ağır hizmet reaktörleri."
+    },
+    "technology": {
+      "title": "Kritik Proses Kontrolü",
+      "desc1": "Polimerizasyon, kristalizasyon ve agresif kimyasal sentezler standart depolama tanklarında yapılamaz. Welltech® Kimyasal Reaktörleri, değişken vizkozitelerdeki ürünleri homojenize etmek ve endotermik/ekzotermik reaksiyonların ısısını anında transfer etmek için <strong>ASME VIII Div.1</strong> standartlarında projelendirilir.",
+      "desc2": "Gövde üzerinde standart olarak sunulan <strong>Yarım Boru Serpantin (Half-Pipe Jacket)</strong> teknolojisi, klasik ceketlere göre termal şoklara ve yüksek buhar basıncına karşı %40 daha fazla dayanım sağlar.",
+      "imgAlt": "Yarım Boru Serpantin ve Reaktör Gövdesi"
+    },
+    "features": {
+      "title": "Donanım ve Güvenlik",
+      "imgAlt": "Ex-Proof Motor ve Reaktör Donanımı",
+      "items": [
+        "Tam Vakum ve 10 Bar Basınç Dayanımı",
+        "316Ti veya Hastelloy C22 Malzeme",
+        "Mekanik Salmastra Sızdırmazlık",
+        "ATEX Zone 1/2 Uyumlu Ex-Proof Motor",
+        "Oransal Kontrollü Isıtma/Soğutma",
+        "%100 RT ve UT Kaynak Raporlaması"
+      ]
+    },
+    "table": {
+      "title": "Standart Reaktör Kapasite Tablosu",
+      "note": "* Tablodaki değerler referans amaçlıdır. Welltech, fabrikanızın tavan yüksekliği ve tesisat hatlarına göre özel mühendislik ölçüleri çalışmaktadır.",
+      "imgAlt": "Kimyasal Reaktör Teknik Çizimi",
+      "headers": [
+        "Çalışma Hacmi",
+        "Tasarım Basıncı",
+        "Isıtma Tipi",
+        "Karıştırıcı Tipi"
+      ],
+      "rows": [
+        {
+          "volume": "1.000 Litre",
+          "pressure": "-1 / +6 Bar",
+          "heating": "Yarım Boru / Elektrikli",
+          "mixer": "Çapa (Anchor) / Pervane",
+          "highlight": "blue"
+        },
+        {
+          "volume": "5.000 Litre",
+          "pressure": "-1 / +8 Bar",
+          "heating": "Yarım Boru Serpantin",
+          "mixer": "Sıyırıcılı Çapa Tipi",
+          "highlight": "blue"
+        },
+        {
+          "volume": "10.000 Litre",
+          "pressure": "-1 / +10 Bar",
+          "heating": "Yarım Boru + İç Serpantin",
+          "mixer": "Türbin / Disperser",
+          "highlight": "orange"
+        },
+        {
+          "volume": "25.000 Litre",
+          "pressure": "-1 / +10 Bar",
+          "heating": "Yarım Boru Serpantin",
+          "mixer": "Çift Yönlü Çapa Tipi",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "10 Bar Dayanımlı Reaktör Üretimi"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "Yarım Boru Serpantin İmalatı"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "ATEX Ex-Proof Motor Entegrasyonu"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Petrokimya Reaktör Bataryası Kurulumu"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "WLL-RX-01 PDF",
+        "desc": "ASME malzeme kodları, kaynak kalınlıkları ve motor kw hesaplamalarını içeren mühendislik dökümanı.",
+        "btn": "PDF Şartname İndir",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/WLL-RX-01-reaktorler.pdf"
+      },
+      "reference": {
+        "badge": "Öne Çıkan Referans",
+        "imgAlt": "Petrokimya Reaktör Projesi Referansı",
+        "desc": "Petrokimya tesisi için 25.000 Litre kapasiteli, Hastelloy C276 alaşımlı ve 10 Bar basınca dayanıklı polimerizasyon reaktörü teslimatı.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Özel Proses İhtiyacınız mı Var?",
+        "desc": "Agresif korozyon yaratan akışkanlar veya yüksek tork gerektiren vizkoziteler için Hastelloy alaşımlar ile özel projelendirme yapıyoruz.",
+        "btn": "Mühendise Danışın"
+      }
+    }
+  },
+  "skidSystemsPage": {
+    "metadata": {
+      "title": "Mobil Proses Üniteleri (Skid Systems) | Welltech®",
+      "description": "Hızlı kurulum (Plug & Play) için tasarlanmış; reaktör, pompa ve otomasyonun tek şasede toplandığı kompakt proses çözümleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "Mobil Üniteler"
+    },
+    "hero": {
+      "title": "Mobil Proses Üniteleri",
+      "desc": "Hızlı kurulum (Plug & Play) için tasarlanmış; reaktör, pompa ve otomasyonun tek paslanmaz şasede toplandığı tak-çalıştır kompakt çözümler."
+    },
+    "technology": {
+      "title": "Tak-Çalıştır Mühendislik",
+      "desc": "Tesisinizde borulama, kablolama ve otomasyon karmaşasıyla haftalarca vakit kaybetmeyin. Skid sistemlerimiz; reaktör, eşanjör, transfer pompaları, vanalar ve PLC kontrol panosunun tek bir paslanmaz şase üzerine fabrikamızda monte edilip test edildiği kompakt sistemlerdir. Tesisinize ulaştığında sadece ana elektrik ve hammadde bağlantılarını yaparak aynı gün üretime başlayabilirsiniz.",
+      "imgAlt": "Paslanmaz Çelik Skid Şase Tasarımı"
+    },
+    "features": {
+      "title": "Kompakt Donanım Özellikleri",
+      "imgAlt": "Skid PLC Otomasyon Paneli",
+      "items": [
+        "AISI 304/316L Paslanmaz Taşıyıcı Şase",
+        "Tam Entegre Borulama ve Kollektörler",
+        "Fabrika Çıkışlı FAT/SAT Test Onayı",
+        "Akıllı PLC ve Dokunmatik HMI Ekran",
+        "Ex-Proof (ATEX) Seçeneği",
+        "Titreşim Sönümleyici Şase Ayakları"
+      ]
+    },
+    "table": {
+      "title": "Skid Sistem Kullanım Alanları",
+      "note": "* Tüm ekipmanlar birbiriyle uyumlu ve tek otomasyon paneline bağlı olarak çalışır.",
+      "imgAlt": "Mobil Proses Ünitesi Teknik Çizimi",
+      "headers": [
+        "Uygulama Alanı",
+        "Entegre Edilen Ekipmanlar",
+        "Kurulum Tipi"
+      ],
+      "rows": [
+        {
+          "application": "Kozmetik ve İlaç Şuruplama",
+          "equipment": "Reaktör + Homojenizatör + Lobe Pompa",
+          "setup": "Tak-Çalıştır",
+          "highlight": "orange"
+        },
+        {
+          "application": "Kimyasal Dozajlama Hattı",
+          "equipment": "Depolama Tankı + Dozaj Pompası + Debi Ölçer",
+          "setup": "Tak-Çalıştır",
+          "highlight": "blue"
+        },
+        {
+          "application": "CIP (Clean-in-Place) Üniteleri",
+          "equipment": "Asit/Kostik Tankları + Isıtıcı + Santrifüj Pompa",
+          "setup": "Tak-Çalıştır",
+          "highlight": "dark"
+        },
+        {
+          "application": "Mobil Ar-Ge İstasyonları",
+          "equipment": "Pilot Reaktör + Chiller + Mini Filtre Pres",
+          "setup": "Tekerlekli/Mobil",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "Kompakt Borulama Tasarımı"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "İlaç Sektörü Mobil Ünite"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Entegre Kontrol Panosu"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Tak-Çalıştır Şase Montajı"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "DOK-09 PDF Dökümanı",
+        "desc": "Kompakt şase yük dayanım hesapları, borulama standartları ve otomasyon P&ID şemalarını içeren mühendislik şartnamesi.",
+        "btn": "Dökümanı İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-09-skid-sistemler.pdf"
+      },
+      "reference": {
+        "badge": "Öne Çıkan Referans",
+        "imgAlt": "Mobil Skid Sistemi Referansı",
+        "desc": "İlaç endüstrisi için ex-proof standartlarda, tam otomasyonlu ve CIP entegreli mobil şuruplama ünitesi (Skid System) projesi.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Özel Skid Projeniz",
+        "desc": "Tesisinizin alan sınırlarına ve proses reçetenize uygun, tamamen size özel bir mobil ünite tasarlamamız için mühendislerimize ulaşın.",
+        "btn": "Teklif İsteyin →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20tesisime%20%C3%B6zel%20kompakt%20skid%20sistemi%20projelendirmesi%20ve%20fiyat%C4%B1%20almak%20istiyorum."
+      }
+    }
+  },
+  "cipSystemsPage": {
+    "metadata": {
+      "title": "Tam Otomatik CIP Sistemleri | Welltech®",
+      "description": "İlaç, gıda ve kimya tesisleri için hijyen standartlarını garanti altına alan, PLC kontrollü otomatik Clean-in-Place (Yerinde Yıkama) üniteleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "CIP Sistemleri"
+    },
+    "hero": {
+      "title": "Tam Otomatik CIP Sistemleri",
+      "desc": "Tesisinizin hijyen standartlarını garanti altına alan, PLC kontrollü ve iletkenlik bazlı kimyasal dozajlamalı Clean-in-Place (Yerinde Yıkama) üniteleri."
+    },
+    "technology": {
+      "title": "İzlenebilir Hijyen Güvencesi",
+      "desc": "Gıda, içecek ve ilaç üretim hatlarında çapraz kontaminasyonu önlemenin tek yolu validasyonu yapılabilen yıkama prosesleridir. Welltech CIP (Clean-in-Place) sistemleri, boru hatlarınızı ve tanklarınızı sökmeden, yüksek türbülanslı akış (min. 1.5 m/s) ile yıkar. Hatta geri dönen sıvının iletkenliği anlık olarak ölçülerek, asit ve kostik konsantrasyonları PLC üzerinden otomatik olarak dozaj pompalarıyla tamamlanır. Su ve enerji tasarrufu maksimum seviyede tutulur.",
+      "imgAlt": "İletkenlik ve Dozaj Kontrolü"
+    },
+    "features": {
+      "title": "Sistem ve Otomasyon Özellikleri",
+      "imgAlt": "Geri Kazanım Sistemi ve Otomasyon",
+      "items": [
+        "PLC & Dokunmatik HMI Ekran Kontrolü",
+        "Bağımsız Kostik ve Asit Dozaj Pompaları",
+        "Anlık İletkenlik (Conductivity) Ölçümü",
+        "Isı Eşanjörü ile Otomatik Sıcaklık Kontrolü",
+        "EHEDG Onaylı Hijyenik Santrifüj Pompalar",
+        "Kayıt Edilebilir Yıkama Reçeteleri"
+      ]
+    },
+    "table": {
+      "title": "CIP İstasyon Modelleri",
+      "note": "* Tesis ihtiyacına göre yıkama hatları eşzamanlı (multi-line) veya tek hat (single-line) olarak tasarlanabilir.",
+      "imgAlt": "Modüler Tasarım ve CIP P&ID Şeması",
+      "headers": [
+        "Konfigürasyon",
+        "Tank İçeriği",
+        "Tavsiye Edilen Sektör"
+      ],
+      "rows": [
+        {
+          "config": "Mobil / 1 Tanklı CIP",
+          "tanks": "Su (Kayıp Yıkama)",
+          "sector": "Şarap, Butik Üretim",
+          "highlight": "dark"
+        },
+        {
+          "config": "2 Tanklı CIP Sistemi",
+          "tanks": "Kostik + Su",
+          "sector": "Su, İçecek, Hafif Proses",
+          "highlight": "blue"
+        },
+        {
+          "config": "3 Tanklı CIP Sistemi",
+          "tanks": "Kostik + Asit + Su",
+          "sector": "Süt, Meyve Suyu, Gıda",
+          "highlight": "orange"
+        },
+        {
+          "config": "4 Tanklı CIP Sistemi",
+          "tanks": "Kostik + Asit + Su + Geri Kazanım",
+          "sector": "İlaç, Biyoteknoloji, Ağır Sanayi",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "CIP Sistemleri Sıkça Sorulanlar",
+      "items": [
+        {
+          "q": "Yıkama sıvısının yeterli hıza ulaştığını nasıl garanti ediyorsunuz?",
+          "a": "Boru hatlarındaki hijyenin sağlanması için sıvının türbülanslı akışa geçmesi gerekir. Sisteme entegre edilen debimetreler (Flowmeter) sayesinde, yıkama akış hızı minimum 1.5 - 2.0 m/s aralığında sabit tutulur ve PLC üzerinden izlenir."
+        },
+        {
+          "q": "Kimyasal solüsyonlar yeniden kullanılabiliyor mu?",
+          "a": "Evet, 3 ve 4 tanklı CIP sistemlerimizde geri kazanım (Recovery) döngüleri bulunur. Hattan dönen asit ve kostik solüsyonları iletkenlik sensörleri ile analiz edilir, konsantrasyonu düşmüşse dozajlanarak tekrar tanka alınır. Bu sayede ciddi bir kimyasal ve su tasarrufu sağlanır."
+        },
+        {
+          "q": "Raporlama ve validasyon imkanı var mı?",
+          "a": "Tüm CIP operasyonları; süre, sıcaklık, iletkenlik ve debi verileriyle birlikte otomasyon panosuna kaydedilir. Denetimler için bu veriler USB veya ağ üzerinden PDF formatında çıktı alınarak tam izlenebilirlik sağlanır."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "4 Tanklı Otomatik CIP Ünitesi"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "Dozaj Pompaları ve Kollektör Grubu"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Isı Eşanjörü Entegrasyonu"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Süt Tesisi Çoklu Yıkama Hattı"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Doküman",
+        "subtitle": "DOK-16 PDF Şartname",
+        "desc": "CIP sistemi akış diyagramları, eşanjör kapasiteleri ve pnömatik vana matrisi teknik detayları.",
+        "btn": "Şartnameyi İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-16-cip-sistemleri.pdf"
+      },
+      "reference": {
+        "badge": "Referans Uygulama",
+        "imgAlt": "Süt Tesisi Yıkama Hattı Referansı",
+        "desc": "Günde 200 ton süt işleyen entegre tesis için, 3 hatlı eşzamanlı (multi-line) çalışan tam otomatik 4 tanklı CIP geri kazanım sistemi kurulumu.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Proje Mühendisliği",
+        "desc": "Tesisinizin kapasitesine ve yıkanacak hatların uzunluğuna en uygun CIP modülünü belirlemek için bize ulaşın.",
+        "btn": "Teknik Destek Alın"
+      }
+    }
+  },
+  "referencesPage": {
+    "metadata": {
+      "title": "Mühendislik Referansları & Tamamlanan Projeler | Welltech®",
+      "description": "Welltech tarafından başarıyla teslim edilen endüstriyel paslanmaz çelik projeleri ve saha mühendislik referansları."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "current": "Referanslar"
+    },
+    "hero": {
+      "title": "Mühendislik Referansları",
+      "quote": "\"Sadece tank üretmiyoruz; küresel endüstrinin ihtiyaç duyduğu yüksek teknolojili proses sahalarını inşa ediyoruz.\""
+    },
+    "labels": {
+      "capacity": "Kapasite",
+      "material": "Malzeme",
+      "standard": "Standart",
+      "features": "Öne Çıkan"
+    },
+    "ctaBtn": "Aynı Standartta Teklif Al",
+    "cta": {
+      "title": "Sizin Projeniz İçin Mühendislik Çözümü Üretelim",
+      "desc": "Spesifik kapasite ihtiyaçlarınız ve teknik standartlarınız için uzman kadromuzla iletişime geçin. Global standartlarda imalat planlamanızı yapalım.",
+      "btn": "Teknik Destek Alın"
     }
   }
 }

@@ -2,51 +2,34 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { ChevronRight, ShieldCheck, Factory, CheckCircle, Globe } from 'lucide-react';
 import { getDictionary } from '../../dictionaries/getDictionary';
+import { routeDictionary } from '../../dictionaries/routes';
+
+function getLink(physicalKey: string, lang: string): string {
+  const translatedPath = routeDictionary[physicalKey]?.[lang] || physicalKey;
+  return `/${lang}/${translatedPath}`;
+}
+
+function getNestedLink(path: string, lang: string): string {
+  const segments = path.split('/').filter(Boolean);
+  const translated = segments.map(seg => routeDictionary[seg]?.[lang] || seg);
+  return `/${lang}/${translated.join('/')}`;
+}
 
 export default async function Home({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  
-  // Çeviri motorunu ateşliyoruz!
   const dict = await getDictionary(lang);
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Welltech® International Engineering | Proses ve Depolama Teknolojileri",
-    "description": "Gıda, kimya ve ilaç sanayisi için uluslararası ASME ve PED standartlarında tasarlanmış; 150 tona varan mega kapasiteli paslanmaz çelik çözümler.",
+    "name": `${dict.home.hero.badge} | ${dict.home.hero.title}`,
+    "description": dict.home.hero.desc,
     "publisher": {
       "@type": "Organization",
       "name": "Welltech® International Engineering"
     }
   };
-
-  const services = [
-    {
-      title: dict.home.services.items[0].title,
-      desc: dict.home.services.items[0].desc,
-      image: "/assets/images/ana-sayfa/hizmet-depolama.webp",
-      link: "/paslanmaz-tanklar/depolama-tanklari"
-    },
-    {
-      title: dict.home.services.items[1].title,
-      desc: dict.home.services.items[1].desc,
-      image: "/assets/images/ana-sayfa/hizmet-proses.webp",
-      link: "/proses-sistemleri/karistiricili-tanklar"
-    },
-    {
-      title: dict.home.services.items[2].title,
-      desc: dict.home.services.items[2].desc,
-      image: "/assets/images/ana-sayfa/hizmet-mobil.webp",
-      link: "/proses-sistemleri/kimyasal-reaktorler"
-    },
-    {
-      title: dict.home.services.items[3].title,
-      desc: dict.home.services.items[3].desc,
-      image: "/assets/images/ana-sayfa/hizmet-sut.webp", 
-      link: "/paslanmaz-tanklar/sut-tanklari"
-    }
-  ];
 
   return (
     <div className="bg-gray-50 pb-0">
@@ -57,8 +40,8 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       <section className="relative h-[85vh] min-h-[600px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <Image
-            src="/assets/images/ana-sayfa/hero-bg.webp"
-            alt="Welltech Industrial Plant"
+            src={dict.home.hero.bgImage}
+            alt={dict.home.hero.bgAlt}
             fill
             priority
             className="object-cover transition-transform duration-[2000ms] scale-105 hover:scale-100"
@@ -66,7 +49,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           />
           <div className="absolute inset-0 bg-black/60 z-10"></div>
         </div>
-        
+
         <div className="relative z-20 text-center px-4 sm:px-6 w-full max-w-5xl mx-auto mt-16">
           <span className="inline-block px-4 py-1.5 bg-[#E35205] text-white text-[10px] sm:text-xs font-bold tracking-[0.4em] mb-6 shadow-lg">
             {dict.home.hero.badge}
@@ -78,14 +61,14 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
             {dict.home.hero.desc}
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <Link 
-              href={`/${lang}/iletisim`} 
+            <Link
+              href={getLink('iletisim', lang)}
               className="w-full sm:w-auto inline-block bg-[#E35205] text-white px-8 sm:px-10 py-4 rounded-sm font-bold text-sm tracking-widest hover:bg-white hover:text-[#E35205] transition-all duration-300 shadow-2xl hover:shadow-[#E35205]/20 hover:-translate-y-1"
             >
               {dict.home.hero.btn1}
             </Link>
-            <Link 
-              href={`/${lang}/dokumanlar`} 
+            <Link
+              href={getLink('dokumanlar', lang)}
               className="w-full sm:w-auto inline-block bg-white/10 backdrop-blur-md border border-white/20 text-white px-8 sm:px-10 py-4 rounded-sm font-bold text-sm tracking-widest hover:bg-white/20 transition-all duration-300 shadow-xl"
             >
               {dict.home.hero.btn2}
@@ -96,7 +79,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
 
       <div className="relative z-30 -mt-12 sm:-mt-16 max-w-6xl mx-auto px-4 sm:px-6">
         <div className="grid grid-cols-2 md:grid-cols-4 bg-white shadow-2xl border border-gray-100 rounded-xl overflow-hidden divide-x divide-y md:divide-y-0 divide-gray-50">
-          {dict.home.stats.map((stat: any, i: number) => (
+          {dict.home.stats.map((stat: { n: string; t: string }, i: number) => (
             <div key={i} className="p-6 sm:p-8 text-center group hover:bg-gray-50 transition-colors duration-300 flex flex-col justify-center">
               <div className={`text-2xl sm:text-3xl font-black mb-2 transition-transform duration-300 group-hover:scale-110 ${i === 3 ? "text-[#E35205]" : "text-[#005284]"}`}>
                 {stat.n}
@@ -121,11 +104,11 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 sm:gap-12">
-          {services.map((service, index) => (
-            <Link href={`/${lang}${service.link}`} key={index} className="group flex flex-col h-full bg-white rounded-2xl shadow-lg border border-gray-100 hover:shadow-2xl hover:border-[#005284] transition-all duration-500 p-8 sm:p-10">
+          {dict.home.services.items.map((service: { title: string; desc: string; image: string; link: string }, index: number) => (
+            <Link href={getNestedLink(service.link, lang)} key={index} className="group flex flex-col h-full bg-white rounded-2xl shadow-lg border border-gray-100 hover:shadow-2xl hover:border-[#005284] transition-all duration-500 p-8 sm:p-10">
               <div className="relative h-64 sm:h-80 w-full overflow-hidden mb-8 rounded-xl bg-gray-100">
-                <Image 
-                  src={service.image} 
+                <Image
+                  src={service.image}
                   alt={service.title}
                   fill
                   sizes="(max-width: 768px) 100vw, 50vw"
@@ -152,7 +135,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       <section style={{ backgroundColor: '#005284' }} className="py-24 px-6 relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-black/60 to-transparent z-0"></div>
         <div className="max-w-7xl mx-auto relative z-10 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-          
+
           <div>
             <div className="flex items-center gap-3 mb-8">
               <Factory className="w-8 h-8 text-[#E35205]" />
@@ -164,7 +147,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
             <p className="text-lg text-blue-100 font-light leading-relaxed mb-10">
               {dict.home.why_us.desc}
             </p>
-            
+
             <div className="flex flex-col gap-6 mb-12">
               {dict.home.why_us.list.map((item: string, idx: number) => (
                 <div key={idx} className="flex items-center gap-4">

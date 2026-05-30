@@ -1,0 +1,2620 @@
+{
+  "nav": {
+    "tanks": "خزانات الفولاذ المقاوم للصدأ",
+    "machines": "أنظمة المعالجة",
+    "pumps": "مضخات صحية",
+    "about": "الشركة",
+    "blog": "المدونة",
+    "docs": "الوثائق",
+    "contact": "اتصل بنا"
+  },
+  "footer": {
+    "description": "مصنّع خزانات صناعية من الفولاذ المقاوم للصدأ ومضخات صحية ومعدات معالجة وفق المعايير الدولية.",
+    "products": "المنتجات",
+    "locations": "المواقع",
+    "hq_title": "المقر الرئيسي",
+    "factory_title": "مرفق الإنتاج",
+    "copyright": "جميع الحقوق محفوظة."
+  },
+  "metadata": {
+    "default_title": "Welltech® | أنظمة المعالجة وخزانات الفولاذ المقاوم للصدأ العالمية",
+    "default_desc": "مصنّع خزانات صناعية من الفولاذ المقاوم للصدأ ومضخات صحية ومعدات معالجة. حلول هندسية عالمية لصناعات الأغذية والأدوية والكيمياء.",
+    "keywords": [
+      "خزان فولاذ مقاوم للصدأ",
+      "أنظمة المعالجة",
+      "مضخات صحية",
+      "خزانات صناعية",
+      "ويلتك",
+      "مفاعل",
+      "مصنع جاهز"
+    ]
+  },
+  "home": {
+    "hero": {
+      "badge": "Welltech® International Engineering",
+      "title": "تقنيات المعالجة والتخزين",
+      "desc": "مصمم وفق معايير ASME و PED الدولية لصناعات الأغذية والكيمياء والأدوية؛ حلول فولاذية مقاومة للصدأ فائقة السعة تصل إلى 150 طن.",
+      "btn1": "احصل على دعم هندسي",
+      "btn2": "شهاداتنا",
+      "bgImage": "/assets/images/ana-sayfa/hero-bg.webp",
+      "bgAlt": "منشأة Welltech الصناعية"
+    },
+    "stats": [
+      {
+        "n": "+150",
+        "t": "طن سعة"
+      },
+      {
+        "n": "100%",
+        "t": "اختبار لحام NDT"
+      },
+      {
+        "n": "6 قارات",
+        "t": "شبكة تصدير عالمية"
+      },
+      {
+        "n": "ASME",
+        "t": "هندسة معتمدة"
+      }
+    ],
+    "services": {
+      "title": "حلولنا الصناعية",
+      "desc": "أنظمة فولاذية مقاومة للصدأ مجهزة بالكامل، مصممة خصيصاً وفق وصفتك وسعتك والظروف المادية لمنشأتك.",
+      "view_details": "عرض التفاصيل",
+      "items": [
+        {
+          "title": "حلول تخزين فائقة السعة",
+          "desc": "صوامع فولاذية مقاومة للصدأ طويلة الأمد مع حسابات الحمل الريحي والزلزالي بسعات تصل إلى 150 طن، مع ميزة التجميع في الموقع.",
+          "image": "/assets/images/ana-sayfa/hizmet-depolama.webp",
+          "link": "paslanmaz-tanklar/depolama-tanklari"
+        },
+        {
+          "title": "خزانات معالجة عالية الدقة",
+          "desc": "تجانس مثالي لوصفاتك الصعبة. خطوط إنتاج مع مداخل ثرموديناميكية وأتمتة PLC.",
+          "image": "/assets/images/ana-sayfa/hizmet-proses.webp",
+          "link": "proses-sistemleri/karistiricili-tanklar"
+        },
+        {
+          "title": "مفاعلات كيميائية ثقيلة الأداء",
+          "desc": "تسامح صفري ضد التآكل العدواني والضغط العالي والتفريغ الكامل. أمان بسبائك التيتانيوم وفق معايير API 650 و ATEX.",
+          "image": "/assets/images/ana-sayfa/hizmet-mobil.webp",
+          "link": "proses-sistemleri/kimyasal-reaktorler"
+        },
+        {
+          "title": "خزانات غذائية وألبان فائقة النظافة",
+          "desc": "تصاميم معتمدة بموجب قانون الغذاء تقضي على مخاطر البكتيريا بتقنية عزل البولي يوريثان وأنظمة CIP الأوتوماتيكية.",
+          "image": "/assets/images/ana-sayfa/hizmet-sut.webp",
+          "link": "paslanmaz-tanklar/sut-tanklari"
+        }
+      ]
+    },
+    "why_us": {
+      "badge": "لماذا Welltech؟",
+      "title": "إنتاج ثقيل بمبدأ الصفر عيوب",
+      "desc": "على عكس صانعي الغلايات العاديين، نحاكي مشروعك وفق معايير ASME و EN ونضمن عملياتك الخطرة من خلال اختبار RT لكل درز لحام.",
+      "list": [
+        "EN 10204 3.1 إمكانية التتبع المادي",
+        "ISO 3834-2 هندسة لحام مؤهلة",
+        "الامتثال لتوجيه معدات الضغط (PED)"
+      ],
+      "box1": {
+        "title": "التصدير العالمي",
+        "desc": "تسليم كامل وفق المعايير الدولية من آسيا إلى أوروبا."
+      },
+      "box2": {
+        "title": "جودة من النوع A",
+        "desc": "موافقة دورية من منظمات التدقيق المستقلة."
+      }
+    }
+  },
+  "metadata_page": {
+    "title_suffix": "| Welltech®"
+  },
+  "blogPost": {
+    "notFoundTitle": "المقالة غير موجودة | Welltech®",
+    "backToPosts": "العودة إلى المنشورات",
+    "tags": {
+      "engineering": "هندسة",
+      "process": "معالجة"
+    },
+    "shareArticle": "مشاركة المقالة",
+    "sidebar": {
+      "engineeringTitle": "هندسة المشاريع",
+      "engineeringDesc": "تواصل مع فريقنا التقني لمشروع المفاعل المقاوم للضغط العالي والتفريغ الكامل وفقاً لمعايير ASME وPED.",
+      "getSupportBtn": "الحصول على دعم تقني",
+      "docsTitle": "الوثائق التقنية",
+      "docsSubtitle": "الشهادة والجودة",
+      "docsDesc": "افحص بالتفصيل معايير الإنتاج وإجراءات مراقبة الجودة والشهادات.",
+      "goToDocsBtn": "الذهاب إلى الوثائق"
+    }
+  },
+  "blogPage": {
+    "metadataTitle": "منشورات الصناعة والمدونة | Welltech®",
+    "metadataDesc": "مقالات محدثة حول تقنيات معالجة الفولاذ المقاوم للصدأ ومعايير الهندسة والحلول الصناعية.",
+    "breadcrumbHome": "الرئيسية",
+    "breadcrumbCorporate": "الشركة",
+    "breadcrumbBlog": "منشورات الصناعة",
+    "title": "منشورات الصناعة",
+    "description": "مقالات تقنية أعدها فريق هندستنا، تحليلات مفصلة للتطورات القطاعية وتقنيات المعالجة.",
+    "techArticle": "مقالة تقنية",
+    "readArticle": "قراءة المقالة",
+    "categoriesTitle": "فئات الهندسة",
+    "categories": {
+      "materials": "علم المواد",
+      "hygiene": "التصميم الصحي",
+      "standards": "معايير الهندسة",
+      "chemistry": "الصناعة الكيميائية"
+    },
+    "newsletterTitle": "الاشتراك في النشرة الإخبارية",
+    "newsletterDesc": "انضم إلى قائمتنا البريدية لتكون على اطلاع فوري بتغييرات المعايير القطاعية والتقنيات الجديدة.",
+    "newsletterPlaceholder": "البريد الإلكتروني للشركة",
+    "newsletterBtn": "اشترك"
+  },
+  "documentsPage": {
+    "metadata": {
+      "title": "الشهادات والجودة | Welltech®",
+      "description": "معايير إنتاج Welltech من الفولاذ المقاوم للصدأ ووثائق الجودة وISO 9001 وPED 2014/68/EU وإجراءات الاختبار غير التدميري."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "corporate": "الشركة",
+      "current": "الشهادات والجودة"
+    },
+    "hero": {
+      "title": "الشهادات والجودة",
+      "desc": "مبدأ الصفر عيوب والتتبع الكامل. كل معدة ننتجها مضمونة بشهادات معترف بها دولياً (PED وASME وISO)."
+    },
+    "globalStandards": {
+      "title": "معايير الجودة العالمية",
+      "desc": "كل لوح فولاذ مقاوم للصدأ يدخل خط إنتاج Welltech® يُسجَّل بشهادة مادة EN 10204 3.1 مما يضمن التتبع الكامل حتى تسليم المشروع."
+    },
+    "ndt": {
+      "title": "اختبارات غير تدميرية",
+      "items": {
+        "rt": "اختبار اللحام الإشعاعي (RT / أشعة سينية)",
+        "pt": "اختبار تشققات السطح بالسائل الناقع (PT)",
+        "ut": "فحص السماكة بالموجات فوق الصوتية (UT)",
+        "vt": "الفحص البصري غير التدميري (VT)",
+        "hydro": "اختبار ضغط هيدروستاتيكي لاختبار التسرب",
+        "roughness": "قياس خشونة السطح (Ra)"
+      }
+    },
+    "certifications": {
+      "title": "شهادات الشركة",
+      "note": "* يتم تدقيق منشأتنا بشكل دوري من قِبَل منظمات تدقيق مستقلة دولية (TÜV وSGS وBureau Veritas وما إلى ذلك).",
+      "tableHeaders": {
+        "standard": "المعيار / اللوائح",
+        "scope": "النطاق",
+        "status": "الحالة"
+      },
+      "status": {
+        "active": "نشط",
+        "compliant": "متوافق"
+      },
+      "scopes": {
+        "iso9001": "نظام إدارة الجودة",
+        "iso3834": "متطلبات جودة اللحام المعدني",
+        "ped": "توجيه معدات الضغط",
+        "asme": "معيار تصنيع أوعية الضغط",
+        "ce": "إعلان مطابقة الاتحاد الأوروبي"
+      }
+    },
+    "faq": {
+      "title": "أسئلة شائعة حول مراقبة الجودة",
+      "items": [
+        {
+          "q": "ما الوثائق التي تقدمونها عند التسليم؟",
+          "a": "نقدم 'ملف الجودة' (Data Book) عند تسليم المشروع، ويتضمن شهادات المواد EN 10204 3.1 وشهادات اللحامين وتقارير اختبارات NDT ومحاضر الاختبارات الهيدروستاتيكية والرسومات التقنية."
+        },
+        {
+          "q": "هل أنتم منفتحون على عمليات التفتيش من طرف ثالث؟",
+          "a": "بالتأكيد. بناءً على طلب عملائنا، نسمح لمنظمات مستقلة مثل TÜV SÜD وSGS وBureau Veritas أو Lloyd's Register بمرافقة عمليات الإنتاج والاختبار في مصنعنا."
+        }
+      ]
+    },
+    "sidebar": {
+      "iso": {
+        "title": "ISO 9001:2015",
+        "subtitle": "شهادة الجودة",
+        "desc": "يمكنك تنزيل شهادة ISO 9001:2015 الحالية لنظام إدارة الجودة لدينا بصيغة PDF.",
+        "btn": "تنزيل الوثيقة",
+        "fileUrl": "/assets/documents/ar/al-shahadat/welltech-shahadat-al-jawda-majmoua.pdf"
+      },
+      "catalog": {
+        "title": "الكتالوج المؤسسي",
+        "subtitle": "نظرة عامة",
+        "desc": "كتالوجنا العام للشركة يشمل جميع خطوط الإنتاج ومعلومات الطاقة الإنتاجية ومعايير الجودة.",
+        "btn": "تنزيل الكتالوج",
+        "fileUrl": "/assets/documents/ar/al-katalujat/welltech-al-kataluj-al-amm.pdf"
+      },
+      "department": {
+        "title": "قسم الجودة",
+        "desc": "تواصل مع قسمنا للحصول على طلبات شهادات مخصصة أو إجراءات مراقبة الجودة المتعلقة بمشروعك."
+      }
+    }
+  },
+  "aboutPage": {
+    "metadata": {
+      "title": "من نحن | Welltech®",
+      "description": "تقنيات معالجة وتخزين الفولاذ المقاوم للصدأ على مستوى عالمي من إزمير إلى العالم."
+    },
+    "jsonLd": {
+      "description": "من إزمير إلى 6 قارات؛ ننتج تقنيات معالجة وتخزين الفولاذ المقاوم للصدأ وفق المعايير الدولية (ASME وPED) لصناعات الأغذية والكيمياء والأدوية."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "corporate": "الشركة",
+      "current": "من نحن"
+    },
+    "hero": {
+      "titleStart": "قوة ",
+      "titleHighlight": "الهندسة",
+      "desc": "من إزمير إلى العالم؛ ننتج تقنيات معالجة وتخزين الفولاذ المقاوم للصدأ وفق المعايير الدولية (ASME وPED) لصناعات الأغذية والكيمياء والأدوية."
+    },
+    "roots": {
+      "title": "جذورنا",
+      "p1": "في منشأة الإنتاج الواقعة في منطقة كيمالباشا الصناعية المنظمة في إزمير، نصمم حلول المعالجة والتخزين الصناعية.",
+      "p2": "بوصفنا Welltech® International Engineering، لسنا مجرد مصنّعي آلات أو خزانات. نحن شريك حلول موثوق يرافقكم من بداية مشاريعكم حتى تشغيلها."
+    },
+    "global": {
+      "title": "من إزمير إلى 6 قارات...",
+      "desc": "من قاعدة إنتاجنا في تركيا، نقدم حلولاً هندسية وفق المعايير الدولية (ASME وPED) لأكثر من 30 دولة على 6 قارات."
+    },
+    "cards": {
+      "mission": {
+        "title": "مهمتنا",
+        "desc": "إنتاج تقنيات معالجة متينة وموفرة للطاقة وصحية تزيد من الكفاءة التشغيلية لعملائنا."
+      },
+      "vision": {
+        "title": "رؤيتنا",
+        "desc": "أن نصبح العلامة التجارية التركية الأكثر ثقة في تقنيات وعمليات الفولاذ المقاوم للصدأ عبر 6 قارات."
+      },
+      "quality": {
+        "title": "نهجنا في الجودة",
+        "desc": "تخضع جميع عملياتنا لشهادات دولية. يتم التحقق من كل تفصيل تقني وتسليمه من قبل مهندسينا الخبراء."
+      }
+    },
+    "cta": {
+      "title": "لنبني مشاريعكم معاً",
+      "desc": "تعرف على فريق هندستنا ذي الخبرة لتحديث مصنعك أو زيادة الطاقة الإنتاجية أو تركيب منشأة جاهزة.",
+      "btn": "تواصل معنا"
+    }
+  },
+  "contactPage": {
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "corporate": "الشركة",
+      "current": "اتصل بنا"
+    },
+    "hero": {
+      "title": "مركز التواصل",
+      "desc": "في منشأة الإنتاج الحديثة في إزمير كيمالباشا، نطور تقنيات الفولاذ المقاوم للصدأ على مستوى عالمي. تواصل مباشرة مع فريقنا التقني لمشاريعك."
+    },
+    "sidebar": {
+      "title": "المواقع",
+      "hq": {
+        "title": "المقر الرئيسي",
+        "address": "المنطقة الصناعية المنظمة، Kemalpaşa OSB<br />الشارع العاشر رقم 6، 35730<br />Kemalpaşa / إزمير / تركيا"
+      },
+      "factory": {
+        "title": "مرفق الإنتاج",
+        "address": "Ulucak İstiklal، Gazi Blvd. رقم 169<br />35735 Kemalpaşa / إزمير / تركيا"
+      },
+      "phone": {
+        "title": "الدعم التقني والمبيعات"
+      },
+      "whatsapp": {
+        "title": "خط واتساب"
+      },
+      "email": {
+        "title": "التواصل المؤسسي"
+      },
+      "hours": {
+        "title": "ساعات الزيارة والدعم",
+        "desc1": "أيام الأسبوع: 08:30 - 18:30",
+        "desc2": "(التوقيت التركي، GMT+3)"
+      },
+      "social": {
+        "title": "تابعنا"
+      }
+    },
+    "form": {
+      "title": "نموذج طلب عرض أسعار المشروع",
+      "name": "الاسم الكامل *",
+      "company": "اسم الشركة",
+      "email": "عنوان البريد الإلكتروني *",
+      "phone": "رقم الهاتف",
+      "subject": {
+        "label": "المعدات / نظام المعالجة المطلوب",
+        "placeholder": "يرجى اختيار مجموعة المنتجات...",
+        "groups": {
+          "tanks": "خزانات الفولاذ المقاوم للصدأ",
+          "process": "أنظمة المعالجة",
+          "hygienic": "حلول النقل الصحي",
+          "other": "خدمات أخرى"
+        },
+        "options": {
+          "tanks_1": "خزانات تخزين صناعية",
+          "tanks_2": "أنظمة تخزين زيت الزيتون",
+          "tanks_3": "خزانات معالجة الألبان والأغذية",
+          "tanks_4": "خزانات كيميائية وحمضية",
+          "process_1": "خزانات معالجة مع مقلب",
+          "process_2": "مفاعلات كيميائية وصيدلانية",
+          "process_3": "مجانس تقص عالٍ",
+          "process_4": "وحدات معالجة متنقلة (أنظمة Skid)",
+          "process_5": "خزانات بغلاف تسخين/تبريد",
+          "process_6": "التخمير والمفاعلات الحيوية",
+          "process_7": "أنظمة CIP أوتوماتيكية بالكامل",
+          "hygienic_1": "مضخات طاردة مركزية",
+          "hygienic_2": "مضخات إزاحة موجبة",
+          "hygienic_3": "مضخات ذاتية السحب",
+          "hygienic_4": "مضخات البرميل",
+          "hygienic_5": "مضخات حجاب هوائية",
+          "hygienic_6": "مضخات أحادية",
+          "other_1": "تركيب منشأة جاهزة",
+          "other_2": "طلب خاص / غير موجود في كتالوجكم"
+        }
+      },
+      "message": {
+        "label": "تفاصيل المشروع *",
+        "placeholder": "مثال: نحتاج إلى خزان معالجة بسعة 20 طن مع مقلب من مادة 316L..."
+      },
+      "submit": {
+        "loading": "جارٍ الإرسال...",
+        "idle": "إرسال طلب عرض الأسعار"
+      },
+      "status": {
+        "errorFields": "يرجى ملء الحقول المطلوبة (الاسم والبريد الإلكتروني وتفاصيل المشروع).",
+        "loading": "يتم إرسال طلب عرض الأسعار إلى خوادمنا...",
+        "success": "تم استلام طلب عرض الأسعار بنجاح! سيتواصل معك فريقنا التقني في أقرب وقت ممكن.",
+        "errorServer": "حدث خطأ في الخادم أثناء إرسال البريد الإلكتروني. يرجى المحاولة مرة أخرى.",
+        "errorConnection": "حدث خطأ في الاتصال. يرجى التحقق من اتصالك بالإنترنت."
+      }
+    }
+  },
+  "stainlessTanksPage": {
+    "metadata": {
+      "title": "خزانات الفولاذ المقاوم للصدأ | Welltech®",
+      "description": "حلول خزانات صناعية عالية الجودة من الفولاذ المقاوم للصدأ لزيت الزيتون والألبان والكيمياء والتخزين العام."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "current": "خزانات الفولاذ المقاوم للصدأ"
+    },
+    "hero": {
+      "title": "خزانات الفولاذ المقاوم للصدأ",
+      "desc": "حلول تخزين ومعالجة متينة، مُصمَّمة وفق احتياجاتك القطاعية المحددة ومصنوعة وفق معايير الجودة الدولية (ASME/PED)."
+    },
+    "categories": [
+      {
+        "title": "خزانات تخزين صناعية",
+        "desc": "حلول فولاذية مقاومة للصدأ 304/316L عالية الحجم لتخزين المياه والمواد الخام العامة."
+      },
+      {
+        "title": "أنظمة تخزين زيت الزيتون",
+        "desc": "خزانات ذات قاع مخروطي ومسطح مع نظام وسادة نيتروجين يقطع التلامس مع الهواء ويحافظ على الحموضة."
+      },
+      {
+        "title": "خزانات معالجة الألبان والأغذية",
+        "desc": "تصاميم بخشونة سطح Ra < 0.4µm وأنظمة غسيل CIP لأقصى درجات النظافة."
+      },
+      {
+        "title": "خزانات كيميائية وحمضية",
+        "desc": "مفاعلات 316L بمقاومة عالية للتآكل وتقنية لحام خاصة للسوائل العدوانية."
+      }
+    ],
+    "viewModels": "عرض النماذج",
+    "cta": {
+      "title": "هل لديك احتياجات معالجة خاصة؟",
+      "desc": "تواصل مع قسم الهندسة لدينا للحصول على مقاسات خاصة أو ضغط عالٍ (ASME) أو متطلبات مفاعلات مناطق خطرة معتمدة ATEX.",
+      "btn": "طلب عرض أسعار"
+    }
+  },
+  "storageTanksPage": {
+    "metadata": {
+      "title": "خزانات التخزين الصناعية | Welltech® International",
+      "description": "خزانات تخزين سوائل من الفولاذ المقاوم للصدأ بسعة تصل إلى 150 طن وفق المعايير الدولية."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "tanks": "خزانات الفولاذ المقاوم للصدأ",
+      "current": "خزانات التخزين"
+    },
+    "hero": {
+      "title": "خزانات التخزين الصناعية",
+      "desc": "سعة تصل إلى 150 طن لاحتياجاتك التخزينية الضخمة. حلول فولاذية مقاومة للصدأ طويلة الأمد وفق معايير هندسة ASME وEN."
+    },
+    "engineering": {
+      "title": "قوة هندسية 150 طن",
+      "desc": "تقدم خط إنتاج Welltech® نطاقاً واسعاً من السعات من خزانات بوتيك بسعة 1.000 لتر إلى خزانات ضخمة بسعة 150 طن (150.000 لتر) في الموقع."
+    },
+    "features": {
+      "title": "المواصفات التقنية",
+      "items": {
+        "1": "سعة قصوى 150 طن",
+        "2": "فولاذ عالي الجودة AISI 304 / 316L",
+        "3": "لحام بلازما أوتوماتيكي بالكامل",
+        "4": "قاع مخروطي أو محدب أو مسطح",
+        "5": "تحليلات الأحمال الزلزالية والريحية",
+        "6": "أتمتة المستوى والحجم"
+      }
+    },
+    "capacityTable": {
+      "title": "جدول السعة القياسي",
+      "note": "* القيم أعلاه قياسية. يتم إعادة تحديد نسب القطر/الارتفاع من قبل مهندسينا وفقاً لارتفاع منشأتك.",
+      "headers": {
+        "volume": "الحجم",
+        "diameter": "القطر (مم)",
+        "height": "الارتفاع (مم)",
+        "material": "المادة"
+      },
+      "onSite": "التصنيع في الموقع"
+    },
+    "faq": {
+      "title": "أسئلة شائعة حول أنظمة التخزين",
+      "items": [
+        {
+          "q": "كيف يتم نقل خزانات 150 طن إلى المنشأة؟",
+          "a": "يتم بناء الخزانات الضخمة بسعة 50.000 لتر وما فوق في منشأتك باستخدام طريقة 'التصنيع في الموقع' من قبل فرق اللحام المتخصصة لدينا."
+        },
+        {
+          "q": "لماذا يعد تحليل الحمل الزلزالي مهماً؟",
+          "a": "خاصةً في الخزانات التي تزيد عن 20 طناً، يمكن أن يؤدي تأثير التمايل إلى قلب الخزان. نحسب هذه القوى مسبقاً."
+        }
+      ]
+    },
+    "projects": {
+      "title": "أمثلة تطبيقاتنا",
+      "p1": "مشروع 01",
+      "p2": "مشروع 02",
+      "p3": "مشروع 03",
+      "p4": "مشروع 04"
+    },
+    "sidebar": {
+      "spec": {
+        "title": "المواصفات التقنية",
+        "subtitle": "وثيقة PDF DOC-01",
+        "desc": "حسابات سماكة الجدار وشهادات اللحام وتفاوتات الحمل الساكن.",
+        "btn": "تنزيل الوثيقة (PDF)",
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-01-khazzanat-al-takhzin.pdf"
+      },
+      "reference": {
+        "badge": "مرجع مميز",
+        "desc": "تركيب بطارية خزانات تخزين من الفولاذ المقاوم للصدأ بسعة 150.000 لتر مصنّعة في الموقع لمنشأة كيميائية كبيرة.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "تخطيط السعة",
+        "desc": "شارك أبعاد مساحتك وخصائص السائل لمشاريع التخزين حتى 150 طن.",
+        "whatsappMsg": "مرحباً، أود الحصول على معلومات حول سعة وأسعار خزانات التخزين الصناعية.",
+        "btn": "طلب عرض أسعار →"
+      }
+    }
+  },
+  "chemicalTanksPage": {
+    "metadata": {
+      "title": "الخزانات الكيميائية وخزانات الأحماض | Welltech®",
+      "description": "سعة تصل إلى 150 طن، حلول خزانات كيميائية مقاومة للتآكل العدواني API 650 بمواد 316Ti وHastelloy."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "tanks": "خزانات الفولاذ المقاوم للصدأ",
+      "current": "الخزانات الكيميائية"
+    },
+    "hero": {
+      "title": "الخزانات الكيميائية وخزانات الأحماض",
+      "desc": "هندسة تسامح صفري لأقصى درجة خطورة. أنظمة تخزين ثقيلة الأداء حتى 150 طن، مقاومة تماماً للتآكل والضغط."
+    },
+    "corrosion": {
+      "title": "التحكم في التآكل العدواني",
+      "desc": "حمض الكبريتيك أو حمض النيتريك أو المذيبات المتفجرة... يمكن للسوائل في الصناعة الكيميائية أن تذيب الفولاذ العادي في أيام. تطبق Welltech® معايير API 650 وEN 14015 مستخدمةً AISI 316L أو AISI 316Ti أو Hastelloy."
+    },
+    "features": {
+      "title": "الأمان والتجهيزات",
+      "items": {
+        "1": "سعة 150 طن (150.000 لتر)",
+        "2": "سبيكة AISI 316Ti & Hastelloy C276",
+        "3": "اختبار لحام RT (أشعة سينية) 100%",
+        "4": "جاهز لتكامل ATEX (مضاد للانفجار)",
+        "5": "صمامات تخفيف الضغط الزائد",
+        "6": "الامتثال لمتطلبات حوض الاحتواء"
+      }
+    },
+    "capacityTable": {
+      "title": "السعة ثقيلة الأداء وسماكة الجدار",
+      "note": "* وفقاً لكثافة المادة الكيميائية، تزداد سماكة الجدار بشكل ملحوظ.",
+      "headers": {
+        "volume": "الحجم",
+        "diameter": "القطر (مم)",
+        "height": "الارتفاع (مم)",
+        "thickness": "الحد الأدنى لسماكة الجدار"
+      },
+      "customRow": "تصميم API 650 مخصص للمواقع الضخمة",
+      "heavy": " (ثقيل)"
+    },
+    "faq": {
+      "title": "أسئلة شائعة حول التخزين الكيميائي",
+      "items": [
+        {
+          "q": "ما هي اختبارات اللحام غير التدميرية NDT؟",
+          "a": "في الخزانات الكيميائية الخطرة، يمكن أن يسبب فجوة لحام غير مرئية انفجاراً. نطبق اختبارات RT وPT على درزات اللحام."
+        },
+        {
+          "q": "أي فولاذ مقاوم للصدأ أختار لأي حمض؟",
+          "a": "للأحماض المؤكسدة مثل حمض النيتريك، قد يكون AISI 304L مناسباً. لحمض الكبريتيك أو الفوسفوريك، يجب استخدام AISI 316L أو 316Ti أو Hastelloy."
+        }
+      ]
+    },
+    "projects": {
+      "title": "أمثلة تطبيقاتنا",
+      "p1": {
+        "title": "مشروع 01",
+        "alt": "خزان حمض الكبريتيك"
+      },
+      "p2": {
+        "title": "مشروع 02",
+        "alt": "اختبار لحام ثقيل الأداء"
+      },
+      "p3": {
+        "title": "مشروع 03",
+        "alt": "تخزين سبيكة Hastelloy"
+      },
+      "p4": {
+        "title": "مشروع 04",
+        "alt": "بطارية خزانات مصنع بتروكيماويات"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "المواصفات التقنية",
+        "subtitle": "وثيقة PDF DOC-04",
+        "desc": "مقاومات كثافة المواد الكيميائية المحسوبة وفق معايير API 650 وتفاصيل اختبارات الأشعة السينية والتجهيزات الأمنية.",
+        "btn": "تنزيل الوثيقة (PDF)",
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-04-khazzanat-kimiya-iyya.pdf"
+      },
+      "reference": {
+        "badge": "مرجع مميز",
+        "desc": "\"بطارية خزانات تخزين حمض الكبريتيك عالية المقاومة للتآكل بسبيكة Hastelloy والأتمتة الكاملة لمصنع بتروكيماويات.\"",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "تصميم مشروع آمن",
+        "desc": "شارك اسم المادة الكيميائية وتركيزها والحجم المستهدف (حتى 150 طن) لتخزينها.",
+        "whatsappMsg": "مرحباً، أود الحصول على معلومات حول سعة وأسعار الخزانات الكيميائية وخزانات الأحماض.",
+        "btn": "تحليل المخاطر وعرض الأسعار →"
+      }
+    }
+  },
+  "milkTanksPage": {
+    "metadata": {
+      "title": "خزانات تبريد وتخزين الحليب من الفولاذ المقاوم للصدأ | Welltech®",
+      "description": "خزانات تخزين الحليب الخام من الفولاذ المقاوم للصدأ بسعة تصل إلى 150 طن، فائقة النظافة، مع نظام CIP وعزل البولي يوريثان."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "tanks": "خزانات الفولاذ المقاوم للصدأ",
+      "current": "خزانات الألبان"
+    },
+    "hero": {
+      "title": "خزانات تخزين الحليب",
+      "desc": "تصميم فائق النظافة يستهدف نمو بكتيري صفري لعمليات الألبان الخاصة بك. حلول تخزين ضخمة تصل إلى 150 طن مع عزل بولي يوريثان عالي السعة."
+    },
+    "engineering": {
+      "title": "فائق النظافة وسلسلة التبريد",
+      "desc": "في عمليات الألبان، أي عيب في اللحام أو خشونة في السطح يمكن أن يتحول إلى بؤرة بكتيرية. تتميز خزانات حليب Welltech® بأسطح مصقولة كالمرآة وتوصيلات لحام مبيضة بالكامل. للمنشآت التي لا تريد قطع سلسلة التبريد عند +4°C، يُستخدم عزل البولي يوريثان عالي الكثافة وأغطية تبريد roll-bond."
+    },
+    "features": {
+      "title": "المواصفات التقنية",
+      "items": {
+        "1": "طاقة إنتاجية 150 طن (150.000 لتر)",
+        "2": "AISI 304 / 316L صحي بالكامل",
+        "3": "نظام غسيل CIP (التنظيف في المكان)",
+        "4": "عزل حراري بالرغوة البولي يوريثانية",
+        "5": "غلاف تبريد Dimple (Roll-Bond)",
+        "6": "مقلب منخفض السرعة لمنع فصل الدهون"
+      }
+    },
+    "capacityTable": {
+      "title": "سعات خزانات الحليب القياسية",
+      "note": "* القيم أعلاه للمرجع. يتم تصميم بطاريات الخزانات حتى 150.000 لتر للمنشآت الضخمة بشكل مخصص من قبل فريق خبرائنا.",
+      "headers": {
+        "volume": "الحجم",
+        "diameter": "القطر (مم)",
+        "insulation": "العزل",
+        "material": "المادة"
+      },
+      "customRow": "صوامع حليب ضخمة - خارجية / تركيب في الموقع",
+      "insulationTypes": {
+        "50": "50مم بولي يوريثان",
+        "60": "60مم بولي يوريثان",
+        "80": "80مم بولي يوريثان",
+        "100": "100مم بولي يوريثان"
+      },
+      "rows": [
+        {
+          "v": "5.000 L",
+          "d": "1.800",
+          "i": "50",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "10.000 L",
+          "d": "2.300",
+          "i": "60",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "15.000 L",
+          "d": "2.400",
+          "i": "60",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "20.000 L",
+          "d": "2.600",
+          "i": "80",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "25.000 L",
+          "d": "2.800",
+          "i": "80",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "50.000 L",
+          "d": "3.200",
+          "i": "100",
+          "t": "304 / 316L"
+        }
+      ],
+      "customRowVolume": "150.000 L"
+    },
+    "faq": {
+      "title": "أسئلة شائعة حول معالجة الحليب",
+      "items": [
+        {
+          "q": "لماذا تُستخدم المقلبات في خزانات الحليب؟",
+          "a": "طبقة الدهون في الحليب الخام المخزن لفترة طويلة ترتفع إلى السطح وتتحول إلى قشدة. للحفاظ على تجانس الحليب، يتم تركيب مقلبات ذات مضارب بطيئة جداً (حوالي 20-30 دورة/دقيقة)."
+        },
+        {
+          "q": "ما هو نظام CIP (التنظيف في المكان) بالضبط؟",
+          "a": "هو نظام تنظيف أوتوماتيكي يُنفَّذ باستخدام الحمض والقلوي والماء الساخن عبر صمامات أوتوماتيكية ومضخات ضغط عالٍ وكرات رش، دون دخول بشري إلى الخزان."
+        }
+      ]
+    },
+    "projects": {
+      "title": "أمثلة تطبيقاتنا",
+      "p1": {
+        "title": "مشروع 01",
+        "alt": "إنتاج خزان حليب معزول"
+      },
+      "p2": {
+        "title": "مشروع 02",
+        "alt": "تركيب صومعة حليب خارجية"
+      },
+      "p3": {
+        "title": "مشروع 03",
+        "alt": "تركيب نظام CIP"
+      },
+      "p4": {
+        "title": "مشروع 04",
+        "alt": "بطارية خزانات مصنع الألبان"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "المواصفات التقنية",
+        "subtitle": "وثيقة PDF DOC-03",
+        "desc": "معايير تلميع السطح (قيم Ra) الخاصة بصناعة الألبان وكثافة عزل البولي يوريثان وتصميم CIP.",
+        "btn": "تنزيل الوثيقة (PDF)",
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-03-khazzanat-al-halib.pdf"
+      },
+      "reference": {
+        "badge": "مرجع مميز",
+        "desc": "\"مشروع صوامع تخزين حليب خارجية بسعة 100.000 لتر مع عزل بولي يوريثان لعلامة ألبان وطنية.\"",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "لنوسع منشأتك",
+        "desc": "لنصمم بطارية خزانات صحية بسعات تصل إلى 150 طن لمصنع الألبان أو منشأة إنتاج الحليب الضخمة الخاصة بك.",
+        "whatsappMsg": "مرحباً، أود الحصول على معلومات تقنية وأسعار حول خزانات تخزين وتبريد الحليب.",
+        "btn": "طلب عرض أسعار →"
+      }
+    }
+  },
+  "oliveOilTanksPage": {
+    "metadata": {
+      "title": "خزانات تخزين زيت الزيتون بوسادة النيتروجين | Welltech®",
+      "description": "خزانات زيت زيتون مخروطية من الفولاذ المقاوم للصدأ حتى 150 طن تقلل الأكسدة إلى الصفر بتقنية الغاز الخامل."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "tanks": "خزانات الفولاذ المقاوم للصدأ",
+      "current": "خزانات زيت الزيتون"
+    },
+    "hero": {
+      "title": "أنظمة تخزين زيت الزيتون",
+      "desc": "تقنية وسادة النيتروجين للحفاظ على محصولك الثمين بنكهة اليوم الأول لسنوات. حلول فولاذية مقاومة للصدأ مخصصة حتى 150 طن."
+    },
+    "engineering": {
+      "title": "تخزين معجزة هندسية",
+      "desc": "أكبر أعداء تخزين زيت الزيتون هما الهواء (الأكسجين) والضوء. خزانات Welltech® مجهزة بتجهيزات خاصة مناسبة لإخلاء الهواء الداخلي وضخ غاز النيتروجين بدلاً منه. تقلل هذه التقنية الأكسدة إلى الصفر. من المنشآت البوتيكية الصغيرة إلى المنشآت الضخمة بسعة 150 طن، نصنع خزانات ذات قاع مخروطي أو مسطح."
+    },
+    "features": {
+      "title": "المواصفات التقنية",
+      "items": {
+        "1": "نظام وسادة النيتروجين (الخامل)",
+        "2": "خيارات سعة تصل إلى 150 طن",
+        "3": "قاع مخروطي مع تصريف كامل",
+        "4": "AISI 304 / 316L صالح للأغذية",
+        "5": "خيارات عزل الضوء والحرارة",
+        "6": "صمامات أخذ العينات والمستوى"
+      }
+    },
+    "capacityTable": {
+      "title": "السعات والأبعاد القياسية",
+      "note": "* القيم في الجدول للمرجع. يوفر فريق هندسة Welltech تحديد الأبعاد المخصص حتى 150 طن.",
+      "headers": {
+        "volume": "الحجم",
+        "diameter": "القطر (مم)",
+        "height": "الارتفاع (مم)",
+        "thickness": "سماكة الجدار"
+      },
+      "customRow": "بطاريات خزانات ضخمة - تركيب في الموقع"
+    },
+    "faq": {
+      "title": "أسئلة شائعة حول تخزين زيت الزيتون",
+      "items": [
+        {
+          "q": "لماذا يُستخدم النيتروجين في تخزين زيت الزيتون؟",
+          "a": "تلامس زيت الزيتون مع الهواء (الأكسجين) يؤدي إلى التزنخ. بما أن غاز النيتروجين أثقل من الهواء، عند ضخه في الخزان يشكل وسادة واقية فوق الزيت."
+        },
+        {
+          "q": "هل أختار قاعاً مخروطياً أم مسطحاً؟",
+          "a": "لتخمير زيت الزيتون غير المصفى (الطازج)، تجمع الخزانات ذات القاع المخروطي الكامل الرواسب في نقطة واحدة وتوفر تصريفاً سهلاً. للزيوت المصفاة، تناسب الخزانات الكبيرة ذات القاع المسطح."
+        }
+      ]
+    },
+    "projects": {
+      "title": "أمثلة تطبيقاتنا",
+      "p1": {
+        "title": "مشروع 01",
+        "alt": "خزان زيت زيتون بقاع مخروطي"
+      },
+      "p2": {
+        "title": "مشروع 02",
+        "alt": "تركيب نظام وسادة النيتروجين"
+      },
+      "p3": {
+        "title": "مشروع 03",
+        "alt": "تركيب منشأة بوتيك"
+      },
+      "p4": {
+        "title": "مشروع 04",
+        "alt": "بطارية تخزين ضخمة"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "المواصفات التقنية",
+        "subtitle": "وثيقة PDF DOC-02",
+        "desc": "وثيقة تحتوي على التحديد الأبعادي وسماكات الجدار وزوايا القاع المخروطي وتفاصيل تجهيزات النيتروجين.",
+        "btn": "تنزيل الوثيقة (PDF)",
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-02-khazzanat-zayt-al-zaytun.pdf"
+      },
+      "reference": {
+        "badge": "مرجع مميز",
+        "desc": "بطارية خزانات فولاذية مقاومة للصدأ بقاع مخروطي ووسادة نيتروجين وأتمتة كاملة لمنشأة إنتاج زيت زيتون كبيرة.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "هل لديك مشروع مخصص؟",
+        "desc": "احصل على دعم تصميم المشروع من مهندسينا لبطاريات الخزانات بوسادة النيتروجين حتى 150 طن.",
+        "whatsappMsg": "مرحباً، أود الحصول على معلومات تقنية وأسعار حول خزانات تخزين زيت الزيتون.",
+        "btn": "طلب عرض أسعار →"
+      }
+    }
+  },
+  "pumpsPage": {
+    "metadata": {
+      "title": "مضخات صناعية من الفولاذ المقاوم للصدأ | Welltech®",
+      "description": "مضخات طاردة مركزية وإزاحة موجبة وذاتية السحب وبرميل وحجاب هوائي وأحادية صناعية صحية."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "current": "المضخات الصناعية"
+    },
+    "hero": {
+      "title": "حلول نقل صحية",
+      "desc": "أنظمة مضخات صناعية تنقل جميع أنواع المنتجات بالتقنية الأنسب لعمليتك."
+    },
+    "categories": [
+      {
+        "title": "مضخات طاردة مركزية",
+        "desc": "حلول مثالية للنقل السريع والمتواصل والصحي (CIP) للمنتجات منخفضة اللزوجة كالحليب والماء والعصائر وزيت الزيتون."
+      },
+      {
+        "title": "مضخات الإزاحة الموجبة",
+        "desc": "مضخات فصوص وروتور دقيقة تنقل المنتجات عالية اللزوجة كالعسل والشوكولاته والكريمات دون تغيير بنيتها."
+      },
+      {
+        "title": "مضخات ذاتية السحب",
+        "desc": "أنظمة مصممة خصيصاً لنقل السوائل المخلوطة بالهواء والرغوة."
+      },
+      {
+        "title": "مضخات البرميل",
+        "desc": "حلول محمولة لتفريغ الأحماض والمواد الكيميائية بأمان من البراميل وخزانات IBC."
+      },
+      {
+        "title": "مضخات الحجاب الهوائية",
+        "desc": "مضخات تعمل بالهواء المضغوط في البيئات القابلة للاشتعال (ATEX) للمنتجات التي تحتوي على جسيمات صلبة."
+      },
+      {
+        "title": "مضخات أحادية",
+        "desc": "مضخات لولبية لاهزاز لنقل المنتجات شديدة اللزوجة كالحمأة والعسل والعجين."
+      }
+    ],
+    "viewModels": "عرض النماذج",
+    "cta": {
+      "title": "اختيار المضخة الصحيح",
+      "desc": "دع مهندسينا يحسبون قوة المضخة الأنسب لعمليتك.",
+      "btn": "دعم هندسي"
+    }
+  },
+  "positivePumpsPage": {
+    "metadata": {
+      "title": "Positive Displacement & Lobe Pumps | Welltech®",
+      "description": "Hygienic lobe pumps for transfer of high-viscosity products such as honey, chocolate, tomato paste and cosmetics without crushing."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "pumps": "المضخات",
+      "current": "Positive Displacement Pumps"
+    },
+    "hero": {
+      "title": "Positive Displacement Pumps",
+      "desc": "Hygienic lobe pump systems that transfer high-viscosity fluids such as honey, chocolate, tomato paste and cosmetics without crushing or damaging their cellular structure."
+    },
+    "technology": {
+      "title": "Precise & Gentle Transfer",
+      "desc": "The high-speed impellers of centrifugal pumps damage dense products like honey or chocolate. Our positive displacement (lobe) pumps transport the fluid in large chambers through stainless steel lobes rotating at very low speeds without contact. The cellular integrity (particle, consistency) of the product is never compromised. Even the densest products up to 100,000 cP viscosity can be pumped at constant high pressure.",
+      "imgAlt": "Lobe Rotor System Detail"
+    },
+    "features": {
+      "title": "Technical Engineering Features",
+      "imgAlt": "Gearbox Motor Connection",
+      "items": [
+        "Low-RPM Transfer",
+        "AISI 316L Food-Grade Body and Lobes",
+        "Gearbox & Inverter for Variable Flow Rates",
+        "Heating Jacket Front Cover Option for Chocolate",
+        "Double-Acting Carbon Mechanical Seal",
+        "Reversible (Bi-Directional) Flow"
+      ]
+    },
+    "table": {
+      "title": "Lobe Pump Capacity Table",
+      "note": "* As viscosity increases, the pump speed must be reduced. Gearbox selection is calculated by our engineers based on the specific product to be transferred (tomato paste, honey, glucose, etc.).",
+      "imgAlt": "Lobe Pump Technical Drawing",
+      "headers": [
+        "Series No",
+        "Max. Flow (m³/h)",
+        "Max. Pressure (Bar)",
+        "Connection Diameter"
+      ],
+      "rows": [
+        {
+          "model": "WT-L 20",
+          "flow": "3 - 5 m³/h",
+          "pressure": "5 - 10 Bar",
+          "connection": "DN 40 / 1.5\"",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-L 40",
+          "flow": "8 - 12 m³/h",
+          "pressure": "5 - 10 Bar",
+          "connection": "DN 50 / 2.0\"",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-L 80",
+          "flow": "18 - 25 m³/h",
+          "pressure": "5 - 12 Bar",
+          "connection": "DN 65 / 2.5\"",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-L 150",
+          "flow": "30 - 45 m³/h",
+          "pressure": "5 - 12 Bar",
+          "connection": "DN 100 / 4.0\"",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Positive Displacement FAQ",
+      "items": [
+        {
+          "q": "Are lobe pumps suitable for CIP (Clean-in-Place) cleaning?",
+          "a": "Yes, as they are designed to meet food and pharmaceutical industry standards (EHEDG and 3A), they can be cleaned excellently with hot water and caustic through the pipeline."
+        },
+        {
+          "q": "How do you prevent freezing during chocolate transfer?",
+          "a": "Chocolate and vegetable oils tend to solidify at room temperature. By adding a jacket option to the front cover of our lobe pumps and circulating hot water through it, we guarantee that the product remains liquid."
+        },
+        {
+          "q": "Why can't centrifugal pumps handle honey?",
+          "a": "The impellers of centrifugal pumps rotate at high speed. When a high-viscosity fluid like honey hits the impeller, it creates great resistance that can burn the motor or damage the molecular structure (crystallization) of the product. Lobe pumps overcome this density with low RPM and high torque."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "Hygienic Lobe Pump"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "Honey Transfer Line"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "Chocolate Pump with Jacketed Cover"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "Gearbox and Motor Group"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Document",
+        "subtitle": "DOK-11 PDF Specification",
+        "desc": "Lobe pump viscosity/speed diagrams, jacketed cover dimensions and gearbox power selection table.",
+        "btn": "تحميل الرسوم البيانية (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-loblu-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Reference Application",
+        "imgAlt": "Cosmetic Transfer Line Reference",
+        "desc": "Speed-controlled (inverter-driven), double-lobe, 316L hygienic displacement pump integration for a facility producing body lotions and creams.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "Torque & Power Calculation",
+        "desc": "Tell us the type and density (cP) of the product you will transfer, and we will select the most suitable gearbox-driven lobe pump.",
+        "btn": "طلب عرض سعر →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20y%C3%BCksek%20viskoziteli%20%C3%BCr%C3%BCn%C3%BCm%20i%C3%A7in%20loblu%20pompa%20kapasite%20hesaplamas%C4%B1%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "centrifugalPumpsPage": {
+    "metadata": {
+      "title": "Hygienic Centrifugal Pumps | Welltech®",
+      "description": "High-flow, CIP-compatible, stainless steel hygienic centrifugal pumps for milk, water, juice and olive oil transfer."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "pumps": "المضخات",
+      "current": "Centrifugal Pumps"
+    },
+    "hero": {
+      "title": "Hygienic Centrifugal Pumps",
+      "desc": "Maximum flow rate and hydrodynamic efficiency for low-viscosity fluids. Transfer systems fully compliant with CIP standards for milk, olive oil and beverage processes."
+    },
+    "technology": {
+      "title": "High Flow, Continuous Transfer",
+      "desc": "Centrifugal pumps pressurize the fluid using the centrifugal force generated by the rotation of the motor-driven impeller. It is the most ideal, long-lasting and low-cost solution for transferring low-viscosity (1-500 cP) products such as milk, juice, wine, olive oil and liquid chemicals. Offered with optimized motor powers based on your facility's pipe diameter, desired flow rate and discharge head (mWC).",
+      "imgAlt": "Hydrodynamic Impeller System"
+    },
+    "features": {
+      "title": "Equipment & Material Features",
+      "imgAlt": "Stainless Steel Motor Enclosure",
+      "items": [
+        "AISI 316L Precision Cast Body",
+        "Open and Closed Impeller Options",
+        "SiC/SiC/EPDM Mechanical Seal",
+        "Full Compatibility with CIP and SIP Systems",
+        "Stainless Steel Motor Enclosure",
+        "Low NPSH (Cavitation Protection)"
+      ]
+    },
+    "table": {
+      "title": "Centrifugal Pump Capacity Table",
+      "note": "* Values in the table are referenced to water (1 cP) viscosity. Our hydraulic engineers will select the correct motor based on the number of elbows and discharge head in your line.",
+      "imgAlt": "Pump Performance Curve",
+      "headers": [
+        "Series No",
+        "Max. Flow (m³/h)",
+        "Discharge Head (mWC)",
+        "Motor Power (kW)"
+      ],
+      "rows": [
+        {
+          "model": "WT-C 20",
+          "flow": "20 m³/h",
+          "head": "25 mWC",
+          "power": "1.5 - 2.2 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-C 40",
+          "flow": "40 m³/h",
+          "head": "35 mWC",
+          "power": "3.0 - 4.0 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-C 80",
+          "flow": "80 m³/h",
+          "head": "45 mWC",
+          "power": "5.5 - 7.5 kW",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-C 150",
+          "flow": "150 m³/h",
+          "head": "60 mWC",
+          "power": "11.0 - 15.0 kW",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Centrifugal Pump FAQ",
+      "items": [
+        {
+          "q": "What is the difference between open and closed impellers?",
+          "a": "For fully liquid products like milk and water, a closed impeller is used to achieve maximum pressure (mWC). However, for fluids containing small particles such as pulpy juice or grape must, an open impeller is preferred to prevent clogging."
+        },
+        {
+          "q": "What does pump cavitation mean?",
+          "a": "When there is insufficient liquid on the pump suction line or the pipe diameter is too narrow, the boiling point of the fluid drops and air bubbles form. These bubbles erode the metal when they hit the impeller blades. Our engineers eliminate this risk by selecting pumps with low NPSH values."
+        },
+        {
+          "q": "What should I do if the mechanical seal leaks?",
+          "a": "In our food pumps, sealing is provided by high-tech Carbon/Silicon Carbide mechanical seals instead of braided rope packing. In case of wear, the seal kit is designed to be easily replaced at your facility within minutes."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "Milk Transfer Pump"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "Mechanical Seal Detail"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "Hygienic Open Impeller Application"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "CIP Washing Line Pump"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Document",
+        "subtitle": "DOK-10 PDF Specification",
+        "desc": "Centrifugal pump performance curves, NPSH values and mechanical seal material compatibility table.",
+        "btn": "تحميل المنحنيات (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-10-santrifuj-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Featured Reference",
+        "imgAlt": "Milk Transfer Line Reference",
+        "desc": "CIP-compatible centrifugal pump battery with stainless cover and 40 m³/h capacity for a facility processing 500 tons of raw milk per day.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "Pump Selection",
+        "desc": "Tell us the type of liquid, your flow demand and pipeline length, and we will calculate the most efficient motor and impeller diameter.",
+        "btn": "حساب التدفق →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20santrifüj%20pompa%20kapasite%20hesaplamas%C4%B1%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "drumPumpsPage": {
+    "metadata": {
+      "title": "Industrial Drum & IBC Pumps | Welltech®",
+      "description": "Portable pump solutions for safe discharge of acids, chemicals and liquid foods from drums, IBC tanks and containers."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "pumps": "المضخات",
+      "current": "Drum Pumps"
+    },
+    "hero": {
+      "title": "Drum & IBC Tank Pumps",
+      "desc": "End product losses from manual discharge of raw materials. Lightweight, portable and highly efficient discharge units specially designed for acids, chemicals and liquid foods."
+    },
+    "technology": {
+      "title": "Safe Raw Material Discharge",
+      "desc": "In industrial production, raw materials are usually supplied in 200-liter drums or 1000-liter IBC tanks. Manual emptying of these containers causes both product loss and work accidents. Welltech drum pumps provide 99% discharge efficiency, leaving only a few drops of product at the bottom of the container thanks to the immersion-type tube design. They adapt to the most demanding field conditions with electric and pneumatic motor options.",
+      "imgAlt": "Drum Immersion Unit"
+    },
+    "features": {
+      "title": "Product & Motor Options",
+      "imgAlt": "High-Speed Electric Motor",
+      "items": [
+        "ATEX Certified Explosion-Proof Motor",
+        "AISI 316L or PP / PVDF Tube Options",
+        "Screw Type for High-Viscosity Honey and Tomato Paste",
+        "Stepless Precise Speed Control",
+        "1200mm Tube Length for IBC Tanks",
+        "Easy-to-Clean Modular Design"
+      ]
+    },
+    "table": {
+      "title": "Drum Pump Selection Table",
+      "note": "* The immersion tube material must be selected according to the corrosion table of the chemical to be transferred. ATEX motors must be used for flammable liquids.",
+      "imgAlt": "Pipe Dimensions and Assembly Drawing",
+      "headers": [
+        "Application",
+        "Tube Material",
+        "Tube Length (mm)",
+        "Viscosity (cP)"
+      ],
+      "rows": [
+        {
+          "application": "Standard Drum (200L)",
+          "material": "AISI 316L / PP",
+          "length": "1000 mm",
+          "viscosity": "0 - 800 cP",
+          "highlight": "blue"
+        },
+        {
+          "application": "IBC Tank (1000L)",
+          "material": "AISI 316L / PVDF",
+          "length": "1200 mm",
+          "viscosity": "0 - 1000 cP",
+          "highlight": "blue"
+        },
+        {
+          "application": "Viscous Food (Honey/Cream)",
+          "material": "Food-Grade 316L",
+          "length": "1000 - 1200 mm",
+          "viscosity": "Up to 100,000 cP",
+          "highlight": "orange"
+        },
+        {
+          "application": "Laboratory/Small Container",
+          "material": "PP / PVDF",
+          "length": "700 mm",
+          "viscosity": "0 - 200 cP",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Drum Discharge FAQ",
+      "items": [
+        {
+          "q": "Which motor should I choose for solvent or alcohol transfer?",
+          "a": "Standard electric motors can produce sparks when transferring flammable and combustible fluids. In this case, ATEX certified explosion-proof motors or pneumatic motors operating with compressed air must be used."
+        },
+        {
+          "q": "What is a screw-type (Eccentric Screw) drum pump used for?",
+          "a": "Standard drum pumps cannot draw products with very low fluidity such as honey, glucose or dense cosmetic creams. Screw-type drum pumps can effortlessly vacuum and pump products of this density thanks to their endless screw mechanism."
+        },
+        {
+          "q": "How is the pump tube cleaned?",
+          "a": "Welltech drum pumps have a modular design. The motor and tube parts are separated from each other within seconds. The shaft and impeller inside the tube can be easily removed and placed in a sterilization or CIP bath."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "ATEX Motor Chemical Transfer"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "PVDF Tube IBC Pump"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "Screw-Type Food Pump"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "Precise Flow Drum Discharge"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Document",
+        "subtitle": "DOK-12 PDF Specification",
+        "desc": "Chemical resistance table, motor speed ranges and IBC tank connection fittings technical document.",
+        "btn": "تحميل المواصفة (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-12-varil-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Reference Application",
+        "imgAlt": "Chemical Raw Material Transfer Reference",
+        "desc": "Automatic drum emptying station with ATEX certified, solvent-resistant PVDF tube for a paint factory.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "Motor Selection",
+        "desc": "Specify the raw material you will transfer and the number of drums, and we will determine the electric or pneumatic motor option together.",
+        "btn": "طلب عرض سعر →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20varil%20ve%20IBC%20bo%C5%9Faltma%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "projectsPage": {
+    "metadata": {
+      "title": "المشاريع المكتملة | Welltech®",
+      "description": "مشاريع الفولاذ المقاوم للصدأ الصناعية المُسلَّمة بنجاح من قِبل Welltech."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "current": "المشاريع المكتملة"
+    },
+    "hero": {
+      "title": "مراجع هندسية",
+      "desc": "لا نصنع الخزانات فحسب؛ بل نبني مواقع معالجة عالية التقنية تحتاجها الصناعة العالمية."
+    },
+    "labels": {
+      "capacity": "السعة",
+      "material": "المواد",
+      "standard": "المعيار",
+      "features": "المميزات"
+    },
+    "viewDetails": "عرض تفاصيل المشروع والتحليل التقني",
+    "cta": {
+      "title": "لنطور حلاً هندسياً لمشروعك",
+      "desc": "تواصل مع فريق خبرائنا لمتطلبات السعة والمعايير التقنية.",
+      "btn": "دعم تقني"
+    }
+  },
+  "processSystemsPage": {
+    "metadata": {
+      "title": "أنظمة العمليات الصناعية والمفاعلات | Welltech®",
+      "description": "خطوط إنتاج بخلاطات مصممة وفق معايير ASME وATEX للخلطات عالية اللزوجة والتفاعلات الخطرة."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "current": "أنظمة العمليات"
+    },
+    "hero": {
+      "title": "أنظمة العمليات",
+      "desc": "خطوط إنتاج بخلاطات مصممة وفق معايير ASME وATEX للخلطات عالية اللزوجة والتفاعلات الخطرة والعمليات الديناميكية الحرارية."
+    },
+    "viewModels": "استكشاف النماذج",
+    "categories": [
+      {
+        "title": "خزانات العمليات مع خلاط",
+        "desc": "تجانس مثالي بهندسة شفرات مصممة وفق احتياجاتك وأنظمة تسخين/تبريد ذات غلاف ديناميكي حراري."
+      },
+      {
+        "title": "مفاعلات كيميائية وصيدلانية",
+        "desc": "مفاعلات مقاومة للانفجار تتحمل 10 بار وفراغ تام، من سبائك 316Ti / Hastelloy، وفق معايير ATEX."
+      },
+      {
+        "title": "أجهزة التجنيس عالية القص (High-Shear)",
+        "desc": "أنظمة خلط تقليل الجسيمات بتقنية الروتور-ستاتور بسرعة عالية للمستحلبات السائل-سائل والسائل-صلب."
+      },
+      {
+        "title": "وحدات العمليات المتنقلة (Skid Systems)",
+        "desc": "حلول مدمجة plug-and-play مع مفاعل ومضخة وأتمتة على هيكل واحد للتركيب السريع."
+      },
+      {
+        "title": "خزانات ذات غلاف تسخين وتبريد",
+        "desc": "خزانات عمليات من الفولاذ المقاوم للصدأ بأغلفة roll-bond (dimple) وأنابيع نصف الأنبوب للكفاءة الحرارية العالية."
+      },
+      {
+        "title": "التخمير والمفاعلات الحيوية",
+        "desc": "أنظمة تخمير معقمة من الفولاذ المقاوم للصدأ مع التحكم الدقيق في pH/الأكسجين لصناعة التكنولوجيا الحيوية والأغذية."
+      },
+      {
+        "title": "أنظمة CIP الآلية الكاملة",
+        "desc": "وحدات التنظيف في المكان (Clean-in-Place) التي تديرها PLC والتي تضمن معايير النظافة في منشأتك."
+      }
+    ],
+    "cta": {
+      "title": "هل لديك متطلبات عملية خاصة؟",
+      "desc": "تواصل مع قسم الهندسة لدينا للأحجام المخصصة أو الضغط العالي ASME أو مفاعلات المناطق الخطرة المعتمدة ATEX.",
+      "btn": "طلب عرض سعر"
+    }
+  },
+  "jacketedTanksPage": {
+    "metadata": {
+      "title": "Heating & Cooling Jacketed Tanks | Welltech®",
+      "description": "Stainless steel heating/cooling process tanks with roll-bond (dimple) and half-pipe serpentine jackets for high thermal efficiency."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "process": "أنظمة العمليات",
+      "current": "Jacketed Tanks"
+    },
+    "hero": {
+      "title": "Heating & Cooling Jacketed Tanks",
+      "desc": "Maximum thermal efficiency for your processes requiring precise temperature control. Specially insulated systems equipped with roll-bond, half-pipe or full jacket technology."
+    },
+    "technology": {
+      "title": "Thermodynamic Engineering",
+      "desc": "Keeping the fluid at the correct temperature in production processes directly determines the final product quality. Our systems are designed with special jackets through which steam, hot oil, hot water or glycol/ice water can circulate. We prefer <strong>Roll-Bond (Dimple)</strong> jackets for low-pressure cooling processes, while using welded <strong>Half-Pipe Serpentine</strong> technology for heating reactions requiring high pressure and steam.",
+      "imgAlt": "Half-Pipe and Dimple Jacket Detail"
+    },
+    "features": {
+      "title": "Equipment & Insulation Features",
+      "imgAlt": "Tank Insulation Cross-Section",
+      "items": [
+        "Laser-Welded Dimple Jacket",
+        "Half-Pipe Serpentine",
+        "Rockwool Insulation",
+        "Polyurethane Insulation (Cooling)",
+        "Fully Sealed Outer Cladding Sheet",
+        "PT100 Thermocouple Temperature Sensor"
+      ]
+    },
+    "table": {
+      "title": "Jacket Technology Selection Table",
+      "note": "* Our engineers determine the most suitable jacket type based on the type and pressure of the heating/cooling fluid in your facility.",
+      "imgAlt": "Jacketed Tank Technical Drawing",
+      "headers": [
+        "Jacket Type",
+        "Purpose",
+        "Fluid (Medium)",
+        "Working Pressure"
+      ],
+      "rows": [
+        {
+          "type": "Dimple (Roll-Bond)",
+          "purpose": "Precise Cooling",
+          "fluid": "Ice Water / Glycol",
+          "pressure": "Low / Medium (2-4 Bar)",
+          "highlight": "blue"
+        },
+        {
+          "type": "Half-Pipe Serpentine",
+          "purpose": "Rapid Heating",
+          "fluid": "Steam / Hot Oil",
+          "pressure": "High (6-10+ Bar)",
+          "highlight": "orange"
+        },
+        {
+          "type": "Full Jacket",
+          "purpose": "General Heating/Cooling",
+          "fluid": "Hot or Cold Water",
+          "pressure": "Low (1-2 Bar)",
+          "highlight": "dark"
+        },
+        {
+          "type": "Internal Serpentine",
+          "purpose": "Shock Heating/Cooling",
+          "fluid": "Steam / Water",
+          "pressure": "Medium / High",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Heating / Cooling FAQ",
+      "items": [
+        {
+          "q": "Why should I use Half-Pipe instead of Dimple Jacket for steam applications?",
+          "a": "Steam and hot oil have very high pressure and temperature. Dimple (honeycomb) jackets have thin walls and can balloon or deform under high pressure. Half-pipe serpentines are wound around the tank body with thick welds, so they have high pressure resistance."
+        },
+        {
+          "q": "What happens if heat insulation is not applied?",
+          "a": "The energy (heat or cold) in the tank jacket mixes into the air instead of passing only to the product inside. This drives your energy costs to terrible levels and prolongs the process time. Dense rockwool insulation is essential for heating tanks, and polyurethane insulation that prevents sweating is essential for cooling tanks."
+        },
+        {
+          "q": "How is the jacket area calculated?",
+          "a": "The jacket area is calculated using thermodynamic engineering formulas based on the amount of product (kg) in the tank, the specific heat of the product, its initial temperature and how long (minutes/hours) it needs to reach the target temperature."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "Half-Pipe Jacketed Tank"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "Dimple Jacket Cooling"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "Rockwool Insulation Application"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "Heated Process Tank Battery"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "DOK-05 PDF Document",
+        "desc": "Engineering specification containing thermodynamic area calculations, working pressures and insulation thicknesses.",
+        "btn": "تحميل الوثيقة (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-05-ceketli-tanklar.pdf"
+      },
+      "reference": {
+        "badge": "Featured Reference",
+        "imgAlt": "Heated Process Project Reference",
+        "desc": "Steam-heated, half-pipe serpentine and rockwool-insulated cooking tank battery in the food industry.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "Thermal Calculation",
+        "desc": "Contact us to calculate the required jacket surface area based on your process target time and temperature values.",
+        "btn": "طلب عرض سعر →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20%C4%B1s%C4%B1tma%20so%C4%9Futma%20ceketli%20tanklar%20i%C3%A7in%20termodinamik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "bioreactorsPage": {
+    "metadata": {
+      "title": "Fermentation & Bioreactor Systems | Welltech®",
+      "description": "Precise pH, oxygen and temperature-controlled, fully sterile (SIP) stainless steel fermentation systems for biotechnology, pharmaceutical and food industries."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "process": "أنظمة العمليات",
+      "current": "Fermentation & Bioreactors"
+    },
+    "hero": {
+      "title": "Fermentation & Bioreactors",
+      "desc": "Perfect sterilization for microbial cell cultures and enzyme production. Industrial bioprocess systems with precise pH, Dissolved Oxygen (DO2) and temperature control."
+    },
+    "technology": {
+      "title": "Precise Bioprocess Control",
+      "desc": "Sustaining microbial life and achieving the target product yield in fermentation processes depends on millimetric control of environmental conditions.",
+      "imgAlt": "Bioreactor Thermodynamic Control Detail"
+    },
+    "features": {
+      "title": "Equipment & Engineering Features",
+      "imgAlt": "Bioreactor PLC SCADA System",
+      "items": [
+        "Ra < 0.4 µm Electropolished Inner Surface",
+        "Sterile Design to ASME BPE Standard",
+        "Automatic SIP (Sterilization-in-Place)",
+        "High Mass Transfer Aeration",
+        "Fully Insulated Dimple/Half-Pipe Jacket",
+        "Dead-Leg Free Valve Design"
+      ]
+    },
+    "table": {
+      "title": "Capacity Table",
+      "note": "* Facility capacities are designed from R&D scale to industrial scale.",
+      "imgAlt": "Bioreactor P&ID Diagram",
+      "headers": [
+        "Series",
+        "Volume",
+        "Pressure"
+      ],
+      "rows": [
+        {
+          "series": "WT-BIO Lab",
+          "volume": "10 L - 100 L",
+          "pressure": "-1 / +3 Bar",
+          "highlight": "blue"
+        },
+        {
+          "series": "WT-BIO Pilot",
+          "volume": "200 L - 2,000 L",
+          "pressure": "-1 / +3 Bar",
+          "highlight": "blue"
+        },
+        {
+          "series": "WT-BIO Pro",
+          "volume": "5,000 L - 20,000 L",
+          "pressure": "-1 / +4 Bar",
+          "highlight": "orange"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "Sterile Bioreactor Assembly"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "Cell Culture Fermentation Unit"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "Precise pH Oxygen Sensor Group"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "Industrial Bioprocess Facility Installation"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Document",
+        "subtitle": "DOK-15 PDF Specification",
+        "btn": "تحميل المواصفة (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-15-biyoreaktorler.pdf"
+      },
+      "reference": {
+        "badge": "Reference Application",
+        "imgAlt": "Vaccine Production Facility Bioreactor Reference",
+        "desc": "Custom 2,000 L capacity bioreactor line installation for a cell culture production facility."
+      },
+      "cta": {
+        "title": "Project Engineering",
+        "desc": "Plan with our technical team for your scale-up processes from laboratory to industrial production.",
+        "btn": "الحصول على دعم تقني"
+      }
+    }
+  },
+  "homogenizersPage": {
+    "metadata": {
+      "title": "Homogenizer Systems | Welltech®",
+      "description": "High-speed (high-shear) rotor-stator homogenizer systems for cosmetic, pharmaceutical and food processes."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "process": "أنظمة العمليات",
+      "current": "Homogenizers"
+    },
+    "hero": {
+      "title": "Homogenizer Systems",
+      "desc": "Perfect particle reduction in liquid-liquid and liquid-solid emulsions. Rotor-stator technology with high shear force for cosmetics, pharmaceuticals and advanced chemistry processes."
+    },
+    "technology": {
+      "title": "Rotor & Stator Technology",
+      "desc": "Ordinary mixers only move the fluid. Homogenizers subject the fluid to enormous mechanical shear force through rotor blades rotating at a very narrow gap (micron level) and stationary stator blades. This way, substances like oil and water that normally don't mix are converted into a perfect emulsion (cream, mayonnaise, lotion, etc.) and particles are micronized to prevent sedimentation.",
+      "imgAlt": "Rotor and Stator Blade Detail"
+    },
+    "features": {
+      "title": "Critical Engineering Features",
+      "imgAlt": "High-Speed Homogenizer Motor",
+      "items": [
+        "3000 RPM High-Speed Capacity",
+        "Double-Acting Cooled Mechanical Seal",
+        "AISI 316L Special Alloy Cutting Head",
+        "Interchangeable Stator Heads",
+        "CIP / SIP Washability (Hygienic)",
+        "Inverter-Controlled Precise Speed Control"
+      ]
+    },
+    "table": {
+      "title": "Homogenizer Mounting Types",
+      "note": "* Selected based on your facility's piping system, tank design and product rheology (fluidity) properties.",
+      "imgAlt": "In-Line Homogenizer Drawing",
+      "headers": [
+        "Mounting Type",
+        "Operating Principle",
+        "Application Area"
+      ],
+      "rows": [
+        {
+          "type": "Bottom Entry",
+          "principle": "Mounted to tank bottom, product fed by gravity.",
+          "usage": "Cosmetic Creams, Mayonnaise, Lotion",
+          "highlight": "orange"
+        },
+        {
+          "type": "In-Line (Continuous Flow)",
+          "principle": "Mounted on the pipeline, circulates.",
+          "usage": "Large volume syrups, Dairy Products",
+          "highlight": "blue"
+        },
+        {
+          "type": "Top Entry (Immersion)",
+          "principle": "Immersed from the top of the tank via elevator or flange.",
+          "usage": "Open vessels, Mobile R&D tanks",
+          "highlight": "dark"
+        },
+        {
+          "type": "Powder Mixer",
+          "principle": "Draws powdered raw materials from outside using vacuum created.",
+          "usage": "Carbon black, Milk powder, Pectin dissolving",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "Bottom-Entry Homogenizer"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "Cosmetic Cream Production Tank"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "In-Line Continuous Flow System"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "Powder Suction Dispersion Unit"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "DOK-08 PDF Document",
+        "desc": "Technical specification containing rotor-stator tolerances, mechanical seal cooling circuit and motor kW calculations.",
+        "btn": "تحميل الوثيقة (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-08-homojenizatorler.pdf"
+      },
+      "reference": {
+        "badge": "Featured Reference",
+        "imgAlt": "Cosmetic Process Project Reference",
+        "desc": "22kW bottom-entry homogenizer cream production reactor operating under vacuum for a luxury skincare product facility.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "Emulsion Solution",
+        "desc": "Cosmetics, food or chemistry... Share your product recipe with us and we will design the most efficient particle reduction (high-shear) system.",
+        "btn": "طلب عرض سعر →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20homojenizat%C3%B6r%20ve%20em%C3%BClsiyon%20sistemleri%20i%C3%A7in%20kapasite%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
+      }
+    }
+  },
+  "mixingTanksPage": {
+    "metadata": {
+      "title": "Mixing Process Tanks | Welltech®",
+      "description": "Stainless steel mixing tanks with custom mixer designs for different viscosities and inverter-supported automation."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "process": "أنظمة العمليات",
+      "current": "Mixing Tanks"
+    },
+    "hero": {
+      "title": "Mixing Process Tanks",
+      "desc": "Advanced engineering mixer systems with optimal viscosity control for liquid-liquid or liquid-solid mixtures, with inverter support and different blade types."
+    },
+    "technology": {
+      "title": "Homogeneous Mixing Technology",
+      "desc": "The success of a process is measured by how correctly the mixture is homogenized. We design turbine, propeller, anchor or scraper mixer blades based on the viscosity (fluid like water or viscous like honey) and density of your product. Our systems are equipped with geared motors and PLC-controlled speed inverters to provide maximum control in your process.",
+      "imgAlt": "Mixer Blade Detail"
+    },
+    "features": {
+      "title": "Equipment & Automation",
+      "imgAlt": "Automation and Inverter Panel",
+      "items": [
+        "Variable-Speed Inverter System",
+        "Teflon (PTFE) Wall Scrapers",
+        "Mechanical Seal Sealing",
+        "Bottom, Top or Side Entry Design",
+        "CIP and SIP Spray Ball Integration",
+        "AISI 316L Complete Stainless Shaft"
+      ]
+    },
+    "table": {
+      "title": "Mixer Type Selection Table",
+      "note": "* Calculated by our engineers based on the viscosity (cP) and particle structure of the mixture.",
+      "imgAlt": "Mixing Process Tank Technical Drawing",
+      "headers": [
+        "Blade Type",
+        "Viscosity",
+        "Application Example",
+        "Speed"
+      ],
+      "rows": [
+        {
+          "type": "Propeller",
+          "viscosity": "Low (like water)",
+          "usage": "Liquid Chemicals, Juice",
+          "speed": "High (900-1400 rpm)",
+          "highlight": "blue"
+        },
+        {
+          "type": "Turbine",
+          "viscosity": "Medium (like oil)",
+          "usage": "Syrup, Mineral Oil, Paint",
+          "speed": "Medium (100-300 rpm)",
+          "highlight": "orange"
+        },
+        {
+          "type": "Anchor with Scraper",
+          "viscosity": "High (like honey)",
+          "usage": "Cosmetic Cream, Chocolate",
+          "speed": "Low (10-60 rpm)",
+          "highlight": "dark"
+        },
+        {
+          "type": "Dispersion Type",
+          "viscosity": "Solid/Liquid Solutions",
+          "usage": "Dissolving Powder Chemicals in Liquid",
+          "speed": "Very High (1500+ rpm)",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "Custom Design Anchor Mixer"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "Inverter-Controlled Mixer"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "Paint Industry Disperser Tank"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "Food Industry Homogenizer Battery"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "DOK-06 PDF Document",
+        "desc": "Engineering specification containing motor power calculations for different viscosities and mechanical seal sealing details.",
+        "btn": "تحميل الوثيقة (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-06-karistiricili-tanklar.pdf"
+      },
+      "reference": {
+        "badge": "Featured Reference",
+        "imgAlt": "Chemical Process Project Reference",
+        "desc": "10,000 liter mixer tank with ex-proof motor, high torque capacity and Teflon scrapers for a polymer chemical production facility.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "Viscosity Analysis",
+        "desc": "Share your product viscosity (cP) and operating conditions with us, and we will calculate the most suitable mixer design and gearbox power.",
+        "btn": "طلب عرض سعر →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20kar%C4%B1%C5%9Ft%C4%B1r%C4%B1c%C4%B1l%C4%B1%20tank%20projesi%20i%C3%A7in%20viskozite%20de%C4%9Ferlerime%20uygun%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "reactorsPage": {
+    "metadata": {
+      "title": "Chemical & Pharmaceutical Reactors | Welltech®",
+      "description": "Ex-proof production reactors withstanding 10 Bar pressure and full vacuum, made of 316Ti / Hastelloy alloys, to ATEX standards."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "process": "أنظمة العمليات",
+      "current": "Chemical Reactors"
+    },
+    "hero": {
+      "title": "Chemical & Pharmaceutical Reactors",
+      "desc": "Fully automated heavy-duty reactors withstanding 10 Bar pressure and full vacuum, made of 316Ti / Hastelloy alloys, to ATEX ex-proof standards."
+    },
+    "technology": {
+      "title": "Critical Process Control",
+      "desc1": "Polymerization, crystallization and aggressive chemical syntheses cannot be performed in standard storage tanks. Welltech® Chemical Reactors are engineered to <strong>ASME VIII Div.1</strong> standards to homogenize products of varying viscosities and immediately transfer the heat of endothermic/exothermic reactions.",
+      "desc2": "The <strong>Half-Pipe Serpentine (Half-Pipe Jacket)</strong> technology offered as standard on the body provides 40% more resistance to thermal shocks and high steam pressure compared to conventional jackets.",
+      "imgAlt": "Half-Pipe Serpentine and Reactor Body"
+    },
+    "features": {
+      "title": "Equipment & Safety",
+      "imgAlt": "Ex-Proof Motor and Reactor Equipment",
+      "items": [
+        "Full Vacuum and 10 Bar Pressure Resistance",
+        "316Ti or Hastelloy C22 Material",
+        "Mechanical Seal Sealing",
+        "ATEX Zone 1/2 Compliant Ex-Proof Motor",
+        "Proportionally Controlled Heating/Cooling",
+        "100% RT and UT Weld Reporting"
+      ]
+    },
+    "table": {
+      "title": "Standard Reactor Capacity Table",
+      "note": "* Values in the table are for reference. Welltech works with custom engineering dimensions based on your factory's ceiling height and installation lines.",
+      "imgAlt": "Chemical Reactor Technical Drawing",
+      "headers": [
+        "Working Volume",
+        "Design Pressure",
+        "Heating Type",
+        "Mixer Type"
+      ],
+      "rows": [
+        {
+          "volume": "1,000 Liters",
+          "pressure": "-1 / +6 Bar",
+          "heating": "Half-Pipe / Electric",
+          "mixer": "Anchor / Propeller",
+          "highlight": "blue"
+        },
+        {
+          "volume": "5,000 Liters",
+          "pressure": "-1 / +8 Bar",
+          "heating": "Half-Pipe Serpentine",
+          "mixer": "Anchor with Scraper",
+          "highlight": "blue"
+        },
+        {
+          "volume": "10,000 Liters",
+          "pressure": "-1 / +10 Bar",
+          "heating": "Half-Pipe + Internal Serpentine",
+          "mixer": "Turbine / Disperser",
+          "highlight": "orange"
+        },
+        {
+          "volume": "25,000 Liters",
+          "pressure": "-1 / +10 Bar",
+          "heating": "Half-Pipe Serpentine",
+          "mixer": "Bi-Directional Anchor",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "10 Bar Reactor Production"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "Half-Pipe Serpentine Fabrication"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "ATEX Ex-Proof Motor Integration"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "Petrochemical Reactor Battery Installation"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "WLL-RX-01 PDF",
+        "desc": "Engineering document containing ASME material codes, weld thicknesses and motor kW calculations.",
+        "btn": "تحميل مواصفة PDF",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/WLL-RX-01-reaktorler.pdf"
+      },
+      "reference": {
+        "badge": "Featured Reference",
+        "imgAlt": "Petrochemical Reactor Project Reference",
+        "desc": "25,000 liter capacity polymerization reactor made of Hastelloy C276 alloy, resistant to 10 Bar pressure, delivered to a petrochemical facility.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "Do You Have Special Process Needs?",
+        "desc": "We engineer with Hastelloy alloys for fluids causing aggressive corrosion or viscosities requiring high torque.",
+        "btn": "استشارة مهندس"
+      }
+    }
+  },
+  "skidSystemsPage": {
+    "metadata": {
+      "title": "Mobile Process Units (Skid Systems) | Welltech®",
+      "description": "Compact plug-and-play process solutions with reactor, pump and automation on a single chassis."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "process": "أنظمة العمليات",
+      "current": "Mobile Units"
+    },
+    "hero": {
+      "title": "Mobile Process Units",
+      "desc": "Plug-and-play compact solutions designed for rapid installation, with reactor, pump and automation assembled on a single stainless chassis."
+    },
+    "technology": {
+      "title": "Plug & Play Engineering",
+      "desc": "Don't waste weeks on piping, cabling and automation complexity at your facility. Our skid systems are compact systems where the reactor, heat exchanger, transfer pumps, valves and PLC control panel are mounted and tested at our factory on a single stainless chassis. When it arrives at your facility, you can start production the same day by just connecting the main electricity and raw material connections.",
+      "imgAlt": "Stainless Steel Skid Chassis Design"
+    },
+    "features": {
+      "title": "Compact Equipment Features",
+      "imgAlt": "Skid PLC Automation Panel",
+      "items": [
+        "AISI 304/316L Stainless Carrier Chassis",
+        "Fully Integrated Piping and Manifolds",
+        "Factory-Exit FAT/SAT Test Approval",
+        "Smart PLC and Touch-Screen HMI",
+        "Ex-Proof (ATEX) Option",
+        "Vibration-Damping Chassis Feet"
+      ]
+    },
+    "table": {
+      "title": "Skid System Application Areas",
+      "note": "* All equipment operates compatible with each other and connected to a single automation panel.",
+      "imgAlt": "Mobile Process Unit Technical Drawing",
+      "headers": [
+        "Application Area",
+        "Integrated Equipment",
+        "Installation Type"
+      ],
+      "rows": [
+        {
+          "application": "Cosmetic & Pharmaceutical Syruping",
+          "equipment": "Reactor + Homogenizer + Lobe Pump",
+          "setup": "Plug & Play",
+          "highlight": "orange"
+        },
+        {
+          "application": "Chemical Dosing Line",
+          "equipment": "Storage Tank + Dosing Pump + Flow Meter",
+          "setup": "Plug & Play",
+          "highlight": "blue"
+        },
+        {
+          "application": "CIP (Clean-in-Place) Units",
+          "equipment": "Acid/Caustic Tanks + Heater + Centrifugal Pump",
+          "setup": "Plug & Play",
+          "highlight": "dark"
+        },
+        {
+          "application": "Mobile R&D Stations",
+          "equipment": "Pilot Reactor + Chiller + Mini Filter Press",
+          "setup": "Wheeled/Mobile",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "Compact Piping Design"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "Pharmaceutical Industry Mobile Unit"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "Integrated Control Panel"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "Plug & Play Chassis Assembly"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "DOK-09 PDF Document",
+        "desc": "Engineering specification containing compact chassis load resistance calculations, piping standards and automation P&ID diagrams.",
+        "btn": "تحميل الوثيقة (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-09-skid-sistemler.pdf"
+      },
+      "reference": {
+        "badge": "Featured Reference",
+        "imgAlt": "Mobile Skid System Reference",
+        "desc": "Mobile syruping unit (Skid System) project with ex-proof standards, full automation and CIP integration for the pharmaceutical industry.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "Your Custom Skid Project",
+        "desc": "Contact our engineers to design a completely custom mobile unit tailored to your facility's space constraints and process recipe.",
+        "btn": "طلب عرض سعر →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20tesisime%20%C3%B6zel%20kompakt%20skid%20sistemi%20projelendirmesi%20ve%20fiyat%C4%B1%20almak%20istiyorum."
+      }
+    }
+  },
+  "cipSystemsPage": {
+    "metadata": {
+      "title": "Fully Automatic CIP Systems | Welltech®",
+      "description": "PLC-controlled automatic Clean-in-Place (in-place washing) units that guarantee hygiene standards for pharmaceutical, food and chemical facilities."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "process": "أنظمة العمليات",
+      "current": "CIP Systems"
+    },
+    "hero": {
+      "title": "Fully Automatic CIP Systems",
+      "desc": "Clean-in-Place (in-place washing) units that guarantee your facility's hygiene standards with PLC control and conductivity-based chemical dosing."
+    },
+    "technology": {
+      "title": "Traceable Hygiene Assurance",
+      "desc": "The only way to prevent cross-contamination in food, beverage and pharmaceutical production lines is validatable washing processes. Welltech CIP (Clean-in-Place) systems wash your pipelines and tanks without disassembly using high-turbulence flow (min. 1.5 m/s). The conductivity of the returning liquid is measured in real-time, and acid and caustic concentrations are automatically replenished through dosing pumps via PLC. Water and energy savings are maximized.",
+      "imgAlt": "Conductivity and Dosing Control"
+    },
+    "features": {
+      "title": "System & Automation Features",
+      "imgAlt": "Recovery System and Automation",
+      "items": [
+        "PLC & Touch-Screen HMI Control",
+        "Independent Caustic and Acid Dosing Pumps",
+        "Real-Time Conductivity Measurement",
+        "Automatic Temperature Control with Heat Exchanger",
+        "EHEDG Approved Hygienic Centrifugal Pumps",
+        "Recordable Washing Recipes"
+      ]
+    },
+    "table": {
+      "title": "CIP Station Models",
+      "note": "* Washing lines can be designed as simultaneous (multi-line) or single-line based on facility needs.",
+      "imgAlt": "Modular Design and CIP P&ID Diagram",
+      "headers": [
+        "Configuration",
+        "Tank Contents",
+        "Recommended Sector"
+      ],
+      "rows": [
+        {
+          "config": "Mobile / 1-Tank CIP",
+          "tanks": "Water (Loss Washing)",
+          "sector": "Wine, Boutique Production",
+          "highlight": "dark"
+        },
+        {
+          "config": "2-Tank CIP System",
+          "tanks": "Caustic + Water",
+          "sector": "Water, Beverage, Light Process",
+          "highlight": "blue"
+        },
+        {
+          "config": "3-Tank CIP System",
+          "tanks": "Caustic + Acid + Water",
+          "sector": "Milk, Juice, Food",
+          "highlight": "orange"
+        },
+        {
+          "config": "4-Tank CIP System",
+          "tanks": "Caustic + Acid + Water + Recovery",
+          "sector": "Pharmaceutical, Biotechnology, Heavy Industry",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "CIP Systems FAQ",
+      "items": [
+        {
+          "q": "How do you guarantee that the washing liquid reaches sufficient speed?",
+          "a": "Turbulent flow is required for hygiene in pipelines. Thanks to flowmeters integrated into the system, the washing flow rate is maintained at a minimum of 1.5 - 2.0 m/s and monitored via PLC."
+        },
+        {
+          "q": "Can chemical solutions be reused?",
+          "a": "Yes, our 3 and 4-tank CIP systems have recovery cycles. Returning acid and caustic solutions are analyzed by conductivity sensors; if the concentration drops, they are dosed and returned to the tank. This saves significant amounts of chemicals and water."
+        },
+        {
+          "q": "Is reporting and validation possible?",
+          "a": "All CIP operations are recorded in the automation panel along with time, temperature, conductivity and flow data. For audits, these data can be output in PDF format via USB or network to ensure full traceability."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "4-Tank Automatic CIP Unit"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "Dosing Pumps and Collector Group"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "Heat Exchanger Integration"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "Dairy Facility Multi-Line Washing"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Document",
+        "subtitle": "DOK-16 PDF Specification",
+        "desc": "CIP system flow diagrams, heat exchanger capacities and pneumatic valve matrix technical details.",
+        "btn": "تحميل المواصفة (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-16-cip-sistemleri.pdf"
+      },
+      "reference": {
+        "badge": "Reference Application",
+        "imgAlt": "Dairy Facility Washing Line Reference",
+        "desc": "Fully automatic 4-tank CIP recovery system running 3 simultaneous lines (multi-line) for an integrated facility processing 200 tons of milk per day.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "Project Engineering",
+        "desc": "Contact us to determine the most suitable CIP module for your facility's capacity and washing line lengths.",
+        "btn": "الحصول على دعم تقني"
+      }
+    }
+  },
+  "referencesPage": {
+    "metadata": {
+      "title": "المراجع الهندسية والمشاريع المكتملة | Welltech®",
+      "description": "مشاريع الفولاذ المقاوم للصدأ الصناعية ومراجع الهندسة الميدانية المُسلَّمة بنجاح من قِبل Welltech."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "current": "المراجع"
+    },
+    "hero": {
+      "title": "مراجع هندسية",
+      "quote": "\"لا نصنع الخزانات فحسب؛ بل نبني مواقع معالجة عالية التقنية تحتاجها الصناعة العالمية.\""
+    },
+    "labels": {
+      "capacity": "السعة",
+      "material": "المواد",
+      "standard": "المعيار",
+      "features": "المميزات"
+    },
+    "ctaBtn": "طلب عرض سعر بنفس المعيار",
+    "cta": {
+      "title": "لنطور حلاً هندسياً لمشروعك",
+      "desc": "تواصل مع فريق خبرائنا لمتطلباتك الخاصة. سنخطط لتصنيعك وفق المعايير العالمية.",
+      "btn": "دعم تقني"
+    }
+  },
+  "selfPrimingPumpsPage": {
+    "metadata": {
+      "title": "Self-Priming Hygienic Pumps | Welltech®",
+      "description": "Liquid-ring self-priming pump technology for transferring air-gas mixed liquids, foamy products and CIP return lines."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "pumps": "المضخات",
+      "current": "مضخات ذاتية السحب"
+    },
+    "hero": {
+      "title": "Self-Priming Pumps",
+      "desc": "Even when there is air in the suction line, this technology creates vacuum for uninterrupted flow. The indispensable liquid-ring transfer technology for CIP return lines and foamy liquids."
+    },
+    "technology": {
+      "title": "Power in Air-Liquid Mixtures",
+      "desc": "Standard centrifugal pumps suffer cavitation when air pockets form in the pipeline or at the tank bottom, stopping the transfer. Our self-priming (side-channel/liquid-ring) pumps create a vacuum by mixing the liquid inside with air through a special star impeller design. This technology, which can draw suction even when there is air in the line, is especially used when drawing product from tanks to trucks, with foamy products like whey, and in CIP washing liquid return (CIP Return).",
+      "imgAlt": "Liquid-Ring Star Impeller System"
+    },
+    "features": {
+      "title": "Technical Equipment & Capacity",
+      "imgAlt": "Bi-Directional Motor and Body",
+      "items": [
+        "Up to 8 Meters Deep Suction Capacity",
+        "AISI 316L Precision Cast Open Star Impeller",
+        "Gas-Containing (Foamy) Fluid Compatibility",
+        "Ideal as CIP Return Pump",
+        "Reversible Option",
+        "Easy-to-Disassemble Front Cover Design"
+      ]
+    },
+    "table": {
+      "title": "Performance & Selection Table",
+      "note": "* The pump body must contain some liquid (priming liquid) for the pump to self-prime. Values are determined by our hydraulic engineers for 1 cP viscosity.",
+      "imgAlt": "Suction Curve and Pump Drawing",
+      "headers": [
+        "Series No",
+        "Max. Flow (m³/h)",
+        "Suction / Discharge (mWC)",
+        "Motor Power (kW)"
+      ],
+      "rows": [
+        {
+          "model": "WT-SP 15",
+          "flow": "15 m³/h",
+          "head": "-7 m / 25 mWC",
+          "power": "2.2 - 3.0 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-SP 30",
+          "flow": "30 m³/h",
+          "head": "-7 m / 32 mWC",
+          "power": "4.0 - 5.5 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-SP 50",
+          "flow": "50 m³/h",
+          "head": "-8 m / 35 mWC",
+          "power": "7.5 - 11.0 kW",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-SP 70",
+          "flow": "70 m³/h",
+          "head": "-8 m / 40 mWC",
+          "power": "15.0 - 18.5 kW",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Vacuum Transfer FAQ",
+      "items": [
+        {
+          "q": "Why can't a centrifugal pump be used as a CIP Return pump?",
+          "a": "During CIP, the chemical liquid returning from the tank contains a large amount of air and foam. The centrifugal pump stops flow when it sees air and the washing line gets blocked. The self-priming pump can swallow the liquid-air mixture and pump it into the system."
+        },
+        {
+          "q": "Why do we need to put liquid inside during initial start (Priming)?",
+          "a": "For the liquid ring to form in the pump body and to vacuum out the air inside, part of the body must be filled with liquid from the start."
+        },
+        {
+          "q": "Can I draw milk from a truck or underground tank?",
+          "a": "Absolutely. Even if the suction pipe is 7-8 meters underground, the pump creates vacuum and draws the liquid up and pumps it to the main tanks."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "CIP Return Pump Installation"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "Liquid-Ring Impeller Design"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "Underground Tank Product Drawing"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "Milk and Foam Transfer Line"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Document",
+        "subtitle": "DOK-11 PDF Specification",
+        "desc": "Vacuum/suction depth charts, liquid-ring impeller tolerances and mechanical connection dimensions.",
+        "btn": "Download Curves (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-kendinden-emisli-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Reference Application",
+        "imgAlt": "CIP Return Automation",
+        "desc": "30 m³/h capacity CIP return pumps integrated into foamy acid and caustic return lines for a large-scale juice facility.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "Vacuum Calculation",
+        "desc": "Tell us your suction depth (negative elevation) and air ratio in the pipeline, and we will design a system that transports your product without cavitation.",
+        "btn": "Request a Quote →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20kendinden%20emi%C5%9Fli%20ve%20CIP%20d%C3%B6n%C3%BC%C5%9F%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "diaphragmPumpsPage": {
+    "metadata": {
+      "title": "Air-Operated Diaphragm Pumps | Welltech®",
+      "description": "Pneumatic air-operated diaphragm pump technologies that carry no electrical spark risk for flammable (ATEX) environments and aggressive chemicals."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "pumps": "المضخات",
+      "current": "مضخات الحجاب الهوائي"
+    },
+    "hero": {
+      "title": "Air-Operated Diaphragm Pumps",
+      "desc": "Zero electrical spark, full ATEX compliance. Pneumatic systems powered by compressed air providing unrivalled safety in transferring flammable and aggressive chemicals."
+    },
+    "safety": {
+      "title": "100% Safety Without Electricity",
+      "desc": "In environments with solvent, alcohol or flammable gas emissions, even a tiny spark from an electric motor pump can cause disaster. Pneumatic Diaphragm pumps draw their energy from compressed air from the factory compressor. Since there is no electrical connection, they provide 100% Ex-Proof (ATEX) protection. Since they have no mechanical impeller, they can also easily pump liquids containing fruit particles or solid particles without crushing the product.",
+      "imgAlt": "Pneumatic Air Valve Detail"
+    },
+    "features": {
+      "title": "Critical Engineering Features",
+      "imgAlt": "ATEX Protection and Grounding",
+      "items": [
+        "Dry Running Without Damage",
+        "ATEX (Ex-Proof) Zone Compliance",
+        "Solid Particle and Viscous Material Transfer",
+        "PTFE (Teflon) and Santoprene Diaphragm",
+        "Easy Flow Rate Adjustment with Air Pressure",
+        "Sealless Design"
+      ]
+    },
+    "table": {
+      "title": "Diaphragm Pump Capacity Table",
+      "note": "* The performance of pneumatic pumps is directly dependent on the air pressure (Bar) produced by the compressor in your facility. Data is calculated with reference to 7 Bar air supply.",
+      "imgAlt": "Diaphragm Pump Performance Curve",
+      "headers": [
+        "Connection Size",
+        "Max. Flow (L/min)",
+        "Max. Air Pressure",
+        "Solid Particle Size"
+      ],
+      "rows": [
+        {
+          "size": "1/2\" Inch",
+          "flow": "50 L/min",
+          "pressure": "7 Bar",
+          "particle": "3 mm",
+          "highlight": "blue"
+        },
+        {
+          "size": "1\" Inch",
+          "flow": "160 L/min",
+          "pressure": "7 Bar",
+          "particle": "4 mm",
+          "highlight": "blue"
+        },
+        {
+          "size": "1.5\" Inch",
+          "flow": "350 L/min",
+          "pressure": "7 Bar",
+          "particle": "6 mm",
+          "highlight": "orange"
+        },
+        {
+          "size": "2\" Inch",
+          "flow": "600 L/min",
+          "pressure": "7 Bar",
+          "particle": "8 mm",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pneumatic Transfer FAQ",
+      "items": [
+        {
+          "q": "Does dry running damage the pump?",
+          "a": "No. Unlike centrifugal and lobe pumps, air diaphragm pumps do not heat up and break down even if they run dry (without liquid) for hours since there is no mechanical friction."
+        },
+        {
+          "q": "How can I adjust the flow rate?",
+          "a": "While expensive inverters (frequency drives) are needed for electric motor pumps, simply throttling or opening the air valve from the compressor is sufficient to change the flow rate in diaphragm pumps."
+        },
+        {
+          "q": "How do we select the diaphragm material?",
+          "a": "PTFE (Teflon) with excellent chemical resistance for aggressive acids and solvents; Santoprene or NBR with flexible structure for food applications or sludgy products containing abrasive particles."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "ATEX Chemical Transfer Pump"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "PTFE Diaphragm Group"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "Food Sector Hygienic AODD"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "Air Pump Battery"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Document",
+        "subtitle": "DOK-13 PDF Specification",
+        "desc": "ATEX certification documents, diaphragm chemical resistance table and pressure/air consumption curves.",
+        "btn": "Download Document (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-13-havali-diyafram-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Reference Application",
+        "imgAlt": "Chemical ATEX Line Reference",
+        "desc": "ATEX transfer station with PTFE diaphragm from reactors to 50-ton storage tanks in a high-flammability chemical production facility.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "Pneumatic Engineering",
+        "desc": "Specify your facility compressor capacity and the liquid to be transferred, and we will calculate the correct diaphragm material and size.",
+        "btn": "Request a Quote →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20havalı%20diyafram%20pompası%20hakkında%20kimyasal%20uyumluluk%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
+      }
+    }
+  },
+  "monopompPumpsPage": {
+    "metadata": {
+      "title": "Monopumps (Eccentric Screw) | Welltech®",
+      "description": "Rotor-stator monopump systems providing pulsation-free and continuous transfer for high-viscosity, sludge, honey and abrasive particle-containing fluids."
+    },
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "pumps": "المضخات",
+      "current": "مضخات وحيدة"
+    },
+    "hero": {
+      "title": "Monopumps",
+      "desc": "Designed for the most difficult fluids. With eccentric screw (Rotor-Stator) operating principle, zero vibration and continuous flow for high-viscosity, abrasive and solid particle-containing products."
+    },
+    "technology": {
+      "title": "Pulsation-Free and Continuous Transfer",
+      "desc": "Monopumps (Eccentric Screw Pumps) work on the principle of a helical stainless steel rotor rotating inside an elastomeric (rubber) stator. This unique geometry creates continuously closed cavities in the liquid, pushing the fluid forward under pressure. From water-like fluids to products with viscosity up to 1,000,000 cP such as dough, honey, wastewater sludge, fruit puree, glue and resin, it provides a perfect and constant flow rate without any pulsation.",
+      "imgAlt": "Monopump Rotor and Stator Detail"
+    },
+    "features": {
+      "title": "Superior Mechanical Properties",
+      "imgAlt": "Elastomer Stator and Rotor",
+      "items": [
+        "Low Shear Technology",
+        "Solid Particle and Sludge Transfer",
+        "NBR, EPDM, FKM, PTFE Stator Options",
+        "Precise Proportional Dosing Capability",
+        "12-24 Bar High Pressure Resistance",
+        "Non-Crushing Flow for Fruit and Food Cells"
+      ]
+    },
+    "table": {
+      "title": "Monopump Capacity Table",
+      "note": "* Values are calculated for average viscosity fluids (up to 12 Bar max pressure). Flow varies depending on reducer speed.",
+      "imgAlt": "Monopump Pressure and Capacity Curve",
+      "headers": [
+        "Series No",
+        "Max. Flow (m³/h)",
+        "Max. Pressure",
+        "Connection Size"
+      ],
+      "rows": [
+        {
+          "model": "WT-M 05",
+          "flow": "5 m³/h",
+          "pressure": "12 Bar",
+          "connection": "2\" Inch",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-M 10",
+          "flow": "10 m³/h",
+          "pressure": "12 Bar",
+          "connection": "2.5\" Inch",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-M 20",
+          "flow": "20 m³/h",
+          "pressure": "12 Bar",
+          "connection": "3\" Inch",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-M 40",
+          "flow": "40 m³/h",
+          "pressure": "12 Bar",
+          "connection": "4\" Inch",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Eccentric Screw Pump FAQ",
+      "items": [
+        {
+          "q": "Can monopumps run dry?",
+          "a": "No. Since the stator is usually made of elastomeric (rubber etc.) material, when no fluid (lubricant) passes through it, the stainless rotor rubs against the stator causing excessive heat and burns the stator. The system must be equipped with dry-run protection sensors."
+        },
+        {
+          "q": "Can it pump solid particle or seed-containing products?",
+          "a": "Absolutely. This is the greatest strength of monopumps. Products containing particles and fibers like wastewater sludge, seeded fruit purees or olive paste are transferred without clogging and without crushing their structure thanks to the rotor/stator cavity geometry."
+        },
+        {
+          "q": "How do we select the stator material?",
+          "a": "According to the chemical composition and temperature of your fluid. For food products like milk and honey: FDA-compliant white NBR or EPDM; for abrasive aggressive acids and chemicals: FKM (Viton) or PTFE (Teflon) stator."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "المشروع 01",
+          "alt": "Food-Grade Monopump"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "المشروع 02",
+          "alt": "Wastewater Sludge Pump"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "المشروع 03",
+          "alt": "Rotor and Stator Detail"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "المشروع 04",
+          "alt": "Gearbox-Driven Monopump Group"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Document",
+        "subtitle": "DOK-11 PDF Specification",
+        "desc": "Monopump reducer speed ratios, stator chemical resistance table and pressure/flow measurement curves.",
+        "btn": "Download Curves (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-monopomp-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Featured Reference",
+        "imgAlt": "Heavy-Duty Sludge Pump Reference",
+        "desc": "Heavy-duty monopump battery with FKM stator, resistant to 12 Bar pressure for transferring 20% density active sludge in wastewater treatment facility.",
+        "link": "عرض جميع المراجع"
+      },
+      "cta": {
+        "title": "Monopump Selection",
+        "desc": "Specify your fluid viscosity (cP) and particle density, and we will determine the most suitable rotor-stator pair.",
+        "btn": "Engineering Support →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20yüksek%20viskoziteli%20ürün%20transferi%20için%20monopomp%20fiyatı%20almak%20istiyorum."
+      }
+    }
+  }
+}

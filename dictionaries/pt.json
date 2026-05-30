@@ -1,0 +1,2620 @@
+{
+  "nav": {
+    "tanks": "Tanques Inox",
+    "machines": "Sistemas de Processo",
+    "pumps": "Bombas Higiênicas",
+    "about": "Corporativo",
+    "blog": "Blog",
+    "docs": "Documentos",
+    "contact": "Contato"
+  },
+  "footer": {
+    "description": "Fabricante de tanques industriais de aço inoxidável, bombas higiênicas e equipamentos de processo em padrões internacionais.",
+    "products": "Produtos",
+    "locations": "Localizações",
+    "hq_title": "Sede",
+    "factory_title": "Unidade de Produção",
+    "copyright": "Todos os direitos reservados."
+  },
+  "metadata": {
+    "default_title": "Welltech® | Sistemas Globais de Processo e Tanques Inox",
+    "default_desc": "Fabricante de tanques industriais de aço inoxidável, bombas higiênicas e equipamentos de processo. Soluções de engenharia global para as indústrias alimentar, farmacêutica e química.",
+    "keywords": [
+      "tanque inox",
+      "sistemas de processo",
+      "bombas higiênicas",
+      "tanques industriais",
+      "Welltech",
+      "reator",
+      "fábrica chave na mão"
+    ]
+  },
+  "home": {
+    "hero": {
+      "badge": "Welltech® International Engineering",
+      "title": "Tecnologias de Processo e Armazenamento",
+      "desc": "Projetado de acordo com os padrões internacionais ASME e PED para as indústrias alimentar, química e farmacêutica; soluções de aço inoxidável de mega capacidade até 150 toneladas.",
+      "btn1": "Obter Suporte de Engenharia",
+      "btn2": "Nossos Certificados",
+      "bgImage": "/assets/images/ana-sayfa/hero-bg.webp",
+      "bgAlt": "Instalação industrial Welltech"
+    },
+    "stats": [
+      {
+        "n": "150+",
+        "t": "Toneladas de Capacidade"
+      },
+      {
+        "n": "100%",
+        "t": "Teste de Soldagem NDT"
+      },
+      {
+        "n": "6 Continentes",
+        "t": "Rede de Exportação Global"
+      },
+      {
+        "n": "ASME",
+        "t": "Engenharia Certificada"
+      }
+    ],
+    "services": {
+      "title": "Nossas Soluções Industriais",
+      "desc": "Sistemas de aço inoxidável totalmente equipados, projetados sob medida de acordo com sua receita, capacidade e condições físicas da instalação.",
+      "view_details": "Ver Detalhes",
+      "items": [
+        {
+          "title": "Soluções de Armazenamento de Mega Capacidade",
+          "desc": "Silos de aço inoxidável duráveis com cálculos de carga eólica e sísmica em capacidades até 150 toneladas, com a vantagem da montagem no local.",
+          "image": "/assets/images/ana-sayfa/hizmet-depolama.webp",
+          "link": "paslanmaz-tanklar/depolama-tanklari"
+        },
+        {
+          "title": "Tanques de Processo de Alta Precisão",
+          "desc": "Homogeneização perfeita para suas receitas exigentes. Linhas de produção agitadas com camisas termodinâmicas e automação PLC.",
+          "image": "/assets/images/ana-sayfa/hizmet-proses.webp",
+          "link": "proses-sistemleri/karistiricili-tanklar"
+        },
+        {
+          "title": "Reatores Químicos Heavy-Duty",
+          "desc": "Tolerância zero contra corrosão agressiva, alta pressão e vácuo total. Segurança com liga de titânio nos padrões API 650 e ATEX.",
+          "image": "/assets/images/ana-sayfa/hizmet-mobil.webp",
+          "link": "proses-sistemleri/kimyasal-reaktorler"
+        },
+        {
+          "title": "Tanques Alimentares e Lácteos Ultra Higiênicos",
+          "desc": "Designs aprovados pelo codex alimentar que eliminam riscos bacterianos com tecnologia de isolamento de poliuretano e sistemas CIP automáticos.",
+          "image": "/assets/images/ana-sayfa/hizmet-sut.webp",
+          "link": "paslanmaz-tanklar/sut-tanklari"
+        }
+      ]
+    },
+    "why_us": {
+      "badge": "Por que Welltech?",
+      "title": "Produção Pesada com Princípio Zero Defeitos",
+      "desc": "Ao contrário dos fabricantes de caldeiras comuns, simulamos seu projeto nos padrões ASME e EN e garantimos seus processos perigosos por meio de teste RT de cada cordão de solda.",
+      "list": [
+        "EN 10204 3.1 Rastreabilidade de Materiais",
+        "ISO 3834-2 Engenharia de Soldagem Qualificada",
+        "Conformidade com a Diretiva de Equipamentos sob Pressão (PED)"
+      ],
+      "box1": {
+        "title": "Exportação Global",
+        "desc": "Entrega completa segundo normas internacionais da Ásia à Europa."
+      },
+      "box2": {
+        "title": "Qualidade Tipo A",
+        "desc": "Aprovação periódica por organizações de auditoria independentes."
+      }
+    }
+  },
+  "metadata_page": {
+    "title_suffix": "| Welltech®"
+  },
+  "blogPost": {
+    "notFoundTitle": "Artigo não encontrado | Welltech®",
+    "backToPosts": "Voltar às publicações",
+    "tags": {
+      "engineering": "Engenharia",
+      "process": "Processo"
+    },
+    "shareArticle": "Compartilhar artigo",
+    "sidebar": {
+      "engineeringTitle": "Engenharia de projetos",
+      "engineeringDesc": "Entre em contato com nossa equipe técnica para seu projeto de reator resistente a alta pressão e vácuo total de acordo com os padrões ASME e PED.",
+      "getSupportBtn": "Obter suporte técnico",
+      "docsTitle": "Documentos técnicos",
+      "docsSubtitle": "Certificado e qualidade",
+      "docsDesc": "Examine em detalhes nossos padrões de produção, procedimentos de controle de qualidade e certificados.",
+      "goToDocsBtn": "Ir para documentos"
+    }
+  },
+  "blogPage": {
+    "metadataTitle": "Publicações da indústria & Blog | Welltech®",
+    "metadataDesc": "Artigos atualizados sobre tecnologias de processo em aço inoxidável, padrões de engenharia e soluções industriais.",
+    "breadcrumbHome": "Início",
+    "breadcrumbCorporate": "Corporativo",
+    "breadcrumbBlog": "Publicações da indústria",
+    "title": "Publicações da indústria",
+    "description": "Artigos técnicos preparados pela nossa equipe de engenharia, análises detalhadas de desenvolvimentos setoriais e tecnologias de processo.",
+    "techArticle": "Artigo técnico",
+    "readArticle": "Ler artigo",
+    "categoriesTitle": "Categorias de engenharia",
+    "categories": {
+      "materials": "Ciência dos materiais",
+      "hygiene": "Design higiênico",
+      "standards": "Padrões de engenharia",
+      "chemistry": "Indústria química"
+    },
+    "newsletterTitle": "Assinatura do boletim",
+    "newsletterDesc": "Junte-se à nossa lista de e-mails para ser informado instantaneamente sobre mudanças nos padrões do setor e novas tecnologias.",
+    "newsletterPlaceholder": "E-mail corporativo",
+    "newsletterBtn": "Assinar"
+  },
+  "documentsPage": {
+    "metadata": {
+      "title": "Certificados e Qualidade | Welltech®",
+      "description": "Padrões de produção Welltech de aço inoxidável, documentos de qualidade, ISO 9001, PED 2014/68/EU e procedimentos de ensaios não destrutivos (END)."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "corporate": "Corporativo",
+      "current": "Certificados e Qualidade"
+    },
+    "hero": {
+      "title": "Certificados e Qualidade",
+      "desc": "Princípio de zero defeitos e rastreabilidade completa. Cada equipamento que produzimos é garantido com certificações reconhecidas internacionalmente (PED, ASME, ISO)."
+    },
+    "globalStandards": {
+      "title": "Padrões de Qualidade Globais",
+      "desc": "Cada placa de aço inoxidável que entra na linha de produção Welltech® é registrada com um certificado de material EN 10204 3.1, garantindo rastreabilidade completa até a entrega do projeto."
+    },
+    "ndt": {
+      "title": "END (Ensaios Não Destrutivos)",
+      "items": {
+        "rt": "RT (Radiográfico / Raios X) Teste de Soldagem",
+        "pt": "PT (Líquido Penetrante) Teste de Trincas Superficiais",
+        "ut": "UT (Ultrassônico) Inspeção de Espessura",
+        "vt": "VT (Visual) Inspeção Não Destrutiva",
+        "hydro": "Teste de Vazamento de Pressão Hidrostática",
+        "roughness": "Medição de Rugosidade Superficial (Ra)"
+      }
+    },
+    "certifications": {
+      "title": "Certificações Corporativas",
+      "note": "* Nossa instalação é auditada periodicamente por organizações de auditoria independentes internacionais (TÜV, SGS, Bureau Veritas etc.).",
+      "tableHeaders": {
+        "standard": "Padrão / Regulação",
+        "scope": "Escopo",
+        "status": "Status"
+      },
+      "status": {
+        "active": "Ativo",
+        "compliant": "Conforme"
+      },
+      "scopes": {
+        "iso9001": "Sistema de Gestão de Qualidade",
+        "iso3834": "Requisitos de Qualidade de Soldagem Metálica",
+        "ped": "Diretiva de Equipamentos sob Pressão",
+        "asme": "Padrão de Fabricação de Vasos de Pressão",
+        "ce": "Declaração de Conformidade da União Europeia"
+      }
+    },
+    "faq": {
+      "title": "FAQ de Controle de Qualidade",
+      "items": [
+        {
+          "q": "Quais documentos vocês fornecem na entrega?",
+          "a": "Fornecemos um 'Arquivo de Qualidade' (Data Book) na entrega do projeto que inclui certificados de materiais EN 10204 3.1, certificados de soldadores, relatórios de testes END, atas de testes hidrostáticos e desenhos técnicos."
+        },
+        {
+          "q": "Vocês estão abertos a inspeções de terceiros?",
+          "a": "Absolutamente. A pedido de nossos clientes, permitimos que organizações independentes como TÜV SÜD, SGS, Bureau Veritas ou Lloyd's Register acompanhem os processos de produção e teste em nossa fábrica."
+        }
+      ]
+    },
+    "sidebar": {
+      "iso": {
+        "title": "ISO 9001:2015",
+        "subtitle": "Certificado de Qualidade",
+        "desc": "Você pode baixar o certificado ISO 9001:2015 atual do nosso sistema de gestão de qualidade em formato PDF.",
+        "btn": "Baixar Documento",
+        "fileUrl": "/assets/documents/pt/certificados/welltech-certificados-qualidade-colecao.pdf"
+      },
+      "catalog": {
+        "title": "Catálogo Corporativo",
+        "subtitle": "Visão Geral",
+        "desc": "Nosso catálogo geral da empresa incluindo todas as nossas linhas de produção, informações de capacidade e padrões de qualidade.",
+        "btn": "Baixar Catálogo",
+        "fileUrl": "/assets/documents/pt/catalogos/welltech-catalogo-geral.pdf"
+      },
+      "department": {
+        "title": "Departamento de Qualidade",
+        "desc": "Entre em contato com nosso departamento para solicitações de certificação personalizadas ou procedimentos de controle de qualidade relacionados ao seu projeto."
+      }
+    }
+  },
+  "aboutPage": {
+    "metadata": {
+      "title": "Sobre nós | Welltech®",
+      "description": "Tecnologias de processo e armazenamento em aço inoxidável de classe mundial de Izmir para o mundo."
+    },
+    "jsonLd": {
+      "description": "De Izmir para 6 continentes; produzimos tecnologias de processo e armazenamento em aço inoxidável segundo padrões internacionais (ASME, PED) para as indústrias alimentar, química e farmacêutica."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "corporate": "Corporativo",
+      "current": "Sobre nós"
+    },
+    "hero": {
+      "titleStart": "O Poder da ",
+      "titleHighlight": "Engenharia",
+      "desc": "De Izmir para o mundo; produzimos tecnologias de processo e armazenamento em aço inoxidável segundo padrões internacionais (ASME, PED) para as indústrias alimentar, química e farmacêutica."
+    },
+    "roots": {
+      "title": "Nossas Raíces",
+      "p1": "Em nossa instalação de produção localizada na Zona Industrial Organizada de Kemalpaşa em Izmir, projetamos soluções industriais de processo e armazenamento.",
+      "p2": "Como Welltech® International Engineering, não somos apenas um fabricante de máquinas ou tanques. Somos um parceiro de soluções confiável que está ao seu lado desde o início dos seus projetos até sua entrada em operação."
+    },
+    "global": {
+      "title": "De Izmir para 6 Continentes...",
+      "desc": "A partir de nossa base de produção na Turquia, fornecemos soluções de engenharia segundo padrões internacionais (ASME & PED) para mais de 30 países em 6 continentes."
+    },
+    "cards": {
+      "mission": {
+        "title": "Nossa Missão",
+        "desc": "Produzir tecnologias de processo duráveis, com eficiência energética e higiênicas que aumentem a eficiência operacional de nossos clientes."
+      },
+      "vision": {
+        "title": "Nossa Visão",
+        "desc": "Tornar-nos a marca de tecnologia e processo de aço inoxidável turca mais confiável em 6 continentes."
+      },
+      "quality": {
+        "title": "Nossa Abordagem de Qualidade",
+        "desc": "Todos os nossos processos estão sujeitos a certificações internacionais. Cada detalhe técnico é verificado e entregue por nossos engenheiros especialistas."
+      }
+    },
+    "cta": {
+      "title": "Vamos construir seus projetos juntos",
+      "desc": "Conheça nossa experiente equipe de engenharia para modernização de sua fábrica, aumento de capacidade ou instalação turnkey.",
+      "btn": "Entre em contato"
+    }
+  },
+  "contactPage": {
+    "breadcrumb": {
+      "home": "Início",
+      "corporate": "Corporativo",
+      "current": "Contato"
+    },
+    "hero": {
+      "title": "Central de Contato",
+      "desc": "Em nossa moderna instalação de produção em Izmir Kemalpaşa, desenvolvemos tecnologias de aço inoxidável de classe mundial. Entre em contato diretamente com nossa equipe técnica para seus projetos."
+    },
+    "sidebar": {
+      "title": "Localizações",
+      "hq": {
+        "title": "Sede",
+        "address": "Zona Industrial Organizada, Kemalpaşa OSB<br />10. Rua Nr:6, 35730<br />Kemalpaşa / IZMIR / TURQUIA"
+      },
+      "factory": {
+        "title": "Unidade de Produção",
+        "address": "Ulucak İstiklal, Gazi Blvd. Nr:169<br />35735 Kemalpaşa / IZMIR / TURQUIA"
+      },
+      "phone": {
+        "title": "Suporte Técnico e Vendas"
+      },
+      "whatsapp": {
+        "title": "Linha WhatsApp"
+      },
+      "email": {
+        "title": "Comunicação Corporativa"
+      },
+      "hours": {
+        "title": "Horários de Visita e Suporte",
+        "desc1": "Dias úteis: 08:30 - 18:30",
+        "desc2": "(Horário da Turquia, GMT+3)"
+      },
+      "social": {
+        "title": "Siga-nos"
+      }
+    },
+    "form": {
+      "title": "Formulário de Cotação de Projeto",
+      "name": "Nome e Sobrenome *",
+      "company": "Nome da Empresa",
+      "email": "Endereço de E-mail *",
+      "phone": "Número de Telefone",
+      "subject": {
+        "label": "Equipamento / Sistema de Processo Solicitado",
+        "placeholder": "Por favor selecione o grupo de produtos...",
+        "groups": {
+          "tanks": "Tanques Inox",
+          "process": "Sistemas de Processo",
+          "hygienic": "Soluções de Transferência Higiênicas",
+          "other": "Outros Serviços"
+        },
+        "options": {
+          "tanks_1": "Tanques de Armazenamento Industriais",
+          "tanks_2": "Sistemas de Armazenamento de Azeite",
+          "tanks_3": "Tanques de Processo Lácteo e Alimentar",
+          "tanks_4": "Tanques Químicos e de Ácido",
+          "process_1": "Tanques de Processo Agitados",
+          "process_2": "Reatores Químicos e Farmacêuticos",
+          "process_3": "Homogeneizadores High-Shear",
+          "process_4": "Unidades de Processo Móveis (Sistemas Skid)",
+          "process_5": "Tanques com Camisa de Aquecimento/Resfriamento",
+          "process_6": "Fermentação e Biorreatores",
+          "process_7": "Sistemas CIP Totalmente Automáticos",
+          "hygienic_1": "Bombas Centrífugas",
+          "hygienic_2": "Bombas de Deslocamento Positivo",
+          "hygienic_3": "Bombas Autoaspirantes",
+          "hygienic_4": "Bombas de Tambor",
+          "hygienic_5": "Bombas de Diafragma Pneumáticas",
+          "hygienic_6": "Monobombas",
+          "other_1": "Instalação de Fábrica Chave na Mão",
+          "other_2": "Solicitação Especial / Não está no seu catálogo"
+        }
+      },
+      "message": {
+        "label": "Detalhes do Projeto *",
+        "placeholder": "Ex.: Precisamos de um tanque de processo de 20 toneladas com agitador em 316L..."
+      },
+      "submit": {
+        "loading": "Enviando...",
+        "idle": "Enviar Solicitação de Cotação"
+      },
+      "status": {
+        "errorFields": "Por favor preencha os campos obrigatórios (Nome, E-mail, Detalhes do Projeto).",
+        "loading": "Sua solicitação de cotação está sendo transmitida para nossos servidores...",
+        "success": "Sua solicitação de cotação foi recebida com sucesso! Nossa equipe técnica entrará em contato com você o mais breve possível.",
+        "errorServer": "Ocorreu um erro do servidor ao enviar o e-mail. Por favor, tente novamente.",
+        "errorConnection": "Ocorreu um erro de conexão. Por favor verifique sua conexão com a internet."
+      }
+    }
+  },
+  "stainlessTanksPage": {
+    "metadata": {
+      "title": "Tanques Inox | Welltech®",
+      "description": "Soluções de tanques industriais de aço inoxidável de alta qualidade para azeite, leite, química e armazenamento geral."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "current": "Tanques Inox"
+    },
+    "hero": {
+      "title": "Tanques de Aço Inoxidável",
+      "desc": "Soluções de armazenamento e processo duráveis, projetadas de acordo com suas necessidades setoriais específicas e fabricadas segundo padrões de qualidade internacionais (ASME/PED)."
+    },
+    "categories": [
+      {
+        "title": "Tanques de Armazenamento Industriais",
+        "desc": "Soluções de aço inoxidável 304/316L de alto volume para armazenamento de água e matérias-primas gerais."
+      },
+      {
+        "title": "Sistemas de Armazenamento de Azeite",
+        "desc": "Tanques de fundo cônico e plano com sistema de cobertura de nitrogênio que corta o contato com o ar e preserva a acidez."
+      },
+      {
+        "title": "Tanques de Processo Lácteo e Alimentar",
+        "desc": "Designs com rugosidade superficial Ra < 0,4µm e sistemas de lavagem CIP para máxima higiene."
+      },
+      {
+        "title": "Tanques Químicos e de Ácido",
+        "desc": "Reatores 316L com alta resistência à corrosão e tecnologia de soldagem especial para fluidos agressivos."
+      }
+    ],
+    "viewModels": "Ver modelos",
+    "cta": {
+      "title": "Necessidades de processo especiais?",
+      "desc": "Consulte nosso departamento de engenharia para medidas especiais, alta pressão (ASME) ou reatores certificados ATEX para zonas perigosas.",
+      "btn": "Solicitar cotação"
+    }
+  },
+  "storageTanksPage": {
+    "metadata": {
+      "title": "Tanques de Armazenamento Industriais | Welltech® International",
+      "description": "Tanques de armazenamento de líquidos em aço inoxidável até 150 toneladas segundo padrões internacionais."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "tanks": "Tanques Inox",
+      "current": "Tanques de Armazenamento"
+    },
+    "hero": {
+      "title": "Tanques de Armazenamento Industriales",
+      "desc": "Capacidade de até 150 toneladas para suas necessidades de armazenamento em massa. Soluções duráveis de aço inoxidável segundo padrões de engenharia ASME e EN."
+    },
+    "engineering": {
+      "title": "Potência de Engenharia de 150 Toneladas",
+      "desc": "A linha de produção Welltech® oferece uma ampla gama de capacidades desde tanques boutique de 1.000 litros até massivos tanques de 150 toneladas (150.000 litros) no local."
+    },
+    "features": {
+      "title": "Especificações Técnicas",
+      "items": {
+        "1": "Capacidade máxima de 150 Toneladas",
+        "2": "Aço de alta qualidade AISI 304 / 316L",
+        "3": "Soldagem a plasma totalmente automática",
+        "4": "Fundo cônico, abaulado ou plano",
+        "5": "Análises de cargas sísmicas e eólicas",
+        "6": "Automação de nível e volume"
+      }
+    },
+    "capacityTable": {
+      "title": "Tabela de Capacidade Padrão",
+      "note": "* Os valores acima são padrão. As relações diâmetro/altura são redimensionadas por nossos engenheiros conforme a altura da sua instalação.",
+      "headers": {
+        "volume": "Volume",
+        "diameter": "Diâmetro (mm)",
+        "height": "Altura (mm)",
+        "material": "Material"
+      },
+      "onSite": "Fabricação no local"
+    },
+    "faq": {
+      "title": "FAQ Sistemas de Armazenamento",
+      "items": [
+        {
+          "q": "Como tanques de 150 toneladas são trazidos para a instalação?",
+          "a": "Mega tanques de 50.000 litros e acima são construídos em sua instalação usando o método de 'fabricação no local' por nossas equipes de soldadores especialistas."
+        },
+        {
+          "q": "Por que a análise de carga sísmica é importante?",
+          "a": "Especialmente em tanques de 20 toneladas e acima, o efeito de sloshing pode derrubar o tanque. Calculamos essas forças antecipadamente."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nossas Aplicações de Exemplo",
+      "p1": "PROJETO 01",
+      "p2": "PROJETO 02",
+      "p3": "PROJETO 03",
+      "p4": "PROJETO 04"
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Especificação Técnica",
+        "subtitle": "Documento PDF DOC-01",
+        "desc": "Cálculos de espessura de parede, certificações de soldagem e tolerâncias de carga estática.",
+        "btn": "Baixar Documento (PDF)",
+        "fileUrl": "/assets/documents/pt/especificacoes-tecnicas/DOC-01-tanques-de-armazenamento.pdf"
+      },
+      "reference": {
+        "badge": "Referência em Destaque",
+        "desc": "Instalação de uma bateria de tanques de armazenamento de aço inoxidável de 150.000 litros fabricada no local para uma grande instalação química.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Planejamento de Capacidade",
+        "desc": "Compartilhe as dimensões do seu espaço e propriedades do fluido para seus projetos de armazenamento de até 150 toneladas.",
+        "whatsappMsg": "Olá, gostaria de obter informações sobre capacidade e preços de tanques de armazenamento industrial.",
+        "btn": "Solicitar Cotação →"
+      }
+    }
+  },
+  "chemicalTanksPage": {
+    "metadata": {
+      "title": "Tanques Químicos e de Ácido | Welltech®",
+      "description": "Até 150 toneladas de capacidade, soluções de tanques químicos API 650 316Ti e Hastelloy resistentes à corrosão agressiva."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "tanks": "Tanques Inox",
+      "current": "Tanques Químicos"
+    },
+    "hero": {
+      "title": "Tanques Químicos e de Ácido",
+      "desc": "Engenharia de tolerância zero para a classe de perigo máximo. Sistemas de armazenamento Heavy-Duty até 150 toneladas, totalmente resistentes à corrosão e pressão."
+    },
+    "corrosion": {
+      "title": "Controle de Corrosão Agressiva",
+      "desc": "Ácido sulfúrico, ácido nítrico, cáustico ou solventes explosivos... Os fluidos na indústria química podem fundir o aço comum em dias. Welltech® aplica normas API 650 e EN 14015 usando AISI 316L, AISI 316Ti ou Hastelloy."
+    },
+    "features": {
+      "title": "Segurança e Equipamentos",
+      "items": {
+        "1": "150 Toneladas (150.000 L) Capacidade",
+        "2": "Liga AISI 316Ti & Hastelloy C276",
+        "3": "100% RT (Raios X) Teste de Soldagem",
+        "4": "Integração ATEX (Ex-Proof) pronta",
+        "5": "Válvulas de alívio de pressão",
+        "6": "Conformidade com dique de contenção"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacidade Heavy-Duty e Espessura de Parede",
+      "note": "* Dependendo da densidade do produto químico, a espessura da parede aumenta consideravelmente.",
+      "headers": {
+        "volume": "Volume",
+        "diameter": "Diâmetro (mm)",
+        "height": "Altura (mm)",
+        "thickness": "Espessura Mín."
+      },
+      "customRow": "Design API 650 personalizado para sites mega",
+      "heavy": " (Heavy)"
+    },
+    "faq": {
+      "title": "FAQ Armazenamento Químico",
+      "items": [
+        {
+          "q": "O que são testes de soldagem NDT?",
+          "a": "Em tanques químicos perigosos, uma lacuna de soldagem invisível pode causar uma explosão. Aplicamos testes RT e PT nos cordões de soldagem."
+        },
+        {
+          "q": "Qual aço inoxidável escolher para qual ácido?",
+          "a": "Para ácidos oxidantes como ácido nítrico, AISI 304L pode ser adequado. Para ácido sulfúrico ou fosfórico, deve-se usar AISI 316L, 316Ti ou Hastelloy."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nossas Aplicações de Exemplo",
+      "p1": {
+        "title": "PROJETO 01",
+        "alt": "Tanque de ácido sulfúrico"
+      },
+      "p2": {
+        "title": "PROJETO 02",
+        "alt": "Teste de soldagem Heavy-Duty"
+      },
+      "p3": {
+        "title": "PROJETO 03",
+        "alt": "Armazenamento em liga Hastelloy"
+      },
+      "p4": {
+        "title": "PROJETO 04",
+        "alt": "Bateria de tanques petroquímicos"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Especificação Técnica",
+        "subtitle": "Documento PDF DOC-04",
+        "desc": "Resistências à densidade química calculadas segundo API 650, detalhes de testes radiográficos e acessórios de segurança.",
+        "btn": "Baixar Documento (PDF)",
+        "fileUrl": "/assets/documents/pt/especificacoes-tecnicas/DOC-04-tanques-quimicos.pdf"
+      },
+      "reference": {
+        "badge": "Referência em Destaque",
+        "desc": "\"Bateria de tanques de armazenamento de ácido sulfúrico altamente resistente à corrosão, com liga Hastelloy e totalmente automatizada para uma planta petroquímica.\"",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Design de Projeto Seguro",
+        "desc": "Compartilhe o nome, concentração e volume alvo (até 150 toneladas) do químico a ser armazenado.",
+        "whatsappMsg": "Olá, gostaria de obter informações sobre capacidade e preços de tanques químicos e de ácido.",
+        "btn": "Análise de Risco e Cotação →"
+      }
+    }
+  },
+  "milkTanksPage": {
+    "metadata": {
+      "title": "Tanques de Resfriamento e Armazenamento de Leite Inox | Welltech®",
+      "description": "Tanques de armazenamento de leite cru de aço inoxidável até 150 toneladas, ultra-higiênicos, sistema CIP e isolamento de poliuretano."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "tanks": "Tanques Inox",
+      "current": "Tanques Lácteos"
+    },
+    "hero": {
+      "title": "Tanques de Armazenamento de Leite",
+      "desc": "Design ultra-higiênico visando zero crescimento bacteriano para seus processos lácteos. Soluções de armazenamento mega até 150 toneladas com isolamento de poliuretano de alta capacidade."
+    },
+    "engineering": {
+      "title": "Ultra-Higiene e Cadeia do Frio",
+      "desc": "Em processos lácteos, o menor defeito de soldagem ou rugosidade superficial pode se tornar um foco bacteriano. Os tanques de leite Welltech® têm superfícies polidas em espelho e juntas soldadas totalmente ovalizadas. Para instalações que não querem romper a cadeia fria de +4°C, usa-se isolamento de poliuretano de alta densidade e camisas de resfriamento roll-bond."
+    },
+    "features": {
+      "title": "Especificações Técnicas",
+      "items": {
+        "1": "150 Toneladas (150.000 L) Capacidade de Produção",
+        "2": "AISI 304 / 316L Totalmente Higiênico",
+        "3": "Sistema de Lavagem CIP (Clean-in-Place)",
+        "4": "Isolamento Térmico de Espuma de Poliuretano",
+        "5": "Camisa de Resfriamento Dimple (Roll-Bond)",
+        "6": "Agitador de Baixa Velocidade Anti-separação de Gordura"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacidades Padrão de Tanques Lácteos",
+      "note": "* Os valores acima são de referência. Baterias de tanques até 150.000 litros para mega-instalações são projetadas sob medida pela nossa equipe especializada.",
+      "headers": {
+        "volume": "Volume",
+        "diameter": "Diâmetro (mm)",
+        "insulation": "Isolamento",
+        "material": "Material"
+      },
+      "customRow": "Mega-Silos Lácteos - Externo / Instalação no local",
+      "insulationTypes": {
+        "50": "50mm Poliuretano",
+        "60": "60mm Poliuretano",
+        "80": "80mm Poliuretano",
+        "100": "100mm Poliuretano"
+      },
+      "rows": [
+        {
+          "v": "5.000 L",
+          "d": "1.800",
+          "i": "50",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "10.000 L",
+          "d": "2.300",
+          "i": "60",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "15.000 L",
+          "d": "2.400",
+          "i": "60",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "20.000 L",
+          "d": "2.600",
+          "i": "80",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "25.000 L",
+          "d": "2.800",
+          "i": "80",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "50.000 L",
+          "d": "3.200",
+          "i": "100",
+          "t": "304 / 316L"
+        }
+      ],
+      "customRowVolume": "150.000 L"
+    },
+    "faq": {
+      "title": "FAQ Processo Lácteo",
+      "items": [
+        {
+          "q": "Por que se usam agitadores em tanques de leite?",
+          "a": "A camada de gordura do leite cru armazenado por muito tempo sobe à superfície e crema. Para manter a homogeneidade, instalam-se agitadores de pá muito lentos (aprox. 20-30 rpm)."
+        },
+        {
+          "q": "O que exatamente é o sistema CIP?",
+          "a": "É um sistema de limpeza automática que usa ácido, cáustico e água quente através de válvulas automáticas, bombas de alta pressão e bolas de aspersão, sem entrada humana no tanque."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nossas Aplicações de Exemplo",
+      "p1": {
+        "title": "PROJETO 01",
+        "alt": "Produção de tanque de leite isolado"
+      },
+      "p2": {
+        "title": "PROJETO 02",
+        "alt": "Instalação de silo de leite externo"
+      },
+      "p3": {
+        "title": "PROJETO 03",
+        "alt": "Montagem do sistema CIP"
+      },
+      "p4": {
+        "title": "PROJETO 04",
+        "alt": "Bateria de tanques para laticínio"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Especificação Técnica",
+        "subtitle": "Documento PDF DOC-03",
+        "desc": "Padrões de polimento de superfície (valores Ra) específicos para a indústria láctea, densidade de isolamento de poliuretano e design CIP.",
+        "btn": "Baixar Documento (PDF)",
+        "fileUrl": "/assets/documents/pt/especificacoes-tecnicas/DOC-03-tanques-de-leite.pdf"
+      },
+      "reference": {
+        "badge": "Referência em Destaque",
+        "desc": "\"Projeto de silos de armazenamento de leite externos de 100.000 litros com isolamento de poliuretano para uma marca láctea nacional.\"",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Vamos Fazer sua Instalação Crescer",
+        "desc": "Vamos projetar uma bateria de tanques higiênicos em capacidades até 150 toneladas para o seu laticínio.",
+        "whatsappMsg": "Olá, gostaria de obter informações técnicas e preços sobre tanques de armazenamento e resfriamento de leite.",
+        "btn": "Solicitar Cotação →"
+      }
+    }
+  },
+  "oliveOilTanksPage": {
+    "metadata": {
+      "title": "Tanques de Armazenamento de Azeite com Nitrogênio | Welltech®",
+      "description": "Tanques de azeite cônicos de aço inoxidável até 150 toneladas reduzindo a oxidação a zero com tecnologia de gás inerte."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "tanks": "Tanques Inox",
+      "current": "Tanques de Azeite"
+    },
+    "hero": {
+      "title": "Sistemas de Armazenamento de Azeite",
+      "desc": "Tecnologia de cobertura de nitrogênio para preservar sua valiosa colheita com seu sabor do primeiro dia por anos. Soluções de aço inoxidável sob medida até 150 toneladas."
+    },
+    "engineering": {
+      "title": "Armazenamento Maravilha de Engenharia",
+      "desc": "Os maiores inimigos no armazenamento de azeite são o ar (oxigênio) e a luz. Os tanques Welltech® são equipados com acessórios especiais para evacuar o ar e bombear gás nitrogênio em seu lugar. Esta tecnologia reduz a oxidação a zero. De pequenas instalações boutique a mega instalações de 150 toneladas, fabricamos tanques de fundo cônico ou plano."
+    },
+    "features": {
+      "title": "Especificações Técnicas",
+      "items": {
+        "1": "Sistema de Cobertura de Nitrogênio (Inerte)",
+        "2": "Opções de Capacidade até 150 Toneladas",
+        "3": "Fundo Cônico com Descarga Total",
+        "4": "AISI 304 / 316L Grau Alimentar",
+        "5": "Opções de Isolamento de Luz e Calor",
+        "6": "Válvulas de Amostragem e Nível"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacidades e Dimensões Padrão",
+      "note": "* Os valores da tabela são de referência. A equipe de engenharia Welltech fornece dimensionamento personalizado até 150 toneladas.",
+      "headers": {
+        "volume": "Volume",
+        "diameter": "Diâmetro (mm)",
+        "height": "Altura (mm)",
+        "thickness": "Espessura de Parede"
+      },
+      "customRow": "Baterias de Tanques Mega Instalação no Local"
+    },
+    "faq": {
+      "title": "FAQ Armazenamento de Azeite",
+      "items": [
+        {
+          "q": "Por que se usa nitrogênio no armazenamento de azeite?",
+          "a": "O contato do azeite com o ar (oxigênio) desencadeia o ranço. Como o gás nitrogênio é mais pesado que o ar, quando bombeado para o tanque cria um almofada protetora sobre o óleo."
+        },
+        {
+          "q": "Devo escolher fundo cônico ou plano?",
+          "a": "Para reposar azeite não filtrado (fresco), tanques de fundo completamente cônico coletam o sedimento em um único ponto para descarga fácil. Para óleos filtrados, grandes tanques de fundo plano são adequados."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nossas Aplicações de Exemplo",
+      "p1": {
+        "title": "PROJETO 01",
+        "alt": "Tanque de azeite fundo cônico"
+      },
+      "p2": {
+        "title": "PROJETO 02",
+        "alt": "Instalação sistema cobertura nitrogênio"
+      },
+      "p3": {
+        "title": "PROJETO 03",
+        "alt": "Instalação boutique"
+      },
+      "p4": {
+        "title": "PROJETO 04",
+        "alt": "Bateria de armazenamento mega"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Especificação Técnica",
+        "subtitle": "Documento PDF DOC-02",
+        "desc": "Documento com dimensionamento, espessuras de parede, ângulos de fundo cônico e detalhes de acessórios de nitrogênio.",
+        "btn": "Baixar Documento (PDF)",
+        "fileUrl": "/assets/documents/pt/especificacoes-tecnicas/DOC-02-tanques-de-azeite.pdf"
+      },
+      "reference": {
+        "badge": "Referência em Destaque",
+        "desc": "Bateria de tanques de aço inoxidável de fundo cônico, com cobertura de nitrogênio e totalmente automatizada para uma grande instalação de produção de azeite.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Tem um projeto personalizado?",
+        "desc": "Obtenha suporte de design de projeto de nossos engenheiros para baterias de tanques com cobertura de nitrogênio até 150 toneladas.",
+        "whatsappMsg": "Olá, gostaria de obter informações técnicas e preços sobre tanques de armazenamento de azeite.",
+        "btn": "Solicitar Cotação →"
+      }
+    }
+  },
+  "pumpsPage": {
+    "metadata": {
+      "title": "Bombas Industriais Inox | Welltech®",
+      "description": "Bombas centrífugas, de deslocamento positivo, autoaspirantes, de tambor, de diafragma pneumáticas e monobombas industriais higiênicas."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "current": "Bombas Industriais"
+    },
+    "hero": {
+      "title": "Soluções de Transferência Higiênicas",
+      "desc": "Sistemas de bombas industriais que transferem todos os tipos de produtos com a tecnologia mais adequada para o seu processo."
+    },
+    "categories": [
+      {
+        "title": "Bombas Centrífugas",
+        "desc": "Soluções ideais para transferência rápida, ininterrupta e higiênica (CIP) de produtos de baixa viscosidade como leite, água, sucos e azeite."
+      },
+      {
+        "title": "Bombas de Deslocamento Positivo",
+        "desc": "Bombas de lobos e rotores precisas que transferem produtos de alta viscosidade como mel, chocolate e cremes sem alterar sua estrutura."
+      },
+      {
+        "title": "Bombas Autoaspirantes",
+        "desc": "Sistemas especialmente projetados para transferência de fluidos misturados com ar e espumosos."
+      },
+      {
+        "title": "Bombas de Tambor",
+        "desc": "Soluções portáteis para esvaziamento seguro de ácidos e produtos químicos de tambores e tanques IBC."
+      },
+      {
+        "title": "Bombas de Diafragma Pneumáticas",
+        "desc": "Bombas que funcionam com ar comprimido em ambientes inflamáveis (ATEX) para produtos com partículas sólidas."
+      },
+      {
+        "title": "Monobombas",
+        "desc": "Bombas de parafuso excêntrico para transferência sem pulsação de produtos muito viscosos como lamas, mel e massas."
+      }
+    ],
+    "viewModels": "Ver modelos",
+    "cta": {
+      "title": "Seleção Correta de Bomba",
+      "desc": "Deixe nossos engenheiros calcular a potência de bomba mais adequada para o seu processo.",
+      "btn": "Suporte de Engenharia"
+    }
+  },
+  "positivePumpsPage": {
+    "metadata": {
+      "title": "Bombas de Deslocamento Positivo e Bombas de Lóbulos | Welltech®",
+      "description": "Bombas de lóbulos higiênicas para transferência de produtos de alta viscosidade como mel, chocolate, extrato de tomate e cosméticos sem esmagamento."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "pumps": "Bombas",
+      "current": "Bombas de Deslocamento Positivo"
+    },
+    "hero": {
+      "title": "Bombas de Deslocamento Positivo",
+      "desc": "Sistemas de bombas de lóbulos higiênicas que transferem fluidos de alta viscosidade como mel, chocolate, extrato de tomate e cosméticos sem esmagar nem danificar sua estrutura celular."
+    },
+    "technology": {
+      "title": "Transferência Precisa e Suave",
+      "desc": "Os impulsores de alta velocidade das bombas centrífugas danificam produtos densos como mel ou chocolate. Nossas bombas de deslocamento positivo (lóbulos) transportam o fluido em grandes câmaras através de lóbulos de aço inoxidável que giram a velocidade muito baixa sem contato. A integridade celular do produto nunca é comprometida. Mesmo os produtos mais densos até 100.000 cP de viscosidade podem ser bombeados a alta pressão constante.",
+      "imgAlt": "Detalhe do Sistema de Rotor de Lóbulo"
+    },
+    "features": {
+      "title": "Características Técnicas",
+      "imgAlt": "Conexão Motor-Redutor",
+      "items": [
+        "Transferência a Baixa Rotação (Low-RPM)",
+        "Corpo e Lóbulos em AISI 316L Grau Alimentar",
+        "Redutor e Inversor para Vazões Variáveis",
+        "Opção de Tampa Frontal com Camisa Aquecedora para Chocolate",
+        "Vedação Mecânica de Carbono de Duplo Efeito",
+        "Fluxo Reversível (Bidirecional)"
+      ]
+    },
+    "table": {
+      "title": "Tabela de Capacidade das Bombas de Lóbulos",
+      "note": "* À medida que a viscosidade aumenta, a velocidade da bomba deve ser reduzida. A seleção do redutor é calculada pelos nossos engenheiros com base no produto específico a ser transferido.",
+      "imgAlt": "Desenho Técnico da Bomba de Lóbulos",
+      "headers": [
+        "N° de Série",
+        "Vazão Máx. (m³/h)",
+        "Pressão Máx. (Bar)",
+        "Diâmetro de Conexão"
+      ],
+      "rows": [
+        {
+          "model": "WT-L 20",
+          "flow": "3 - 5 m³/h",
+          "pressure": "5 - 10 Bar",
+          "connection": "DN 40 / 1,5\"",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-L 40",
+          "flow": "8 - 12 m³/h",
+          "pressure": "5 - 10 Bar",
+          "connection": "DN 50 / 2,0\"",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-L 80",
+          "flow": "18 - 25 m³/h",
+          "pressure": "5 - 12 Bar",
+          "connection": "DN 65 / 2,5\"",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-L 150",
+          "flow": "30 - 45 m³/h",
+          "pressure": "5 - 12 Bar",
+          "connection": "DN 100 / 4,0\"",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Deslocamento Positivo",
+      "items": [
+        {
+          "q": "As bombas de lóbulos são adequadas para limpeza CIP?",
+          "a": "Sim, projetadas de acordo com os padrões da indústria alimentícia e farmacêutica (EHEDG e 3A), podem ser limpas excelentemente com água quente e soda cáustica através da tubulação."
+        },
+        {
+          "q": "Como evitam a solidificação durante a transferência de chocolate?",
+          "a": "O chocolate e os óleos vegetais tendem a se solidificar à temperatura ambiente. Adicionando uma opção de camisa à tampa frontal de nossas bombas de lóbulos e circulando água quente, garantimos que o produto permaneça líquido."
+        },
+        {
+          "q": "Por que as bombas centrífugas não conseguem lidar com mel?",
+          "a": "Os impulsores das bombas centrífugas giram em alta velocidade. Quando um fluido de alta viscosidade como mel bate no impulsor, cria grande resistência que pode queimar o motor ou danificar a estrutura molecular do produto. As bombas de lóbulos superam essa densidade com baixa rotação e alto torque."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Exemplos de Aplicações",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "Bomba de Lóbulos Higiênica"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "Linha de Transferência de Mel"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Bomba de Chocolate com Tampa com Camisa"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Grupo Redutor e Motor"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Documento Técnico",
+        "subtitle": "DOK-11 Especificação PDF",
+        "desc": "Diagramas viscosidade/velocidade das bombas de lóbulos, dimensões da tampa com camisa e tabela de seleção de potência do redutor.",
+        "btn": "Baixar Diagramas (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-loblu-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Aplicação de Referência",
+        "imgAlt": "Referência Linha de Transferência Cosmética",
+        "desc": "Integração de bomba de deslocamento 316L higiênica de lóbulo duplo com controle de velocidade (inversor) para uma instalação que produz loções e cremes corporais.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Cálculo de Torque e Potência",
+        "desc": "Informe-nos o tipo e a densidade (cP) do produto a ser transferido, e selecionaremos a bomba de lóbulos mais adequada.",
+        "btn": "Solicitar Orçamento →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20y%C3%BCksek%20viskoziteli%20%C3%BCr%C3%BCn%C3%BCm%20i%C3%A7in%20loblu%20pompa%20kapasite%20hesaplamas%C4%B1%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "centrifugalPumpsPage": {
+    "metadata": {
+      "title": "Bombas Centrífugas Higiênicas | Welltech®",
+      "description": "Bombas centrífugas higiênicas de aço inoxidável de alta vazão e compatíveis com CIP para transferência de leite, água, suco e azeite."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "pumps": "Bombas",
+      "current": "Bombas Centrífugas"
+    },
+    "hero": {
+      "title": "Bombas Centrífugas Higiênicas",
+      "desc": "Vazão máxima e eficiência hidrodinâmica para fluidos de baixa viscosidade. Sistemas de transferência totalmente conformes com os padrões CIP para processos de leite, azeite e bebidas."
+    },
+    "technology": {
+      "title": "Alta Vazão, Transferência Contínua",
+      "desc": "As bombas centrífugas pressurizam o fluido usando a força centrífuga gerada pela rotação do impulsor acionado pelo motor. É a solução mais ideal, durável e econômica para transferir produtos de baixa viscosidade (1-500 cP) como leite, suco, vinho, azeite e produtos químicos líquidos.",
+      "imgAlt": "Sistema de Impulsor Hidrodinâmico"
+    },
+    "features": {
+      "title": "Características dos Equipamentos e Materiais",
+      "imgAlt": "Carcaça do Motor de Aço Inoxidável",
+      "items": [
+        "Corpo em Fundição de Precisão AISI 316L",
+        "Opções de Impulsor Aberto e Fechado",
+        "Vedação Mecânica SiC/SiC/EPDM",
+        "Compatibilidade Total com Sistemas CIP e SIP",
+        "Carcaça do Motor de Aço Inoxidável",
+        "Baixo NPSH (Proteção contra Cavitação)"
+      ]
+    },
+    "table": {
+      "title": "Tabela de Capacidade das Bombas Centrífugas",
+      "note": "* Os valores da tabela são baseados na viscosidade da água (1 cP). Nossos engenheiros hidráulicos selecionarão o motor correto com base no número de curvas e na altura manométrica em sua linha.",
+      "imgAlt": "Curva de Desempenho da Bomba",
+      "headers": [
+        "N° de Série",
+        "Vazão Máx. (m³/h)",
+        "Altura Manométrica (mca)",
+        "Potência do Motor (kW)"
+      ],
+      "rows": [
+        {
+          "model": "WT-C 20",
+          "flow": "20 m³/h",
+          "head": "25 mca",
+          "power": "1,5 - 2,2 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-C 40",
+          "flow": "40 m³/h",
+          "head": "35 mca",
+          "power": "3,0 - 4,0 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-C 80",
+          "flow": "80 m³/h",
+          "head": "45 mca",
+          "power": "5,5 - 7,5 kW",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-C 150",
+          "flow": "150 m³/h",
+          "head": "60 mca",
+          "power": "11,0 - 15,0 kW",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Bombas Centrífugas",
+      "items": [
+        {
+          "q": "Qual é a diferença entre impulsor aberto e fechado?",
+          "a": "Para produtos completamente líquidos como leite e água, usa-se impulsor fechado para obter pressão máxima. Para fluidos com pequenas partículas como suco com polpa, prefere-se impulsor aberto para evitar obstruções."
+        },
+        {
+          "q": "O que significa cavitação da bomba?",
+          "a": "Quando há líquido insuficiente no lado de sucção ou o diâmetro do tubo é muito estreito, o ponto de ebulição do fluido cai e bolhas de ar se formam. Essas bolhas erodem o metal ao bater nas pás do impulsor. Nossos engenheiros eliminam esse risco selecionando bombas com baixos valores de NPSH."
+        },
+        {
+          "q": "O que devo fazer se a vedação mecânica vazar?",
+          "a": "Em nossas bombas alimentícias, a vedação é fornecida por vedações mecânicas de Carbono/Carboneto de Silício de alta tecnologia. Em caso de desgaste, o kit de vedação é projetado para ser facilmente substituído em sua instalação em minutos."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Exemplos de Aplicações",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "Bomba de Transferência de Leite"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "Detalhe da Vedação Mecânica"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Aplicação de Impulsor Aberto Higiênico"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Bomba da Linha de Lavagem CIP"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Documento Técnico",
+        "subtitle": "DOK-10 Especificação PDF",
+        "desc": "Curvas de desempenho das bombas centrífugas, valores NPSH e tabela de compatibilidade de materiais de vedações mecânicas.",
+        "btn": "Baixar Curvas (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-10-santrifuj-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Referência em Destaque",
+        "imgAlt": "Referência Linha de Transferência de Leite",
+        "desc": "Bateria de bombas centrífugas compatível com CIP com tampa de inox e capacidade de 40 m³/h para uma instalação que processa 500 toneladas de leite cru por dia.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Seleção de Bomba",
+        "desc": "Informe-nos o tipo de líquido, sua demanda de vazão e o comprimento da tubulação, e calcularemos o motor e diâmetro do impulsor mais eficientes.",
+        "btn": "Cálculo de Vazão →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20santrifüj%20pompa%20kapasite%20hesaplamas%C4%B1%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "drumPumpsPage": {
+    "metadata": {
+      "title": "Bombas para Tambor e IBC Industriais | Welltech®",
+      "description": "Soluções de bombas portáteis para o esvaziamento seguro de ácidos, produtos químicos e alimentos líquidos de tambores, tanques IBC e contêineres."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "pumps": "Bombas",
+      "current": "Bombas para Tambor"
+    },
+    "hero": {
+      "title": "Bombas para Tambor e Tanque IBC",
+      "desc": "Fim às perdas de produto no esvaziamento manual de matérias-primas. Unidades de esvaziamento leves, portáteis e de alta eficiência especialmente projetadas para ácidos, produtos químicos e alimentos líquidos."
+    },
+    "technology": {
+      "title": "Esvaziamento Seguro de Matérias-Primas",
+      "desc": "Na produção industrial, as matérias-primas geralmente são fornecidas em tambores de 200 litros ou tanques IBC de 1000 litros. O esvaziamento manual desses contêineres causa perdas de produto e acidentes de trabalho. As bombas para tambor Welltech oferecem 99% de eficiência de esvaziamento, deixando apenas algumas gotas de produto no fundo do contêiner graças ao design de tubo de imersão.",
+      "imgAlt": "Unidade de Imersão para Tambor"
+    },
+    "features": {
+      "title": "Opções de Produto e Motor",
+      "imgAlt": "Motor Elétrico de Alta Velocidade",
+      "items": [
+        "Motor Antiexplosivo Certificado ATEX",
+        "Opções de Tubo AISI 316L ou PP / PVDF",
+        "Tipo Parafuso para Mel e Extrato de Tomate de Alta Viscosidade",
+        "Controle de Velocidade Preciso Contínuo",
+        "Comprimento do Tubo de 1200mm para Tanques IBC",
+        "Design Modular Fácil de Limpar"
+      ]
+    },
+    "table": {
+      "title": "Tabela de Seleção das Bombas para Tambor",
+      "note": "* O material do tubo de imersão deve ser selecionado de acordo com a tabela de corrosão do produto químico a ser transferido. Motores ATEX devem ser usados para líquidos inflamáveis.",
+      "imgAlt": "Dimensões do Tubo e Desenho de Montagem",
+      "headers": [
+        "Aplicação",
+        "Material do Tubo",
+        "Comprimento do Tubo (mm)",
+        "Viscosidade (cP)"
+      ],
+      "rows": [
+        {
+          "application": "Tambor Padrão (200L)",
+          "material": "AISI 316L / PP",
+          "length": "1000 mm",
+          "viscosity": "0 - 800 cP",
+          "highlight": "blue"
+        },
+        {
+          "application": "Tanque IBC (1000L)",
+          "material": "AISI 316L / PVDF",
+          "length": "1200 mm",
+          "viscosity": "0 - 1000 cP",
+          "highlight": "blue"
+        },
+        {
+          "application": "Alimento Viscoso (Mel/Creme)",
+          "material": "316L Grau Alimentar",
+          "length": "1000 - 1200 mm",
+          "viscosity": "Até 100.000 cP",
+          "highlight": "orange"
+        },
+        {
+          "application": "Laboratório/Recipiente Pequeno",
+          "material": "PP / PVDF",
+          "length": "700 mm",
+          "viscosity": "0 - 200 cP",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Esvaziamento de Tambor",
+      "items": [
+        {
+          "q": "Qual motor devo escolher para transferência de solvente ou álcool?",
+          "a": "Motores elétricos padrão podem produzir faíscas durante a transferência de líquidos inflamáveis e combustíveis. Neste caso, motores antiexplosivos certificados ATEX ou motores pneumáticos de ar comprimido devem ser usados."
+        },
+        {
+          "q": "Para que serve uma bomba para tambor de parafuso (Parafuso Excêntrico)?",
+          "a": "Bombas para tambor padrão não conseguem aspirar produtos com fluidez muito baixa como mel, glicose ou cremes cosméticos densos. Bombas para tambor de parafuso podem sem esforço aspirar e bombear produtos dessa densidade graças ao seu mecanismo de parafuso sem fim."
+        },
+        {
+          "q": "Como o tubo da bomba é limpo?",
+          "a": "As bombas para tambor Welltech têm design modular. As partes do motor e do tubo se separam em segundos. O eixo e o impulsor dentro do tubo podem ser facilmente removidos e colocados em um banho de esterilização ou CIP."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Exemplos de Aplicações",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "Transferência Química com Motor ATEX"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "Bomba IBC com Tubo PVDF"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Bomba Alimentar Tipo Parafuso"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Esvaziamento de Tambor com Vazão Precisa"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Documento Técnico",
+        "subtitle": "DOK-12 Especificação PDF",
+        "desc": "Tabela de resistência química, faixas de velocidade do motor e documento técnico dos acessórios de conexão para tanques IBC.",
+        "btn": "Baixar Especificação (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-12-varil-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Aplicação de Referência",
+        "imgAlt": "Referência Transferência de Matérias-Primas Químicas",
+        "desc": "Estação automática de esvaziamento de tambores certificada ATEX com tubo PVDF resistente a solventes para uma fábrica de tintas.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Seleção de Motor",
+        "desc": "Especifique a matéria-prima a ser transferida e o número de tambores, e determinaremos juntos a opção de motor elétrico ou pneumático.",
+        "btn": "Solicitar Orçamento →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20varil%20ve%20IBC%20bo%C5%9Faltma%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "projectsPage": {
+    "metadata": {
+      "title": "Projetos Concluídos | Welltech®",
+      "description": "Projetos industriais em aço inoxidável e estudos de caso entregues com sucesso pela Welltech."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "current": "Projetos Concluídos"
+    },
+    "hero": {
+      "title": "Referências de Engenharia",
+      "desc": "Não fabricamos apenas tanques; construímos locais de processo de alta tecnologia que a indústria global necessita."
+    },
+    "labels": {
+      "capacity": "Capacidade",
+      "material": "Material",
+      "standard": "Norma",
+      "features": "Destaques"
+    },
+    "viewDetails": "Ver Detalhes do Projeto e Análise Técnica",
+    "cta": {
+      "title": "Desenvolvamos uma Solução de Engenharia para o seu Projeto",
+      "desc": "Entre em contato com nossa equipe de especialistas para seus requisitos de capacidade específicos e padrões técnicos.",
+      "btn": "Suporte Técnico"
+    }
+  },
+  "processSystemsPage": {
+    "metadata": {
+      "title": "Sistemas de Processo Industriais e Reatores | Welltech®",
+      "description": "Linhas de produção com misturadores projetadas de acordo com padrões ASME e ATEX para misturas de alta viscosidade, reações perigosas e processos termodinâmicos."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "current": "Sistemas de Processo"
+    },
+    "hero": {
+      "title": "Sistemas de Processo",
+      "desc": "Linhas de produção com misturadores projetadas de acordo com padrões ASME e ATEX para misturas de alta viscosidade, reações perigosas e processos termodinâmicos."
+    },
+    "viewModels": "Explorar Modelos",
+    "categories": [
+      {
+        "title": "Tanques de Processo com Misturador",
+        "desc": "Homogeneização perfeita com geometria de pá adaptada às suas necessidades e sistemas de aquecimento/resfriamento com camisa termodinâmica."
+      },
+      {
+        "title": "Reatores Químicos e Farmacêuticos",
+        "desc": "Reatores antiexplosivos que suportam 10 Bar e vácuo total, em ligas 316Ti / Hastelloy, de acordo com padrões ATEX."
+      },
+      {
+        "title": "Homogeneizadores High-Shear",
+        "desc": "Sistemas misturadores de redução de partículas com tecnologia rotor-estator em alta velocidade para emulsões líquido-líquido e líquido-sólido."
+      },
+      {
+        "title": "Unidades de Processo Móveis (Skid Systems)",
+        "desc": "Soluções compactas plug-and-play com reator, bomba e automação em um único chassi para instalação rápida."
+      },
+      {
+        "title": "Tanques com Camisa Aquecedora e Refrigeradora",
+        "desc": "Tanques de processo em aço inoxidável com camisas roll-bond (dimple) e serpentina de meio tubo para alta eficiência térmica."
+      },
+      {
+        "title": "Fermentação e Biorreatores",
+        "desc": "Sistemas de fermentação estéreis em aço inoxidável com controle preciso de pH/Oxigênio para biotecnologia e indústria alimentícia."
+      },
+      {
+        "title": "Sistemas CIP Totalmente Automáticos",
+        "desc": "Unidades de Clean-in-Place (limpeza no local) controladas por PLC que garantem os padrões de higiene de sua instalação."
+      }
+    ],
+    "cta": {
+      "title": "Você tem Necessidades de Processo Especiais?",
+      "desc": "Entre em contato com nosso departamento de engenharia para tamanhos personalizados, alta pressão (ASME) ou reatores em zona de perigo certificados ATEX não listados em nosso catálogo.",
+      "btn": "Solicitar Orçamento"
+    }
+  },
+  "jacketedTanksPage": {
+    "metadata": {
+      "title": "Tanques com Camisa Aquecedora e Refrigeradora | Welltech®",
+      "description": "Tanques de processo aquecedores/refrigeradores em aço inoxidável com camisas roll-bond (dimple) e serpentina de meio tubo para alta eficiência térmica."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "process": "Sistemas de Processo",
+      "current": "Tanques com Camisa"
+    },
+    "hero": {
+      "title": "Tanques com Camisa Aquecedora e Refrigeradora",
+      "desc": "Máxima eficiência térmica para seus processos que requerem controle preciso de temperatura. Sistemas especialmente isolados equipados com tecnologia roll-bond, meio tubo ou camisa completa."
+    },
+    "technology": {
+      "title": "Engenharia Termodinâmica",
+      "desc": "Manter o fluido na temperatura correta nos processos de produção determina diretamente a qualidade do produto final. Nossos sistemas são projetados com camisas especiais pelas quais podem circular vapor, óleo quente, água quente ou glicol/água gelada. Preferimos camisas <strong>Roll-Bond (Dimple)</strong> para processos de resfriamento a baixa pressão, enquanto usamos tecnologia de <strong>Serpentina de Meio Tubo (Half-Pipe)</strong> soldada para reações de aquecimento que requerem alta pressão e vapor.",
+      "imgAlt": "Detalhe de Camisa Meio Tubo e Dimple"
+    },
+    "features": {
+      "title": "Características dos Equipamentos e Isolamento",
+      "imgAlt": "Seção Transversal do Isolamento do Tanque",
+      "items": [
+        "Camisa Dimple Soldada a Laser",
+        "Serpentina de Meio Tubo (Half-Pipe)",
+        "Isolamento de Lã de Rocha (Rockwool)",
+        "Isolamento de Poliuretano (Resfriamento)",
+        "Chapa de Revestimento Externo Completamente Estanque",
+        "Sensor de Temperatura Termopar PT100"
+      ]
+    },
+    "table": {
+      "title": "Tabela de Seleção de Tecnologia de Camisa",
+      "note": "* Nossos engenheiros determinam o tipo de camisa mais adequado com base no tipo e pressão do fluido aquecedor/refrigerador em sua instalação.",
+      "imgAlt": "Desenho Técnico do Tanque com Camisa",
+      "headers": [
+        "Tipo de Camisa",
+        "Propósito",
+        "Fluido (Meio)",
+        "Pressão de Trabalho"
+      ],
+      "rows": [
+        {
+          "type": "Dimple (Roll-Bond)",
+          "purpose": "Resfriamento Preciso",
+          "fluid": "Água Gelada / Glicol",
+          "pressure": "Baixa / Média (2-4 Bar)",
+          "highlight": "blue"
+        },
+        {
+          "type": "Serpentina de Meio Tubo",
+          "purpose": "Aquecimento Rápido",
+          "fluid": "Vapor / Óleo Quente",
+          "pressure": "Alta (6-10+ Bar)",
+          "highlight": "orange"
+        },
+        {
+          "type": "Camisa Completa",
+          "purpose": "Aquecimento/Resfriamento Geral",
+          "fluid": "Água Quente ou Fria",
+          "pressure": "Baixa (1-2 Bar)",
+          "highlight": "dark"
+        },
+        {
+          "type": "Serpentina Interna",
+          "purpose": "Aquecimento/Resfriamento Choque",
+          "fluid": "Vapor / Água",
+          "pressure": "Média / Alta",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Aquecimento / Resfriamento",
+      "items": [
+        {
+          "q": "Por que devo usar Meio Tubo em vez de Camisa Dimple para aplicações a vapor?",
+          "a": "O vapor e o óleo quente têm pressão e temperatura muito altas. As camisas Dimple têm paredes finas e podem inflar ou deformar sob alta pressão. As serpentinas de meio tubo são enroladas ao redor do corpo do tanque com soldas espessas, portanto têm alta resistência à pressão."
+        },
+        {
+          "q": "O que acontece se o isolamento térmico não for aplicado?",
+          "a": "A energia (calor ou frio) na camisa do tanque se mistura ao ar em vez de passar apenas para o produto interno. Isso leva seus custos de energia a níveis terríveis e prolonga o tempo de processo."
+        },
+        {
+          "q": "Como a área da camisa é calculada?",
+          "a": "A área da camisa é calculada usando fórmulas de engenharia termodinâmica com base na quantidade de produto (kg) no tanque, no calor específico do produto, sua temperatura inicial e quanto tempo (minutos/horas) é necessário para atingir a temperatura alvo."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Exemplos de Aplicações",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "Tanque com Camisa de Meio Tubo"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "Resfriamento com Camisa Dimple"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Aplicação de Isolamento de Lã de Rocha"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Bateria de Tanques de Processo Aquecidos"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOK-05 Documento PDF",
+        "desc": "Especificação de engenharia contendo cálculos de área termodinâmica, pressões de trabalho e espessuras de isolamento.",
+        "btn": "Baixar Documento (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-05-ceketli-tanklar.pdf"
+      },
+      "reference": {
+        "badge": "Referência em Destaque",
+        "imgAlt": "Referência Projeto de Processo Aquecido",
+        "desc": "Bateria de tanques de cozimento aquecidos a vapor, serpentina de meio tubo e isolamento de lã de rocha na indústria alimentícia.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Cálculo Térmico",
+        "desc": "Entre em contato conosco para calcular a área de camisa necessária com base nos valores de tempo e temperatura alvo do seu processo.",
+        "btn": "Solicitar Orçamento →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20%C4%B1s%C4%B1tma%20so%C4%9Futma%20ceketli%20tanklar%20i%C3%A7in%20termodinamik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "bioreactorsPage": {
+    "metadata": {
+      "title": "Sistemas de Fermentação e Biorreatores | Welltech®",
+      "description": "Sistemas de fermentação estéreis em aço inoxidável com controle preciso de pH, oxigênio e temperatura para biotecnologia, indústria farmacêutica e alimentícia."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "process": "Sistemas de Processo",
+      "current": "Fermentação e Biorreatores"
+    },
+    "hero": {
+      "title": "Fermentação e Biorreatores",
+      "desc": "Esterilização perfeita para culturas celulares microbianas e produção de enzimas. Sistemas de bioprocesso industriais com controle preciso de pH, Oxigênio Dissolvido (DO2) e temperatura."
+    },
+    "technology": {
+      "title": "Controle Preciso do Bioprocesso",
+      "desc": "A manutenção da vida microbiana e o alcance do rendimento alvo do produto nos processos de fermentação dependem do controle milimétrico das condições ambientais.",
+      "imgAlt": "Detalhe do Controle Termodinâmico do Biorreator"
+    },
+    "features": {
+      "title": "Características dos Equipamentos e Engenharia",
+      "imgAlt": "Sistema PLC SCADA do Biorreator",
+      "items": [
+        "Superfície Interna Eletropolida Ra < 0,4 µm",
+        "Design Estéril de acordo com o Padrão ASME BPE",
+        "SIP Automático (Esterilização no Local)",
+        "Aeração de Alta Transferência de Massa",
+        "Camisa Dimple/Meio Tubo Completamente Isolada",
+        "Design de Válvula sem Pontos Mortos"
+      ]
+    },
+    "table": {
+      "title": "Tabela de Capacidade",
+      "note": "* As capacidades da instalação são projetadas da escala P&D à escala industrial.",
+      "imgAlt": "Diagrama P&ID do Biorreator",
+      "headers": [
+        "Série",
+        "Volume",
+        "Pressão"
+      ],
+      "rows": [
+        {
+          "series": "WT-BIO Lab",
+          "volume": "10 L - 100 L",
+          "pressure": "-1 / +3 Bar",
+          "highlight": "blue"
+        },
+        {
+          "series": "WT-BIO Pilot",
+          "volume": "200 L - 2.000 L",
+          "pressure": "-1 / +3 Bar",
+          "highlight": "blue"
+        },
+        {
+          "series": "WT-BIO Pro",
+          "volume": "5.000 L - 20.000 L",
+          "pressure": "-1 / +4 Bar",
+          "highlight": "orange"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Exemplos de Aplicações",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "Montagem de Biorreator Estéril"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "Unidade de Fermentação de Cultura Celular"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Grupo de Sensores pH-Oxigênio de Precisão"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Instalação de Planta Industrial de Bioprocesso"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Documento Técnico",
+        "subtitle": "DOK-15 Especificação PDF",
+        "btn": "Baixar Especificação (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-15-biyoreaktorler.pdf"
+      },
+      "reference": {
+        "badge": "Aplicação de Referência",
+        "imgAlt": "Referência Biorreator Planta de Produção de Vacinas",
+        "desc": "Instalação personalizada de linha de biorreator de 2.000 L para uma planta de produção de cultura celular."
+      },
+      "cta": {
+        "title": "Engenharia de Projeto",
+        "desc": "Planeje com nossa equipe técnica para seus processos de escalonamento do laboratório à produção industrial.",
+        "btn": "Suporte Técnico"
+      }
+    }
+  },
+  "homogenizersPage": {
+    "metadata": {
+      "title": "Sistemas Homogeneizadores | Welltech®",
+      "description": "Sistemas homogeneizadores rotor-estator de alta velocidade (high-shear) para processos cosméticos, farmacêuticos e alimentícios."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "process": "Sistemas de Processo",
+      "current": "Homogeneizadores"
+    },
+    "hero": {
+      "title": "Sistemas Homogeneizadores",
+      "desc": "Redução perfeita de partículas em emulsões líquido-líquido e líquido-sólido. Tecnologia rotor-estator com alta força de cisalhamento para cosméticos, farmacêuticos e processos químicos avançados."
+    },
+    "technology": {
+      "title": "Tecnologia Rotor e Estator",
+      "desc": "Os misturadores comuns apenas movem o fluido. Os homogeneizadores submetem o fluido a enormes forças mecânicas de cisalhamento através de lâminas do rotor que giram em um espaço muito estreito (nível mícron) e lâminas do estator fixas. Assim, substâncias como óleo e água que normalmente não se misturam são convertidas em uma emulsão perfeita (creme, maionese, loção, etc.) e as partículas são micronizadas para evitar a sedimentação.",
+      "imgAlt": "Detalhe de Lâmina do Rotor e Estator"
+    },
+    "features": {
+      "title": "Características Críticas de Engenharia",
+      "imgAlt": "Motor de Homogeneizador de Alta Velocidade",
+      "items": [
+        "Capacidade de Alta Velocidade 3000 rpm",
+        "Vedação Mecânica Resfriada de Duplo Efeito",
+        "Cabeça de Corte em Liga Especial AISI 316L",
+        "Cabeças do Estator Intercambiáveis",
+        "Lavabilidade CIP / SIP (Higiênico)",
+        "Controle Preciso de Velocidade por Inversor"
+      ]
+    },
+    "table": {
+      "title": "Tipos de Montagem do Homogeneizador",
+      "note": "* Selecionado com base no sistema de tubulação, design do tanque e propriedades reológicas do produto de sua instalação.",
+      "imgAlt": "Desenho do Homogeneizador In-Line",
+      "headers": [
+        "Tipo de Montagem",
+        "Princípio de Funcionamento",
+        "Área de Aplicação"
+      ],
+      "rows": [
+        {
+          "type": "Entrada Inferior (Bottom Entry)",
+          "principle": "Montado no fundo do tanque, produto alimentado por gravidade.",
+          "usage": "Cremes Cosméticos, Maionese, Loção",
+          "highlight": "orange"
+        },
+        {
+          "type": "In-Line (Fluxo Contínuo)",
+          "principle": "Montado na tubulação, circula.",
+          "usage": "Xaropes de grande volume, Produtos Lácteos",
+          "highlight": "blue"
+        },
+        {
+          "type": "Entrada Superior (Imersão)",
+          "principle": "Imerso do topo do tanque por elevador ou flange.",
+          "usage": "Recipientes abertos, Tanques P&D móveis",
+          "highlight": "dark"
+        },
+        {
+          "type": "Misturador de Pó",
+          "principle": "Aspira matérias-primas em pó do exterior por vácuo criado.",
+          "usage": "Negro de fumo, Leite em pó, Dissolução de pectina",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Exemplos de Aplicações",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "Homogeneizador de Entrada Inferior"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "Tanque de Produção de Creme Cosmético"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Sistema de Fluxo Contínuo In-Line"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Unidade de Dispersão com Aspiração de Pó"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOK-08 Documento PDF",
+        "desc": "Especificação técnica contendo tolerâncias rotor-estator, circuito de resfriamento da vedação mecânica e cálculos de potência do motor kW.",
+        "btn": "Baixar Documento (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-08-homojenizatorler.pdf"
+      },
+      "reference": {
+        "badge": "Referência em Destaque",
+        "imgAlt": "Referência Projeto de Processo Cosmético",
+        "desc": "Reator de produção de creme com homogeneizador de entrada inferior de 22 kW operando sob vácuo para uma instalação de produtos cosméticos de luxo.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Solução de Emulsão",
+        "desc": "Cosméticos, alimentos ou química... Compartilhe sua receita de produto conosco e projetaremos o sistema de redução de partículas (high-shear) mais eficiente.",
+        "btn": "Solicitar Orçamento →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20homojenizat%C3%B6r%20ve%20em%C3%BClsiyon%20sistemleri%20i%C3%A7in%20kapasite%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
+      }
+    }
+  },
+  "mixingTanksPage": {
+    "metadata": {
+      "title": "Tanques de Processo com Misturador | Welltech®",
+      "description": "Tanques misturadores de aço inoxidável com designs personalizados para diferentes viscosidades e automação com suporte de inversor."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "process": "Sistemas de Processo",
+      "current": "Tanques Misturadores"
+    },
+    "hero": {
+      "title": "Tanques de Processo com Misturador",
+      "desc": "Sistemas misturadores de engenharia avançada com controle ideal de viscosidade para misturas líquido-líquido ou líquido-sólido, com suporte de inversor e diferentes tipos de pás."
+    },
+    "technology": {
+      "title": "Tecnologia de Mistura Homogênea",
+      "desc": "O sucesso de um processo é medido pela precisão com que a mistura é homogeneizada. Projetamos pás de misturador turbina, hélice, âncora ou raspadeira com base na viscosidade (fluido como água ou viscoso como mel) e na densidade do seu produto. Nossos sistemas são equipados com motores com redutor e inversores de velocidade controlados por PLC para controle máximo.",
+      "imgAlt": "Detalhe da Pá do Misturador"
+    },
+    "features": {
+      "title": "Equipamentos e Automação",
+      "imgAlt": "Painel de Automação e Inversor",
+      "items": [
+        "Sistema de Inversor de Velocidade Variável",
+        "Raspadeiras de Parede em Teflon (PTFE)",
+        "Vedação por Vedação Mecânica",
+        "Design de Entrada Inferior, Superior ou Lateral",
+        "Integração de Bola de Pulverização CIP e SIP",
+        "Eixo Completamente em Aço Inoxidável AISI 316L"
+      ]
+    },
+    "table": {
+      "title": "Tabela de Seleção do Tipo de Misturador",
+      "note": "* Calculado por nossos engenheiros com base na viscosidade (cP) e na estrutura de partículas da mistura.",
+      "imgAlt": "Desenho Técnico do Tanque de Processo com Misturador",
+      "headers": [
+        "Tipo de Pá",
+        "Viscosidade",
+        "Exemplo de Aplicação",
+        "Velocidade"
+      ],
+      "rows": [
+        {
+          "type": "Hélice (Propeller)",
+          "viscosity": "Baixa (como água)",
+          "usage": "Produtos Químicos Líquidos, Suco",
+          "speed": "Alta (900-1400 rpm)",
+          "highlight": "blue"
+        },
+        {
+          "type": "Turbina",
+          "viscosity": "Média (como óleo)",
+          "usage": "Xarope, Óleo Mineral, Tinta",
+          "speed": "Média (100-300 rpm)",
+          "highlight": "orange"
+        },
+        {
+          "type": "Âncora com Raspadeira",
+          "viscosity": "Alta (como mel)",
+          "usage": "Creme Cosmético, Chocolate",
+          "speed": "Baixa (10-60 rpm)",
+          "highlight": "dark"
+        },
+        {
+          "type": "Tipo Dispersão",
+          "viscosity": "Soluções Sólido/Líquido",
+          "usage": "Dissolução de Produtos Químicos em Pó em Líquido",
+          "speed": "Muito Alta (1500+ rpm)",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Exemplos de Aplicações",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "Misturador Âncora de Design Especial"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "Misturador com Controle por Inversor"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Tanque Dispersor Indústria de Tintas"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Bateria de Homogeneizadores Indústria Alimentícia"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOK-06 Documento PDF",
+        "desc": "Especificação de engenharia contendo cálculos de potência do motor para diferentes viscosidades e detalhes de vedação da vedação mecânica.",
+        "btn": "Baixar Documento (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-06-karistiricili-tanklar.pdf"
+      },
+      "reference": {
+        "badge": "Referência em Destaque",
+        "imgAlt": "Referência Projeto de Processo Químico",
+        "desc": "Tanque misturador de 10.000 litros com motor antiexplosivo, alta capacidade de torque e raspadeiras de Teflon para uma planta de produção química de polímeros.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Análise de Viscosidade",
+        "desc": "Compartilhe a viscosidade (cP) do seu produto e as condições operacionais conosco, e calcularemos o design de misturador mais adequado e a potência do redutor.",
+        "btn": "Solicitar Orçamento →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20kar%C4%B1%C5%9Ft%C4%B1r%C4%B1c%C4%B1l%C4%B1%20tank%20projesi%20i%C3%A7in%20viskozite%20de%C4%9Ferlerime%20uygun%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "reactorsPage": {
+    "metadata": {
+      "title": "Reatores Químicos e Farmacêuticos | Welltech®",
+      "description": "Reatores de produção antiexplosivos que suportam 10 Bar e vácuo total, em ligas 316Ti / Hastelloy, de acordo com padrões ATEX."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "process": "Sistemas de Processo",
+      "current": "Reatores Químicos"
+    },
+    "hero": {
+      "title": "Reatores Químicos e Farmacêuticos",
+      "desc": "Reatores pesados totalmente automatizados que suportam 10 Bar de pressão e vácuo total, em ligas 316Ti / Hastelloy, de acordo com padrões ATEX antiexplosivo."
+    },
+    "technology": {
+      "title": "Controle Crítico do Processo",
+      "desc1": "A polimerização, cristalização e sínteses químicas agressivas não podem ser realizadas em tanques de armazenamento padrão. Os Reatores Químicos Welltech® são projetados de acordo com os padrões <strong>ASME VIII Div.1</strong> para homogeneizar produtos de viscosidades variáveis e transferir imediatamente o calor das reações endo/exotérmicas.",
+      "desc2": "A tecnologia de <strong>Serpentina de Meio Tubo (Half-Pipe Jacket)</strong> oferecida como padrão no corpo fornece 40% mais resistência a choques térmicos e alta pressão de vapor em comparação com camisas convencionais.",
+      "imgAlt": "Serpentina de Meio Tubo e Corpo do Reator"
+    },
+    "features": {
+      "title": "Equipamentos e Segurança",
+      "imgAlt": "Motor Antiexplosivo e Equipamentos do Reator",
+      "items": [
+        "Resistência a Vácuo Total e 10 Bar",
+        "Material 316Ti ou Hastelloy C22",
+        "Vedação por Vedação Mecânica",
+        "Motor Antiexplosivo Compatível ATEX Zona 1/2",
+        "Aquecimento/Resfriamento com Controle Proporcional",
+        "Relatórios de Soldagem RT e UT a 100%"
+      ]
+    },
+    "table": {
+      "title": "Tabela de Capacidade Padrão dos Reatores",
+      "note": "* Os valores da tabela são de referência. A Welltech trabalha com dimensões de engenharia personalizadas com base na altura do teto de sua fábrica e nas linhas de instalação.",
+      "imgAlt": "Desenho Técnico do Reator Químico",
+      "headers": [
+        "Volume de Trabalho",
+        "Pressão de Projeto",
+        "Tipo de Aquecimento",
+        "Tipo de Misturador"
+      ],
+      "rows": [
+        {
+          "volume": "1.000 Litros",
+          "pressure": "-1 / +6 Bar",
+          "heating": "Meio Tubo / Elétrico",
+          "mixer": "Âncora / Hélice",
+          "highlight": "blue"
+        },
+        {
+          "volume": "5.000 Litros",
+          "pressure": "-1 / +8 Bar",
+          "heating": "Serpentina de Meio Tubo",
+          "mixer": "Âncora com Raspadeira",
+          "highlight": "blue"
+        },
+        {
+          "volume": "10.000 Litros",
+          "pressure": "-1 / +10 Bar",
+          "heating": "Meio Tubo + Serpentina Interna",
+          "mixer": "Turbina / Dispersor",
+          "highlight": "orange"
+        },
+        {
+          "volume": "25.000 Litros",
+          "pressure": "-1 / +10 Bar",
+          "heating": "Serpentina de Meio Tubo",
+          "mixer": "Âncora Bidirecional",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Exemplos de Aplicações",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "Produção de Reator de 10 Bar"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "Fabricação de Serpentina de Meio Tubo"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Integração de Motor Antiexplosivo ATEX"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Instalação de Bateria de Reatores Petroquímicos"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "WLL-RX-01 PDF",
+        "desc": "Documento de engenharia contendo códigos de materiais ASME, espessuras de soldagem e cálculos de potência do motor kW.",
+        "btn": "Baixar Especificação PDF",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/WLL-RX-01-reaktorler.pdf"
+      },
+      "reference": {
+        "badge": "Referência em Destaque",
+        "imgAlt": "Referência Projeto Reator Petroquímico",
+        "desc": "Reator de polimerização de 25.000 litros em liga Hastelloy C276 resistente a 10 Bar entregue a uma instalação petroquímica.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Você tem Necessidades de Processo Especiais?",
+        "desc": "Projetamos com ligas Hastelloy para fluidos que causam corrosão agressiva ou viscosidades que requerem alto torque.",
+        "btn": "Consultar um Engenheiro"
+      }
+    }
+  },
+  "skidSystemsPage": {
+    "metadata": {
+      "title": "Unidades de Processo Móveis (Skid Systems) | Welltech®",
+      "description": "Soluções de processo compactas plug-and-play com reator, bomba e automação em um único chassi."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "process": "Sistemas de Processo",
+      "current": "Unidades Móveis"
+    },
+    "hero": {
+      "title": "Unidades de Processo Móveis",
+      "desc": "Soluções compactas plug-and-play projetadas para instalação rápida, com reator, bomba e automação montados em um único chassi de inox."
+    },
+    "technology": {
+      "title": "Engenharia Plug & Play",
+      "desc": "Não perca semanas na complexidade de tubulação, cabeamento e automação em sua instalação. Nossos sistemas skid são sistemas compactos onde o reator, trocador de calor, bombas de transferência, válvulas e painel de controle PLC são montados e testados em nossa fábrica em um único chassi de inox. Quando chega à sua instalação, você pode iniciar a produção no mesmo dia conectando apenas a alimentação principal e as conexões de matérias-primas.",
+      "imgAlt": "Design do Chassi Skid de Aço Inoxidável"
+    },
+    "features": {
+      "title": "Características dos Equipamentos Compactos",
+      "imgAlt": "Painel de Automação PLC Skid",
+      "items": [
+        "Chassi Portador de Aço Inoxidável AISI 304/316L",
+        "Tubulações e Coletores Totalmente Integrados",
+        "Aprovação de Teste FAT/SAT de Fábrica",
+        "PLC Inteligente e IHM com Tela de Toque",
+        "Opção Antiexplosiva (ATEX)",
+        "Pés do Chassi Amortecedores de Vibração"
+      ]
+    },
+    "table": {
+      "title": "Áreas de Aplicação do Sistema Skid",
+      "note": "* Todos os equipamentos funcionam compatíveis entre si e estão conectados a um único painel de automação.",
+      "imgAlt": "Desenho Técnico da Unidade de Processo Móvel",
+      "headers": [
+        "Área de Aplicação",
+        "Equipamentos Integrados",
+        "Tipo de Instalação"
+      ],
+      "rows": [
+        {
+          "application": "Xaropagem Cosmética e Farmacêutica",
+          "equipment": "Reator + Homogeneizador + Bomba de Lóbulos",
+          "setup": "Plug & Play",
+          "highlight": "orange"
+        },
+        {
+          "application": "Linha de Dosagem Química",
+          "equipment": "Tanque de Armazenamento + Bomba Dosadora + Medidor de Vazão",
+          "setup": "Plug & Play",
+          "highlight": "blue"
+        },
+        {
+          "application": "Unidades CIP (Clean-in-Place)",
+          "equipment": "Tanques Ácido/Soda + Aquecedor + Bomba Centrífuga",
+          "setup": "Plug & Play",
+          "highlight": "dark"
+        },
+        {
+          "application": "Estações P&D Móveis",
+          "equipment": "Reator Piloto + Refrigerador + Mini Filtro-Prensa",
+          "setup": "Sobre Rodas/Móvel",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Exemplos de Aplicações",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "Design de Tubulação Compacta"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "Unidade Móvel Indústria Farmacêutica"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Painel de Controle Integrado"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Montagem de Chassi Plug & Play"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOK-09 Documento PDF",
+        "desc": "Especificação de engenharia contendo cálculos de carga do chassi compacto, padrões de tubulação e diagramas P&ID de automação.",
+        "btn": "Baixar Documento (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-09-skid-sistemler.pdf"
+      },
+      "reference": {
+        "badge": "Referência em Destaque",
+        "imgAlt": "Referência Sistema Skid Móvel",
+        "desc": "Projeto de unidade de xaropagem móvel (Skid System) de acordo com padrões antiexplosivos, totalmente automatizado e com integração CIP para a indústria farmacêutica.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Seu Projeto Skid Personalizado",
+        "desc": "Entre em contato com nossos engenheiros para projetar uma unidade móvel completamente personalizada adaptada às restrições de espaço e à receita de processo de sua instalação.",
+        "btn": "Solicitar Orçamento →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20tesisime%20%C3%B6zel%20kompakt%20skid%20sistemi%20projelendirmesi%20ve%20fiyat%C4%B1%20almak%20istiyorum."
+      }
+    }
+  },
+  "cipSystemsPage": {
+    "metadata": {
+      "title": "Sistemas CIP Totalmente Automáticos | Welltech®",
+      "description": "Unidades automáticas Clean-in-Place (limpeza no local) controladas por PLC que garantem os padrões de higiene para instalações farmacêuticas, alimentícias e químicas."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "process": "Sistemas de Processo",
+      "current": "Sistemas CIP"
+    },
+    "hero": {
+      "title": "Sistemas CIP Totalmente Automáticos",
+      "desc": "Unidades Clean-in-Place (limpeza no local) que garantem os padrões de higiene de sua instalação com controle PLC e dosagem química baseada em condutividade."
+    },
+    "technology": {
+      "title": "Garantia de Higiene Rastreável",
+      "desc": "A única maneira de prevenir a contaminação cruzada nas linhas de produção de alimentos, bebidas e farmacêutica são os processos de lavagem validáveis. Os sistemas CIP (Clean-in-Place) Welltech lavam suas tubulações e tanques sem desmontagem usando fluxo de alta turbulência (mín. 1,5 m/s). A condutividade do líquido de retorno é medida em tempo real, e as concentrações de ácido e soda são automaticamente repostas através de bombas doseadoras via PLC. As economias de água e energia são maximizadas.",
+      "imgAlt": "Controle de Condutividade e Dosagem"
+    },
+    "features": {
+      "title": "Características do Sistema e Automação",
+      "imgAlt": "Sistema de Recuperação e Automação",
+      "items": [
+        "Controle PLC e IHM com Tela de Toque",
+        "Bombas Dosadoras Independentes de Soda e Ácido",
+        "Medição de Condutividade em Tempo Real",
+        "Controle Automático de Temperatura com Trocador de Calor",
+        "Bombas Centrífugas Higiênicas Aprovadas pela EHEDG",
+        "Receitas de Lavagem Registráveis"
+      ]
+    },
+    "table": {
+      "title": "Modelos de Estação CIP",
+      "note": "* As linhas de lavagem podem ser projetadas como simultâneas (multi-linha) ou de linha única com base nas necessidades da instalação.",
+      "imgAlt": "Design Modular e Diagrama P&ID CIP",
+      "headers": [
+        "Configuração",
+        "Conteúdo do Tanque",
+        "Setor Recomendado"
+      ],
+      "rows": [
+        {
+          "config": "Móvel / CIP 1 Tanque",
+          "tanks": "Água (Lavagem à Perda)",
+          "sector": "Vinho, Produção Boutique",
+          "highlight": "dark"
+        },
+        {
+          "config": "Sistema CIP 2 Tanques",
+          "tanks": "Soda + Água",
+          "sector": "Água, Bebidas, Processo Leve",
+          "highlight": "blue"
+        },
+        {
+          "config": "Sistema CIP 3 Tanques",
+          "tanks": "Soda + Ácido + Água",
+          "sector": "Leite, Suco, Alimentício",
+          "highlight": "orange"
+        },
+        {
+          "config": "Sistema CIP 4 Tanques",
+          "tanks": "Soda + Ácido + Água + Recuperação",
+          "sector": "Farmacêutico, Biotecnologia, Indústria Pesada",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Sistemas CIP",
+      "items": [
+        {
+          "q": "Como garantem que o líquido de lavagem atinja a velocidade suficiente?",
+          "a": "O fluxo turbulento é necessário para a higiene nas tubulações. Graças aos medidores de vazão integrados no sistema, a velocidade do fluxo de lavagem é mantida a um mínimo de 1,5 - 2,0 m/s e monitorada via PLC."
+        },
+        {
+          "q": "As soluções químicas podem ser reutilizadas?",
+          "a": "Sim, nossos sistemas CIP de 3 e 4 tanques têm ciclos de recuperação. As soluções de ácido e soda que retornam da linha são analisadas por sensores de condutividade; se a concentração cair, são dosadas e devolvidas ao tanque. Isso economiza quantidades significativas de produtos químicos e água."
+        },
+        {
+          "q": "Os relatórios e a validação são possíveis?",
+          "a": "Todas as operações CIP são registradas no painel de automação juntamente com dados de tempo, temperatura, condutividade e vazão. Para auditorias, esses dados podem ser exportados em formato PDF via USB ou rede para garantir rastreabilidade total."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Exemplos de Aplicações",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "Unidade CIP Automática de 4 Tanques"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "Bombas Dosadoras e Grupo Coletor"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Integração do Trocador de Calor"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Lavagem Multi-Linha Instalação Láctea"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Documento Técnico",
+        "subtitle": "DOK-16 Especificação PDF",
+        "desc": "Diagramas de fluxo do sistema CIP, capacidades do trocador de calor e detalhes técnicos da matriz de válvulas pneumáticas.",
+        "btn": "Baixar Especificação (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-16-cip-sistemleri.pdf"
+      },
+      "reference": {
+        "badge": "Aplicação de Referência",
+        "imgAlt": "Referência Linha de Lavagem Instalação Láctea",
+        "desc": "Sistema de recuperação CIP totalmente automático de 4 tanques funcionando em 3 linhas simultâneas (multi-linha) para uma instalação integrada que processa 200 toneladas de leite por dia.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Engenharia de Projeto",
+        "desc": "Entre em contato conosco para determinar o módulo CIP mais adequado para a capacidade de sua instalação e os comprimentos das linhas de lavagem.",
+        "btn": "Suporte Técnico"
+      }
+    }
+  },
+  "referencesPage": {
+    "metadata": {
+      "title": "Referências de Engenharia e Projetos Concluídos | Welltech®",
+      "description": "Projetos industriais em aço inoxidável e referências de engenharia em campo entregues com sucesso pela Welltech."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "current": "Referências"
+    },
+    "hero": {
+      "title": "Referências de Engenharia",
+      "quote": "\"Não fabricamos apenas tanques; construímos locais de processo de alta tecnologia que a indústria global necessita.\""
+    },
+    "labels": {
+      "capacity": "Capacidade",
+      "material": "Material",
+      "standard": "Norma",
+      "features": "Destaques"
+    },
+    "ctaBtn": "Solicitar Orçamento no Mesmo Padrão",
+    "cta": {
+      "title": "Desenvolvamos uma Solução de Engenharia para o seu Projeto",
+      "desc": "Entre em contato com nossa equipe de especialistas para seus requisitos de capacidade específicos e padrões técnicos. Vamos planejar sua fabricação de acordo com padrões globais.",
+      "btn": "Suporte Técnico"
+    }
+  },
+  "selfPrimingPumpsPage": {
+    "metadata": {
+      "title": "Self-Priming Hygienic Pumps | Welltech®",
+      "description": "Liquid-ring self-priming pump technology for transferring air-gas mixed liquids, foamy products and CIP return lines."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "pumps": "Bombas",
+      "current": "Bombas Autoaspirantes"
+    },
+    "hero": {
+      "title": "Self-Priming Pumps",
+      "desc": "Even when there is air in the suction line, this technology creates vacuum for uninterrupted flow. The indispensable liquid-ring transfer technology for CIP return lines and foamy liquids."
+    },
+    "technology": {
+      "title": "Power in Air-Liquid Mixtures",
+      "desc": "Standard centrifugal pumps suffer cavitation when air pockets form in the pipeline or at the tank bottom, stopping the transfer. Our self-priming (side-channel/liquid-ring) pumps create a vacuum by mixing the liquid inside with air through a special star impeller design. This technology, which can draw suction even when there is air in the line, is especially used when drawing product from tanks to trucks, with foamy products like whey, and in CIP washing liquid return (CIP Return).",
+      "imgAlt": "Liquid-Ring Star Impeller System"
+    },
+    "features": {
+      "title": "Technical Equipment & Capacity",
+      "imgAlt": "Bi-Directional Motor and Body",
+      "items": [
+        "Up to 8 Meters Deep Suction Capacity",
+        "AISI 316L Precision Cast Open Star Impeller",
+        "Gas-Containing (Foamy) Fluid Compatibility",
+        "Ideal as CIP Return Pump",
+        "Reversible Option",
+        "Easy-to-Disassemble Front Cover Design"
+      ]
+    },
+    "table": {
+      "title": "Performance & Selection Table",
+      "note": "* The pump body must contain some liquid (priming liquid) for the pump to self-prime. Values are determined by our hydraulic engineers for 1 cP viscosity.",
+      "imgAlt": "Suction Curve and Pump Drawing",
+      "headers": [
+        "Series No",
+        "Max. Flow (m³/h)",
+        "Suction / Discharge (mWC)",
+        "Motor Power (kW)"
+      ],
+      "rows": [
+        {
+          "model": "WT-SP 15",
+          "flow": "15 m³/h",
+          "head": "-7 m / 25 mWC",
+          "power": "2.2 - 3.0 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-SP 30",
+          "flow": "30 m³/h",
+          "head": "-7 m / 32 mWC",
+          "power": "4.0 - 5.5 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-SP 50",
+          "flow": "50 m³/h",
+          "head": "-8 m / 35 mWC",
+          "power": "7.5 - 11.0 kW",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-SP 70",
+          "flow": "70 m³/h",
+          "head": "-8 m / 40 mWC",
+          "power": "15.0 - 18.5 kW",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Vacuum Transfer FAQ",
+      "items": [
+        {
+          "q": "Why can't a centrifugal pump be used as a CIP Return pump?",
+          "a": "During CIP, the chemical liquid returning from the tank contains a large amount of air and foam. The centrifugal pump stops flow when it sees air and the washing line gets blocked. The self-priming pump can swallow the liquid-air mixture and pump it into the system."
+        },
+        {
+          "q": "Why do we need to put liquid inside during initial start (Priming)?",
+          "a": "For the liquid ring to form in the pump body and to vacuum out the air inside, part of the body must be filled with liquid from the start."
+        },
+        {
+          "q": "Can I draw milk from a truck or underground tank?",
+          "a": "Absolutely. Even if the suction pipe is 7-8 meters underground, the pump creates vacuum and draws the liquid up and pumps it to the main tanks."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "CIP Return Pump Installation"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "Liquid-Ring Impeller Design"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Underground Tank Product Drawing"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Milk and Foam Transfer Line"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Document",
+        "subtitle": "DOK-11 PDF Specification",
+        "desc": "Vacuum/suction depth charts, liquid-ring impeller tolerances and mechanical connection dimensions.",
+        "btn": "Download Curves (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-kendinden-emisli-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Reference Application",
+        "imgAlt": "CIP Return Automation",
+        "desc": "30 m³/h capacity CIP return pumps integrated into foamy acid and caustic return lines for a large-scale juice facility.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Vacuum Calculation",
+        "desc": "Tell us your suction depth (negative elevation) and air ratio in the pipeline, and we will design a system that transports your product without cavitation.",
+        "btn": "Request a Quote →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20kendinden%20emi%C5%9Fli%20ve%20CIP%20d%C3%B6n%C3%BC%C5%9F%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "diaphragmPumpsPage": {
+    "metadata": {
+      "title": "Air-Operated Diaphragm Pumps | Welltech®",
+      "description": "Pneumatic air-operated diaphragm pump technologies that carry no electrical spark risk for flammable (ATEX) environments and aggressive chemicals."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "pumps": "Bombas",
+      "current": "Bombas de Diafragma Pneumáticas"
+    },
+    "hero": {
+      "title": "Air-Operated Diaphragm Pumps",
+      "desc": "Zero electrical spark, full ATEX compliance. Pneumatic systems powered by compressed air providing unrivalled safety in transferring flammable and aggressive chemicals."
+    },
+    "safety": {
+      "title": "100% Safety Without Electricity",
+      "desc": "In environments with solvent, alcohol or flammable gas emissions, even a tiny spark from an electric motor pump can cause disaster. Pneumatic Diaphragm pumps draw their energy from compressed air from the factory compressor. Since there is no electrical connection, they provide 100% Ex-Proof (ATEX) protection. Since they have no mechanical impeller, they can also easily pump liquids containing fruit particles or solid particles without crushing the product.",
+      "imgAlt": "Pneumatic Air Valve Detail"
+    },
+    "features": {
+      "title": "Critical Engineering Features",
+      "imgAlt": "ATEX Protection and Grounding",
+      "items": [
+        "Dry Running Without Damage",
+        "ATEX (Ex-Proof) Zone Compliance",
+        "Solid Particle and Viscous Material Transfer",
+        "PTFE (Teflon) and Santoprene Diaphragm",
+        "Easy Flow Rate Adjustment with Air Pressure",
+        "Sealless Design"
+      ]
+    },
+    "table": {
+      "title": "Diaphragm Pump Capacity Table",
+      "note": "* The performance of pneumatic pumps is directly dependent on the air pressure (Bar) produced by the compressor in your facility. Data is calculated with reference to 7 Bar air supply.",
+      "imgAlt": "Diaphragm Pump Performance Curve",
+      "headers": [
+        "Connection Size",
+        "Max. Flow (L/min)",
+        "Max. Air Pressure",
+        "Solid Particle Size"
+      ],
+      "rows": [
+        {
+          "size": "1/2\" Inch",
+          "flow": "50 L/min",
+          "pressure": "7 Bar",
+          "particle": "3 mm",
+          "highlight": "blue"
+        },
+        {
+          "size": "1\" Inch",
+          "flow": "160 L/min",
+          "pressure": "7 Bar",
+          "particle": "4 mm",
+          "highlight": "blue"
+        },
+        {
+          "size": "1.5\" Inch",
+          "flow": "350 L/min",
+          "pressure": "7 Bar",
+          "particle": "6 mm",
+          "highlight": "orange"
+        },
+        {
+          "size": "2\" Inch",
+          "flow": "600 L/min",
+          "pressure": "7 Bar",
+          "particle": "8 mm",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pneumatic Transfer FAQ",
+      "items": [
+        {
+          "q": "Does dry running damage the pump?",
+          "a": "No. Unlike centrifugal and lobe pumps, air diaphragm pumps do not heat up and break down even if they run dry (without liquid) for hours since there is no mechanical friction."
+        },
+        {
+          "q": "How can I adjust the flow rate?",
+          "a": "While expensive inverters (frequency drives) are needed for electric motor pumps, simply throttling or opening the air valve from the compressor is sufficient to change the flow rate in diaphragm pumps."
+        },
+        {
+          "q": "How do we select the diaphragm material?",
+          "a": "PTFE (Teflon) with excellent chemical resistance for aggressive acids and solvents; Santoprene or NBR with flexible structure for food applications or sludgy products containing abrasive particles."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "ATEX Chemical Transfer Pump"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "PTFE Diaphragm Group"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Food Sector Hygienic AODD"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Air Pump Battery"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Document",
+        "subtitle": "DOK-13 PDF Specification",
+        "desc": "ATEX certification documents, diaphragm chemical resistance table and pressure/air consumption curves.",
+        "btn": "Download Document (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-13-havali-diyafram-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Reference Application",
+        "imgAlt": "Chemical ATEX Line Reference",
+        "desc": "ATEX transfer station with PTFE diaphragm from reactors to 50-ton storage tanks in a high-flammability chemical production facility.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Pneumatic Engineering",
+        "desc": "Specify your facility compressor capacity and the liquid to be transferred, and we will calculate the correct diaphragm material and size.",
+        "btn": "Request a Quote →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20havalı%20diyafram%20pompası%20hakkında%20kimyasal%20uyumluluk%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
+      }
+    }
+  },
+  "monopompPumpsPage": {
+    "metadata": {
+      "title": "Monopumps (Eccentric Screw) | Welltech®",
+      "description": "Rotor-stator monopump systems providing pulsation-free and continuous transfer for high-viscosity, sludge, honey and abrasive particle-containing fluids."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "pumps": "Bombas",
+      "current": "Monobombas"
+    },
+    "hero": {
+      "title": "Monopumps",
+      "desc": "Designed for the most difficult fluids. With eccentric screw (Rotor-Stator) operating principle, zero vibration and continuous flow for high-viscosity, abrasive and solid particle-containing products."
+    },
+    "technology": {
+      "title": "Pulsation-Free and Continuous Transfer",
+      "desc": "Monopumps (Eccentric Screw Pumps) work on the principle of a helical stainless steel rotor rotating inside an elastomeric (rubber) stator. This unique geometry creates continuously closed cavities in the liquid, pushing the fluid forward under pressure. From water-like fluids to products with viscosity up to 1,000,000 cP such as dough, honey, wastewater sludge, fruit puree, glue and resin, it provides a perfect and constant flow rate without any pulsation.",
+      "imgAlt": "Monopump Rotor and Stator Detail"
+    },
+    "features": {
+      "title": "Superior Mechanical Properties",
+      "imgAlt": "Elastomer Stator and Rotor",
+      "items": [
+        "Low Shear Technology",
+        "Solid Particle and Sludge Transfer",
+        "NBR, EPDM, FKM, PTFE Stator Options",
+        "Precise Proportional Dosing Capability",
+        "12-24 Bar High Pressure Resistance",
+        "Non-Crushing Flow for Fruit and Food Cells"
+      ]
+    },
+    "table": {
+      "title": "Monopump Capacity Table",
+      "note": "* Values are calculated for average viscosity fluids (up to 12 Bar max pressure). Flow varies depending on reducer speed.",
+      "imgAlt": "Monopump Pressure and Capacity Curve",
+      "headers": [
+        "Series No",
+        "Max. Flow (m³/h)",
+        "Max. Pressure",
+        "Connection Size"
+      ],
+      "rows": [
+        {
+          "model": "WT-M 05",
+          "flow": "5 m³/h",
+          "pressure": "12 Bar",
+          "connection": "2\" Inch",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-M 10",
+          "flow": "10 m³/h",
+          "pressure": "12 Bar",
+          "connection": "2.5\" Inch",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-M 20",
+          "flow": "20 m³/h",
+          "pressure": "12 Bar",
+          "connection": "3\" Inch",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-M 40",
+          "flow": "40 m³/h",
+          "pressure": "12 Bar",
+          "connection": "4\" Inch",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Eccentric Screw Pump FAQ",
+      "items": [
+        {
+          "q": "Can monopumps run dry?",
+          "a": "No. Since the stator is usually made of elastomeric (rubber etc.) material, when no fluid (lubricant) passes through it, the stainless rotor rubs against the stator causing excessive heat and burns the stator. The system must be equipped with dry-run protection sensors."
+        },
+        {
+          "q": "Can it pump solid particle or seed-containing products?",
+          "a": "Absolutely. This is the greatest strength of monopumps. Products containing particles and fibers like wastewater sludge, seeded fruit purees or olive paste are transferred without clogging and without crushing their structure thanks to the rotor/stator cavity geometry."
+        },
+        {
+          "q": "How do we select the stator material?",
+          "a": "According to the chemical composition and temperature of your fluid. For food products like milk and honey: FDA-compliant white NBR or EPDM; for abrasive aggressive acids and chemicals: FKM (Viton) or PTFE (Teflon) stator."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Example Applications",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJETO 01",
+          "alt": "Food-Grade Monopump"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJETO 02",
+          "alt": "Wastewater Sludge Pump"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJETO 03",
+          "alt": "Rotor and Stator Detail"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJETO 04",
+          "alt": "Gearbox-Driven Monopump Group"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Document",
+        "subtitle": "DOK-11 PDF Specification",
+        "desc": "Monopump reducer speed ratios, stator chemical resistance table and pressure/flow measurement curves.",
+        "btn": "Download Curves (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-monopomp-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Featured Reference",
+        "imgAlt": "Heavy-Duty Sludge Pump Reference",
+        "desc": "Heavy-duty monopump battery with FKM stator, resistant to 12 Bar pressure for transferring 20% density active sludge in wastewater treatment facility.",
+        "link": "Ver Todas as Referências"
+      },
+      "cta": {
+        "title": "Monopump Selection",
+        "desc": "Specify your fluid viscosity (cP) and particle density, and we will determine the most suitable rotor-stator pair.",
+        "btn": "Engineering Support →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20yüksek%20viskoziteli%20ürün%20transferi%20için%20monopomp%20fiyatı%20almak%20istiyorum."
+      }
+    }
+  }
+}

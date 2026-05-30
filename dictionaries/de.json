@@ -1,0 +1,2620 @@
+{
+  "nav": {
+    "tanks": "Edelstahl-Tanks",
+    "machines": "Prozesssysteme",
+    "pumps": "Hygienepumpen",
+    "about": "Unternehmen",
+    "blog": "Blog",
+    "docs": "Dokumente",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "description": "Hersteller von Edelstahl-Industrietanks, Hygienepumpen und Prozessanlagen nach internationalen Standards.",
+    "products": "Produkte",
+    "locations": "Standorte",
+    "hq_title": "Hauptsitz",
+    "factory_title": "Produktionsstätte",
+    "copyright": "Alle Rechte vorbehalten."
+  },
+  "metadata": {
+    "default_title": "Welltech® | Globale Prozess- und Edelstahltanksysteme",
+    "default_desc": "Hersteller von Edelstahl-Industrietanks, Hygienepumpen und Prozessanlagen nach internationalen Standards. Globale Engineering-Lösungen für Lebensmittel-, Pharma- und Chemieindustrie.",
+    "keywords": [
+      "Edelstahltank",
+      "Prozesssysteme",
+      "Hygienepumpen",
+      "Industrietanks",
+      "Welltech",
+      "Reaktor",
+      "schlüsselfertige Fabrik"
+    ]
+  },
+  "home": {
+    "hero": {
+      "badge": "Welltech® International Engineering",
+      "title": "Prozess- und Lagertechnologien",
+      "desc": "Nach internationalen ASME- und PED-Standards für Lebensmittel-, Chemie- und Pharmaindustrie entwickelt; Edelstahllösungen mit Mega-Kapazität bis zu 150 Tonnen.",
+      "btn1": "Ingenieursunterstützung anfordern",
+      "btn2": "Unsere Zertifikate",
+      "bgImage": "/assets/images/ana-sayfa/hero-bg.webp",
+      "bgAlt": "Welltech Industrieanlage"
+    },
+    "stats": [
+      {
+        "n": "150+",
+        "t": "Tonnen Kapazität"
+      },
+      {
+        "n": "100%",
+        "t": "ZfP-Schweißtest"
+      },
+      {
+        "n": "6 Kontinente",
+        "t": "Globales Exportnetzwerk"
+      },
+      {
+        "n": "ASME",
+        "t": "Zertifiziertes Engineering"
+      }
+    ],
+    "services": {
+      "title": "Unsere Industrielösungen",
+      "desc": "Vollausgestattete Edelstahlsysteme, maßgeschneidert nach Ihrem Rezept, Kapazität und den physischen Bedingungen Ihrer Anlage.",
+      "view_details": "Details ansehen",
+      "items": [
+        {
+          "title": "Mega-Kapazitäts-Lagerlösungen",
+          "desc": "Langlebige Edelstahlsilos mit Wind- und Erdbebenbelastungsberechnungen in Kapazitäten bis zu 150 Tonnen, mit dem Vorteil der Vor-Ort-Montage.",
+          "image": "/assets/images/ana-sayfa/hizmet-depolama.webp",
+          "link": "paslanmaz-tanklar/depolama-tanklari"
+        },
+        {
+          "title": "Hochpräzise Prozesstanks",
+          "desc": "Makellose Homogenisierung für anspruchsvolle Rezepturen. Gerührte Produktionslinien mit thermodynamischen Mänteln und SPS-Automatisierung.",
+          "image": "/assets/images/ana-sayfa/hizmet-proses.webp",
+          "link": "proses-sistemleri/karistiricili-tanklar"
+        },
+        {
+          "title": "Heavy-Duty Chemische Reaktoren",
+          "desc": "Null Toleranz gegenüber aggressiver Korrosion, Hochdruck und Vollvakuum. Titan-legierte Sicherheit nach API 650 und ATEX-Standards.",
+          "image": "/assets/images/ana-sayfa/hizmet-mobil.webp",
+          "link": "proses-sistemleri/kimyasal-reaktorler"
+        },
+        {
+          "title": "Ultra-hygienische Lebensmittel- und Milchtanks",
+          "desc": "Lebensmittelkodex-zugelassene Designs, die Bakterienrisiken mit Polyurethan-Isolationstechnologie und vollautomatischen CIP-Waschanlagen eliminieren.",
+          "image": "/assets/images/ana-sayfa/hizmet-sut.webp",
+          "link": "paslanmaz-tanklar/sut-tanklari"
+        }
+      ]
+    },
+    "why_us": {
+      "badge": "Warum Welltech?",
+      "title": "Schwermaschinenbau mit Null-Fehler-Prinzip",
+      "desc": "Im Gegensatz zu gewöhnlichen Kesselherstellern simulieren wir Ihr Projekt nach ASME- und EN-Standards und garantieren Ihre gefährlichen Prozesse durch RT-Prüfung jeder Schweißnaht.",
+      "list": [
+        "EN 10204 3.1 Materialrückverfolgbarkeit",
+        "ISO 3834-2 Qualifiziertes Schweißengineering",
+        "Europäische Druckgeräterichtlinie (PED) Konformität"
+      ],
+      "box1": {
+        "title": "Globaler Export",
+        "desc": "Vollständige Lieferung nach internationalen Normen von Asien nach Europa."
+      },
+      "box2": {
+        "title": "A-Typ Qualität",
+        "desc": "Periodische Genehmigung durch unabhängige Prüforganisationen."
+      }
+    }
+  },
+  "metadata_page": {
+    "title_suffix": "| Welltech®"
+  },
+  "blogPost": {
+    "notFoundTitle": "Artikel nicht gefunden | Welltech®",
+    "backToPosts": "Zurück zu den Publikationen",
+    "tags": {
+      "engineering": "Ingenieurwesen",
+      "process": "Prozess"
+    },
+    "shareArticle": "Artikel teilen",
+    "sidebar": {
+      "engineeringTitle": "Projektingenieurwesen",
+      "engineeringDesc": "Wenden Sie sich an unser technisches Team für Ihr hochdruck- und vakuumbeständiges Reaktorprojekt gemäß ASME- und PED-Standards.",
+      "getSupportBtn": "Technischen Support erhalten",
+      "docsTitle": "Technische Dokumente",
+      "docsSubtitle": "Zertifikat und Qualität",
+      "docsDesc": "Untersuchen Sie unsere Produktionsstandards, Qualitätskontrollverfahren und Zertifikate im Detail.",
+      "goToDocsBtn": "Zu den Dokumenten"
+    }
+  },
+  "blogPage": {
+    "metadataTitle": "Branchenpublikationen & Blog | Welltech®",
+    "metadataDesc": "Aktuelle Artikel über Edelstahl-Prozesstechnologien, Ingenieurstandards und Industrielösungen.",
+    "breadcrumbHome": "Startseite",
+    "breadcrumbCorporate": "Unternehmen",
+    "breadcrumbBlog": "Branchenpublikationen",
+    "title": "Branchenpublikationen",
+    "description": "Technische Artikel unseres Ingenieurteams, detaillierte Analysen von Branchenentwicklungen und Prozesstechnologien.",
+    "techArticle": "Technischer Artikel",
+    "readArticle": "Artikel lesen",
+    "categoriesTitle": "Ingenieurkategorien",
+    "categories": {
+      "materials": "Materialwissenschaft",
+      "hygiene": "Hygienisches Design",
+      "standards": "Ingenieurstandards",
+      "chemistry": "Chemieindustrie"
+    },
+    "newsletterTitle": "Newsletter-Abonnement",
+    "newsletterDesc": "Treten Sie unserer Mailingliste bei, um sofort über Branchenstandard-Änderungen und neue Technologien informiert zu werden.",
+    "newsletterPlaceholder": "Geschäftliche E-Mail",
+    "newsletterBtn": "Abonnieren"
+  },
+  "documentsPage": {
+    "metadata": {
+      "title": "Zertifikate und Qualität | Welltech®",
+      "description": "Welltech Edelstahl-Produktionsstandards, Qualitätsdokumente, ISO 9001, PED 2014/68/EU und Schweißprüfverfahren (NDT)."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "corporate": "Unternehmen",
+      "current": "Zertifikate und Qualität"
+    },
+    "hero": {
+      "title": "Zertifikate und Qualität",
+      "desc": "Null-Fehler-Prinzip und vollständige Rückverfolgbarkeit. Jedes von uns produzierte Gerät wird mit international anerkannten Zertifizierungen (PED, ASME, ISO) garantiert."
+    },
+    "globalStandards": {
+      "title": "Globale Qualitätsstandards",
+      "desc": "Jede Edelstahlplatte, die die Welltech® Produktionslinie betritt, wird mit einem EN 10204 3.1 Materialzertifikat erfasst und gewährleistet vollständige Rückverfolgbarkeit bis zur Projektlieferung."
+    },
+    "ndt": {
+      "title": "ZfP (Zerstörungsfreie Prüfung)",
+      "items": {
+        "rt": "RT (Radiografisch / Röntgen) Schweißtest",
+        "pt": "PT (Flüssigkeitseindring) Oberflächenrisstest",
+        "ut": "UT (Ultraschall) Dickenmessung",
+        "vt": "VT (Visuell) Zerstörungsfreie Prüfung",
+        "hydro": "Hydrostatischer Druckdichtigkeitstest",
+        "roughness": "Oberflächenrauheit (Ra) Messung"
+      }
+    },
+    "certifications": {
+      "title": "Unternehmenszertifizierungen",
+      "note": "* Unsere Anlage wird regelmäßig von internationalen unabhängigen Prüforganisationen (TÜV, SGS, Bureau Veritas usw.) geprüft.",
+      "tableHeaders": {
+        "standard": "Standard / Vorschrift",
+        "scope": "Umfang",
+        "status": "Status"
+      },
+      "status": {
+        "active": "Aktiv",
+        "compliant": "Konform"
+      },
+      "scopes": {
+        "iso9001": "Qualitätsmanagementsystem",
+        "iso3834": "Metallische Schweißqualitätsanforderungen",
+        "ped": "Druckgeräterichtlinie",
+        "asme": "Druckbehälter-Herstellungsstandard",
+        "ce": "EU-Konformitätserklärung"
+      }
+    },
+    "faq": {
+      "title": "Qualitätskontrolle FAQ",
+      "items": [
+        {
+          "q": "Welche Dokumente stellen Sie bei der Lieferung bereit?",
+          "a": "Wir stellen bei der Projektlieferung eine 'Qualitätsakte' (Data Book) bereit, die EN 10204 3.1 Materialzertifikate, Schweißerzertifikate, NDT-Prüfberichte, hydrostatische Testprotokolle und technische Zeichnungen enthält."
+        },
+        {
+          "q": "Sind Sie offen für Drittparteiinspektionen?",
+          "a": "Absolut. Auf Wunsch unserer Kunden erlauben wir unabhängigen Organisationen wie TÜV SÜD, SGS, Bureau Veritas oder Lloyd's Register, die Produktions- und Testprozesse in unserer Fabrik zu begleiten."
+        }
+      ]
+    },
+    "sidebar": {
+      "iso": {
+        "title": "ISO 9001:2015",
+        "subtitle": "Qualitätszertifikat",
+        "desc": "Sie können das aktuelle ISO 9001:2015-Zertifikat unseres Qualitätsmanagementsystems im PDF-Format herunterladen.",
+        "btn": "Dokument herunterladen",
+        "fileUrl": "/assets/documents/de/zertifikate/welltech-qualitaetszertifikate-sammlung.pdf"
+      },
+      "catalog": {
+        "title": "Unternehmenskatalog",
+        "subtitle": "Allgemeine Übersicht",
+        "desc": "Unser allgemeiner Unternehmenskatalog mit allen Produktionslinien, Kapazitätsinformationen und Qualitätsstandards.",
+        "btn": "Katalog herunterladen",
+        "fileUrl": "/assets/documents/de/kataloge/welltech-gesamtkatalog.pdf"
+      },
+      "department": {
+        "title": "Qualitätsabteilung",
+        "desc": "Kontaktieren Sie unsere Abteilung für individuelle Zertifizierungsanfragen oder Qualitätskontrollverfahren für Ihr Projekt."
+      }
+    }
+  },
+  "aboutPage": {
+    "metadata": {
+      "title": "Über uns | Welltech®",
+      "description": "Edelstahl-Prozess- und Lagertechnologien nach Weltklasse-Standard von Izmir in die Welt."
+    },
+    "jsonLd": {
+      "description": "Von Izmir auf 6 Kontinente; wir produzieren Edelstahl-Prozess- und Lagertechnologien nach internationalen Standards (ASME, PED) für die Lebensmittel-, Chemie- und Pharmaindustrie."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "corporate": "Unternehmen",
+      "current": "Über uns"
+    },
+    "hero": {
+      "titleStart": "Die Kraft der ",
+      "titleHighlight": "Ingenieurskunst",
+      "desc": "Von Izmir in die Welt; wir produzieren Edelstahl-Prozess- und Lagertechnologien nach internationalen Standards (ASME, PED) für die Lebensmittel-, Chemie- und Pharmaindustrie."
+    },
+    "roots": {
+      "title": "Unsere Wurzeln",
+      "p1": "In unserer Produktionsanlage im Kemalpaşa Organisierten Industriegebiet in Izmir, einer der Industriehauptstädte der Türkei, entwerfen wir industrielle Prozess- und Lagerlösungen.",
+      "p2": "Als Welltech® International Engineering sind wir nicht nur ein Maschinen- oder Tankhersteller. Wir sind ein zuverlässiger Lösungspartner, der Sie vom Beginn Ihrer Projekte bis zur Inbetriebnahme begleitet."
+    },
+    "global": {
+      "title": "Von Izmir auf 6 Kontinente...",
+      "desc": "Von unserer Produktionsbasis in der Türkei liefern wir Ingenieulösungen nach internationalen Standards (ASME & PED) in mehr als 30 Länder auf 6 Kontinenten."
+    },
+    "cards": {
+      "mission": {
+        "title": "Unsere Mission",
+        "desc": "Langlebige, energiesparende und hygienische Prozesstechnologien zu produzieren, die die betriebliche Effizienz unserer Kunden steigern."
+      },
+      "vision": {
+        "title": "Unsere Vision",
+        "desc": "Die vertrauenswürdigste türkische Edelstahltechnologie- und Prozessmarke auf 6 Kontinenten zu werden."
+      },
+      "quality": {
+        "title": "Unser Qualitätsverständnis",
+        "desc": "Alle unsere Prozesse unterliegen internationalen Zertifizierungen. Jedes technische Detail wird von unseren Experten verifiziert und geliefert."
+      }
+    },
+    "cta": {
+      "title": "Lassen Sie uns Ihre Projekte gemeinsam entwickeln",
+      "desc": "Treffen Sie unser erfahrenes Ingenieurteam für die Modernisierung Ihrer Fabrik, Kapazitätserweiterung oder schlüsselfertige Anlageninstallation.",
+      "btn": "Kontaktieren Sie uns"
+    }
+  },
+  "contactPage": {
+    "breadcrumb": {
+      "home": "Startseite",
+      "corporate": "Unternehmen",
+      "current": "Kontakt"
+    },
+    "hero": {
+      "title": "Kontaktzentrum",
+      "desc": "In unserem modernen Produktionswerk in Izmir Kemalpaşa entwickeln wir Edelstahltechnologien nach Weltklasse-Standard. Wenden Sie sich direkt an unser technisches Team für Ihre Projekte."
+    },
+    "sidebar": {
+      "title": "Standorte",
+      "hq": {
+        "title": "Hauptsitz",
+        "address": "Organisiertes Industriegebiet, Kemalpaşa OSB<br />10. Str. Nr:6, 35730<br />Kemalpaşa / IZMIR / TÜRKEI"
+      },
+      "factory": {
+        "title": "Produktionsstätte",
+        "address": "Ulucak İstiklal, Gazi Blvd. Nr:169<br />35735 Kemalpaşa / IZMIR / TÜRKEI"
+      },
+      "phone": {
+        "title": "Technischer Support & Vertrieb"
+      },
+      "whatsapp": {
+        "title": "WhatsApp-Leitung"
+      },
+      "email": {
+        "title": "Unternehmenskommunikation"
+      },
+      "hours": {
+        "title": "Besuchs- & Supportzeiten",
+        "desc1": "Wochentags: 08:30 - 18:30",
+        "desc2": "(Türkische Zeit, GMT+3)"
+      },
+      "social": {
+        "title": "Folgen Sie uns"
+      }
+    },
+    "form": {
+      "title": "Projektanfrageformular",
+      "name": "Vor- und Nachname *",
+      "company": "Firmenname",
+      "email": "E-Mail-Adresse *",
+      "phone": "Telefonnummer",
+      "subject": {
+        "label": "Angefordertes Gerät / Prozesssystem",
+        "placeholder": "Bitte wählen Sie die Produktgruppe aus...",
+        "groups": {
+          "tanks": "Edelstahltanks",
+          "process": "Prozesssysteme",
+          "hygienic": "Hygienische Transferlösungen",
+          "other": "Andere Dienstleistungen"
+        },
+        "options": {
+          "tanks_1": "Industrielle Lagertanks",
+          "tanks_2": "Olivenöl-Lagersysteme",
+          "tanks_3": "Milch- und Lebensmittelprozesstanks",
+          "tanks_4": "Chemie- und Säuretanks",
+          "process_1": "Gerührte Prozesstanks",
+          "process_2": "Chemische und pharmazeutische Reaktoren",
+          "process_3": "High-Shear-Homogenisatoren",
+          "process_4": "Mobile Prozesseinheiten (Skid-Systeme)",
+          "process_5": "Heiz- und Kühlmanteltanks",
+          "process_6": "Fermentations- und Bioreaktoren",
+          "process_7": "Vollautomatische CIP-Systeme",
+          "hygienic_1": "Kreiselpumpen",
+          "hygienic_2": "Verdrängerpumpen",
+          "hygienic_3": "Selbstansaugende Pumpen",
+          "hygienic_4": "Fasspumpen",
+          "hygienic_5": "Druckluft-Membranpumpen",
+          "hygienic_6": "Monopumpen",
+          "other_1": "Schlüsselfertige Anlageninstallation",
+          "other_2": "Sonderanfrage / Nicht in Ihrem Katalog"
+        }
+      },
+      "message": {
+        "label": "Projektdetails *",
+        "placeholder": "Z.B.: Wir benötigen einen 20-Tonnen-Prozesstank mit Rührer aus 316L..."
+      },
+      "submit": {
+        "loading": "Wird gesendet...",
+        "idle": "Angebotsanfrage senden"
+      },
+      "status": {
+        "errorFields": "Bitte füllen Sie die Pflichtfelder aus (Vor- und Nachname, E-Mail, Projektdetails).",
+        "loading": "Ihre Angebotsanfrage wird an unsere Server übermittelt...",
+        "success": "Ihre Angebotsanfrage wurde erfolgreich empfangen! Unser technisches Team wird sich so schnell wie möglich bei Ihnen melden.",
+        "errorServer": "Beim Senden der E-Mail ist ein Serverfehler aufgetreten. Bitte versuchen Sie es erneut.",
+        "errorConnection": "Es ist ein Verbindungsfehler aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung."
+      }
+    }
+  },
+  "stainlessTanksPage": {
+    "metadata": {
+      "title": "Edelstahltanks | Welltech®",
+      "description": "Hochwertige Edelstahl-Industrietanklösungen für Olivenöl, Milch, Chemie und Allgemeinspeicherung."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "current": "Edelstahltanks"
+    },
+    "hero": {
+      "title": "Edelstahltanks",
+      "desc": "Langlebige Lager- und Prozesslösungen, die nach Ihrem branchenspezifischen Bedarf projektiert und nach internationalen Qualitätsstandards (ASME/PED) hergestellt werden."
+    },
+    "categories": [
+      {
+        "title": "Industrielle Lagertanks",
+        "desc": "Hochvolumige 304/316L-Qualitäts-Edelstahllösungen für Wasser- und Allgemein-Rohstofflagerung."
+      },
+      {
+        "title": "Olivenöl-Lagersysteme",
+        "desc": "Konische und flache Bodentanks mit Stickstoffpolsterungssystem, das den Luftkontakt unterbricht und die Säure erhält."
+      },
+      {
+        "title": "Milch- und Lebensmittelprozesstanks",
+        "desc": "Designs mit Ra < 0,4µm Oberflächenrauheit und CIP-Waschanlagen für maximale Hygiene."
+      },
+      {
+        "title": "Chemie- und Säuretanks",
+        "desc": "316L-Reaktoren mit hoher Korrosionsbeständigkeit und spezieller Schweißtechnologie für aggressive Flüssigkeiten."
+      }
+    ],
+    "viewModels": "Modelle ansehen",
+    "cta": {
+      "title": "Spezielle Prozessanforderungen?",
+      "desc": "Wenden Sie sich an unsere Ingenieurableitung für spezielle Maße, Hochdruck (ASME) oder ATEX-zertifizierte Gefahrenbereich-Reaktoranforderungen.",
+      "btn": "Angebot anfordern"
+    }
+  },
+  "storageTanksPage": {
+    "metadata": {
+      "title": "Industrielle Lagertanks | Welltech® International",
+      "description": "Edelstahl-Flüssigspeicher- und Vorratstanks mit Kapazitäten bis 150 Tonnen nach internationalen Standards."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "tanks": "Edelstahltanks",
+      "current": "Lagertanks"
+    },
+    "hero": {
+      "title": "Industrielle Lagertanks",
+      "desc": "Kapazität bis 150 Tonnen für Ihren massiven Lagerbedarf. Langlebige Edelstahllösungen nach ASME- und EN-Ingenieurstandards."
+    },
+    "engineering": {
+      "title": "150-Tonnen Ingenieurskraft",
+      "desc": "Die Welltech® Produktionslinie bietet eine breite Kapazitätsspanne von Boutique-Tanks mit 1.000 Litern bis zu massiven 150-Tonnen (150.000 Liter) Vor-Ort-Tanks für Industrieanlagen."
+    },
+    "features": {
+      "title": "Technische Spezifikationen",
+      "items": {
+        "1": "Maximale 150-Tonnen-Kapazität",
+        "2": "AISI 304 / 316L Hochqualitätsstahl",
+        "3": "Vollautomatisches Plasmaschweißen",
+        "4": "Konischer, gewölbter oder flacher Boden",
+        "5": "Seismische und Windlastanalysen",
+        "6": "Niveau- und Volumenautomatisierung"
+      }
+    },
+    "capacityTable": {
+      "title": "Standard-Kapazitätstabelle",
+      "note": "* Die obigen Werte sind Standard. Durchmesser-/Höhenverhältnisse werden von unseren Ingenieuren entsprechend der Höhe Ihrer Anlage angepasst.",
+      "headers": {
+        "volume": "Volumen",
+        "diameter": "Durchmesser (mm)",
+        "height": "Höhe (mm)",
+        "material": "Material"
+      },
+      "onSite": "Vor-Ort-Fertigung"
+    },
+    "faq": {
+      "title": "Lagersysteme FAQ",
+      "items": [
+        {
+          "q": "Wie werden 150-Tonnen-Tanks zur Anlage gebracht?",
+          "a": "Mega-Tanks ab 50.000 Litern werden mit der 'Vor-Ort-Fertigungs'-Methode an Ihrer Anlage von unseren Schweißteams errichtet."
+        },
+        {
+          "q": "Warum ist die seismische Lastanalyse wichtig?",
+          "a": "Besonders bei Tanks ab 20 Tonnen kann der Sloshing-Effekt den Tank umwerfen. Wir berechnen diese Kräfte im Voraus."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Unsere Beispielanwendungen",
+      "p1": "PROJEKT 01",
+      "p2": "PROJEKT 02",
+      "p3": "PROJEKT 03",
+      "p4": "PROJEKT 04"
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Technische Spezifikation",
+        "subtitle": "DOK-01 PDF-Dokument",
+        "desc": "Wanddickenbergechnungen, Schweißzertifizierungen und statische Lasttoleranzenn.",
+        "btn": "Dokument herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-01-lagertanks.pdf"
+      },
+      "reference": {
+        "badge": "Ausgewählte Referenz",
+        "desc": "Installation einer 150.000-Liter-Vor-Ort-gefertigten Edelstahl-Lagertankbatterie für eine Großchemieanlage.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Kapazitätsplanung",
+        "desc": "Teilen Sie uns Ihre Raummaße und Flüssigkeitseigenschaften mit, und wir planen Ihre Lagerung bis zu 150 Tonnen.",
+        "whatsappMsg": "Hallo, ich möchte Informationen über industrielle Lagertank-Kapazität und Preise erhalten.",
+        "btn": "Angebot anfordern →"
+      }
+    }
+  },
+  "chemicalTanksPage": {
+    "metadata": {
+      "title": "Chemie- und Säuretanks | Welltech®",
+      "description": "Bis zu 150 Tonnen Kapazität, aggressiv korrosionsbeständige API 650-Standard 316Ti und Hastelloy Chemietanklösungen."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "tanks": "Edelstahltanks",
+      "current": "Chemietanks"
+    },
+    "hero": {
+      "title": "Chemie- und Säuretanks",
+      "desc": "Null-Toleranz-Engineering für maximale Gefahrenklasse. Heavy-Duty-Lagersysteme bis 150 Tonnen, vollständig korrosions- und druckbeständig."
+    },
+    "corrosion": {
+      "title": "Aggressive Korrosionskontrolle",
+      "desc": "Schwefelsäure, Salpetersäure, Ätznatron oder explosive Lösungsmittel... Flüssigkeiten in der Chemieindustrie können gewöhnlichen Stahl in Tagen auflösen. Welltech® wendet API 650 und EN 14015 Standards an und verwendet AISI 316L, AISI 316Ti oder Hastelloy."
+    },
+    "features": {
+      "title": "Sicherheit und Ausstattung",
+      "items": {
+        "1": "150 Tonnen (150.000 L) Kapazität",
+        "2": "AISI 316Ti & Hastelloy C276 Legierung",
+        "3": "100% RT (Röntgen) Schweißtest",
+        "4": "ATEX (Ex-Proof) Integration bereit",
+        "5": "Überdruckventile",
+        "6": "Überlauf-Auffangwannen-Konformität"
+      }
+    },
+    "capacityTable": {
+      "title": "Heavy-Duty Kapazität und Wandstärke",
+      "note": "* Je nach spezifischem Gewicht (Dichte) des Chemikals erhöht sich die Wandstärke dramatisch.",
+      "headers": {
+        "volume": "Volumen",
+        "diameter": "Durchmesser (mm)",
+        "height": "Höhe (mm)",
+        "thickness": "Min. Wandstärke"
+      },
+      "customRow": "Individuelles API 650 Design für Mega-Standorte",
+      "heavy": " (Heavy)"
+    },
+    "faq": {
+      "title": "Chemiespeicherung FAQ",
+      "items": [
+        {
+          "q": "Was sind NDT (Zerstörungsfreie Prüfung) Schweißtests?",
+          "a": "In gefährlichen Chemietanks kann eine unsichtbare Schweißlücke zu einer Explosion führen. Wir wenden RT und PT Tests an den Schweißnähten an."
+        },
+        {
+          "q": "Welchen Edelstahl soll ich für welche Säure wählen?",
+          "a": "Für oxidierende Säuren wie Salpetersäure kann AISI 304L geeignet sein. Für Schwefelsäure oder Phosphorsäure muss AISI 316L, 316Ti oder Hastelloy verwendet werden."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Unsere Beispielanwendungen",
+      "p1": {
+        "title": "PROJEKT 01",
+        "alt": "Schwefelsäuretank"
+      },
+      "p2": {
+        "title": "PROJEKT 02",
+        "alt": "Heavy-Duty Schweißtest"
+      },
+      "p3": {
+        "title": "PROJEKT 03",
+        "alt": "Hastelloy-Legierungsspeicher"
+      },
+      "p4": {
+        "title": "PROJEKT 04",
+        "alt": "Petrochemieanlage Tankbatterie"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Technische Spezifikation",
+        "subtitle": "DOK-04 PDF-Dokument",
+        "desc": "Nach API 650-Standards berechnete chemische Dichtewiderständen, Röntgentestdetails und Sicherheitsarmaturen.",
+        "btn": "Dokument herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-04-chemietanks.pdf"
+      },
+      "reference": {
+        "badge": "Ausgewählte Referenz",
+        "desc": "\"Hochkorrosionsbeständige, Hastelloy-legierte und vollautomatisierte Schwefelsäure-Lagertankbatterie für eine Petrochemieanlage.\"",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Sicheres Projektdesign",
+        "desc": "Teilen Sie uns den Namen, die Konzentration und das Zielvolumen (bis 150 Tonnen) des zu lagernden Chemikals mit.",
+        "whatsappMsg": "Hallo, ich möchte Kapazitäts- und Preisinformationen über Chemie- und Säuretanks erhalten.",
+        "btn": "Risikoanalyse und Angebot →"
+      }
+    }
+  },
+  "milkTanksPage": {
+    "metadata": {
+      "title": "Edelstahl Milchkühl- und Lagertanks | Welltech®",
+      "description": "Edelstahl-Rohmilchlagertanks bis 150 Tonnen, ultra-hygienisch, CIP-System und Polyurethan-Isolierung."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "tanks": "Edelstahltanks",
+      "current": "Milchtanks"
+    },
+    "hero": {
+      "title": "Milchlagertanks",
+      "desc": "Ultra-hygienisches Design mit Null-Bakterienwachstum für Ihre Milchprozesse. Mega-Lagerlösungen bis 150 Tonnen mit hochkapazitiver Polyurethan-Isolierung."
+    },
+    "engineering": {
+      "title": "Ultra-Hygiene und Kühlkette",
+      "desc": "In Milchprozessen kann der kleinste Schweißfehler oder Oberflächenrauheit zu einem Bakterienherd werden. Welltech® Milchlagertanks haben glatt spiegelpolierte Oberflächen und vollständig ovalisierte Schweißverbindungen. Für Anlagen, die die +4°C Kühlkette nicht unterbrechen wollen, werden hochdichte Polyurethan-Isolierung und Roll-Bond-Kühlmäntel verwendet."
+    },
+    "features": {
+      "title": "Technische Spezifikationen",
+      "items": {
+        "1": "150 Tonnen (150.000 L) Produktionskapazität",
+        "2": "Vollhygienisches AISI 304 / 316L",
+        "3": "CIP (Clean-in-Place) Waschanlage",
+        "4": "Polyurethanschaum-Wärmeisolierung",
+        "5": "Dimple (Roll-Bond) Kühlmantel",
+        "6": "Langsamlaufendes Rührwerk gegen Fettentmischung"
+      }
+    },
+    "capacityTable": {
+      "title": "Standard-Milchtankkapazitäten",
+      "note": "* Die obigen Werte dienen als Referenz. Tankbatterien bis 150.000 Liter für Mega-Anlagen werden von unserem Expertenteam maßgefertigt.",
+      "headers": {
+        "volume": "Volumen",
+        "diameter": "Durchmesser (mm)",
+        "insulation": "Isolierung",
+        "material": "Material"
+      },
+      "customRow": "Mega-Milchsilos - Außen / Vor-Ort-Installation",
+      "insulationTypes": {
+        "50": "50mm Polyurethan",
+        "60": "60mm Polyurethan",
+        "80": "80mm Polyurethan",
+        "100": "100mm Polyurethan"
+      },
+      "rows": [
+        {
+          "v": "5.000 L",
+          "d": "1.800",
+          "i": "50",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "10.000 L",
+          "d": "2.300",
+          "i": "60",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "15.000 L",
+          "d": "2.400",
+          "i": "60",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "20.000 L",
+          "d": "2.600",
+          "i": "80",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "25.000 L",
+          "d": "2.800",
+          "i": "80",
+          "t": "304 / 316L"
+        },
+        {
+          "v": "50.000 L",
+          "d": "3.200",
+          "i": "100",
+          "t": "304 / 316L"
+        }
+      ],
+      "customRowVolume": "150.000 L"
+    },
+    "faq": {
+      "title": "Milchprozess FAQ",
+      "items": [
+        {
+          "q": "Warum werden in Milchlagertanks Rührer verwendet?",
+          "a": "Die Fettschicht in länger gelagerter Rohmilch steigt nach oben und verklumpt. Um die Homogenität der Milch zu erhalten, werden sehr langsam drehende Paddelrührer (ca. 20-30 U/min) eingebaut."
+        },
+        {
+          "q": "Was genau ist das CIP (Clean-in-Place) System?",
+          "a": "Es ist ein automatisches Reinigungssystem, das mit Säure, Lauge und heißem Wasser durch automatische Ventile, Hochdruckpumpen und Sprühbälle durchgeführt wird, ohne dass Menschen in den Tank eintreten müssen."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Unsere Beispielanwendungen",
+      "p1": {
+        "title": "PROJEKT 01",
+        "alt": "Isolierter Milchtank"
+      },
+      "p2": {
+        "title": "PROJEKT 02",
+        "alt": "Außen-Milchsilo-Installation"
+      },
+      "p3": {
+        "title": "PROJEKT 03",
+        "alt": "CIP-Waschanlagemontage"
+      },
+      "p4": {
+        "title": "PROJEKT 04",
+        "alt": "Molkerei Tankbatterie"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Technische Spezifikation",
+        "subtitle": "DOK-03 PDF-Dokument",
+        "desc": "Oberflächenpolierstandards (Ra-Werte) für die Milchindustrie, Polyurethan-Isolierungsdichte und CIP-Design.",
+        "btn": "Dokument herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-03-milchtanks.pdf"
+      },
+      "reference": {
+        "badge": "Ausgewählte Referenz",
+        "desc": "\"Projekt für 100.000-Liter-Polyurethan-isolierte Außen-Milchlagertanks für eine nationale Molkereimarke.\"",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Lassen Sie Ihre Anlage wachsen",
+        "desc": "Planen Sie eine hygienische Tankbatterie in Kapazitäten bis zu 150 Tonnen für Ihre Molkerei.",
+        "whatsappMsg": "Hallo, ich möchte technische Informationen und Preise für Milchlager- und Kühltanks erhalten.",
+        "btn": "Angebot anfordern →"
+      }
+    }
+  },
+  "oliveOilTanksPage": {
+    "metadata": {
+      "title": "Stickstoffgespülte Olivenöl-Lagertanks | Welltech®",
+      "description": "Konische Edelstahl-Olivenöltanks bis 150 Tonnen, die mit Inertgastechnologie die Oxidation auf null reduzieren."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "tanks": "Edelstahltanks",
+      "current": "Olivenöltanks"
+    },
+    "hero": {
+      "title": "Olivenöl-Lagersysteme",
+      "desc": "Stickstoffpolsterungstechnologie zur Erhaltung Ihrer wertvollen Ernte mit ihrem frischen Geschmack für Jahre. Maßgefertigte Edelstahllösungen bis 150 Tonnen."
+    },
+    "engineering": {
+      "title": "Ingenieurwunder-Lagerung",
+      "desc": "Die größten Feinde bei der Olivenöllagerung sind Luft (Sauerstoff) und Licht. Welltech® Tanks sind mit speziellen Armaturen ausgestattet, die die Luft evakuieren und stattdessen Stickstoffgas einpumpen. Diese Technologie reduziert die Oxidation auf null. Von kleinen Boutique-Betrieben bis zu 150-Tonnen-Mega-Anlagen fertigen wir konische oder flache Bodentanks."
+    },
+    "features": {
+      "title": "Technische Spezifikationen",
+      "items": {
+        "1": "Stickstoffpolsterung (Inert) System",
+        "2": "Kapazitätsoptionen bis 150 Tonnen",
+        "3": "Konischer Boden mit vollständiger Entleerung",
+        "4": "Lebensmittelechtes AISI 304 / 316L",
+        "5": "Licht- und Wärmeisolierungsoptionen",
+        "6": "Probenahme- und Niveauventile"
+      }
+    },
+    "capacityTable": {
+      "title": "Standard-Kapazitäten und Abmessungen",
+      "note": "* Werte in der Tabelle dienen als Referenz. Das Welltech-Ingenieurteam liefert maßgeschneiderte Dimensionierung bis 150 Tonnen.",
+      "headers": {
+        "volume": "Volumen",
+        "diameter": "Durchmesser (mm)",
+        "height": "Höhe (mm)",
+        "thickness": "Wandstärke"
+      },
+      "customRow": "Mega-Vor-Ort-Installations-Tankbatterien"
+    },
+    "faq": {
+      "title": "Olivenöl-Lagerung FAQ",
+      "items": [
+        {
+          "q": "Warum wird Stickstoff bei der Olivenöllagerung verwendet?",
+          "a": "Der Kontakt von Olivenöl mit Luft (Sauerstoff) löst Ranzigkeit aus. Da Stickstoffgas schwerer als Luft ist, bildet es beim Einpumpen ein schützendes Kissen über dem Öl."
+        },
+        {
+          "q": "Soll ich einen konischen oder flachen Boden wählen?",
+          "a": "Zum Lagern von ungefiltertem (frischem) Olivenöl sammeln vollkegelige Bodentanks den Bodensatz an einem Punkt und ermöglichen eine einfache Entleerung. Für gefiltertes Öl eignen sich große Flachbodentanks."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Unsere Beispielanwendungen",
+      "p1": {
+        "title": "PROJEKT 01",
+        "alt": "Konischer Olivenöltank"
+      },
+      "p2": {
+        "title": "PROJEKT 02",
+        "alt": "Stickstoffpolsterungsinstallation"
+      },
+      "p3": {
+        "title": "PROJEKT 03",
+        "alt": "Boutique-Betrieb"
+      },
+      "p4": {
+        "title": "PROJEKT 04",
+        "alt": "Mega-Lagerbatterie"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Technische Spezifikation",
+        "subtitle": "DOK-02 PDF-Dokument",
+        "desc": "Dokument mit Abmessungen, Wandstärken, Kegelbodenwinkel und Stickstoffarmaturen.",
+        "btn": "Dokument herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-02-olivenoeltanks.pdf"
+      },
+      "reference": {
+        "badge": "Ausgewählte Referenz",
+        "desc": "Konisch-boden, stickstoffgespülte und vollautomatisierte Edelstahl-Tankbatterie für eine Großolivenöl-Produktionsanlage.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Haben Sie ein individuelles Projekt?",
+        "desc": "Holen Sie sich Projektdesign-Unterstützung von unseren Ingenieuren für stickstoffgespülte Tankbatterien bis 150 Tonnen.",
+        "whatsappMsg": "Hallo, ich möchte technische Informationen und Preise für Olivenöl-Lagertanks erhalten.",
+        "btn": "Angebot anfordern →"
+      }
+    }
+  },
+  "pumpsPage": {
+    "metadata": {
+      "title": "Edelstahl-Industriepumpen | Welltech®",
+      "description": "Kreiselpumpen, Verdrängerpumpen, selbstansaugende Pumpen, Fasspumpen, Druckluft-Membranpumpen und Monopumpen Industriesysteme."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "current": "Industriepumpen"
+    },
+    "hero": {
+      "title": "Hygienische Transferlösungen",
+      "desc": "Industriepumpensysteme, die alle Produktarten von Flüssigkeiten bis zur höchsten Viskosität mit der geeignetsten Technologie für Ihren Prozess transferieren."
+    },
+    "categories": [
+      {
+        "title": "Kreiselpumpen",
+        "desc": "Ideale Lösungen für schnellen, ununterbrochenen und hygienischen (CIP) Transfer von niedrigviskosen Produkten wie Milch, Wasser, Saft und Olivenöl."
+      },
+      {
+        "title": "Verdrängerpumpen",
+        "desc": "Präzise Lobe- und Rotorpumpen, die hochviskose Produkte wie Honig, Schokolade und Cremes ohne Zerstörung ihrer Struktur transferieren."
+      },
+      {
+        "title": "Selbstansaugende Pumpen",
+        "desc": "Speziell entwickelte Systeme für den Transfer von luft- und schaumhaltigen Flüssigkeiten."
+      },
+      {
+        "title": "Fasspumpen",
+        "desc": "Tragbare Lösungen für sicheres Entleeren von Säuren, Chemikalien aus Fässern und IBC-Tanks."
+      },
+      {
+        "title": "Druckluft-Membranpumpen",
+        "desc": "Mit Druckluft betriebene Pumpen in brennbaren (ATEX) Umgebungen für Produkte mit festen Partikeln."
+      },
+      {
+        "title": "Monopumpen",
+        "desc": "Exzenterschneckenpumpen für pulssationsfreien Transfer hochviskose Produkte wie Schlamm, Honig und Teig."
+      }
+    ],
+    "viewModels": "Modelle ansehen",
+    "cta": {
+      "title": "Richtige Pumpenauswahl",
+      "desc": "Lassen Sie unsere Ingenieure die geeignetste Pumpenleistung für Ihren Prozess berechnen.",
+      "btn": "Ingenieurunterstützung"
+    }
+  },
+  "positivePumpsPage": {
+    "metadata": {
+      "title": "Verdrängerpumpen & Lappenpumpen | Welltech®",
+      "description": "Hygienische Lappenpumpen für den schonenden Transfer hochviskoser Produkte wie Honig, Schokolade, Tomatenmark und Kosmetika."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "pumps": "Pumpen",
+      "current": "Verdrängerpumpen"
+    },
+    "hero": {
+      "title": "Verdrängerpumpen",
+      "desc": "Hygienische Lappenpumpensysteme, die hochviskose Flüssigkeiten wie Honig, Schokolade, Tomatenmark und Kosmetika schonend transferieren, ohne ihre Zellstruktur zu beschädigen."
+    },
+    "technology": {
+      "title": "Präziser & schonender Transfer",
+      "desc": "Die Hochgeschwindigkeitsflügel von Kreiselpumpen beschädigen dichte Produkte wie Honig oder Schokolade. Unsere Verdrängerpumpen (Lappenpumpen) transportieren die Flüssigkeit in großen Kammern durch Edelstahlflügel, die sich mit sehr niedriger Drehzahl ohne Berührung drehen. Die Zellintegrität (Partikel, Konsistenz) des Produkts wird niemals beeinträchtigt. Auch die dichtesten Produkte bis 100.000 cP Viskosität können mit konstantem Hochdruck gepumpt werden.",
+      "imgAlt": "Lappen-Rotor-System Detail"
+    },
+    "features": {
+      "title": "Technische Eigenschaften",
+      "imgAlt": "Getriebemotorverbindung",
+      "items": [
+        "Niedrigtourige (Low-RPM) Förderung",
+        "AISI 316L lebensmittelgerechter Körper und Lappen",
+        "Getriebe & Frequenzumrichter für variable Durchflussraten",
+        "Heizmantel-Frontdeckel-Option für Schokolade",
+        "Doppeltwirkende Kohlenstoff-Gleitringdichtung",
+        "Reversibler (bidirektionaler) Durchfluss"
+      ]
+    },
+    "table": {
+      "title": "Lappenpumpen-Kapazitätstabelle",
+      "note": "* Mit zunehmender Viskosität muss die Pumpendrehzahl reduziert werden. Die Getriebeauswahl wird von unseren Ingenieuren basierend auf dem spezifischen zu transferierenden Produkt berechnet.",
+      "imgAlt": "Lappenpumpe Technische Zeichnung",
+      "headers": [
+        "Serien-Nr.",
+        "Max. Durchfluss (m³/h)",
+        "Max. Druck (Bar)",
+        "Anschlussdurchmesser"
+      ],
+      "rows": [
+        {
+          "model": "WT-L 20",
+          "flow": "3 - 5 m³/h",
+          "pressure": "5 - 10 Bar",
+          "connection": "DN 40 / 1,5\"",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-L 40",
+          "flow": "8 - 12 m³/h",
+          "pressure": "5 - 10 Bar",
+          "connection": "DN 50 / 2,0\"",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-L 80",
+          "flow": "18 - 25 m³/h",
+          "pressure": "5 - 12 Bar",
+          "connection": "DN 65 / 2,5\"",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-L 150",
+          "flow": "30 - 45 m³/h",
+          "pressure": "5 - 12 Bar",
+          "connection": "DN 100 / 4,0\"",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Verdränger-FAQ",
+      "items": [
+        {
+          "q": "Sind Lappenpumpen für CIP-Reinigung geeignet?",
+          "a": "Ja, da sie den Standards der Lebensmittel- und Pharmaindustrie (EHEDG und 3A) entsprechend ausgelegt sind, können sie mit heißem Wasser und Lauge durch die Rohrleitung hervorragend gereinigt werden."
+        },
+        {
+          "q": "Wie verhindern Sie das Einfrieren beim Schokoladentransfer?",
+          "a": "Schokolade und pflanzliche Öle neigen dazu, bei Raumtemperatur zu erstarren. Durch Hinzufügen einer Manteloption zum Frontdeckel unserer Lappenpumpen und Durchleiten von heißem Wasser garantieren wir, dass das Produkt flüssig bleibt."
+        },
+        {
+          "q": "Warum können Kreiselpumpen keinen Honig fördern?",
+          "a": "Die Flügel von Kreiselpumpen drehen sich mit hoher Drehzahl. Wenn eine hochviskose Flüssigkeit wie Honig auf das Flügelrad trifft, erzeugt dies großen Widerstand, der den Motor beschädigen oder die Molekularstruktur des Produkts verändern kann. Lappenpumpen überwinden diese Dichte mit niedriger Drehzahl und hohem Drehmoment."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "Hygienische Lappenpumpe"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "Honig-Transferleitung"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "Schokoladenpumpe mit Manteldeckel"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "Getriebe und Motorgruppe"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technisches Dokument",
+        "subtitle": "DOK-11 PDF-Spezifikation",
+        "desc": "Lappenpumpen-Viskosität/Drehzahl-Diagramme, Manteldeckelmaße und Getriebeleistungsauswahltabelle.",
+        "btn": "Diagramme herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-11-drehkolbenpumpen.pdf"
+      },
+      "reference": {
+        "badge": "Referenzanwendung",
+        "imgAlt": "Kosmetik-Transferleitung Referenz",
+        "desc": "Drehzahlgeregelte (frequenzumrichtergesteuerte), doppelläufige, 316L hygienische Verdrängerpumpenintegration für eine Körperlotion- und Cremproduktionsanlage.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Drehmoment- & Leistungsberechnung",
+        "desc": "Teilen Sie uns Art und Dichte (cP) des zu transferierenden Produkts mit, und wir wählen die am besten geeignete getriebegetriebene Lappenpumpe aus.",
+        "btn": "Angebot anfordern →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20y%C3%BCksek%20viskoziteli%20%C3%BCr%C3%BCn%C3%BCm%20i%C3%A7in%20loblu%20pompa%20kapasite%20hesaplamas%C4%B1%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "centrifugalPumpsPage": {
+    "metadata": {
+      "title": "Hygienische Kreiselpumpen | Welltech®",
+      "description": "Hochleistungs-, CIP-kompatible Edelstahl-Hygienepumpen für den Transfer von Milch, Wasser, Saft und Olivenöl."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "pumps": "Pumpen",
+      "current": "Kreiselpumpen"
+    },
+    "hero": {
+      "title": "Hygienische Kreiselpumpen",
+      "desc": "Maximaler Durchfluss und hydrodynamische Effizienz für niedrigviskose Flüssigkeiten. Transfersysteme, vollständig CIP-konform für Milch-, Olivenöl- und Getränkeprozesse."
+    },
+    "technology": {
+      "title": "Hoher Durchfluss, kontinuierlicher Transfer",
+      "desc": "Kreiselpumpen drücken die Flüssigkeit durch die Zentrifugalkraft, die durch die Rotation des motorgetriebenen Flügelrads erzeugt wird. Es ist die idealste, langlebigste und kostengünstigste Lösung für den Transfer niedrigviskoser (1-500 cP) Produkte wie Milch, Saft, Wein, Olivenöl und flüssige Chemikalien. Wird mit optimierten Motorleistungen basierend auf Ihrem Rohrdurchmesser, gewünschtem Durchfluss und Förderhöhe (mWS) angeboten.",
+      "imgAlt": "Hydrodynamisches Flügelradsystem"
+    },
+    "features": {
+      "title": "Ausrüstungs- und Materialeigenschaften",
+      "imgAlt": "Edelstahl-Motorgehäuse",
+      "items": [
+        "AISI 316L Präzisionsguss-Gehäuse",
+        "Offene und geschlossene Flügelrad-Optionen",
+        "SiC/SiC/EPDM Gleitringdichtung",
+        "Vollständige Kompatibilität mit CIP und SIP Systemen",
+        "Edelstahl-Motorgehäuse",
+        "Niedriger NPSH (Kavitationsschutz)"
+      ]
+    },
+    "table": {
+      "title": "Kreiselpumpen-Kapazitätstabelle",
+      "note": "* Tabellenwerte basieren auf Wasser (1 cP) Viskosität. Unsere Hydraulikingenieure wählen den richtigen Motor basierend auf der Anzahl der Bögen und Förderhöhe in Ihrer Leitung.",
+      "imgAlt": "Pumpen-Leistungskurve",
+      "headers": [
+        "Serien-Nr.",
+        "Max. Durchfluss (m³/h)",
+        "Förderhöhe (mWS)",
+        "Motorleistung (kW)"
+      ],
+      "rows": [
+        {
+          "model": "WT-C 20",
+          "flow": "20 m³/h",
+          "head": "25 mWS",
+          "power": "1,5 - 2,2 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-C 40",
+          "flow": "40 m³/h",
+          "head": "35 mWS",
+          "power": "3,0 - 4,0 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-C 80",
+          "flow": "80 m³/h",
+          "head": "45 mWS",
+          "power": "5,5 - 7,5 kW",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-C 150",
+          "flow": "150 m³/h",
+          "head": "60 mWS",
+          "power": "11,0 - 15,0 kW",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Kreiselpumpen-FAQ",
+      "items": [
+        {
+          "q": "Was ist der Unterschied zwischen offenem und geschlossenem Flügelrad?",
+          "a": "Bei vollständig flüssigen Produkten wie Milch und Wasser wird ein geschlossenes Flügelrad verwendet, um maximalen Druck zu erzielen. Bei Flüssigkeiten mit kleinen Partikeln wie Fruchtsaft mit Fruchtfleisch oder Most wird ein offenes Flügelrad bevorzugt, um Verstopfungen zu verhindern."
+        },
+        {
+          "q": "Was bedeutet Pumpen-Kavitation?",
+          "a": "Wenn die Flüssigkeit auf der Saugseite der Pumpe unzureichend ist oder der Rohrdurchmesser zu eng ist, sinkt der Siedepunkt der Flüssigkeit und Luftblasen entstehen. Diese Blasen erodieren das Metall, wenn sie auf die Flügelradschaufeln treffen. Unsere Ingenieure eliminieren dieses Risiko durch Auswahl von Pumpen mit niedrigen NPSH-Werten."
+        },
+        {
+          "q": "Was soll ich tun, wenn die Gleitringdichtung undicht ist?",
+          "a": "In unseren Lebensmittelpumpen wird die Abdichtung durch hochwertige Kohlenstoff/Siliziumkarbid-Gleitringdichtungen anstatt geflochtener Schnurdichtungen erreicht. Im Verschleißfall ist das Dichtungsset so ausgelegt, dass es in Ihrer Anlage innerhalb von Minuten leicht ausgetauscht werden kann."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "Milch-Transferpumpe"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "Gleitringdichtung Detail"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "Hygienische offene Flügelrad-Anwendung"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "CIP-Waschleitung Pumpe"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technisches Dokument",
+        "subtitle": "DOK-10 PDF-Spezifikation",
+        "desc": "Kreiselpumpen-Leistungskurven, NPSH-Werte und Kompatibilitätstabelle für Gleitringdichtungswerkstoffe.",
+        "btn": "Kurven herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-10-kreiselpumpen.pdf"
+      },
+      "reference": {
+        "badge": "Ausgewählte Referenz",
+        "imgAlt": "Milch-Transferleitung Referenz",
+        "desc": "CIP-kompatible Kreiselpumpenbatterie mit Edelstahldeckel und 40 m³/h Kapazität für eine Anlage, die täglich 500 Tonnen Rohmilch verarbeitet.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Pumpenauswahl",
+        "desc": "Teilen Sie uns die Flüssigkeitsart, Ihren Durchfluss bedarf und die Rohrleitungslänge mit, und wir berechnen den effizientesten Motor und Flügelraddurchmesser.",
+        "btn": "Durchflussberechnung →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20santrifüj%20pompa%20kapasite%20hesaplamas%C4%B1%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "drumPumpsPage": {
+    "metadata": {
+      "title": "Industrie-Fass- & IBC-Pumpen | Welltech®",
+      "description": "Portable Pumpenlösungen für die sichere Entleerung von Säuren, Chemikalien und flüssigen Lebensmitteln aus Fässern, IBC-Tanks und Behältern."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "pumps": "Pumpen",
+      "current": "Fasspumpen"
+    },
+    "hero": {
+      "title": "Fass- & IBC-Tank-Pumpen",
+      "desc": "Produktverluste bei der manuellen Entleerung von Rohstoffen beenden. Leichte, tragbare und hocheffiziente Entleerungseinheiten speziell für Säuren, Chemikalien und flüssige Lebensmittel."
+    },
+    "technology": {
+      "title": "Sichere Rohstoffentleerung",
+      "desc": "In der industriellen Produktion werden Rohstoffe üblicherweise in 200-Liter-Fässern oder 1000-Liter-IBC-Tanks geliefert. Das manuelle Entleeren dieser Behälter verursacht sowohl Produktverluste als auch Arbeitsunfälle. Welltech Fasspumpen bieten dank des Tauchrohrdesigns 99% Entleerungseffizienz, wobei nur wenige Tropfen Produkt am Boden des Behälters verbleiben. Sie passen sich mit elektrischen und pneumatischen Motoroptionen den anspruchsvollsten Feldbedingungen an.",
+      "imgAlt": "Fass-Taucheinheit"
+    },
+    "features": {
+      "title": "Produkt- & Motoroptionen",
+      "imgAlt": "Hochdrehzahl-Elektromotor",
+      "items": [
+        "ATEX-zertifizierter explosionsgeschützter Motor",
+        "AISI 316L oder PP / PVDF Rohroptionen",
+        "Schneckentyp für hochviskosen Honig und Tomatenmark",
+        "Stufenlose Präzisionsdrehzahlregelung",
+        "1200mm Rohrlänge für IBC-Tanks",
+        "Leicht zu reinigendes Moduldesign"
+      ]
+    },
+    "table": {
+      "title": "Fasspumpen-Auswahlstabelle",
+      "note": "* Das Tauchrohrmaterial muss nach der Korrosionstabelle des zu transferierenden Chemikals ausgewählt werden. Für brennbare Flüssigkeiten müssen ATEX-Motoren verwendet werden.",
+      "imgAlt": "Rohrmaße und Montagezeichnung",
+      "headers": [
+        "Anwendung",
+        "Rohrmaterial",
+        "Rohrlänge (mm)",
+        "Viskosität (cP)"
+      ],
+      "rows": [
+        {
+          "application": "Standard-Fass (200L)",
+          "material": "AISI 316L / PP",
+          "length": "1000 mm",
+          "viscosity": "0 - 800 cP",
+          "highlight": "blue"
+        },
+        {
+          "application": "IBC-Tank (1000L)",
+          "material": "AISI 316L / PVDF",
+          "length": "1200 mm",
+          "viscosity": "0 - 1000 cP",
+          "highlight": "blue"
+        },
+        {
+          "application": "Viskoses Lebensmittel (Honig/Creme)",
+          "material": "Lebensmittelgerechtes 316L",
+          "length": "1000 - 1200 mm",
+          "viscosity": "Bis 100.000 cP",
+          "highlight": "orange"
+        },
+        {
+          "application": "Labor/Kleiner Behälter",
+          "material": "PP / PVDF",
+          "length": "700 mm",
+          "viscosity": "0 - 200 cP",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Fassentleerungs-FAQ",
+      "items": [
+        {
+          "q": "Welchen Motor soll ich für Lösemittel- oder Alkoholtransfer wählen?",
+          "a": "Standardelektromotoren können beim Transfer brennbarer Flüssigkeiten Funken erzeugen. In diesem Fall müssen unbedingt ATEX-zertifizierte explosionsgeschützte Motoren oder Druckluftmotoren verwendet werden."
+        },
+        {
+          "q": "Wofür wird eine Schrauben-Fasspumpe (Exzenterschnecke) verwendet?",
+          "a": "Standard-Fasspumpen können Produkte mit sehr geringer Fließfähigkeit wie Honig, Glukose oder dichte Kosmetikcremes nicht ansaugen. Schrauben-Fasspumpen können Produkte dieser Dichte dank ihres Endlosschneckenmechanismus mühelos vakuumieren und fördern."
+        },
+        {
+          "q": "Wie wird das Pumpenrohr gereinigt?",
+          "a": "Welltech Fasspumpen haben ein modulares Design. Motor- und Rohrteil werden innerhalb von Sekunden voneinander getrennt. Die Welle und das Flügelrad im Rohrinneren können leicht entnommen und in ein Sterilisations- oder CIP-Bad gegeben werden."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "ATEX-Motor Chemietransfer"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "PVDF-Rohr IBC-Pumpe"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "Schraubentyp Lebensmittelpumpe"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "Präzisionsdurchfluss-Fassentleerung"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technisches Dokument",
+        "subtitle": "DOK-12 PDF-Spezifikation",
+        "desc": "Chemische Widerstandstabelle, Motordrehzahlbereiche und IBC-Tank-Anschlussarmaturen technisches Dokument.",
+        "btn": "Spezifikation herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-12-fasspumpen.pdf"
+      },
+      "reference": {
+        "badge": "Referenzanwendung",
+        "imgAlt": "Chemikalien-Rohstofftransfer Referenz",
+        "desc": "Automatische Fassentleerungsstation mit ATEX-zertifiziertem, lösemittelbeständigem PVDF-Rohr für eine Lackfabrik.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Motorauswahl",
+        "desc": "Geben Sie den zu transferierenden Rohstoff und die Anzahl der Fässer an, und wir bestimmen gemeinsam die Elektro- oder Pneumatikmotoroption.",
+        "btn": "Angebot anfordern →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20varil%20ve%20IBC%20bo%C5%9Faltma%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "projectsPage": {
+    "metadata": {
+      "title": "Abgeschlossene Projekte | Welltech®",
+      "description": "Industrielle Edelstahlprojekte und Fallstudien, die erfolgreich von Welltech geliefert wurden."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "current": "Abgeschlossene Projekte"
+    },
+    "hero": {
+      "title": "Ingenieurreferenzen",
+      "desc": "Wir fertigen nicht nur Tanks; wir bauen hochentwickelte Prozessanlagen, die die Weltindustrie braucht."
+    },
+    "labels": {
+      "capacity": "Kapazität",
+      "material": "Material",
+      "standard": "Standard",
+      "features": "Highlights"
+    },
+    "viewDetails": "Projektdetails & technische Analyse anzeigen",
+    "cta": {
+      "title": "Lassen Sie uns eine Lösung für Ihr Projekt entwickeln",
+      "desc": "Kontaktieren Sie unser Expertenteam für Ihre spezifischen Kapazitätsanforderungen und technischen Standards.",
+      "btn": "Technische Unterstützung"
+    }
+  },
+  "processSystemsPage": {
+    "metadata": {
+      "title": "Industrielle Prozesssysteme & Reaktoren | Welltech®",
+      "description": "Mischproduktionslinien nach ASME- und ATEX-Standards für hochviskose Gemische, gefährliche Reaktionen und thermodynamische Prozesse."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "current": "Prozesssysteme"
+    },
+    "hero": {
+      "title": "Prozesssysteme",
+      "desc": "Mischproduktionslinien nach ASME- und ATEX-Standards für hochviskose Gemische, gefährliche Reaktionen und thermodynamische Prozesse."
+    },
+    "viewModels": "Modelle erkunden",
+    "categories": [
+      {
+        "title": "Misch-Prozesstanks",
+        "desc": "Perfekte Homogenisierung mit auf Ihre Bedürfnisse zugeschnittener Schaufelgeometrie und thermodynamischen Heizungs-/Kühlungsjacketsystemen."
+      },
+      {
+        "title": "Chemische & pharmazeutische Reaktoren",
+        "desc": "Ex-Schutz-Reaktoren, die 10 Bar Druck und Vollvakuum standhalten, aus 316Ti / Hastelloy-Legierungen nach ATEX-Standards."
+      },
+      {
+        "title": "High-Shear-Homogenisatoren",
+        "desc": "Rotor-Stator-Technologie-Partikelreduzierungs-Mischsysteme für Flüssig-Flüssig- und Flüssig-Fest-Emulsionen mit hoher Drehzahl."
+      },
+      {
+        "title": "Mobile Prozesseinheiten (Skid Systems)",
+        "desc": "Kompakte Plug-and-Play-Lösungen mit Reaktor, Pumpe und Automatisierung auf einem einzigen Chassis für schnelle Installation."
+      },
+      {
+        "title": "Heizungs- & Kühlungs-Jackettanks",
+        "desc": "Edelstahl-Prozesstanks mit Roll-Bond-(Dimple) und Halbröhren-Schlangenröhren-Jacketts für hohe thermische Effizienz."
+      },
+      {
+        "title": "Fermentation & Bioreaktoren",
+        "desc": "Sterile Edelstahl-Fermentationssysteme mit präziser pH/Sauerstoffkontrolle für Biotechnologie und Lebensmittelindustrie."
+      },
+      {
+        "title": "Vollautomatische CIP-Systeme",
+        "desc": "PLC-gesteuerte Clean-in-Place-(Reinigung-an-Ort)-Einheiten, die die Hygienestandards Ihrer Anlage garantieren."
+      }
+    ],
+    "cta": {
+      "title": "Haben Sie besondere Prozessanforderungen?",
+      "desc": "Kontaktieren Sie unsere Ingenieursabteilung für Sondermaße, Hochdruck (ASME) oder ATEX-zertifizierte Gefahrenbereich-Reaktoranforderungen, die nicht in unserem Katalog aufgeführt sind.",
+      "btn": "Angebot anfordern"
+    }
+  },
+  "jacketedTanksPage": {
+    "metadata": {
+      "title": "Heizungs- & Kühlungs-Jackettanks | Welltech®",
+      "description": "Edelstahl-Heizungs-/Kühlungs-Prozesstanks mit Roll-Bond-(Dimple) und Halbröhren-Schlangenröhren-Jacketts für hohe thermische Effizienz."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "Jackettanks"
+    },
+    "hero": {
+      "title": "Heizungs- & Kühlungs-Jackettanks",
+      "desc": "Maximale thermische Effizienz für Ihre Prozesse, die präzise Temperaturregelung erfordern. Speziell isolierte Systeme mit Roll-Bond-, Halbröhren- oder Vollmantel-Technologie."
+    },
+    "technology": {
+      "title": "Thermodynamische Ingenieurskunst",
+      "desc": "Die Aufrechterhaltung der Flüssigkeit bei der richtigen Temperatur in Produktionsprozessen bestimmt direkt die Qualität des Endprodukts. Unsere Systeme sind mit speziellen Jacketts ausgelegt, durch die Dampf, heißes Öl, heißes Wasser oder Glykol/Eiswasser zirkulieren kann. Wir bevorzugen <strong>Roll-Bond-(Dimple)</strong>-Jacketts für Niederdruck-Kühlprozesse, während wir geschweißte <strong>Halbröhren-Schlangenröhren</strong>-Technologie für Heizreaktionen verwenden, die hohen Druck und Dampf erfordern.",
+      "imgAlt": "Halbröhren- und Dimple-Jackett Detail"
+    },
+    "features": {
+      "title": "Ausrüstungs- & Isolierungseigenschaften",
+      "imgAlt": "Tank-Isolierungsquerschnitt",
+      "items": [
+        "Lasergeschweißtes Dimple-Jackett",
+        "Halbröhren-Schlangenrohr",
+        "Steinwolle-Isolierung",
+        "Polyurethan-Isolierung (Kühlung)",
+        "Vollständig abgedichtetes Außenverkleidungsblech",
+        "PT100 Thermoelement-Temperatursensor"
+      ]
+    },
+    "table": {
+      "title": "Jackett-Technologie-Auswahltabelle",
+      "note": "* Unsere Ingenieure bestimmen den am besten geeigneten Jackett-Typ basierend auf Art und Druck der Heizungs-/Kühlungsflüssigkeit in Ihrer Anlage.",
+      "imgAlt": "Jackettank Technische Zeichnung",
+      "headers": [
+        "Jackett-Typ",
+        "Zweck",
+        "Fluid (Medium)",
+        "Betriebsdruck"
+      ],
+      "rows": [
+        {
+          "type": "Dimple (Roll-Bond)",
+          "purpose": "Präzise Kühlung",
+          "fluid": "Eiswasser / Glykol",
+          "pressure": "Niedrig / Mittel (2-4 Bar)",
+          "highlight": "blue"
+        },
+        {
+          "type": "Halbröhren-Schlangenrohr",
+          "purpose": "Schnelle Erwärmung",
+          "fluid": "Dampf / Heißöl",
+          "pressure": "Hoch (6-10+ Bar)",
+          "highlight": "orange"
+        },
+        {
+          "type": "Vollmantel",
+          "purpose": "Allgemeine Heizung/Kühlung",
+          "fluid": "Heißes oder kaltes Wasser",
+          "pressure": "Niedrig (1-2 Bar)",
+          "highlight": "dark"
+        },
+        {
+          "type": "Innenrohr-Schlangenrohr",
+          "purpose": "Schockerwärmung/-kühlung",
+          "fluid": "Dampf / Wasser",
+          "pressure": "Mittel / Hoch",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Heizung / Kühlung FAQ",
+      "items": [
+        {
+          "q": "Warum sollte ich bei Dampfanwendungen Halbröhren statt Dimple-Jackett verwenden?",
+          "a": "Dampf und heißes Öl haben sehr hohen Druck und Temperatur. Dimple-Jacketts haben dünne Wände und können bei hohem Druck aufblähen oder sich verformen. Halbröhren-Schlangenrohre sind mit dicken Schweißnähten um den Tankkörper gewickelt und haben daher hohe Druckfestigkeit."
+        },
+        {
+          "q": "Was passiert, wenn keine Wärmeisolierung angebracht wird?",
+          "a": "Die Energie (Wärme oder Kälte) im Tank-Jackett mischt sich in die Luft, anstatt nur an das Produkt im Inneren zu übergehen. Dies treibt Ihre Energiekosten auf ein erschreckendes Niveau und verlängert die Prozesszeit. Dichte Steinwolle-Isolierung ist für Heiztanks unerlässlich, und Polyurethan-Isolierung, die Schweißbildung verhindert, ist für Kühltanks unerlässlich."
+        },
+        {
+          "q": "Wie wird die Jackettfläche berechnet?",
+          "a": "Die Jackettfläche wird mit thermodynamischen Ingenieurformeln berechnet, basierend auf der Menge des Produkts (kg) im Tank, der spezifischen Wärme des Produkts, seiner Anfangstemperatur und wie lange (Minuten/Stunden) es benötigt, um die Zieltemperatur zu erreichen."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "Halbröhren-Jackettank"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "Dimple-Jackett Kühlung"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "Steinwolle-Isolierungsanwendung"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "Beheizte Prozesstankbatterie"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "DOK-05 PDF Dokument",
+        "desc": "Ingenieurspezifikation mit thermodynamischen Flächenberechnungen, Betriebsdrücken und Isolierungsdicken.",
+        "btn": "Dokument herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-05-doppelmanteltanks.pdf"
+      },
+      "reference": {
+        "badge": "Ausgewählte Referenz",
+        "imgAlt": "Beheizte Prozess-Projektreferenz",
+        "desc": "Dampfbeheizte, Halbröhren-Schlangenrohr- und Steinwolle-isolierte Kochbehälterbatterie in der Lebensmittelindustrie.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Thermische Berechnung",
+        "desc": "Kontaktieren Sie uns, um die erforderliche Jackettoberfläche basierend auf Ihren Prozesszielzeiten und Temperaturwerten zu berechnen.",
+        "btn": "Angebot anfordern →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20%C4%B1s%C4%B1tma%20so%C4%9Futma%20ceketli%20tanklar%20i%C3%A7in%20termodinamik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "bioreactorsPage": {
+    "metadata": {
+      "title": "Fermentations- & Bioreaktorsysteme | Welltech®",
+      "description": "Präzise pH-, Sauerstoff- und temperaturgeregelte, vollsterile (SIP) Edelstahl-Fermentationssysteme für Biotechnologie, Pharma- und Lebensmittelindustrie."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "Fermentation & Bioreaktoren"
+    },
+    "hero": {
+      "title": "Fermentation & Bioreaktoren",
+      "desc": "Perfekte Sterilisation für mikrobielle Zellkulturen und Enzymproduktion. Industrielle Bioprozesssysteme mit präziser pH-, gelöstem Sauerstoff (DO2)- und Temperaturregelung."
+    },
+    "technology": {
+      "title": "Präzise Bioprozesssteuerung",
+      "desc": "Die Aufrechterhaltung des mikrobiellen Lebens und das Erreichen der angestrebten Produktausbeute in Fermentationsprozessen hängt von der millimeterpräzisen Kontrolle der Umgebungsbedingungen ab.",
+      "imgAlt": "Bioreaktor Thermodynamik-Steuerungsdetail"
+    },
+    "features": {
+      "title": "Ausrüstungs- & Ingenieurseigenschaften",
+      "imgAlt": "Bioreaktor PLC SCADA System",
+      "items": [
+        "Ra < 0,4 µm elektropolierte Innenoberfläche",
+        "Steriles Design nach ASME BPE Standard",
+        "Automatische SIP (Sterilisation-an-Ort)",
+        "Hochmassen-Transfer-Belüftung",
+        "Vollständig isoliertes Dimple/Halbröhren-Jackett",
+        "Totraumfreie Ventilbauweise"
+      ]
+    },
+    "table": {
+      "title": "Kapazitätstabelle",
+      "note": "* Anlagenkapazitäten werden vom F&E-Maßstab bis zum industriellen Maßstab ausgelegt.",
+      "imgAlt": "Bioreaktor P&ID-Diagramm",
+      "headers": [
+        "Serie",
+        "Volumen",
+        "Druck"
+      ],
+      "rows": [
+        {
+          "series": "WT-BIO Lab",
+          "volume": "10 L - 100 L",
+          "pressure": "-1 / +3 Bar",
+          "highlight": "blue"
+        },
+        {
+          "series": "WT-BIO Pilot",
+          "volume": "200 L - 2.000 L",
+          "pressure": "-1 / +3 Bar",
+          "highlight": "blue"
+        },
+        {
+          "series": "WT-BIO Pro",
+          "volume": "5.000 L - 20.000 L",
+          "pressure": "-1 / +4 Bar",
+          "highlight": "orange"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "Sterile Bioreaktor-Montage"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "Zellkultur-Fermentationseinheit"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "Präzisions-pH-Sauerstoff-Sensorgruppe"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "Industrielle Bioprozess-Anlageninstallation"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technisches Dokument",
+        "subtitle": "DOK-15 PDF-Spezifikation",
+        "btn": "Spezifikation herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-15-bioreaktoren.pdf"
+      },
+      "reference": {
+        "badge": "Referenzanwendung",
+        "imgAlt": "Impfstoffproduktionsanlage Bioreaktor Referenz",
+        "desc": "Maßgeschneiderte 2.000 L-Kapazität Bioreaktorsysteminstallation für eine Zellkulturproduktionsanlage."
+      },
+      "cta": {
+        "title": "Projekt-Engineering",
+        "desc": "Planen Sie mit unserem technischen Team für Ihre Scale-up-Prozesse vom Labor zur industriellen Produktion.",
+        "btn": "Technische Unterstützung"
+      }
+    }
+  },
+  "homogenizersPage": {
+    "metadata": {
+      "title": "Homogenisatorsysteme | Welltech®",
+      "description": "Hochdrehzahl-(High-Shear) Rotor-Stator-Homogenisatorsysteme für Kosmetik-, Pharma- und Lebensmittelprozesse."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "Homogenisatoren"
+    },
+    "hero": {
+      "title": "Homogenisatorsysteme",
+      "desc": "Perfekte Partikelreduzierung in Flüssig-Flüssig- und Flüssig-Fest-Emulsionen. Rotor-Stator-Technologie mit hoher Scherkraft für Kosmetik-, Pharma- und fortgeschrittene Chemieprozesse."
+    },
+    "technology": {
+      "title": "Rotor- & Stator-Technologie",
+      "desc": "Gewöhnliche Mischer bewegen die Flüssigkeit nur. Homogenisatoren setzen die Flüssigkeit durch Rotorblätter, die sich in einem sehr engen Spalt (Mikronebene) drehen, und stationäre Statorblätter enormen mechanischen Scherkräften aus. Auf diese Weise werden Substanzen wie Öl und Wasser, die sich normalerweise nicht mischen, in eine perfekte Emulsion (Creme, Mayonnaise, Lotion usw.) umgewandelt und Partikel werden mikronisiert, um Sedimentation zu verhindern.",
+      "imgAlt": "Rotor- und Statorblatt-Detail"
+    },
+    "features": {
+      "title": "Kritische Ingenieurseigenschaften",
+      "imgAlt": "Hochdrehzahl-Homogenisatormotor",
+      "items": [
+        "3000 U/min Hochdrehzahlkapazität",
+        "Doppeltwirkende gekühlte Gleitringdichtung",
+        "AISI 316L Speziallegierungs-Schneidkopf",
+        "Austauschbare Statorköpfe",
+        "CIP / SIP Waschbarkeit (hygienisch)",
+        "Frequenzumrichter-gesteuerte Präzisionsdrehzahlregelung"
+      ]
+    },
+    "table": {
+      "title": "Homogenisator-Montagetypen",
+      "note": "* Ausgewählt basierend auf dem Rohrleitungssystem, Tankdesign und Produktrheologie (Fließfähigkeit) Ihrer Anlage.",
+      "imgAlt": "In-Line-Homogenisator Zeichnung",
+      "headers": [
+        "Montagetyp",
+        "Betriebsprinzip",
+        "Anwendungsbereich"
+      ],
+      "rows": [
+        {
+          "type": "Bodeneinbau",
+          "principle": "Am Tankboden montiert, Produkt wird durch Schwerkraft gespeist.",
+          "usage": "Kosmetikcremes, Mayonnaise, Lotion",
+          "highlight": "orange"
+        },
+        {
+          "type": "In-Line (Durchfluss)",
+          "principle": "Auf der Rohrleitung montiert, zirkuliert.",
+          "usage": "Großvolumige Sirupe, Milchprodukte",
+          "highlight": "blue"
+        },
+        {
+          "type": "Obereinbau (Eintauchen)",
+          "principle": "Von oben in den Tank via Aufzug oder Flansch eingetaucht.",
+          "usage": "Offene Behälter, Mobile F&E-Tanks",
+          "highlight": "dark"
+        },
+        {
+          "type": "Pulvermischer",
+          "principle": "Saugt Pulverrohstoffe von außen durch erzeugten Unterdruck.",
+          "usage": "Ruß, Milchpulver, Pektin-Auflösung",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "Bodeneinbau-Homogenisator"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "Kosmetik-Cremproduktions-Tank"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "In-Line-Durchflusssystem"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "Pulveransaug-Dispersionseinheit"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "DOK-08 PDF Dokument",
+        "desc": "Technische Spezifikation mit Rotor-Stator-Toleranzen, Gleitringdichtungs-Kühlkreislauf und Motorkw-Berechnungen.",
+        "btn": "Dokument herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-08-homogenisatoren.pdf"
+      },
+      "reference": {
+        "badge": "Ausgewählte Referenz",
+        "imgAlt": "Kosmetik-Prozess-Projektreferenz",
+        "desc": "22-kW-Bodeneinbau-Homogenisator-Cremproduktionsreaktor, der unter Vakuum für eine Luxus-Hautpflegeproduktanlage arbeitet.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Emulsionslösung",
+        "desc": "Kosmetik, Lebensmittel oder Chemie... Teilen Sie Ihr Produktrezept mit uns und wir werden das effizienteste Partikelreduzierungs-(High-Shear)-System entwerfen.",
+        "btn": "Angebot anfordern →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20homojenizat%C3%B6r%20ve%20em%C3%BClsiyon%20sistemleri%20i%C3%A7in%20kapasite%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
+      }
+    }
+  },
+  "mixingTanksPage": {
+    "metadata": {
+      "title": "Misch-Prozesstanks | Welltech®",
+      "description": "Edelstahl-Mischtanks mit maßgeschneiderten Mischerdesigns für unterschiedliche Viskositäten und frequenzumrichtergestützter Automatisierung."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "Mischtanks"
+    },
+    "hero": {
+      "title": "Misch-Prozesstanks",
+      "desc": "Fortgeschrittene Technik-Mischsysteme mit optimaler Viskositätskontrolle für Flüssig-Flüssig- oder Flüssig-Fest-Gemische, mit Frequenzumrichter-Unterstützung und verschiedenen Blatttypen."
+    },
+    "technology": {
+      "title": "Homogene Mischtechnologie",
+      "desc": "Der Erfolg eines Prozesses wird daran gemessen, wie korrekt das Gemisch homogenisiert wird. Wir entwerfen Turbinen-, Propeller-, Anker- oder Schaberblätter basierend auf der Viskosität (flüssig wie Wasser oder zähflüssig wie Honig) und Dichte Ihres Produkts. Unsere Systeme sind mit Getriebemotoren und PLC-gesteuerten Drehzahlumrichtern ausgestattet, um maximale Kontrolle in Ihrem Prozess zu bieten.",
+      "imgAlt": "Mischerblatt-Detail"
+    },
+    "features": {
+      "title": "Ausrüstung & Automatisierung",
+      "imgAlt": "Automatisierungs- und Frequenzumrichterpanel",
+      "items": [
+        "Stufenlos regelbares Frequenzumrichter-System",
+        "Teflon (PTFE) Wandschaber",
+        "Gleitringdichtungs-Abdichtung",
+        "Boden-, Ober- oder Seiteneintrag-Design",
+        "CIP und SIP Sprühkugel-Integration",
+        "AISI 316L Komplett-Edelstahlwelle"
+      ]
+    },
+    "table": {
+      "title": "Mischertyp-Auswahltabelle",
+      "note": "* Von unseren Ingenieuren basierend auf der Viskosität (cP) und Partikelstruktur des Gemisches berechnet.",
+      "imgAlt": "Misch-Prozesstank Technische Zeichnung",
+      "headers": [
+        "Blatttyp",
+        "Viskosität",
+        "Anwendungsbeispiel",
+        "Drehzahl"
+      ],
+      "rows": [
+        {
+          "type": "Propeller",
+          "viscosity": "Niedrig (wie Wasser)",
+          "usage": "Flüssige Chemikalien, Saft",
+          "speed": "Hoch (900-1400 U/min)",
+          "highlight": "blue"
+        },
+        {
+          "type": "Turbine",
+          "viscosity": "Mittel (wie Öl)",
+          "usage": "Sirup, Mineralöl, Farbe",
+          "speed": "Mittel (100-300 U/min)",
+          "highlight": "orange"
+        },
+        {
+          "type": "Anker mit Schaber",
+          "viscosity": "Hoch (wie Honig)",
+          "usage": "Kosmetikcreme, Schokolade",
+          "speed": "Niedrig (10-60 U/min)",
+          "highlight": "dark"
+        },
+        {
+          "type": "Dispersionstyp",
+          "viscosity": "Fest/Flüssig-Lösungen",
+          "usage": "Auflösung von Pulverchemikalien in Flüssigkeit",
+          "speed": "Sehr hoch (1500+ U/min)",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "Sonderdesign Ankermischer"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "Frequenzumrichter-gesteuerter Mischer"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "Lackindustrie-Dispersionstank"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "Lebensmittelindustrie-Homogenisatorbatterie"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "DOK-06 PDF Dokument",
+        "desc": "Ingenieurspezifikation mit Motorleistungsberechnungen für verschiedene Viskositäten und Gleitringdichtungs-Abdichtungsdetails.",
+        "btn": "Dokument herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-06-mischtanks.pdf"
+      },
+      "reference": {
+        "badge": "Ausgewählte Referenz",
+        "imgAlt": "Chemie-Prozess-Projektreferenz",
+        "desc": "10.000-Liter-Mischtank mit Ex-Schutz-Motor, hoher Drehmomentkapazität und Teflon-Schabern für eine Polymer-Chemieproduktionsanlage.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Viskositätsanalyse",
+        "desc": "Teilen Sie Ihre Produktviskosität (cP) und Betriebsbedingungen mit uns, und wir berechnen das am besten geeignete Mischerdesign und die Getriebeleistung.",
+        "btn": "Angebot anfordern →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20kar%C4%B1%C5%9Ft%C4%B1r%C4%B1c%C4%B1l%C4%B1%20tank%20projesi%20i%C3%A7in%20viskozite%20de%C4%9Ferlerime%20uygun%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "reactorsPage": {
+    "metadata": {
+      "title": "Chemische & pharmazeutische Reaktoren | Welltech®",
+      "description": "Ex-Schutz-Produktionsreaktoren, die 10 Bar Druck und Vollvakuum standhalten, aus 316Ti / Hastelloy-Legierungen nach ATEX-Standards."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "Chemische Reaktoren"
+    },
+    "hero": {
+      "title": "Chemische & pharmazeutische Reaktoren",
+      "desc": "Vollautomatische Schwerlast-Reaktoren, die 10 Bar Druck und Vollvakuum standhalten, aus 316Ti / Hastelloy-Legierungen nach ATEX Ex-Schutz-Standards."
+    },
+    "technology": {
+      "title": "Kritische Prozesssteuerung",
+      "desc1": "Polymerisation, Kristallisation und aggressive chemische Synthesen können nicht in Standard-Lagertanks durchgeführt werden. Welltech® Chemische Reaktoren werden nach <strong>ASME VIII Div.1</strong>-Standards entwickelt, um Produkte mit variablen Viskositäten zu homogenisieren und die Wärme endo-/exothermer Reaktionen sofort zu übertragen.",
+      "desc2": "Die als Standard angebotene <strong>Halbröhren-Schlangenrohr (Half-Pipe Jacket)</strong>-Technologie bietet im Vergleich zu herkömmlichen Jacketts 40% mehr Widerstand gegen thermische Schocks und hohen Dampfdruck.",
+      "imgAlt": "Halbröhren-Schlangenrohr und Reaktorkörper"
+    },
+    "features": {
+      "title": "Ausrüstung & Sicherheit",
+      "imgAlt": "Ex-Schutz-Motor und Reaktorausrüstung",
+      "items": [
+        "Vollvakuum und 10 Bar Druckfestigkeit",
+        "316Ti oder Hastelloy C22 Material",
+        "Gleitringdichtungs-Abdichtung",
+        "ATEX Zone 1/2 konformer Ex-Schutz-Motor",
+        "Proportional geregelte Heizung/Kühlung",
+        "100% RT und UT Schweißberichte"
+      ]
+    },
+    "table": {
+      "title": "Standard-Reaktorkapazitätstabelle",
+      "note": "* Tabellenwerte sind Referenzwerte. Welltech arbeitet mit maßgeschneiderten Ingenieursmaßen basierend auf der Deckenhöhe Ihrer Fabrik und den Installationsleitungen.",
+      "imgAlt": "Chemischer Reaktor Technische Zeichnung",
+      "headers": [
+        "Arbeitsvolumen",
+        "Auslegungsdruck",
+        "Heizungstyp",
+        "Mischertyp"
+      ],
+      "rows": [
+        {
+          "volume": "1.000 Liter",
+          "pressure": "-1 / +6 Bar",
+          "heating": "Halbröhre / Elektrisch",
+          "mixer": "Anker / Propeller",
+          "highlight": "blue"
+        },
+        {
+          "volume": "5.000 Liter",
+          "pressure": "-1 / +8 Bar",
+          "heating": "Halbröhren-Schlangenrohr",
+          "mixer": "Anker mit Schaber",
+          "highlight": "blue"
+        },
+        {
+          "volume": "10.000 Liter",
+          "pressure": "-1 / +10 Bar",
+          "heating": "Halbröhre + Inneres Schlangenrohr",
+          "mixer": "Turbine / Disperser",
+          "highlight": "orange"
+        },
+        {
+          "volume": "25.000 Liter",
+          "pressure": "-1 / +10 Bar",
+          "heating": "Halbröhren-Schlangenrohr",
+          "mixer": "Bidirektionaler Anker",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "10-Bar-Reaktorproduktion"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "Halbröhren-Schlangenrohr-Fertigung"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "ATEX Ex-Schutz-Motor-Integration"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "Petrochemische Reaktorbatterie-Installation"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "WLL-RX-01 PDF",
+        "desc": "Ingenieursdokument mit ASME-Materialkodes, Schweißdicken und Motor-kW-Berechnungen.",
+        "btn": "PDF-Spezifikation herunterladen",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/WLL-RX-01-reaktoren.pdf"
+      },
+      "reference": {
+        "badge": "Ausgewählte Referenz",
+        "imgAlt": "Petrochemischer Reaktor Projektreferenz",
+        "desc": "Polymerisationsreaktor mit 25.000 Liter Kapazität aus Hastelloy C276-Legierung, der 10 Bar Druck standhält, für eine petrochemische Anlage geliefert.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Haben Sie besondere Prozessanforderungen?",
+        "desc": "Wir entwickeln mit Hastelloy-Legierungen für Flüssigkeiten, die aggressive Korrosion verursachen, oder Viskositäten, die hohes Drehmoment erfordern.",
+        "btn": "Ingenieur konsultieren"
+      }
+    }
+  },
+  "skidSystemsPage": {
+    "metadata": {
+      "title": "Mobile Prozesseinheiten (Skid Systems) | Welltech®",
+      "description": "Kompakte Plug-and-Play-Prozesslösungen mit Reaktor, Pumpe und Automatisierung auf einem einzigen Chassis."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "Mobile Einheiten"
+    },
+    "hero": {
+      "title": "Mobile Prozesseinheiten",
+      "desc": "Plug-and-Play-Kompaktlösungen für schnelle Installation, mit Reaktor, Pumpe und Automatisierung auf einem einzigen Edelstahl-Chassis zusammengebaut."
+    },
+    "technology": {
+      "title": "Plug & Play Engineering",
+      "desc": "Verschwenden Sie keine Wochen mit Rohrleitungs-, Verkabelungs- und Automatisierungskomplexität in Ihrer Anlage. Unsere Skid-Systeme sind kompakte Systeme, bei denen Reaktor, Wärmetauscher, Transferpumpen, Ventile und PLC-Steuerungsschrank auf einem einzigen Edelstahl-Chassis in unserer Fabrik montiert und getestet werden. Wenn sie in Ihrer Anlage ankommen, können Sie noch am selben Tag mit der Produktion beginnen, indem Sie nur die Hauptstromanschlüsse und Rohstoffanschlüsse herstellen.",
+      "imgAlt": "Edelstahl-Skid-Chassis-Design"
+    },
+    "features": {
+      "title": "Kompakte Ausrüstungseigenschaften",
+      "imgAlt": "Skid PLC Automatisierungspanel",
+      "items": [
+        "AISI 304/316L Edelstahl-Tragchassis",
+        "Vollständig integrierte Rohrleitungen und Verteiler",
+        "FAT/SAT-Test-Genehmigung ab Werk",
+        "Intelligentes PLC und Touchscreen-HMI",
+        "Ex-Schutz (ATEX) Option",
+        "Schwingungsdämpfende Chassis-Füße"
+      ]
+    },
+    "table": {
+      "title": "Skid-System Anwendungsbereiche",
+      "note": "* Alle Geräte arbeiten kompatibel miteinander und sind mit einem einzigen Automatisierungspanel verbunden.",
+      "imgAlt": "Mobile Prozesseinheit Technische Zeichnung",
+      "headers": [
+        "Anwendungsbereich",
+        "Integrierte Ausrüstung",
+        "Installationstyp"
+      ],
+      "rows": [
+        {
+          "application": "Kosmetik & Pharma Sirupierung",
+          "equipment": "Reaktor + Homogenisator + Lappenpumpe",
+          "setup": "Plug & Play",
+          "highlight": "orange"
+        },
+        {
+          "application": "Chemische Dosierleitung",
+          "equipment": "Lagertank + Dosierpumpe + Durchflussmesser",
+          "setup": "Plug & Play",
+          "highlight": "blue"
+        },
+        {
+          "application": "CIP (Clean-in-Place) Einheiten",
+          "equipment": "Säure-/Laugentanks + Heizung + Kreiselpumpe",
+          "setup": "Plug & Play",
+          "highlight": "dark"
+        },
+        {
+          "application": "Mobile F&E-Stationen",
+          "equipment": "Pilot-Reaktor + Kühler + Mini-Filterpresse",
+          "setup": "Räder/Mobil",
+          "highlight": "blue"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "Kompaktes Rohrleitungsdesign"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "Pharmaindustrie Mobile Einheit"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "Integriertes Steuerungspanel"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "Plug & Play Chassis-Montage"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "DOK-09 PDF Dokument",
+        "desc": "Ingenieurspezifikation mit kompakten Chassis-Lastberechnungen, Rohrleitungsstandards und Automatisierungs-P&ID-Diagrammen.",
+        "btn": "Dokument herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-09-skid-systeme.pdf"
+      },
+      "reference": {
+        "badge": "Ausgewählte Referenz",
+        "imgAlt": "Mobile Skid-System Referenz",
+        "desc": "Mobile Sirupierungseinheit (Skid System) Projekt nach Ex-Schutz-Standards, vollautomatisch und CIP-integriert für die Pharmaindustrie.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Ihr maßgeschneidertes Skid-Projekt",
+        "desc": "Kontaktieren Sie unsere Ingenieure, um eine vollständig maßgeschneiderte mobile Einheit zu entwerfen, die auf die Platzbeschränkungen und das Prozessrezept Ihrer Anlage zugeschnitten ist.",
+        "btn": "Angebot anfordern →",
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20tesisime%20%C3%B6zel%20kompakt%20skid%20sistemi%20projelendirmesi%20ve%20fiyat%C4%B1%20almak%20istiyorum."
+      }
+    }
+  },
+  "cipSystemsPage": {
+    "metadata": {
+      "title": "Vollautomatische CIP-Systeme | Welltech®",
+      "description": "PLC-gesteuerte automatische Clean-in-Place-(Reinigung-an-Ort)-Einheiten, die Hygienestandards für Pharma-, Lebensmittel- und Chemieanlagen garantieren."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "CIP-Systeme"
+    },
+    "hero": {
+      "title": "Vollautomatische CIP-Systeme",
+      "desc": "Clean-in-Place-(Reinigung-an-Ort)-Einheiten, die die Hygienestandards Ihrer Anlage mit PLC-Steuerung und leitfähigkeitsbasierter Chemikaliendosierung garantieren."
+    },
+    "technology": {
+      "title": "Nachverfolgbare Hygienesicherung",
+      "desc": "Der einzige Weg zur Verhinderung von Kreuzkontamination in Lebensmittel-, Getränke- und Pharmaproduktionslinien sind validierbare Waschprozesse. Welltech CIP (Clean-in-Place) Systeme waschen Ihre Rohrleitungen und Tanks ohne Demontage mit hochturbulenter Strömung (min. 1,5 m/s). Die Leitfähigkeit der zurückfließenden Flüssigkeit wird in Echtzeit gemessen, und Säure- und Laugenkonzentrationen werden automatisch durch Dosierpumpen über PLC ergänzt. Wasser- und Energieeinsparungen werden maximiert.",
+      "imgAlt": "Leitfähigkeits- und Dosierungssteuerung"
+    },
+    "features": {
+      "title": "System- & Automatisierungseigenschaften",
+      "imgAlt": "Rückgewinnungssystem und Automatisierung",
+      "items": [
+        "PLC & Touchscreen-HMI-Steuerung",
+        "Unabhängige Laugen- und Säure-Dosierpumpen",
+        "Echtzeit-Leitfähigkeitsmessung",
+        "Automatische Temperaturregelung mit Wärmetauscher",
+        "EHEDG-zugelassene hygienische Kreiselpumpen",
+        "Aufzeichenbare Waschrezepte"
+      ]
+    },
+    "table": {
+      "title": "CIP-Stationsmodelle",
+      "note": "* Waschleitungen können je nach Anlagenbedarf als gleichzeitig (Multi-Line) oder Einzel-Leitungs ausgelegt werden.",
+      "imgAlt": "Modulares Design und CIP P&ID-Diagramm",
+      "headers": [
+        "Konfiguration",
+        "Tank-Inhalt",
+        "Empfohlener Sektor"
+      ],
+      "rows": [
+        {
+          "config": "Mobil / 1-Tank-CIP",
+          "tanks": "Wasser (Verlust-Waschen)",
+          "sector": "Wein, Boutique-Produktion",
+          "highlight": "dark"
+        },
+        {
+          "config": "2-Tank-CIP-System",
+          "tanks": "Lauge + Wasser",
+          "sector": "Wasser, Getränke, Leichtprozess",
+          "highlight": "blue"
+        },
+        {
+          "config": "3-Tank-CIP-System",
+          "tanks": "Lauge + Säure + Wasser",
+          "sector": "Milch, Saft, Lebensmittel",
+          "highlight": "orange"
+        },
+        {
+          "config": "4-Tank-CIP-System",
+          "tanks": "Lauge + Säure + Wasser + Rückgewinnung",
+          "sector": "Pharma, Biotechnologie, Schwerindustrie",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "CIP-Systeme FAQ",
+      "items": [
+        {
+          "q": "Wie garantieren Sie, dass die Waschflüssigkeit die ausreichende Geschwindigkeit erreicht?",
+          "a": "Für die Hygiene in Rohrleitungen ist turbulente Strömung erforderlich. Dank in das System integrierter Durchflussmesser wird die Waschfließgeschwindigkeit bei mindestens 1,5 - 2,0 m/s gehalten und über PLC überwacht."
+        },
+        {
+          "q": "Können Chemikalienlösungen wiederverwendet werden?",
+          "a": "Ja, unsere 3- und 4-Tank-CIP-Systeme haben Rückgewinnungskreisläufe. Zurückfließende Säure- und Laugenlösungen werden durch Leitfähigkeitssensoren analysiert; wenn die Konzentration sinkt, werden sie dosiert und wieder in den Tank genommen. Dies spart erhebliche Mengen an Chemikalien und Wasser."
+        },
+        {
+          "q": "Ist Berichterstattung und Validierung möglich?",
+          "a": "Alle CIP-Operationen werden im Automatisierungspanel zusammen mit Zeit-, Temperatur-, Leitfähigkeits- und Durchflussdaten aufgezeichnet. Für Audits können diese Daten über USB oder Netzwerk im PDF-Format ausgegeben werden, um vollständige Nachverfolgbarkeit zu gewährleisten."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "4-Tank automatische CIP-Einheit"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "Dosierpumpen und Verteilergruppe"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "Wärmetauscher-Integration"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "Molkerei-Anlage Multi-Leitungs-Waschen"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technisches Dokument",
+        "subtitle": "DOK-16 PDF-Spezifikation",
+        "desc": "CIP-System-Flussdiagramme, Wärmetauscher-Kapazitäten und pneumatische Ventilmatrix-Technische Details.",
+        "btn": "Spezifikation herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-16-cip-systeme.pdf"
+      },
+      "reference": {
+        "badge": "Referenzanwendung",
+        "imgAlt": "Molkerei-Anlage Waschleitung Referenz",
+        "desc": "Vollautomatisches 4-Tank-CIP-Rückgewinnungssystem mit 3 gleichzeitigen Leitungen (Multi-Line) für eine integrierte Anlage, die täglich 200 Tonnen Milch verarbeitet.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Projekt-Engineering",
+        "desc": "Kontaktieren Sie uns, um das am besten geeignete CIP-Modul für die Kapazität Ihrer Anlage und die Waschleitungslängen zu bestimmen.",
+        "btn": "Technische Unterstützung"
+      }
+    }
+  },
+  "referencesPage": {
+    "metadata": {
+      "title": "Ingenieurreferenzen & Abgeschlossene Projekte | Welltech®",
+      "description": "Industrielle Edelstahlprojekte und Feld-Ingenieurreferenzen, die erfolgreich von Welltech geliefert wurden."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "current": "Referenzen"
+    },
+    "hero": {
+      "title": "Ingenieurreferenzen",
+      "quote": "\"Wir fertigen nicht nur Tanks; wir bauen hochentwickelte Prozessanlagen, die die Weltindustrie braucht.\""
+    },
+    "labels": {
+      "capacity": "Kapazität",
+      "material": "Material",
+      "standard": "Standard",
+      "features": "Highlights"
+    },
+    "ctaBtn": "Angebot zum gleichen Standard anfordern",
+    "cta": {
+      "title": "Lassen Sie uns eine Lösung für Ihr Projekt entwickeln",
+      "desc": "Kontaktieren Sie unser Expertenteam für Ihre spezifischen Kapazitätsanforderungen und technischen Standards. Lassen Sie uns Ihre Fertigung nach globalen Standards planen.",
+      "btn": "Technische Unterstützung"
+    }
+  },
+  "selfPrimingPumpsPage": {
+    "metadata": {
+      "title": "Selbstansaugende Hygienepumpen | Welltech®",
+      "description": "Flüssigkeitsring-Selbstansaugtechnologie für Luft-Gas-Gemische, schäumende Produkte und CIP-Rücklaufleitungen."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "pumps": "Pumpen",
+      "current": "Selbstansaugende Pumpen"
+    },
+    "hero": {
+      "title": "Selbstansaugende Pumpen",
+      "desc": "Auch wenn Luft in der Saugleitung vorhanden ist, erzeugt diese Technologie Vakuum für ununterbrochenen Fluss. Die unverzichtbare Flüssigkeitsring-Transfertechnologie für CIP-Rücklaufleitungen und schäumende Flüssigkeiten."
+    },
+    "technology": {
+      "title": "Stärke bei Luft-Flüssigkeit-Gemischen",
+      "desc": "Standard-Kreiselpumpen erleiden Kavitation, wenn sich Lufttaschen in der Pipeline oder am Tankboden bilden und stoppen den Transfer. Unsere selbstansaugenden (Seitenkanal-/Flüssigkeitsring-)Pumpen erzeugen durch einen speziellen Sternflügelrad-Entwurf ein Vakuum, indem sie die Flüssigkeit im Inneren mit Luft mischen.",
+      "imgAlt": "Flüssigkeitsring-Sternflügelrad-System"
+    },
+    "features": {
+      "title": "Technische Ausrüstung & Kapazität",
+      "imgAlt": "Bidirektionaler Motor und Körper",
+      "items": [
+        "Bis zu 8 Meter Tiefensaugkapazität",
+        "AISI 316L Präzisionsguss Offenes Sternflügelrad",
+        "Gas-Enthaltende (Schäumende) Flüssigkeitskompatibilität",
+        "Ideal als CIP-Rücklaufpumpe",
+        "Reversible Option",
+        "Leicht Zerlegbares Frontklappendesign"
+      ]
+    },
+    "table": {
+      "title": "Leistungs- & Auswahlstabelle",
+      "note": "* Der Pumpenkörper muss etwas Flüssigkeit enthalten (Primierflüssigkeit). Werte für 1 cP Viskosität bestimmt.",
+      "imgAlt": "Saugkurve und Pumpenzeichnung",
+      "headers": [
+        "Serien-Nr.",
+        "Max. Durchfluss (m³/h)",
+        "Saug-/Förderhöhe (mWS)",
+        "Motorleistung (kW)"
+      ],
+      "rows": [
+        {
+          "model": "WT-SP 15",
+          "flow": "15 m³/h",
+          "head": "-7 m / 25 mWS",
+          "power": "2,2 - 3,0 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-SP 30",
+          "flow": "30 m³/h",
+          "head": "-7 m / 32 mWS",
+          "power": "4,0 - 5,5 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-SP 50",
+          "flow": "50 m³/h",
+          "head": "-8 m / 35 mWS",
+          "power": "7,5 - 11,0 kW",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-SP 70",
+          "flow": "70 m³/h",
+          "head": "-8 m / 40 mWS",
+          "power": "15,0 - 18,5 kW",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Vakuum-Transfer FAQ",
+      "items": [
+        {
+          "q": "Warum kann keine Kreiselpumpe als CIP-Rücklaufpumpe verwendet werden?",
+          "a": "Während des CIP enthält die aus dem Tank zurückkehrende Chemikalienflüssigkeit große Mengen Luft und Schaum. Die Kreiselpumpe stoppt den Fluss, wenn sie Luft sieht, und die Waschleitung wird blockiert."
+        },
+        {
+          "q": "Warum müssen wir beim Erststart (Priming) Flüssigkeit hineingeben?",
+          "a": "Damit sich der Flüssigkeitsring im Pumpenkörper bildet und die Luft im Inneren abgesaugt werden kann, muss ein Teil des Körpers von Anfang an mit Flüssigkeit gefüllt sein."
+        },
+        {
+          "q": "Kann ich Milch aus einem LKW oder Erdtank absaugen?",
+          "a": "Absolut. Auch wenn das Saugrohr 7-8 Meter tief unter der Erde ist, erzeugt die Pumpe Vakuum und saugt die Flüssigkeit hoch."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "CIP-Rücklaufpumpe Montage"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "Flüssigkeitsring-Flügelrad-Design"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "Erdtank Produktförderung"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "Milch- und Schaum-Transferleitung"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technisches Dokument",
+        "subtitle": "DOK-11 PDF-Spezifikation",
+        "desc": "Vakuum/Saugtiefe-Diagramme, Flüssigkeitsring-Flügelrad-Toleranzen und mechanische Anschlussmaße.",
+        "btn": "Kurven herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-11-selbstansaugende-pumpen.pdf"
+      },
+      "reference": {
+        "badge": "Referenzanwendung",
+        "imgAlt": "CIP-Rücklauf Automation",
+        "desc": "30 m³/h Kapazität CIP-Rücklaufpumpen integriert in schäumende Säure- und Laugenleitungen für eine große Fruchtsaftanlage.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Vakuumberechnung",
+        "desc": "Teilen Sie uns Ihre Saugtiefe und den Luftanteil in der Pipeline mit, und wir entwerfen ein System für kavitationsfreien Transport.",
+        "btn": "Angebot anfordern →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20kendinden%20emi%C5%9Fli%20ve%20CIP%20d%C3%B6n%C3%BC%C5%9F%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "diaphragmPumpsPage": {
+    "metadata": {
+      "title": "Druckluft-Membranpumpen | Welltech®",
+      "description": "Pneumatische Druckluft-Membranpumpen ohne Funkenrisiko für brennbare (ATEX) Umgebungen und aggressive Chemikalien."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "pumps": "Pumpen",
+      "current": "Druckluft-Membranpumpen"
+    },
+    "hero": {
+      "title": "Druckluft-Membranpumpen",
+      "desc": "Null elektrische Funken, volle ATEX-Konformität. Pneumatische Systeme für maximale Sicherheit bei brennbaren und aggressiven Chemikalientransfers."
+    },
+    "safety": {
+      "title": "100% Sicherheit Ohne Elektrizität",
+      "desc": "In Umgebungen mit Lösemittel, Alkohol oder brennbaren Gasemissionen kann ein winziger Funke einer elektromotorischen Pumpe eine Katastrophe verursachen. Pneumatische Membranpumpen beziehen ihre Energie aus dem Druckluft des Fabrik-Kompressors. Da keine elektrische Verbindung besteht, bieten sie 100% Ex-Proof (ATEX) Schutz.",
+      "imgAlt": "Pneumatisches Luftventil Detail"
+    },
+    "features": {
+      "title": "Kritische Ingenieurseigenschaften",
+      "imgAlt": "ATEX-Schutz und Erdung",
+      "items": [
+        "Trockenlauf Ohne Schaden",
+        "ATEX (Ex-Proof) Zonenkonformität",
+        "Feststoffpartikel und Viskose Materialtransfer",
+        "PTFE (Teflon) und Santoprene Membran",
+        "Einfache Durchflusseinstellung mit Luftdruck",
+        "Dichtungsfreies Design"
+      ]
+    },
+    "table": {
+      "title": "Membranpumpen-Kapazitätstabelle",
+      "note": "* Die Leistung pneumatischer Pumpen hängt direkt vom Luftdruck (Bar) des Kompressors in Ihrer Anlage ab. Daten mit 7 Bar Luftversorgung berechnet.",
+      "imgAlt": "Membranpumpe Leistungskurve",
+      "headers": [
+        "Anschlussgröße",
+        "Max. Durchfluss (L/min)",
+        "Max. Luftdruck",
+        "Feststoffpartikelgröße"
+      ],
+      "rows": [
+        {
+          "size": "1/2\" Zoll",
+          "flow": "50 L/min",
+          "pressure": "7 Bar",
+          "particle": "3 mm",
+          "highlight": "blue"
+        },
+        {
+          "size": "1\" Zoll",
+          "flow": "160 L/min",
+          "pressure": "7 Bar",
+          "particle": "4 mm",
+          "highlight": "blue"
+        },
+        {
+          "size": "1,5\" Zoll",
+          "flow": "350 L/min",
+          "pressure": "7 Bar",
+          "particle": "6 mm",
+          "highlight": "orange"
+        },
+        {
+          "size": "2\" Zoll",
+          "flow": "600 L/min",
+          "pressure": "7 Bar",
+          "particle": "8 mm",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pneumatischer Transfer FAQ",
+      "items": [
+        {
+          "q": "Beschädigt Trockenlauf die Pumpe?",
+          "a": "Nein. Im Gegensatz zu Kreisel- und Lappenpumpen erhitzen sich pneumatische Membranpumpen nicht und brechen nicht zusammen, auch wenn sie stundenlang trocken (ohne Flüssigkeit) laufen, da keine mechanische Reibung vorhanden ist."
+        },
+        {
+          "q": "Wie kann ich den Durchfluss einstellen?",
+          "a": "Während teure Frequenzumrichter für Elektromotorpumpen benötigt werden, reicht es bei Membranpumpen, das Luftventil vom Kompressor zu drosseln oder zu öffnen."
+        },
+        {
+          "q": "Wie wählen wir das Membranmaterial aus?",
+          "a": "PTFE (Teflon) mit ausgezeichneter chemischer Beständigkeit für aggressive Säuren und Lösemittel; Santoprene oder NBR mit flexibler Struktur für Lebensmittelanwendungen."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "ATEX Chemietransferpumpe"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "PTFE-Membrangruppe"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "Lebensmittelsektor Hygienische AODD"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "Luftpumpen-Batterie"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technisches Dokument",
+        "subtitle": "DOK-13 PDF-Spezifikation",
+        "desc": "ATEX-Zertifizierungsdokumente, Membranchemikalien-Widerstandstabelle und Druck/Luftverbrauchskurven.",
+        "btn": "Dokument herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-13-druckluftmembranpumpen.pdf"
+      },
+      "reference": {
+        "badge": "Referenzanwendung",
+        "imgAlt": "Chemikalien ATEX Linie Referenz",
+        "desc": "ATEX-Transferstation mit PTFE-Membran von Reaktoren zu 50-Tonnen-Lagertanks in einer Chemikalienproduktionsanlage.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Pneumatisches Engineering",
+        "desc": "Geben Sie Ihre Kompressorkapazität und die zu übertragende Flüssigkeit an, und wir berechnen das richtige Membranmaterial und die Größe.",
+        "btn": "Angebot anfordern →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20havalı%20diyafram%20pompası%20hakkında%20kimyasal%20uyumluluk%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
+      }
+    }
+  },
+  "monopompPumpsPage": {
+    "metadata": {
+      "title": "Monopumpen (Exzenterschneckenpumpen) | Welltech®",
+      "description": "Rotor-Stator-Monopumpen für pulsationsfreien und kontinuierlichen Transfer von hochviskosen, Schlamm-, Honig- und abrasive Partikel enthaltenden Flüssigkeiten."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "pumps": "Pumpen",
+      "current": "Monopumpen"
+    },
+    "hero": {
+      "title": "Monopumpen",
+      "desc": "Für die schwierigsten Flüssigkeiten konzipiert. Mit Exzenterschnecken-Prinzip (Rotor-Stator) für nullvibrationsfreien, kontinuierlichen Fluss bei hochviskosen, abrasiven und feststoffhaltigen Produkten."
+    },
+    "technology": {
+      "title": "Pulsationsfreier und Kontinuierlicher Transfer",
+      "desc": "Monopumpen (Exzenterschneckenpumpen) funktionieren nach dem Prinzip, dass ein spiralförmiger Edelstahlrotor in einem elastomeren (Gummi-)Stator rotiert. Diese einzigartige Geometrie erzeugt kontinuierlich geschlossene Hohlräume in der Flüssigkeit und drückt das Fluid unter Druck vorwärts.",
+      "imgAlt": "Monopumpe Rotor und Stator Detail"
+    },
+    "features": {
+      "title": "Überlegene Mechanische Eigenschaften",
+      "imgAlt": "Elastomer-Stator und Rotor",
+      "items": [
+        "Low-Shear-Technologie",
+        "Feststoffpartikel und Schlamm Transfer",
+        "NBR, EPDM, FKM, PTFE Stator Optionen",
+        "Präzise Proportionale Dosierkapazität",
+        "12-24 Bar Hochdruckwiderstand",
+        "Zellenschonender Fluss für Früchte und Lebensmittel"
+      ]
+    },
+    "table": {
+      "title": "Monopumpen-Kapazitätstabelle",
+      "note": "* Werte für durchschnittliche Viskositätsflüssigkeiten berechnet (bis 12 Bar max Druck). Durchfluss variiert je nach Getriebedrehzahl.",
+      "imgAlt": "Monopumpe Druck- und Kapazitätskurve",
+      "headers": [
+        "Serien-Nr.",
+        "Max. Durchfluss (m³/h)",
+        "Max. Druck",
+        "Anschlussgröße"
+      ],
+      "rows": [
+        {
+          "model": "WT-M 05",
+          "flow": "5 m³/h",
+          "pressure": "12 Bar",
+          "connection": "2\" Zoll",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-M 10",
+          "flow": "10 m³/h",
+          "pressure": "12 Bar",
+          "connection": "2,5\" Zoll",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-M 20",
+          "flow": "20 m³/h",
+          "pressure": "12 Bar",
+          "connection": "3\" Zoll",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-M 40",
+          "flow": "40 m³/h",
+          "pressure": "12 Bar",
+          "connection": "4\" Zoll",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Exzenterschneckenpumpe FAQ",
+      "items": [
+        {
+          "q": "Können Monopumpen trocken laufen?",
+          "a": "Nein. Da der Stator meist aus elastomerem (Gummi usw.) Material besteht, erhitzt sich der Edelstahlrotor, wenn keine Flüssigkeit (Schmiermittel) durchfließt, übermäßig und verbrennt den Stator."
+        },
+        {
+          "q": "Kann es Produkte mit Feststoffpartikeln oder Kernen pumpen?",
+          "a": "Absolut. Das ist die größte Stärke der Monopumpen. Produkte mit Partikeln und Fasern wie Klärschlamm, Fruchtpürees mit Kernen oder Olivenpaste werden ohne Verstopfung übertragen."
+        },
+        {
+          "q": "Wie wählen wir das Statormaterial aus?",
+          "a": "Für Lebensmittel wie Milch und Honig: FDA-konformes weißes NBR oder EPDM; für abrasive aggressive Säuren und Chemikalien: FKM (Viton) oder PTFE (Teflon) Stator."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Beispielanwendungen",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJEKT 01",
+          "alt": "Lebensmittelgerechte Monopumpe"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJEKT 02",
+          "alt": "Klärschlammpumpe"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJEKT 03",
+          "alt": "Rotor und Stator Detail"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJEKT 04",
+          "alt": "Getriebebetriebene Monopumpengruppe"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technisches Dokument",
+        "subtitle": "DOK-11 PDF-Spezifikation",
+        "desc": "Monopumpen-Getriebedrehzahlverhältnisse, Stator-Chemikalien-Widerstandstabelle und Druck/Durchfluss-Messkurven.",
+        "btn": "Kurven herunterladen (PDF)",
+        "fileUrl": "/assets/documents/de/technische-spezifikationen/DOK-11-exzenterschneckenpumpen.pdf"
+      },
+      "reference": {
+        "badge": "Ausgewählte Referenz",
+        "imgAlt": "Schwerlast-Schlammpumpe Referenz",
+        "desc": "Schwerlast-Monopumpenbatterie mit FKM-Stator, 12 Bar Druckwiderstand für 20%-Dichte Aktivschlamm in Abwasserbehandlungsanlage.",
+        "link": "Alle Referenzen anzeigen"
+      },
+      "cta": {
+        "title": "Monopumpenauswahl",
+        "desc": "Geben Sie die Viskosität (cP) Ihres Fluids und die Partikeldichte an, und wir bestimmen das optimale Rotor-Stator-Paar.",
+        "btn": "Ingenieursunterstützung →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20yüksek%20viskoziteli%20ürün%20transferi%20için%20monopomp%20fiyatı%20almak%20istiyorum."
+      }
+    }
+  }
+}

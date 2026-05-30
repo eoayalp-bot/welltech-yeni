@@ -4,7 +4,7 @@ import '../globals.css';
 import Navbar from '../../components/Navbar';
 import Footer from '../../components/Footer';
 import CookieBanner from '../../components/CookieBanner';
-import { getDictionary } from '../../dictionaries/getDictionary'; 
+import { getDictionary } from '../../dictionaries/getDictionary';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -18,25 +18,48 @@ const montserrat = Montserrat({
   display: 'swap',
 });
 
-export const metadata: Metadata = {
-  title: {
-    template: '%s | Welltech®',
-    default: 'Welltech® | Global Proses ve Paslanmaz Tank Sistemleri',
-  },
-  description: 'Uluslararası standartlarda paslanmaz çelik endüstriyel tanklar, hijyenik pompalar ve proses ekipmanları üreticisi. Gıda, ilaç ve kimya endüstrileri için sıfır hata prensibiyle çalışan global mühendislik çözümleri.',
-  keywords: ['paslanmaz tank', 'proses sistemleri', 'hijyenik pompalar', 'endüstriyel tanklar', 'welltech', 'reaktör', 'anahtar teslim fabrika'],
-  robots: {
-    index: true,
-    follow: true,
-    googleBot: {
+const locales = ['tr', 'en', 'de', 'es', 'ru', 'fr', 'ar', 'pt', 'it'];
+const baseUrl = 'https://www.welltech.com.tr';
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ lang: string }>;
+}): Promise<Metadata> {
+  const resolvedParams = await params;
+  const lang = resolvedParams.lang;
+  const dict = await getDictionary(lang);
+
+  const alternates: Record<string, string> = {};
+  locales.forEach((locale) => {
+    alternates[locale] = `${baseUrl}/${locale}`;
+  });
+  alternates['x-default'] = `${baseUrl}/tr`;
+
+  return {
+    title: {
+      template: '%s | Welltech®',
+      default: dict.metadata.default_title,
+    },
+    description: dict.metadata.default_desc,
+    keywords: dict.metadata.keywords,
+    robots: {
       index: true,
       follow: true,
-      'max-video-preview': -1,
-      'max-image-preview': 'large',
-      'max-snippet': -1,
+      googleBot: {
+        index: true,
+        follow: true,
+        'max-video-preview': -1,
+        'max-image-preview': 'large',
+        'max-snippet': -1,
+      },
     },
-  },
-};
+    alternates: {
+      canonical: `${baseUrl}/${lang}`,
+      languages: alternates,
+    },
+  };
+}
 
 export default async function RootLayout({
   children,
@@ -47,12 +70,11 @@ export default async function RootLayout({
 }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  
   const dict = await getDictionary(lang);
 
   return (
     <html lang={lang} className="scroll-smooth" suppressHydrationWarning>
-      <body 
+      <body
         className={`${inter.variable} ${montserrat.variable} font-sans antialiased text-gray-900 bg-white flex flex-col min-h-screen selection:bg-[#E35205] selection:text-white`}
         suppressHydrationWarning
       >
@@ -61,7 +83,8 @@ export default async function RootLayout({
           {children}
         </main>
         <Footer lang={lang} dict={dict} />
-        <div id="welltech-ai-chatbot-root" data-langs="tr,en,ar,ru,de,es,pt,fr,ur" aria-hidden="true"></div>
+        {/* Chatbot dilleri dinamik hale getirildi (ur çıkarıldı, it dahil edildi) */}
+        <div id="welltech-ai-chatbot-root" data-langs={locales.join(',')} aria-hidden="true"></div>
         <CookieBanner lang={lang} />
       </body>
     </html>
