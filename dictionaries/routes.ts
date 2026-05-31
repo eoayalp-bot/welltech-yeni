@@ -1,5 +1,5 @@
-export const routeDictionary: Record<string, Record<string, string>> = {
 
+export const routeDictionary: Record<string, Record<string, string>> = {
   "paslanmaz-tanklar": {
     tr: "paslanmaz-tanklar", en: "stainless-tanks", de: "edelstahl-tanks",
     fr: "reservoirs-inox", es: "tanques-inoxidables", pt: "tanques-inox",
@@ -87,35 +87,15 @@ export const routeDictionary: Record<string, Record<string, string>> = {
     fr: "bioreacteurs-fermentation", es: "biorreactores-fermentacion", pt: "biorreatores-fermentacao",
     it: "bioreattori-fermentazione", ru: "fermentatsionnyye-bioreaktory", ar: "muaekilat-altakhmir"
   },
-  "homojenizator": {
-    tr: "homojenizator", en: "homogenizers", de: "homogenisatoren",
-    fr: "homogeneisateurs", es: "homogeneizadores", pt: "homogeneizadores",
-    it: "omogeneizzatori", ru: "gomogenizatory", ar: "ajhizat-altajnis"
-  },
   "homojenizatorler": {
     tr: "homojenizatorler", en: "homogenizers", de: "homogenisatoren",
     fr: "homogeneisateurs", es: "homogeneizadores", pt: "homogeneizadores",
     it: "omogeneizzatori", ru: "gomogenizatory", ar: "ajhizat-altajnis"
   },
-  "cip-sistemleri": {
-    tr: "cip-sistemleri", en: "cip-systems", de: "cip-systeme",
-    fr: "systemes-cip", es: "sistemas-cip", pt: "sistemas-cip",
-    it: "sistemi-cip", ru: "cip-sistemy", ar: "nuzum-cip"
-  },
   "mobil-uniteler": {
     tr: "mobil-uniteler", en: "mobile-systems", de: "mobile-einheiten",
     fr: "unites-mobiles", es: "unidades-moviles", pt: "unidades-moveis",
     it: "unita-mobili", ru: "mobilnyye-sistemy", ar: "wahdat-mutanaqila"
-  },
-  "mobil": {
-    tr: "mobil", en: "mobile-systems", de: "mobile-einheiten",
-    fr: "unites-mobiles", es: "unidades-moviles", pt: "unidades-moveis",
-    it: "unita-mobili", ru: "mobilnyye-sistemy", ar: "wahdat-mutanaqila"
-  },
-  "reaktor": {
-    tr: "reaktor", en: "reactors", de: "reaktoren",
-    fr: "reacteurs", es: "reactores", pt: "reatores",
-    it: "reattori", ru: "reaktory", ar: "muaekilat"
   },
   "tam-otomatik-cip": {
     tr: "tam-otomatik-cip", en: "fully-automatic-cip", de: "vollautomatisches-cip",
@@ -128,18 +108,8 @@ export const routeDictionary: Record<string, Record<string, string>> = {
     fr: "pompes-centrifuges", es: "bombas-centrifugas", pt: "bombas-centrifugas",
     it: "pompe-centrifughe", ru: "tsentrobezhnyye-nasosy", ar: "madadat-altajreef"
   },
-  "santrifuj": {
-    tr: "santrifuj", en: "centrifugal-pumps", de: "kreiselpumpen",
-    fr: "pompes-centrifuges", es: "bombas-centrifugas", pt: "bombas-centrifugas",
-    it: "pompe-centrifughe", ru: "tsentrobezhnyye-nasosy", ar: "madadat-altajreef"
-  },
   "pozitif-deplasmanli-pompalar": {
     tr: "pozitif-deplasmanli-pompalar", en: "positive-displacement-pumps", de: "verdraengerpumpen",
-    fr: "pompes-a-deplacement-positif", es: "bombas-de-desplazamiento-positivo", pt: "bombas-de-deslocamento-positivo",
-    it: "pompe-a-spostamento-positivo", ru: "nasosy-obyomnogo-deystviya", ar: "madadat-alizahat-alaijabiya"
-  },
-  "pozitif-deplasmanli": {
-    tr: "pozitif-deplasmanli", en: "positive-displacement-pumps", de: "verdraengerpumpen",
     fr: "pompes-a-deplacement-positif", es: "bombas-de-desplazamiento-positivo", pt: "bombas-de-deslocamento-positivo",
     it: "pompe-a-spostamento-positivo", ru: "nasosy-obyomnogo-deystviya", ar: "madadat-alizahat-alaijabiya"
   },
@@ -148,18 +118,8 @@ export const routeDictionary: Record<string, Record<string, string>> = {
     fr: "pompes-a-membrane-pneumatiques", es: "bombas-de-diafragma-neumaticas", pt: "bombas-de-diafragma-pneumaticas",
     it: "pompe-a-diaframma-pneumatiche", ru: "pnevmaticheskie-membrannyye-nasosy", ar: "madadat-alhijab-alhawai"
   },
-  "havali-diyafram": {
-    tr: "havali-diyafram", en: "air-diaphragm-pumps", de: "druckluft-membranpumpen",
-    fr: "pompes-a-membrane-pneumatiques", es: "bombas-de-diafragma-neumaticas", pt: "bombas-de-diafragma-pneumaticas",
-    it: "pompe-a-diaframma-pneumatiche", ru: "pnevmaticheskie-membrannyye-nasosy", ar: "madadat-alhijab-alhawai"
-  },
   "monopomp-pompalar": {
     tr: "monopomp-pompalar", en: "monopumps", de: "monopumpen",
-    fr: "monopompes", es: "monobombas", pt: "monobombas",
-    it: "monopompe", ru: "mononisosy", ar: "madadat-wahidiya"
-  },
-  "monopomp_pompalar": {
-    tr: "monopomp_pompalar", en: "monopumps", de: "monopumpen",
     fr: "monopompes", es: "monobombas", pt: "monobombas",
     it: "monopompe", ru: "mononisosy", ar: "madadat-wahidiya"
   },
@@ -168,23 +128,8 @@ export const routeDictionary: Record<string, Record<string, string>> = {
     fr: "pompes-a-fut", es: "bombas-de-barril", pt: "bombas-de-tambor",
     it: "pompe-a-fusto", ru: "bochkovyye-nasosy", ar: "madadat-albarmil"
   },
-  "varil-pompalari": {
-    tr: "varil-pompalari", en: "drum-pumps", de: "fasspumpen",
-    fr: "pompes-a-fut", es: "bombas-de-barril", pt: "bombas-de-tambor",
-    it: "pompe-a-fusto", ru: "bochkovyye-nasosy", ar: "madadat-albarmil"
-  },
-  "varil": {
-    tr: "varil", en: "drum-pumps", de: "fasspumpen",
-    fr: "pompes-a-fut", es: "bombas-de-barril", pt: "bombas-de-tambor",
-    it: "pompe-a-fusto", ru: "bochkovyye-nasosy", ar: "madadat-albarmil"
-  },
   "kendinden-emisli-pompalar": {
     tr: "kendinden-emisli-pompalar", en: "self-priming-pumps", de: "selbstansaugende-pumpen",
-    fr: "pompes-auto-amorcantes", es: "bombas-autocebantes", pt: "bombas-autoaspirantes",
-    it: "pompe-autoaspiranti", ru: "samovsasyvayushchiye-nasosy", ar: "madadat-dhatiyt-alsahb"
-  },
-  "kendinden-emisli": {
-    tr: "kendinden-emisli", en: "self-priming-pumps", de: "selbstansaugende-pumpen",
     fr: "pompes-auto-amorcantes", es: "bombas-autocebantes", pt: "bombas-autoaspirantes",
     it: "pompe-autoaspiranti", ru: "samovsasyvayushchiye-nasosy", ar: "madadat-dhatiyt-alsahb"
   },

@@ -1,3 +1,5 @@
+// app/[lang]/blog/page.tsx
+
 import Link from 'next/link';
 import Image from 'next/image';
 import { ChevronRight, Calendar, ArrowRight, Tag, Newspaper, Send, FileText, Clock, User } from 'lucide-react';
@@ -19,6 +21,9 @@ export default async function BlogPage({ params }: { params: Promise<{ lang: str
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
   const dict = await getDictionary(lang);
+
+  // 🚨 İŞTE SİHRİN OLDUĞU YER: Sadece aktif dilin (örneğin 'en') makalelerini çekiyoruz!
+  const currentLanguagePosts = blogPosts[lang as keyof typeof blogPosts] || blogPosts['tr'];
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -87,7 +92,8 @@ export default async function BlogPage({ params }: { params: Promise<{ lang: str
           
           <div className="lg:col-span-8 space-y-8">
             <div className="grid grid-cols-1 gap-8">
-              {blogPosts.map((post, index) => (
+              {/* 🚨 blogPosts yerine currentLanguagePosts kullanıyoruz! */}
+              {currentLanguagePosts.map((post, index) => (
                 <article key={index} className="bg-white rounded-xl shadow-lg border border-gray-100 overflow-hidden group hover:shadow-2xl hover:border-[#005284] transition-all duration-300">
                   <div className="flex flex-col md:flex-row">
                     

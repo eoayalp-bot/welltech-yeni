@@ -1,3 +1,4 @@
+
 import Link from 'next/link';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
@@ -7,14 +8,19 @@ import { getDictionary } from '../../../../dictionaries/getDictionary';
 import { getLocalizedUrl } from '../../../../dictionaries/routes';
 
 export async function generateStaticParams() {
-  return blogPosts.map((post) => ({
-    slug: post.slug,
-  }));
+  const params: { lang: string; slug: string }[] = [];
+  Object.keys(blogPosts).forEach((language) => {
+    blogPosts[language].forEach((post) => {
+      params.push({ lang: language, slug: post.slug });
+    });
+  });
+  return params;
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string, slug: string }> }) {
   const resolvedParams = await params;
-  const post = blogPosts.find((p) => p.slug === resolvedParams.slug);
+  const currentLanguagePosts = blogPosts[resolvedParams.lang as keyof typeof blogPosts] || blogPosts['tr'];
+  const post = currentLanguagePosts.find((p) => p.slug === resolvedParams.slug);
   const dict = await getDictionary(resolvedParams.lang);
   
   if (!post) {
@@ -32,7 +38,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
   const lang = resolvedParams.lang;
   const slug = resolvedParams.slug;
 
-  const post = blogPosts.find((p) => p.slug === slug);
+  const currentLanguagePosts = blogPosts[lang as keyof typeof blogPosts] || blogPosts['tr'];
+  const post = currentLanguagePosts.find((p) => p.slug === slug);
 
   if (!post) {
     notFound();
@@ -65,7 +72,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       
-      {/* MAKALENİN DEVASA KAPAK GÖRSELİ */}
       <section className="relative h-[65vh] min-h-[500px] flex flex-col justify-end pb-24 px-6 overflow-hidden">
         <div className="absolute inset-0 z-0">
           {post.image ? (
@@ -122,7 +128,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
                   {post.excerpt}
                 </p>
 
-                {/* MAKALE İÇERİĞİ - BEYAZ BOŞLUKLARI KORUYARAK RENDER EDİYORUZ */}
                 <div className="leading-loose text-gray-700 whitespace-pre-wrap text-base md:text-lg font-light">
                   {post.content}
                 </div>

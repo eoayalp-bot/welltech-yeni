@@ -1479,7 +1479,7 @@
         "title": "Thermal Calculation",
         "desc": "Contact us to calculate the required jacket surface area based on your process target time and temperature values.",
         "btn": "Request a Quote →",
-        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20%C4%B1s%C4%B1tma%20so%C4%9Futma%20ceketli%20tanklar%20i%C3%A7in%20termodinamik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+        "whatsappUrl": "https://wa.me/905324125152?text=Hello%2C%20I%20would%20like%20to%20get%20a%20thermodynamic%20calculation%20and%20quote%20for%20heating/cooling%20jacketed%20tanks."
       }
     }
   },
@@ -1579,7 +1579,8 @@
       "reference": {
         "badge": "Reference Application",
         "imgAlt": "Vaccine Production Facility Bioreactor Reference",
-        "desc": "Custom 2,000 L capacity bioreactor line installation for a cell culture production facility."
+        "desc": "Custom 2,000 L capacity bioreactor line installation for a cell culture production facility.",
+        "link": "View All References"
       },
       "cta": {
         "title": "Project Engineering",
@@ -1698,7 +1699,7 @@
         "title": "Emulsion Solution",
         "desc": "Cosmetics, food or chemistry... Share your product recipe with us and we will design the most efficient particle reduction (high-shear) system.",
         "btn": "Request a Quote →",
-        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20homojenizat%C3%B6r%20ve%20em%C3%BClsiyon%20sistemleri%20i%C3%A7in%20kapasite%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20homojenizat%C3%B6r%20ve%20em%C3%BClsiyon%20sistemleri%20i%C3%A7in%20kapasite%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
       }
     }
   },
@@ -1817,7 +1818,7 @@
         "title": "Viscosity Analysis",
         "desc": "Share your product viscosity (cP) and operating conditions with us, and we will calculate the most suitable mixer design and gearbox power.",
         "btn": "Request a Quote →",
-        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20kar%C4%B1%C5%9Ft%C4%B1r%C4%B1c%C4%B1l%C4%B1%20tank%20projesi%20i%C3%A7in%20viskozite%20de%C4%9Ferlerime%20uygun%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20kar%C4%B1%C5%9Ft%C4%B1r%C4%B1c%C4%B1l%C4%B1%20tank%20projesi%20i%C3%A7in%20viskozite%20de%C4%9Ferlerime%20uygun%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
       }
     }
   },
@@ -2050,7 +2051,7 @@
         "title": "Your Custom Skid Project",
         "desc": "Contact our engineers to design a completely custom mobile unit tailored to your facility's space constraints and process recipe.",
         "btn": "Request a Quote →",
-        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20tesisime%20%C3%B6zel%20kompakt%20skid%20sistemi%20projelendirmesi%20ve%20fiyat%C4%B1%20almak%20istiyorum."
+        "whatsappUrl": "https://wa.me/905324125152?text=Hello%2C%20I%20would%20like%20to%20get%20a%20quote%20and%20engineering%20plan%20for%20a%20custom%20compact%20skid%20system%20for%20my%20facility."
       }
     }
   },
