@@ -172,8 +172,10 @@ export default async function BioreactorsPage({ params }: { params: Promise<{ la
                   <Image src="/assets/images/proses-sistemleri/fermantasyon-biyoreaktorler/referans.webp" alt={t.sidebar.reference.imgAlt} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 33vw" />
                 </div>
                 <p className="text-[10px] text-gray-500 line-clamp-2 mt-2">{t.sidebar.reference.desc}</p>
+                <Link href={getLocalizedUrl('referanslar', lang)} className="text-[10px] font-bold tracking-widest text-[#005284] border-b-2 border-transparent hover:border-[#E35205] pb-0.5 transition-all inline-block mt-2">
+                   {t.sidebar.reference.link}
+                    </Link>
               </div>
-
               <div className="bg-gray-900 p-6 rounded-xl shadow-lg text-white">
                 <h4 className="font-bold text-lg mb-2 flex items-center gap-2">
                   <Settings className="w-5 h-5 text-[#E35205]" />
