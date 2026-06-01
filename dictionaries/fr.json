@@ -511,7 +511,7 @@
     },
     "corrosion": {
       "title": "Contrôle de la Corrosion Agressive",
-      "desc": "Acide sulfurique, acide nitrique, caustique ou solvants explosifs... Les fluides dans l'industrie chimique peuvent faire fondre l'acier ordinaire en quelques jours. Welltech® applique les normes API 650 et EN 14015 et utilise AISI 316L, AISI 316Ti ou Hastelloy."
+      "desc": "Acide sulfurique, acide nitrique, caustique ou solvants explosivos... Les fluides dans l'industrie chimique peuvent faire fondre l'acier ordinaire en quelques jours. Welltech® applique les normes API 650 et EN 14015 et utilise AISI 316L, AISI 316Ti ou Hastelloy."
     },
     "features": {
       "title": "Sécurité et Équipement",
@@ -1431,7 +1431,7 @@
         },
         {
           "q": "Que se passe-t-il si l'isolation thermique n'est pas appliquée?",
-          "a": "L'énergie (chaleur ou froid) dans la chemise du réservoir se mélange à l'air plutôt que de passer uniquement au produit intérieur. Cela pousse vos coûts énergétiques à des niveaux terrifiants et prolonge le temps de processus."
+          "a": "L'énergie (chaleur ou froid) dans la chemise du réservoir se mélange à l'air plutôt que de passer uniquement au produit intérieur. Cela pousse vos coûts énergétiques à des niveaux terrifiants et prolonge le temps de processus. Dense rockwool insulation is essential for heating tanks, and polyurethane insulation that prevents sweating is essential for cooling tanks."
         },
         {
           "q": "Comment la surface de la chemise est-elle calculée?",
@@ -1652,7 +1652,7 @@
         },
         {
           "type": "Mélangeur à Poudre",
-          "principle": "Aspire les matières premières en poudre de l'extérieur par vide créé.",
+          "principle": "Aspira matières premières en poudre de l'extérieur par vide créé.",
           "usage": "Noir de carbone, Lait en poudre, Dissolution de pectine",
           "highlight": "blue"
         }

@@ -238,7 +238,7 @@
     },
     "global": {
       "title": "İzmir'den 6 Kıta'ya...",
-      "desc": "Türkiye'deki üretim üssümüzden, 6 kıtada 30'dan fazla ülkeye uluslararası (ASME & PED) standartlarında mühendislik çözümleri fışkırtıyoruz. Her teslimat, global güvenin bir eseridir."
+      "desc": "Türkiye'medeki üretim üssümüzden, 6 kıtada 30'dan fazla ülkeye uluslararası (ASME & PED) standartlarında mühendislik çözümleri fışkırtıyoruz. Her teslimat, global güvenin bir eseridir."
     },
     "cards": {
       "mission": {
@@ -757,27 +757,6 @@
         "btn": "Teklif İsteyin →"
       }
     }
-  },
-  "footer": {
-    "description": "Uluslararası standartlarda paslanmaz çelik endüstriyel tanklar, hijyenik pompalar ve proses ekipmanları üreticisi.",
-    "products": "Ürünler",
-    "locations": "Lokasyonlar",
-    "hq_title": "Genel Merkez",
-    "factory_title": "İmalathane",
-    "copyright": "Tüm Hakları Saklıdır."
-  },
-  "metadata": {
-    "default_title": "Welltech® | Global Proses ve Paslanmaz Tank Sistemleri",
-    "default_desc": "Uluslararası standartlarda paslanmaz çelik endüstriyel tanklar, hijyenik pompalar ve proses ekipmanları üreticisi. Gıda, ilaç ve kimya endüstrileri için sıfır hata prensibiyle çalışan global mühendislik çözümleri.",
-    "keywords": [
-      "paslanmaz tank",
-      "proses sistemleri",
-      "hijyenik pompalar",
-      "endüstriyel tanklar",
-      "welltech",
-      "reaktör",
-      "anahtar teslim fabrika"
-    ]
   },
   "stainlessTanksPage": {
     "metadata": {
@@ -1840,7 +1819,7 @@
         },
         {
           "q": "Ceket alanı nasıl hesaplanıyor?",
-          "a": "Ceket alanı, tankın içindeki ürünün miktarına (kg), ürünün özgül ısısına, ilk sıcaklığına ve hedeflenen sıcaklığa ne kadar sürede (dakika/saat) ulaşması gerektiğine göre termodinamik mühendislik formülleriyle hesaplanır."
+          "a": "Ceket alanı, tankın içindeki ürünın miktarına (kg), ürünün özgül ısısına, ilk sıcaklığına ve hedeflenen sıcaklığa ne kadar sürede (dakika/saat) ulaşması gerektiğine göre termodinamik mühendislik formülleriyle hesaplanır."
         }
       ]
     },
@@ -1887,7 +1866,7 @@
         "title": "Termal Hesaplama",
         "desc": "Prosesinizin hedeflenen süre ve sıcaklık değerlerine göre gereken ceket yüzey alanını hesaplamamız için bize ulaşın.",
         "btn": "Teklif İsteyin →",
-        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba%2C%20%C4%B1s%C4%B1tma%20so%C4%9Futma%20ceketli%20tanklar%20i%C3%A7in%20termodinamik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba%2C%20%C4%B1s%C4%B1tma%20so%C4%9Futma%20ceketli%20tanklar%20i%C3%A7in%20termodinamik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
       }
     }
   },
@@ -1989,11 +1968,6 @@
         "imgAlt": "Aşı Üretim Tesisi Biyoreaktör Referansı",
         "desc": "Hücre kültürü üretimi yapan tesise özel; 2.000 L kapasiteli biyoreaktör hattı kurulumu.",
         "link": "Tüm Referansları Gör"
-      },
-      "cta": {
-        "title": "Proje Mühendisliği",
-        "desc": "Laboratuvar ölçeğinden endüstriyel üretime geçiş süreçleriniz için teknik ekibimizle planlayın.",
-        "btn": "Teknik Destek Alın"
       }
     }
   },
@@ -2107,7 +2081,7 @@
         "title": "Emülsiyon Çözümü",
         "desc": "Kozmetik, gıda veya kimya... Ürün reçetenizi bizimle paylaşın, en verimli partikül parçalama (high-shear) sistemini tasarlayalım.",
         "btn": "Teklif İsteyin →",
-        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba%2C%20homojenizat%C3%B6r%20ve%20em%C3%BClsiyon%20sistemleri%20i%C3%A7in%20kapasite%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba%2C%20homojenizat%C3%B6r%20ve%20em%C3%BClsiyon%20sistemleri%20i%C3%A7in%20kapasite%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
       }
     }
   },
@@ -2226,7 +2200,7 @@
         "title": "Viskozite Analizi",
         "desc": "Ürününüzün viskozitesini (cP) ve çalışma şartlarını bizimle paylaşın, en uygun mikser dizaynını ve redüktör gücünü hesaplayalım.",
         "btn": "Teklif İsteyin →",
-        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba%2C%20kar%C4%B1%C5%9Ft%C4%B1r%C4%B1c%C4%B1l%C4%B1%20tank%20projesi%20i%C3%A7in%20viskozite%20de%C4%9Ferlerime%20uygun%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+        "whatsappUrl": "https://wa.me/905322830628?text=Merhaba%2C%20kar%C4%B1%C5%9Ft%C4%B1r%C4%B1c%C4%B1l%C4%B1%20tank%20projesi%20i%C3%A7in%20viskozite%20de%C4%9Ferlerime%20uygun%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
       }
     }
   },
@@ -2617,6 +2591,278 @@
       "title": "Sizin Projeniz İçin Mühendislik Çözümü Üretelim",
       "desc": "Spesifik kapasite ihtiyaçlarınız ve teknik standartlarınız için uzman kadromuzla iletişime geçin. Global standartlarda imalat planlamanızı yapalım.",
       "btn": "Teknik Destek Alın"
+    }
+  },
+  "selfPrimingPumpsPage": {
+    "metadata": {
+      "title": "Kendinden Emişli Hijyenik Pompalar | Welltech®",
+      "description": "Hava ve gaz karışımlı sıvıların, köpüklü ürünlerin ve CIP dönüş hatlarının transferi için sıvı halkalı kendinden emişli paslanmaz pompalar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Kendinden Emişli Pompalar"
+    },
+    "hero": {
+      "title": "Kendinden Emişli Pompalar",
+      "desc": "Emme hattında hava olsa dahi vakum yaratarak akışı kesintiye uğratmayan, CIP dönüş hatlarının ve köpüklü sıvıların vazgeçilmez sıvı halkalı transfer teknolojisi."
+    },
+    "technology": {
+      "title": "Hava ve Sıvı Karışımında Güç",
+      "desc": "Standart santrifüj pompalar, boru hattında veya tankın dibinde hava boşluğu oluştuğunda kavitasyona uğrar ve transferi durdurur. Kendinden emişli (Yan Kanallı / Sıvı Halkalı) pompalarımız, özel yıldız fan (impeller) dizaynı sayesinde içerdeki sıvı ile havayı karıştırarak bir vakum oluşturur. Hatta hava olsa dahi emiş yapabilen bu teknoloji; özellikle tanktan kamyona ürün çekerken, peynir altı suyu gibi köpüklü ürünlerde ve CIP yıkama sıvılarının sisteme geri dönüşünde (CIP Return) kullanılır.",
+      "imgAlt": "Sıvı Halkalı Yıldız Fan Sistemi"
+    },
+    "features": {
+      "title": "Teknik Donanım ve Kapasite",
+      "imgAlt": "Çift Yönlü Motor ve Gövde",
+      "items": [
+        "8 Metreye Kadar Derin Emiş Kapasitesi",
+        "AISI 316L Hassas Döküm Açık Yıldız Fan",
+        "Köpüklü (Gaz İçeren) Akışkan Uyumu",
+        "CIP Dönüş (Return) Pompası Olarak İdeal",
+        "İki Yönlü (Reversible) Çalışabilme Seçeneği",
+        "Kolay Sökülebilir Ön Kapak Tasarımı"
+      ]
+    },
+    "table": {
+      "title": "Performans ve Seçim Tablosu",
+      "note": "* Pompanın emiş yapabilmesi için pompa gövdesinde bir miktar sıvı bulunması gerekir (priming liquid). Tablodaki değerler 1 cP viskoziteye göre hidrolik mühendislerimizce belirlenmiştir.",
+      "imgAlt": "Emiş Eğrisi ve Pompa Çizimi",
+      "headers": [
+        "Seri No",
+        "Maks. Debi (m³/h)",
+        "Emiş / Basma (mSS)",
+        "Motor Gücü (kW)"
+      ],
+      "rows": [
+        {
+          "model": "WT-SP 15",
+          "flow": "15 m³/h",
+          "head": "-7 m / 25 mSS",
+          "power": "2.2 - 3.0 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-SP 30",
+          "flow": "30 m³/h",
+          "head": "-7 m / 32 mSS",
+          "power": "4.0 - 5.5 kW",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-SP 50",
+          "flow": "50 m³/h",
+          "head": "-8 m / 35 mSS",
+          "power": "7.5 - 11.0 kW",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-SP 70",
+          "flow": "70 m³/h",
+          "head": "-8 m / 40 mSS",
+          "power": "15.0 - 18.5 kW",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Vakum Transfer FAQ",
+      "items": [
+        {
+          "q": "CIP Return (Yıkama Dönüş) pompası olarak neden santrifüj kullanılamaz?",
+          "a": "CIP işlemi sırasında tanktan dönen kimyasal sıvının içinde yoğun miktarda hava ve köpük bulunur. Santrifüj pompa havayı görünce akışı keser ve yıkama hattı tıkanır. Kendinden emişli pompa sıvı-hava karışımını yutarak sisteme basabilir."
+        },
+        {
+          "q": "İlk çalıştırmada (Priming) neden içine sıvı koymak zorundayız?",
+          "a": "Pompa gövdesinde sıvı halkası oluşabilmesi ve içerdeki havayı vakumlayarak atabilmesi için gövdenin bir kısmının baştan sıvı ile dolu olması gerekmektedir."
+        },
+        {
+          "q": "Kamyondan veya yer altı tankından süt çekebilir miyim?",
+          "a": "Kesinlikle. Emme borusu yerin 7-8 metre altında dahi olsa, pompa vakum yaratarak sıvıyı yukarı çeker ve ana tanklara basar. Yüzeyüstü transferlerde kurtarıcıdır."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "CIP Dönüş Pompası Montajı"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "Sıvı Halkalı Fan Tasarımı"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Yer Altı Tankından Ürün Çekme"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Süt ve Köpük Transfer Hattı"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Doküman",
+        "subtitle": "DOK-11 PDF Şartname",
+        "desc": "Vakum / emiş derinlik grafikleri, sıvı halkalı fan toleransları ve mekanik bağlantı ölçüleri.",
+        "btn": "Eğrileri İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-kendinden-emisli-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Referans Uygulama",
+        "imgAlt": "CIP Return Otomasyonu",
+        "desc": "Büyük ölçekli meyve suyu tesisi için köpüklü asit ve kostik dönüş hatlarına entegre edilmiş 30 m³/h kapasiteli CIP dönüş pompaları.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Vakum Hesabı",
+        "desc": "Emme derinliğinizi (eksi kot) ve boru hattındaki hava oranını iletin, ürününüzü kavitasyonsuz taşıyacak sistemi projelendirelim.",
+        "btn": "Teklif İsteyin →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20kendinden%20emi%C5%9Fli%20ve%20CIP%20d%C3%B6n%C3%BC%C5%9F%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+      }
+    }
+  },
+  "monopompPumpsPage": {
+    "metadata": {
+      "title": "Monopomp (Eksantrik Vidalı) Pompalar | Welltech®",
+      "description": "Yüksek viskoziteli, çamur, bal ve aşındırıcı partiküllü akışkanlar için darbesiz ve kesintisiz transfer sağlayan rotor-stator monopomp sistemleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Monopomp Pompalar"
+    },
+    "hero": {
+      "title": "Monopomp Pompalar",
+      "desc": "Sıvıların en zorlusu için tasarlandı. Eksantrik vidalı (Rotor-Stator) çalışma prensibi ile yüksek viskoziteli, aşındırıcı ve katı partiküllü ürünlerde sıfır titreşimli, sürekli akış."
+    },
+    "technology": {
+      "title": "Darbesiz ve Sürekli Transfer",
+      "desc": "Monopomplar (Eksantrik Vidalı Pompalar), helezonik paslanmaz çelik bir rotorun, elastomerik (kauçuk) bir stator içinde dönmesi prensibiyle çalışır. Bu eşsiz geometri, sıvı içinde sürekli kapalı boşluklar (kaviteler) yaratarak akışkanı basınçla ileri iter. Su gibi akışkanlardan; hamur, bal, arıtma çamuru, meyve püresi, tutkal ve reçine gibi viskozitesi 1.000.000 cP'ye kadar olan ürünlerin transferinde hiçbir dalgalanma (pulsasyon) yapmadan kusursuz ve sabit debili bir akış sağlar.",
+      "imgAlt": "Monopomp Rotor ve Stator Detayı"
+    },
+    "features": {
+      "title": "Üstün Mekanik Özellikler",
+      "imgAlt": "Elastomer Stator ve Rotor",
+      "items": [
+        "Düşük Sürtünme (Low Shear) Teknolojisi",
+        "Katı Partiküllü ve Çamur Transferi",
+        "NBR, EPDM, FKM, PTFE Stator Opsiyonu",
+        "Hassas Oransal Dozajlama Kabiliyeti",
+        "12-24 Bar Yüksek Basınç Dayanımı",
+        "Meyve ve Gıda Hücrelerini Ezmeyen Akış"
+      ]
+    },
+    "table": {
+      "title": "Monopomp Kapasite Tablosu",
+      "note": "* Tablodaki değerler ortalama viskoziteli akışkanlar referans alınarak (12 Bar maks. basınca kadar) hesaplanmıştır. Redüktör devrine göre debi değişkenlik gösterir.",
+      "imgAlt": "Monopomp Basınç ve Kapasite Eğrisi",
+      "headers": [
+        "Seri No",
+        "Maks. Debi (m³/h)",
+        "Maks. Basınç",
+        "Bağlantı Çapı"
+      ],
+      "rows": [
+        {
+          "model": "WT-M 05",
+          "flow": "5 m³/h",
+          "pressure": "12 Bar",
+          "connection": "2\" İnç",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-M 10",
+          "flow": "10 m³/h",
+          "pressure": "12 Bar",
+          "connection": "2.5\" İnç",
+          "highlight": "blue"
+        },
+        {
+          "model": "WT-M 20",
+          "flow": "20 m³/h",
+          "pressure": "12 Bar",
+          "connection": "3\" İnç",
+          "highlight": "orange"
+        },
+        {
+          "model": "WT-M 40",
+          "flow": "40 m³/h",
+          "pressure": "12 Bar",
+          "connection": "4\" İnç",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Eksantrik Vidalı Pompa FAQ",
+      "items": [
+        {
+          "q": "Monopomplar susuz (kuru) çalışabilir mi?",
+          "a": "Hayır. Stator kısmı genellikle elastomer (kauçuk vb.) malzemeden üretildiği için, içerisinden akışkan (kaydırıcı) geçmediği durumlarda paslanmaz rotor statora sürtünerek aşırı ısınır ve statorun yanmasına sebep olur. Sistem mutlaka kuru çalışma koruma sensörleri ile donatılmalıdır."
+        },
+        {
+          "q": "Katı partiküllü veya çekirdekli ürünleri basabilir mi?",
+          "a": "Kesinlikle. Monopompların en büyük gücü budur. Arıtma çamurları, çekirdekli meyve püreleri veya zeytin hamuru gibi partikül ve elyaf içeren ürünleri, rotor/stator boşluk geometrisi sayesinde tıkanmadan ve yapısını ezmeden transfer eder."
+        },
+        {
+          "q": "Stator malzemesini neye göre seçiyoruz?",
+          "a": "Akışkanınızın kimyasal yapısına ve sıcaklığına göre. Süt ve bal gibi gıdalar için FDA uyumlu beyaz NBR veya EPDM; aşındırıcı agresif asit ve kimyasallar için ise FKM (Viton) veya PTFE (Teflon) stator tercih edilmektedir."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Örnek Uygulamalarımız",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "PROJE 01",
+          "alt": "Gıda Uyumlu Monopomp"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "PROJE 02",
+          "alt": "Arıtma Çamuru Pompası"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "PROJE 03",
+          "alt": "Rotor ve Stator Detayı"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "PROJE 04",
+          "alt": "Redüktörlü Monopomp Grubu"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Doküman",
+        "subtitle": "DOK-11 PDF Şartname",
+        "desc": "Monopomp redüktör devir oranları, stator kimyasal dayanım tablosu ve basınç/debi ölçüm eğrileri.",
+        "btn": "Eğrileri İndir (PDF)",
+        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-monopomp-pompalar.pdf"
+      },
+      "reference": {
+        "badge": "Öne Çıkan Referans",
+        "imgAlt": "Ağır Hizmet Çamur Pompası Referansı",
+        "desc": "Atıksu arıtma tesisinde %20 yoğunluklu aktif çamur transferi için FKM statorlu, 12 Bar basınca dayanıklı ağır hizmet tipi monopomp bataryası.",
+        "link": "Tüm Referansları Gör"
+      },
+      "cta": {
+        "title": "Monopomp Seçimi",
+        "desc": "Akışkanınızın vizkozitesini (cP) ve partikül yoğunluğunu belirtin, en uygun rotor-stator ikilisini belirleyelim.",
+        "btn": "Mühendislik Desteği →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20y%C3%BCksek%20viskoziteli%20%C3%BCr%C3%BCn%20transferi%20i%C3%A7in%20monopomp%20fiyat%C4%B1%20almak%20istiyorum."
+      }
     }
   }
 }

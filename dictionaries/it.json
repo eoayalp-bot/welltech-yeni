@@ -76,7 +76,7 @@
         },
         {
           "title": "Reattori Chimici Heavy-Duty",
-          "desc": "Tolleranza zero contro la corrosione aggressiva, alta pressione e vuoto completo. Sicurezza in lega di titanio secondo gli standard API 650 e ATEX.",
+          "desc": "Toleranza zero contro la corrosione aggressiva, alta pressione e vuoto completo. Sicurezza in lega di titanio secondo gli standard API 650 e ATEX.",
           "image": "/assets/images/ana-sayfa/hizmet-mobil.webp",
           "link": "proses-sistemleri/kimyasal-reaktorler"
         },
@@ -525,7 +525,7 @@
       "note": "* A seconda della densità del prodotto chimico, lo spessore della parete aumenta notevolmente.",
       "headers": {
         "volume": "Volume",
-        "diameter": "Diamètre (mm)",
+        "diameter": "Diametro (mm)",
         "height": "Altezza (mm)",
         "thickness": "Spessore Min."
       },
@@ -739,7 +739,7 @@
     },
     "engineering": {
       "title": "Stoccaggio Meraviglia dell'Ingegneria",
-      "desc": "I più grandi nemici nello stoccaggio dell'olio d'oliva sono l'aria (ossigeno) e la luce. I serbatoi Welltech® sono dotati di raccordi speciali per evacuare l'aria e pompare gas azoto al suo posto. Questa tecnologia riduce l'ossidazione a zero. Da piccoli impianti boutique a mega impianti da 150 tonnellate, produciamo serbatoi a fondo conico o piatto."
+      "desc": "I più grandi nemici nello stoccaggio dell'olio d'oliva sono l'aria (ossigeno) e la light. I serbatoi Welltech® sono dotati di raccordi speciali per evacuare l'aria e pompare gas azoto al suo posto. Questa tecnologia riduce l'ossidazione a zero. Da piccoli impianti boutique a mega impianti da 150 tonnellate, produciamo serbatoi a fondo conico o piatto."
     },
     "features": {
       "title": "Specifiche Tecniche",
@@ -2599,7 +2599,7 @@
       "doc": {
         "title": "Documento Tecnico",
         "subtitle": "DOK-11 Specifiche PDF",
-        "desc": "Rapporti di velocità riduttore monopompa, tabella resistenza chimica statore e curve misurazione pressione/portata.",
+        "desc": "Rapporti di velocità riduttore monopompe, tabella resistenza chimica statore e curve misurazione pressione/portata.",
         "btn": "Scarica Curve (PDF)",
         "fileUrl": "/assets/documents/it/specifiche-tecniche/DOC-11-pompe-monovite.pdf"
       },
