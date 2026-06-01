@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image'; // Vercel/Next.js performanslı görsel bileşeni eklendi
 import { Activity, ShieldCheck, Mail, MapPin, Database } from 'lucide-react';
 import { routeDictionary } from '../dictionaries/routes';
 
@@ -23,6 +24,27 @@ export default function Footer({ lang, dict }: { lang: string; dict: any }) {
           <p className="text-sm text-gray-500 leading-relaxed">
             {dict.footer.description}
           </p>
+
+          {/* İnokstek Alt Marka Entegrasyonu */}
+          <div className="pt-5 mt-2 border-t border-gray-800/80">
+            <span className="block text-[10px] text-gray-500 tracking-widest uppercase mb-2 font-bold">
+              {lang === 'tr' ? 'BİR İNOKSTEK KURULUŞUDUR' : 'A BRAND OF INOKSTEK'}
+            </span>
+            <a 
+              href="https://www.inokstek.com" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="inline-block opacity-60 hover:opacity-100 hover:scale-105 transition-all duration-300"
+            >
+              <Image 
+                src="/assets/images/logo-inoktek.svg" 
+                alt="İnokstek Corporate" 
+                width={140} 
+                height={40} 
+                className="h-8 w-auto"
+              />
+            </a>
+          </div>
         </div>
 
         <div className="space-y-4">
@@ -57,7 +79,7 @@ export default function Footer({ lang, dict }: { lang: string; dict: any }) {
               <MapPin className="w-5 h-5 text-[#E35205] shrink-0" />
               <div>
                 <strong className="text-white block mb-1">{dict.footer.hq_title}:</strong>
-                <span>Kemalpaşa OSB Mah. 509 Sok. No: 15<br />Kemalpaşa / İZMİR / TÜRKİYE</span>
+                <span>Organize Sanayi Bölgesi, Kemalpaşa OSB, 10. Sk. No:6, 35730<br />Kemalpaşa / İZMİR / TÜRKİYE</span>
               </div>
             </li>
             <li className="flex items-start gap-3">
