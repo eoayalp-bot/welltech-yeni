@@ -864,135 +864,135 @@
   },
   "positivePumpsPage": {
     "metadata": {
-      "title": "Positive Displacement & Lobe Pumps | Welltech®",
-      "description": "Hygienic lobe pumps for transfer of high-viscosity products such as honey, chocolate, tomato paste and cosmetics without crushing."
+      "title": "Объёмные насосы и кулачковые насосы | Welltech®",
+      "description": "Гигиенические кулачковые насосы для перекачки высоковязких продуктов — мёда, шоколада, томатной пасты и косметики без дробления."
     },
     "breadcrumb": {
       "home": "Главная",
       "pumps": "Насосы",
-      "current": "Positive Displacement Pumps"
+      "current": "Объёмные насосы"
     },
     "hero": {
-      "title": "Positive Displacement Pumps",
-      "desc": "Hygienic lobe pump systems that transfer high-viscosity fluids such as honey, chocolate, tomato paste and cosmetics without crushing or damaging their cellular structure."
+      "title": "Объёмные насосы",
+      "desc": "Гигиенические кулачковые насосные системы, перекачивающие высоковязкие жидкости — мёд, шоколад, томатную пасту и косметику — без дробления и повреждения клеточной структуры."
     },
     "technology": {
-      "title": "Precise & Gentle Transfer",
-      "desc": "The high-speed impellers of centrifugal pumps damage dense products like honey or chocolate. Our positive displacement (lobe) pumps transport the fluid in large chambers through stainless steel lobes rotating at very low speeds without contact. The cellular integrity (particle, consistency) of the product is never compromised. Even the densest products up to 100,000 cP viscosity can be pumped at constant high pressure.",
-      "imgAlt": "Lobe Rotor System Detail"
+      "title": "Точная и щадящая перекачка",
+      "desc": "Высокоскоростные рабочие колёса центробежных насосов повреждают плотные продукты — мёд и шоколад. Наши объёмные (кулачковые) насосы транспортируют жидкость в больших камерах через лопасти из нержавеющей стали, вращающиеся на очень низкой скорости без контакта. Клеточная целостность продукта никогда не нарушается. Даже самые густые продукты с вязкостью до 100 000 сП перекачиваются при постоянном высоком давлении.",
+      "imgAlt": "Деталь системы роторных кулачков"
     },
     "features": {
-      "title": "Technical Engineering Features",
-      "imgAlt": "Gearbox Motor Connection",
+      "title": "Технические характеристики",
+      "imgAlt": "Подключение мотора-редуктора",
       "items": [
-        "Low-RPM Transfer",
-        "AISI 316L Food-Grade Body and Lobes",
-        "Gearbox & Inverter for Variable Flow Rates",
-        "Heating Jacket Front Cover Option for Chocolate",
-        "Double-Acting Carbon Mechanical Seal",
-        "Reversible (Bi-Directional) Flow"
+        "Перекачка на низких оборотах (Low-RPM)",
+        "Корпус и кулачки AISI 316L пищевого класса",
+        "Редуктор и инвертор для переменных расходов",
+        "Опция передней крышки с нагревательной рубашкой для шоколада",
+        "Двойное механическое уплотнение из углерода",
+        "Реверсивный (двунаправленный) поток"
       ]
     },
     "table": {
-      "title": "Lobe Pump Capacity Table",
-      "note": "* As viscosity increases, the pump speed must be reduced. Gearbox selection is calculated by our engineers based on the specific product to be transferred (tomato paste, honey, glucose, etc.).",
-      "imgAlt": "Lobe Pump Technical Drawing",
+      "title": "Таблица производительности кулачковых насосов",
+      "note": "* По мере увеличения вязкости скорость насоса должна снижаться. Выбор редуктора рассчитывается нашими инженерами исходя из конкретного перекачиваемого продукта.",
+      "imgAlt": "Технический чертёж кулачкового насоса",
       "headers": [
-        "Series No",
-        "Max. Flow (m³/h)",
-        "Max. Pressure (Bar)",
-        "Connection Diameter"
+        "Серийный №",
+        "Макс. расход (м³/ч)",
+        "Макс. давление (Бар)",
+        "Диаметр подключения"
       ],
       "rows": [
         {
           "model": "WT-L 20",
-          "flow": "3 - 5 m³/h",
-          "pressure": "5 - 10 Bar",
-          "connection": "DN 40 / 1.5\"",
+          "flow": "3 - 5 м³/ч",
+          "pressure": "5 - 10 Бар",
+          "connection": "DN 40 / 1,5\"",
           "highlight": "blue"
         },
         {
           "model": "WT-L 40",
-          "flow": "8 - 12 m³/h",
-          "pressure": "5 - 10 Bar",
-          "connection": "DN 50 / 2.0\"",
+          "flow": "8 - 12 м³/ч",
+          "pressure": "5 - 10 Бар",
+          "connection": "DN 50 / 2,0\"",
           "highlight": "blue"
         },
         {
           "model": "WT-L 80",
-          "flow": "18 - 25 m³/h",
-          "pressure": "5 - 12 Bar",
-          "connection": "DN 65 / 2.5\"",
+          "flow": "18 - 25 м³/ч",
+          "pressure": "5 - 12 Бар",
+          "connection": "DN 65 / 2,5\"",
           "highlight": "orange"
         },
         {
           "model": "WT-L 150",
-          "flow": "30 - 45 m³/h",
-          "pressure": "5 - 12 Bar",
-          "connection": "DN 100 / 4.0\"",
+          "flow": "30 - 45 м³/ч",
+          "pressure": "5 - 12 Бар",
+          "connection": "DN 100 / 4,0\"",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Positive Displacement FAQ",
+      "title": "FAQ по объёмным насосам",
       "items": [
         {
-          "q": "Are lobe pumps suitable for CIP (Clean-in-Place) cleaning?",
-          "a": "Yes, as they are designed to meet food and pharmaceutical industry standards (EHEDG and 3A), they can be cleaned excellently with hot water and caustic through the pipeline."
+          "q": "Подходят ли кулачковые насосы для CIP-очистки?",
+          "a": "Да, разработанные в соответствии со стандартами пищевой и фармацевтической промышленности (EHEDG и 3A), они превосходно очищаются горячей водой и каустической содой через трубопровод."
         },
         {
-          "q": "How do you prevent freezing during chocolate transfer?",
-          "a": "Chocolate and vegetable oils tend to solidify at room temperature. By adding a jacket option to the front cover of our lobe pumps and circulating hot water through it, we guarantee that the product remains liquid."
+          "q": "Как предотвратить застывание при перекачке шоколада?",
+          "a": "Шоколад и растительные масла склонны застывать при комнатной температуре. Добавив к передней крышке наших кулачковых насосов опцию рубашки и пропустив горячую воду, мы гарантируем, что продукт остаётся жидким."
         },
         {
-          "q": "Why can't centrifugal pumps handle honey?",
-          "a": "The impellers of centrifugal pumps rotate at high speed. When a high-viscosity fluid like honey hits the impeller, it creates great resistance that can burn the motor or damage the molecular structure (crystallization) of the product. Lobe pumps overcome this density with low RPM and high torque."
+          "q": "Почему центробежные насосы не справляются с мёдом?",
+          "a": "Рабочие колёса центробежных насосов вращаются на высокой скорости. Когда высоковязкая жидкость, подобная мёду, ударяет в колесо, это создаёт большое сопротивление, которое может сжечь мотор или повредить молекулярную структуру продукта. Кулачковые насосы преодолевают эту плотность при низкой скорости и высоком крутящем моменте."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "Hygienic Lobe Pump"
+          "alt": "Гигиенический кулачковый насос"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "Honey Transfer Line"
+          "alt": "Линия перекачки мёда"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "Chocolate Pump with Jacketed Cover"
+          "alt": "Насос для шоколада с крышкой с рубашкой"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "Gearbox and Motor Group"
+          "alt": "Группа редуктора и мотора"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-11 PDF Specification",
-        "desc": "Lobe pump viscosity/speed diagrams, jacketed cover dimensions and gearbox power selection table.",
+        "title": "Технический документ",
+        "subtitle": "DOK-11 PDF-спецификация",
+        "desc": "Диаграммы вязкость/скорость кулачковых насосов, размеры крышки с рубашкой и таблица выбора мощности редуктора.",
         "btn": "Скачать диаграммы (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-loblu-pompalar.pdf"
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/DOK-11-kulachkovye-nasosy.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "Cosmetic Transfer Line Reference",
-        "desc": "Speed-controlled (inverter-driven), double-lobe, 316L hygienic displacement pump integration for a facility producing body lotions and creams.",
+        "badge": "Эталонное применение",
+        "imgAlt": "Эталон косметической линии перекачки",
+        "desc": "Интеграция двухкулачкового гигиенического объёмного насоса 316L с регулируемой скоростью для предприятия, производящего лосьоны и кремы.",
         "link": "Все ссылки"
       },
       "cta": {
-        "title": "Torque & Power Calculation",
-        "desc": "Tell us the type and density (cP) of the product you will transfer, and we will select the most suitable gearbox-driven lobe pump.",
+        "title": "Расчёт крутящего момента и мощности",
+        "desc": "Сообщите нам тип и плотность (сП) перекачиваемого продукта, и мы подберём наиболее подходящий кулачковый насос.",
         "btn": "Запросить предложение →",
         "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20y%C3%BCksek%20viskoziteli%20%C3%BCr%C3%BCn%C3%BCm%20i%C3%A7in%20loblu%20pompa%20kapasite%20hesaplamas%C4%B1%20ve%20fiyat%20almak%20istiyorum."
       }
@@ -1000,135 +1000,135 @@
   },
   "centrifugalPumpsPage": {
     "metadata": {
-      "title": "Hygienic Centrifugal Pumps | Welltech®",
-      "description": "High-flow, CIP-compatible, stainless steel hygienic centrifugal pumps for milk, water, juice and olive oil transfer."
+      "title": "Гигиенические центробежные насосы | Welltech®",
+      "description": "Высокопроизводительные центробежные насосы из нержавеющей стали, совместимые с CIP, для перекачки молока, воды, сока и оливкового масла."
     },
     "breadcrumb": {
       "home": "Главная",
       "pumps": "Насосы",
-      "current": "Centrifugal Pumps"
+      "current": "Центробежные насосы"
     },
     "hero": {
-      "title": "Hygienic Centrifugal Pumps",
-      "desc": "Maximum flow rate and hydrodynamic efficiency for low-viscosity fluids. Transfer systems fully compliant with CIP standards for milk, olive oil and beverage processes."
+      "title": "Гигиенические центробежные насосы",
+      "desc": "Максимальная производительность и гидродинамическая эффективность для маловязких жидкостей. Системы перекачки, полностью соответствующие стандартам CIP для молочных, оливково-масличных и напиточных процессов."
     },
     "technology": {
-      "title": "High Flow, Continuous Transfer",
-      "desc": "Centrifugal pumps pressurize the fluid using the centrifugal force generated by the rotation of the motor-driven impeller. It is the most ideal, long-lasting and low-cost solution for transferring low-viscosity (1-500 cP) products such as milk, juice, wine, olive oil and liquid chemicals. Offered with optimized motor powers based on your facility's pipe diameter, desired flow rate and discharge head (mWC).",
-      "imgAlt": "Hydrodynamic Impeller System"
+      "title": "Высокий расход, непрерывная перекачка",
+      "desc": "Центробежные насосы создают давление в жидкости с помощью центробежной силы, возникающей при вращении рабочего колеса, приводимого в движение двигателем. Это наиболее идеальное, долговечное и экономичное решение для перекачки маловязких (1-500 сП) продуктов — молока, сока, вина, оливкового масла и жидких химикатов.",
+      "imgAlt": "Гидродинамическая система рабочего колеса"
     },
     "features": {
-      "title": "Equipment & Material Features",
-      "imgAlt": "Stainless Steel Motor Enclosure",
+      "title": "Характеристики оборудования и материалов",
+      "imgAlt": "Корпус двигателя из нержавеющей стали",
       "items": [
-        "AISI 316L Precision Cast Body",
-        "Open and Closed Impeller Options",
-        "SiC/SiC/EPDM Mechanical Seal",
-        "Full Compatibility with CIP and SIP Systems",
-        "Stainless Steel Motor Enclosure",
-        "Low NPSH (Cavitation Protection)"
+        "Корпус из прецизионного литья AISI 316L",
+        "Варианты открытого и закрытого рабочего колеса",
+        "Механическое уплотнение SiC/SiC/EPDM",
+        "Полная совместимость с системами CIP и SIP",
+        "Корпус двигателя из нержавеющей стали",
+        "Низкий NPSH (защита от кавитации)"
       ]
     },
     "table": {
-      "title": "Centrifugal Pump Capacity Table",
-      "note": "* Values in the table are referenced to water (1 cP) viscosity. Our hydraulic engineers will select the correct motor based on the number of elbows and discharge head in your line.",
-      "imgAlt": "Pump Performance Curve",
+      "title": "Таблица производительности центробежных насосов",
+      "note": "* Значения в таблице основаны на вязкости воды (1 сП). Наши гидравлические инженеры подберут правильный двигатель исходя из количества колен и напора в вашей линии.",
+      "imgAlt": "Кривая производительности насоса",
       "headers": [
-        "Series No",
-        "Max. Flow (m³/h)",
-        "Discharge Head (mWC)",
-        "Motor Power (kW)"
+        "Серийный №",
+        "Макс. расход (м³/ч)",
+        "Напор (м вод. ст.)",
+        "Мощность двигателя (кВт)"
       ],
       "rows": [
         {
           "model": "WT-C 20",
-          "flow": "20 m³/h",
-          "head": "25 mWC",
-          "power": "1.5 - 2.2 kW",
+          "flow": "20 м³/ч",
+          "head": "25 м вод. ст.",
+          "power": "1,5 - 2,2 кВт",
           "highlight": "blue"
         },
         {
           "model": "WT-C 40",
-          "flow": "40 m³/h",
-          "head": "35 mWC",
-          "power": "3.0 - 4.0 kW",
+          "flow": "40 м³/ч",
+          "head": "35 м вод. ст.",
+          "power": "3,0 - 4,0 кВт",
           "highlight": "blue"
         },
         {
           "model": "WT-C 80",
-          "flow": "80 m³/h",
-          "head": "45 mWC",
-          "power": "5.5 - 7.5 kW",
+          "flow": "80 м³/ч",
+          "head": "45 м вод. ст.",
+          "power": "5,5 - 7,5 кВт",
           "highlight": "orange"
         },
         {
           "model": "WT-C 150",
-          "flow": "150 m³/h",
-          "head": "60 mWC",
-          "power": "11.0 - 15.0 kW",
+          "flow": "150 м³/ч",
+          "head": "60 м вод. ст.",
+          "power": "11,0 - 15,0 кВт",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Centrifugal Pump FAQ",
+      "title": "FAQ по центробежным насосам",
       "items": [
         {
-          "q": "What is the difference between open and closed impellers?",
-          "a": "For fully liquid products like milk and water, a closed impeller is used to achieve maximum pressure (mWC). However, for fluids containing small particles such as pulpy juice or grape must, an open impeller is preferred to prevent clogging."
+          "q": "В чём разница между открытым и закрытым рабочим колесом?",
+          "a": "Для полностью жидких продуктов, таких как молоко и вода, используется закрытое колесо для достижения максимального давления. Для жидкостей с мелкими частицами, например сока с мякотью, предпочтительно открытое колесо во избежание засоров."
         },
         {
-          "q": "What does pump cavitation mean?",
-          "a": "When there is insufficient liquid on the pump suction line or the pipe diameter is too narrow, the boiling point of the fluid drops and air bubbles form. These bubbles erode the metal when they hit the impeller blades. Our engineers eliminate this risk by selecting pumps with low NPSH values."
+          "q": "Что означает кавитация насоса?",
+          "a": "Когда на стороне всасывания недостаточно жидкости или диаметр трубы слишком узкий, точка кипения жидкости снижается и образуются пузырьки воздуха. Они эродируют металл, ударяя по лопастям колеса. Наши инженеры устраняют этот риск, выбирая насосы с низкими значениями NPSH."
         },
         {
-          "q": "What should I do if the mechanical seal leaks?",
-          "a": "In our food pumps, sealing is provided by high-tech Carbon/Silicon Carbide mechanical seals instead of braided rope packing. In case of wear, the seal kit is designed to be easily replaced at your facility within minutes."
+          "q": "Что делать, если механическое уплотнение протекает?",
+          "a": "В наших пищевых насосах уплотнение обеспечивается высокотехнологичными механическими уплотнениями из карбида кремния/углерода. При износе комплект уплотнений легко заменяется прямо на вашем предприятии за несколько минут."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "Milk Transfer Pump"
+          "alt": "Насос для перекачки молока"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "Mechanical Seal Detail"
+          "alt": "Деталь механического уплотнения"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "Hygienic Open Impeller Application"
+          "alt": "Применение гигиенического открытого рабочего колеса"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "CIP Washing Line Pump"
+          "alt": "Насос линии CIP-мойки"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-10 PDF Specification",
-        "desc": "Centrifugal pump performance curves, NPSH values and mechanical seal material compatibility table.",
+        "title": "Технический документ",
+        "subtitle": "DOK-10 PDF-спецификация",
+        "desc": "Кривые производительности центробежных насосов, значения NPSH и таблица совместимости материалов механических уплотнений.",
         "btn": "Скачать кривые (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-10-santrifuj-pompalar.pdf"
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/DOK-10-tsentrobezhnye-nasosy.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Milk Transfer Line Reference",
-        "desc": "CIP-compatible centrifugal pump battery with stainless cover and 40 m³/h capacity for a facility processing 500 tons of raw milk per day.",
+        "badge": "Ведущий эталон",
+        "imgAlt": "Эталон линии перекачки молока",
+        "desc": "Батарея центробежных насосов с CIP-совместимостью, нержавеющей крышкой и производительностью 40 м³/ч для предприятия, перерабатывающего 500 тонн сырого молока в сутки.",
         "link": "Все ссылки"
       },
       "cta": {
-        "title": "Pump Selection",
-        "desc": "Tell us the type of liquid, your flow demand and pipeline length, and we will calculate the most efficient motor and impeller diameter.",
+        "title": "Подбор насоса",
+        "desc": "Сообщите нам тип жидкости, требуемый расход и длину трубопровода, и мы рассчитаем наиболее эффективные двигатель и диаметр рабочего колеса.",
         "btn": "Расчёт расхода →",
         "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20santrifüj%20pompa%20kapasite%20hesaplamas%C4%B1%20ve%20fiyat%20almak%20istiyorum."
       }
@@ -1136,135 +1136,135 @@
   },
   "drumPumpsPage": {
     "metadata": {
-      "title": "Industrial Drum & IBC Pumps | Welltech®",
-      "description": "Portable pump solutions for safe discharge of acids, chemicals and liquid foods from drums, IBC tanks and containers."
+      "title": "Промышленные насосы для бочек и IBC | Welltech®",
+      "description": "Переносные насосные решения для безопасного опустошения кислот, химикатов и жидких продуктов питания из бочек, ёмкостей IBC и контейнеров."
     },
     "breadcrumb": {
       "home": "Главная",
       "pumps": "Насосы",
-      "current": "Drum Pumps"
+      "current": "Насосы для бочек"
     },
     "hero": {
-      "title": "Drum & IBC Tank Pumps",
-      "desc": "End product losses from manual discharge of raw materials. Lightweight, portable and highly efficient discharge units specially designed for acids, chemicals and liquid foods."
+      "title": "Насосы для бочек и ёмкостей IBC",
+      "desc": "Устраните потери продукта при ручном опустошении сырья. Лёгкие, переносные и высокоэффективные установки для опустошения, специально разработанные для кислот, химикатов и жидких продуктов питания."
     },
     "technology": {
-      "title": "Safe Raw Material Discharge",
-      "desc": "In industrial production, raw materials are usually supplied in 200-liter drums or 1000-liter IBC tanks. Manual emptying of these containers causes both product loss and work accidents. Welltech drum pumps provide 99% discharge efficiency, leaving only a few drops of product at the bottom of the container thanks to the immersion-type tube design. They adapt to the most demanding field conditions with electric and pneumatic motor options.",
-      "imgAlt": "Drum Immersion Unit"
+      "title": "Безопасное опустошение сырья",
+      "desc": "В промышленном производстве сырьё обычно поставляется в 200-литровых бочках или 1000-литровых ёмкостях IBC. Ручное опустошение этих ёмкостей приводит к потерям продукта и производственным травмам. Насосы для бочек Welltech обеспечивают эффективность опустошения 99%, оставляя лишь несколько капель на дне ёмкости благодаря конструкции погружной трубки.",
+      "imgAlt": "Погружная установка для бочек"
     },
     "features": {
-      "title": "Product & Motor Options",
-      "imgAlt": "High-Speed Electric Motor",
+      "title": "Опции продукта и мотора",
+      "imgAlt": "Высокооборотный электродвигатель",
       "items": [
-        "ATEX Certified Explosion-Proof Motor",
-        "AISI 316L or PP / PVDF Tube Options",
-        "Screw Type for High-Viscosity Honey and Tomato Paste",
-        "Stepless Precise Speed Control",
-        "1200mm Tube Length for IBC Tanks",
-        "Easy-to-Clean Modular Design"
+        "Взрывозащищённый двигатель с сертификатом ATEX",
+        "Варианты трубки AISI 316L или PP / PVDF",
+        "Винтовой тип для высоковязкого мёда и томатной пасты",
+        "Бесступенчатое точное управление скоростью",
+        "Длина трубки 1200мм для ёмкостей IBC",
+        "Модульная конструкция, лёгкая в очистке"
       ]
     },
     "table": {
-      "title": "Drum Pump Selection Table",
-      "note": "* The immersion tube material must be selected according to the corrosion table of the chemical to be transferred. ATEX motors must be used for flammable liquids.",
-      "imgAlt": "Pipe Dimensions and Assembly Drawing",
+      "title": "Таблица выбора насосов для бочек",
+      "note": "* Материал погружной трубки должен выбираться согласно таблице коррозионной стойкости перекачиваемого химиката. Для горючих жидкостей необходимо использовать двигатели ATEX.",
+      "imgAlt": "Размеры трубки и монтажный чертёж",
       "headers": [
-        "Application",
-        "Tube Material",
-        "Tube Length (mm)",
-        "Viscosity (cP)"
+        "Применение",
+        "Материал трубки",
+        "Длина трубки (мм)",
+        "Вязкость (сП)"
       ],
       "rows": [
         {
-          "application": "Standard Drum (200L)",
+          "application": "Стандартная бочка (200Л)",
           "material": "AISI 316L / PP",
-          "length": "1000 mm",
-          "viscosity": "0 - 800 cP",
+          "length": "1000 мм",
+          "viscosity": "0 - 800 сП",
           "highlight": "blue"
         },
         {
-          "application": "IBC Tank (1000L)",
+          "application": "Ёмкость IBC (1000Л)",
           "material": "AISI 316L / PVDF",
-          "length": "1200 mm",
-          "viscosity": "0 - 1000 cP",
+          "length": "1200 мм",
+          "viscosity": "0 - 1000 сП",
           "highlight": "blue"
         },
         {
-          "application": "Viscous Food (Honey/Cream)",
-          "material": "Food-Grade 316L",
-          "length": "1000 - 1200 mm",
-          "viscosity": "Up to 100,000 cP",
+          "application": "Вязкий пищевой продукт (мёд/крем)",
+          "material": "316L пищевого класса",
+          "length": "1000 - 1200 мм",
+          "viscosity": "До 100 000 сП",
           "highlight": "orange"
         },
         {
-          "application": "Laboratory/Small Container",
+          "application": "Лаборатория/малая ёмкость",
           "material": "PP / PVDF",
-          "length": "700 mm",
-          "viscosity": "0 - 200 cP",
+          "length": "700 мм",
+          "viscosity": "0 - 200 сП",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Drum Discharge FAQ",
+      "title": "FAQ по опустошению бочек",
       "items": [
         {
-          "q": "Which motor should I choose for solvent or alcohol transfer?",
-          "a": "Standard electric motors can produce sparks when transferring flammable and combustible fluids. In this case, ATEX certified explosion-proof motors or pneumatic motors operating with compressed air must be used."
+          "q": "Какой двигатель выбрать для перекачки растворителей или спирта?",
+          "a": "Стандартные электродвигатели могут искрить при перекачке воспламеняемых жидкостей. В этом случае необходимо использовать взрывозащищённые двигатели с сертификатом ATEX или пневматические двигатели, работающие на сжатом воздухе."
         },
         {
-          "q": "What is a screw-type (Eccentric Screw) drum pump used for?",
-          "a": "Standard drum pumps cannot draw products with very low fluidity such as honey, glucose or dense cosmetic creams. Screw-type drum pumps can effortlessly vacuum and pump products of this density thanks to their endless screw mechanism."
+          "q": "Для чего используется винтовой насос для бочек (эксцентриковый шнек)?",
+          "a": "Стандартные насосы для бочек не могут всасывать продукты с очень низкой текучестью — мёд, глюкозу или густые косметические кремы. Винтовые насосы для бочек без усилий засасывают и перекачивают продукты такой плотности благодаря механизму бесконечного шнека."
         },
         {
-          "q": "How is the pump tube cleaned?",
-          "a": "Welltech drum pumps have a modular design. The motor and tube parts are separated from each other within seconds. The shaft and impeller inside the tube can be easily removed and placed in a sterilization or CIP bath."
+          "q": "Как очищается трубка насоса?",
+          "a": "Насосы для бочек Welltech имеют модульную конструкцию. Части двигателя и трубки разделяются за секунды. Вал и рабочее колесо внутри трубки можно легко извлечь и поместить в стерилизационную или CIP-ванну."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "ATEX Motor Chemical Transfer"
+          "alt": "Перекачка химикатов с двигателем ATEX"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "PVDF Tube IBC Pump"
+          "alt": "Насос IBC с трубкой PVDF"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "Screw-Type Food Pump"
+          "alt": "Винтовой пищевой насос"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "Precise Flow Drum Discharge"
+          "alt": "Опустошение бочки с точным расходом"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-12 PDF Specification",
-        "desc": "Chemical resistance table, motor speed ranges and IBC tank connection fittings technical document.",
+        "title": "Технический документ",
+        "subtitle": "DOK-12 PDF-спецификация",
+        "desc": "Таблица химической стойкости, диапазоны скоростей двигателя и технический документ по фитингам для подключения к ёмкостям IBC.",
         "btn": "Скачать спецификацию (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-12-varil-pompalar.pdf"
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/DOK-12-bochkovye-nasosy.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "Chemical Raw Material Transfer Reference",
-        "desc": "Automatic drum emptying station with ATEX certified, solvent-resistant PVDF tube for a paint factory.",
+        "badge": "Эталонное применение",
+        "imgAlt": "Эталон перекачки химического сырья",
+        "desc": "Автоматическая станция опустошения бочек с сертификатом ATEX и трубкой PVDF, стойкой к растворителям, для лакокрасочного завода.",
         "link": "Все ссылки"
       },
       "cta": {
-        "title": "Motor Selection",
-        "desc": "Specify the raw material you will transfer and the number of drums, and we will determine the electric or pneumatic motor option together.",
+        "title": "Выбор двигателя",
+        "desc": "Укажите перекачиваемое сырьё и количество бочек, и мы совместно определим вариант электрического или пневматического двигателя.",
         "btn": "Запросить предложение →",
         "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20varil%20ve%20IBC%20bo%C5%9Faltma%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum."
       }
@@ -1273,7 +1273,7 @@
   "projectsPage": {
     "metadata": {
       "title": "Завершённые проекты | Welltech®",
-      "description": "Промышленные проекты из нержавеющей стали, успешно реализованные компанией Welltech."
+      "description": "Промышленные проекты из нержавеющей стали и тематические исследования, успешно реализованные компанией Welltech."
     },
     "breadcrumb": {
       "home": "Главная",
@@ -1281,7 +1281,7 @@
     },
     "hero": {
       "title": "Инженерные референции",
-      "desc": "Мы не просто производим резервуары; мы строим высокотехнологичные технологические площадки."
+      "desc": "Мы не просто производим резервуары; мы строим высокотехнологичные технологические площадки, которые нужны мировой промышленности."
     },
     "labels": {
       "capacity": "Мощность",
@@ -1291,15 +1291,15 @@
     },
     "viewDetails": "Детали проекта и технический анализ",
     "cta": {
-      "title": "Разработаем решение для вашего проекта",
-      "desc": "Свяжитесь с нашей командой для ваших требований к мощности и техническим стандартам.",
+      "title": "Разработаем инженерное решение для вашего проекта",
+      "desc": "Свяжитесь с нашей командой экспертов для уточнения ваших требований к мощности и технических стандартов.",
       "btn": "Техническая поддержка"
     }
   },
   "processSystemsPage": {
     "metadata": {
-      "title": "Промышленные технологические системы | Welltech®",
-      "description": "Производственные линии по стандартам ASME и ATEX."
+      "title": "Промышленные технологические системы и реакторы | Welltech®",
+      "description": "Производственные линии с мешалками, спроектированные по стандартам ASME и ATEX для высоковязких смесей, опасных реакций и термодинамических процессов."
     },
     "breadcrumb": {
       "home": "Главная",
@@ -1307,7 +1307,7 @@
     },
     "hero": {
       "title": "Технологические системы",
-      "desc": "Производственные линии с мешалками по стандартам ASME и ATEX для высоковязких смесей и опасных реакций."
+      "desc": "Производственные линии с мешалками, спроектированные по стандартам ASME и ATEX для высоковязких смесей, опасных реакций и термодинамических процессов."
     },
     "viewModels": "Изучить модели",
     "categories": [
@@ -1341,142 +1341,142 @@
       }
     ],
     "cta": {
-      "title": "Особые технологические требования?",
-      "desc": "Обратитесь в наш инженерный отдел для нестандартных решений ASME или ATEX.",
+      "title": "У вас особые технологические требования?",
+      "desc": "Обратитесь в наш инженерный отдел для нестандартных размеров, высокого давления (ASME) или реакторов в зонах взрывоопасности с сертификатом ATEX, не указанных в нашем каталоге.",
       "btn": "Запросить предложение"
     }
   },
   "jacketedTanksPage": {
     "metadata": {
-      "title": "Heating & Cooling Jacketed Tanks | Welltech®",
-      "description": "Stainless steel heating/cooling process tanks with roll-bond (dimple) and half-pipe serpentine jackets for high thermal efficiency."
+      "title": "Резервуары с нагревательной и охлаждающей рубашкой | Welltech®",
+      "description": "Нагревательные/охлаждающие технологические резервуары из нержавеющей стали с рубашками roll-bond (dimple) и змеевиком из полутрубы для высокой термической эффективности."
     },
     "breadcrumb": {
       "home": "Главная",
       "process": "Технологические системы",
-      "current": "Jacketed Tanks"
+      "current": "Резервуары с рубашкой"
     },
     "hero": {
-      "title": "Heating & Cooling Jacketed Tanks",
-      "desc": "Maximum thermal efficiency for your processes requiring precise temperature control. Specially insulated systems equipped with roll-bond, half-pipe or full jacket technology."
+      "title": "Резервуары с нагревательной и охлаждающей рубашкой",
+      "desc": "Максимальная термическая эффективность для ваших процессов, требующих точного контроля температуры. Специально изолированные системы, оснащённые технологией roll-bond, полутрубы или полной рубашки."
     },
     "technology": {
-      "title": "Thermodynamic Engineering",
-      "desc": "Keeping the fluid at the correct temperature in production processes directly determines the final product quality. Our systems are designed with special jackets through which steam, hot oil, hot water or glycol/ice water can circulate. We prefer <strong>Roll-Bond (Dimple)</strong> jackets for low-pressure cooling processes, while using welded <strong>Half-Pipe Serpentine</strong> technology for heating reactions requiring high pressure and steam.",
-      "imgAlt": "Half-Pipe and Dimple Jacket Detail"
+      "title": "Термодинамическая инженерия",
+      "desc": "Поддержание жидкости при правильной температуре в производственных процессах непосредственно определяет качество конечного продукта. Наши системы разработаны со специальными рубашками, через которые может циркулировать пар, горячее масло, горячая вода или гликоль/ледяная вода. Мы предпочитаем рубашки <strong>Roll-Bond (Dimple)</strong> для низкотемпературных процессов охлаждения, используя приварную технологию <strong>Змеевика из полутрубы (Half-Pipe)</strong> для реакций нагрева, требующих высокого давления и пара.",
+      "imgAlt": "Деталь рубашки из полутрубы и Dimple"
     },
     "features": {
-      "title": "Equipment & Insulation Features",
-      "imgAlt": "Tank Insulation Cross-Section",
+      "title": "Характеристики оборудования и изоляции",
+      "imgAlt": "Поперечное сечение изоляции резервуара",
       "items": [
-        "Laser-Welded Dimple Jacket",
-        "Half-Pipe Serpentine",
-        "Rockwool Insulation",
-        "Polyurethane Insulation (Cooling)",
-        "Fully Sealed Outer Cladding Sheet",
-        "PT100 Thermocouple Temperature Sensor"
+        "Рубашка Dimple, приваренная лазером",
+        "Змеевик из полутрубы (Half-Pipe)",
+        "Изоляция из каменной ваты (Rockwool)",
+        "Полиуретановая изоляция (охлаждение)",
+        "Полностью герметичный наружный облицовочный лист",
+        "Температурный датчик термопары PT100"
       ]
     },
     "table": {
-      "title": "Jacket Technology Selection Table",
-      "note": "* Our engineers determine the most suitable jacket type based on the type and pressure of the heating/cooling fluid in your facility.",
-      "imgAlt": "Jacketed Tank Technical Drawing",
+      "title": "Таблица выбора технологии рубашки",
+      "note": "* Наши инженеры определяют наиболее подходящий тип рубашки в зависимости от типа и давления нагревающей/охлаждающей жидкости на вашем предприятии.",
+      "imgAlt": "Технический чертёж резервуара с рубашкой",
       "headers": [
-        "Jacket Type",
-        "Purpose",
-        "Fluid (Medium)",
-        "Working Pressure"
+        "Тип рубашки",
+        "Назначение",
+        "Жидкость (среда)",
+        "Рабочее давление"
       ],
       "rows": [
         {
           "type": "Dimple (Roll-Bond)",
-          "purpose": "Precise Cooling",
-          "fluid": "Ice Water / Glycol",
-          "pressure": "Low / Medium (2-4 Bar)",
+          "purpose": "Точное охлаждение",
+          "fluid": "Ледяная вода / Гликоль",
+          "pressure": "Низкое / Среднее (2-4 Бар)",
           "highlight": "blue"
         },
         {
-          "type": "Half-Pipe Serpentine",
-          "purpose": "Rapid Heating",
-          "fluid": "Steam / Hot Oil",
-          "pressure": "High (6-10+ Bar)",
+          "type": "Змеевик из полутрубы",
+          "purpose": "Быстрый нагрев",
+          "fluid": "Пар / Горячее масло",
+          "pressure": "Высокое (6-10+ Бар)",
           "highlight": "orange"
         },
         {
-          "type": "Full Jacket",
-          "purpose": "General Heating/Cooling",
-          "fluid": "Hot or Cold Water",
-          "pressure": "Low (1-2 Bar)",
+          "type": "Полная рубашка",
+          "purpose": "Общий нагрев/охлаждение",
+          "fluid": "Горячая или холодная вода",
+          "pressure": "Низкое (1-2 Бар)",
           "highlight": "dark"
         },
         {
-          "type": "Internal Serpentine",
-          "purpose": "Shock Heating/Cooling",
-          "fluid": "Steam / Water",
-          "pressure": "Medium / High",
+          "type": "Внутренний змеевик",
+          "purpose": "Ударный нагрев/охлаждение",
+          "fluid": "Пар / Вода",
+          "pressure": "Среднее / Высокое",
           "highlight": "blue"
         }
       ]
     },
     "faq": {
-      "title": "Heating / Cooling FAQ",
+      "title": "FAQ по нагреву / охлаждению",
       "items": [
         {
-          "q": "Why should I use Half-Pipe instead of Dimple Jacket for steam applications?",
-          "a": "Steam and hot oil have very high pressure and temperature. Dimple (honeycomb) jackets have thin walls and can balloon or deform under high pressure. Half-pipe serpentines are wound around the tank body with thick welds, so they have high pressure resistance."
+          "q": "Почему при паровых применениях следует использовать полутрубу вместо рубашки Dimple?",
+          "a": "Пар и горячее масло имеют очень высокое давление и температуру. Рубашки Dimple имеют тонкие стенки и могут раздуваться или деформироваться под высоким давлением. Змеевики из полутрубы приварены к корпусу резервуара толстыми швами, поэтому обладают высокой стойкостью к давлению."
         },
         {
-          "q": "What happens if heat insulation is not applied?",
-          "a": "The energy (heat or cold) in the tank jacket mixes into the air instead of passing only to the product inside. This drives your energy costs to terrible levels and prolongs the process time. Dense rockwool insulation is essential for heating tanks, and polyurethane insulation that prevents sweating is essential for cooling tanks."
+          "q": "Что происходит, если тепловая изоляция не применяется?",
+          "a": "Энергия (тепло или холод) в рубашке резервуара смешивается с воздухом вместо того, чтобы переходить только к внутреннему продукту. Это приводит к ужасающим затратам на энергию и удлиняет время процесса. Плотная изоляция из каменной ваты необходима для нагревательных резервуаров, а полиуретановая изоляция, предотвращающая образование конденсата, — для охлаждающих."
         },
         {
-          "q": "How is the jacket area calculated?",
-          "a": "The jacket area is calculated using thermodynamic engineering formulas based on the amount of product (kg) in the tank, the specific heat of the product, its initial temperature and how long (minutes/hours) it needs to reach the target temperature."
+          "q": "Как рассчитывается площадь рубашки?",
+          "a": "Площадь рубашки рассчитывается по термодинамическим инженерным формулам на основе количества продукта (кг) в резервуаре, удельной теплоёмкости продукта, его начальной температуры и времени (минуты/часы), необходимого для достижения целевой температуры."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "Half-Pipe Jacketed Tank"
+          "alt": "Резервуар с рубашкой из полутрубы"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "Dimple Jacket Cooling"
+          "alt": "Охлаждение с рубашкой Dimple"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "Rockwool Insulation Application"
+          "alt": "Применение изоляции из каменной ваты"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "Heated Process Tank Battery"
+          "alt": "Батарея нагреваемых технологических резервуаров"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Specification",
-        "subtitle": "DOK-05 PDF Document",
-        "desc": "Engineering specification containing thermodynamic area calculations, working pressures and insulation thicknesses.",
+        "title": "Техническая спецификация",
+        "subtitle": "DOK-05 PDF-документ",
+        "desc": "Инженерная спецификация, содержащая расчёты термодинамической площади, рабочие давления и толщины изоляции.",
         "btn": "Скачать документ (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-05-ceketli-tanklar.pdf"
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/DOK-05-rezervuary-s-rubashkoy.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Heated Process Project Reference",
-        "desc": "Steam-heated, half-pipe serpentine and rockwool-insulated cooking tank battery in the food industry.",
+        "badge": "Ведущий эталон",
+        "imgAlt": "Эталон проекта нагревательного процесса",
+        "desc": "Батарея варочных резервуаров с паровым нагревом, змеевиком из полутрубы и изоляцией из каменной ваты в пищевой промышленности.",
         "link": "Все ссылки"
       },
       "cta": {
-        "title": "Thermal Calculation",
-        "desc": "Contact us to calculate the required jacket surface area based on your process target time and temperature values.",
+        "title": "Тепловой расчёт",
+        "desc": "Свяжитесь с нами для расчёта необходимой площади рубашки на основе целевых значений времени и температуры вашего процесса.",
         "btn": "Запросить предложение →",
         "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20%C4%B1s%C4%B1tma%20so%C4%9Futma%20ceketli%20tanklar%20i%C3%A7in%20termodinamik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
       }
@@ -1484,218 +1484,219 @@
   },
   "bioreactorsPage": {
     "metadata": {
-      "title": "Fermentation & Bioreactor Systems | Welltech®",
-      "description": "Precise pH, oxygen and temperature-controlled, fully sterile (SIP) stainless steel fermentation systems for biotechnology, pharmaceutical and food industries."
+      "title": "Системы ферментации и биореакторов | Welltech®",
+      "description": "Стерильные ферментационные системы из нержавеющей стали с точным контролем pH, кислорода и температуры для биотехнологии, фармацевтической и пищевой промышленности."
     },
     "breadcrumb": {
       "home": "Главная",
       "process": "Технологические системы",
-      "current": "Fermentation & Bioreactors"
+      "current": "Ферментация и биореакторы"
     },
     "hero": {
-      "title": "Fermentation & Bioreactors",
-      "desc": "Perfect sterilization for microbial cell cultures and enzyme production. Industrial bioprocess systems with precise pH, Dissolved Oxygen (DO2) and temperature control."
+      "title": "Ферментация и биореакторы",
+      "desc": "Идеальная стерилизация для микробных клеточных культур и производства ферментов. Промышленные системы биопроцессинга с точным контролем pH, растворённого кислорода (DO2) и температуры."
     },
     "technology": {
-      "title": "Precise Bioprocess Control",
-      "desc": "Sustaining microbial life and achieving the target product yield in fermentation processes depends on millimetric control of environmental conditions.",
-      "imgAlt": "Bioreactor Thermodynamic Control Detail"
+      "title": "Точное управление биопроцессом",
+      "desc": "Поддержание микробной жизни и достижение целевого выхода продукта в ферментационных процессах зависит от миллиметрового контроля условий окружающей среды.",
+      "imgAlt": "Деталь термодинамического управления биореактором"
     },
     "features": {
-      "title": "Equipment & Engineering Features",
-      "imgAlt": "Bioreactor PLC SCADA System",
+      "title": "Характеристики оборудования и инженерии",
+      "imgAlt": "Система PLC SCADA биореактора",
       "items": [
-        "Ra < 0.4 µm Electropolished Inner Surface",
-        "Sterile Design to ASME BPE Standard",
-        "Automatic SIP (Sterilization-in-Place)",
-        "High Mass Transfer Aeration",
-        "Fully Insulated Dimple/Half-Pipe Jacket",
-        "Dead-Leg Free Valve Design"
+        "Электрополированная внутренняя поверхность Ra < 0,4 мкм",
+        "Стерильная конструкция по стандарту ASME BPE",
+        "Автоматическое SIP (стерилизация на месте)",
+        "Аэрация с высокой массопередачей",
+        "Полностью изолированная рубашка Dimple/полутрубы",
+        "Конструкция клапана без мёртвых зон"
       ]
     },
     "table": {
-      "title": "Capacity Table",
-      "note": "* Facility capacities are designed from R&D scale to industrial scale.",
-      "imgAlt": "Bioreactor P&ID Diagram",
+      "title": "Таблица производительности",
+      "note": "* Мощности установок проектируются от лабораторного масштаба до промышленного.",
+      "imgAlt": "Схема P&ID биореактора",
       "headers": [
-        "Series",
-        "Volume",
-        "Pressure"
+        "Серия",
+        "Объём",
+        "Давление"
       ],
       "rows": [
         {
           "series": "WT-BIO Lab",
-          "volume": "10 L - 100 L",
-          "pressure": "-1 / +3 Bar",
+          "volume": "10 Л - 100 Л",
+          "pressure": "-1 / +3 Бар",
           "highlight": "blue"
         },
         {
           "series": "WT-BIO Pilot",
-          "volume": "200 L - 2,000 L",
-          "pressure": "-1 / +3 Bar",
+          "volume": "200 Л - 2 000 Л",
+          "pressure": "-1 / +3 Бар",
           "highlight": "blue"
         },
         {
           "series": "WT-BIO Pro",
-          "volume": "5,000 L - 20,000 L",
-          "pressure": "-1 / +4 Bar",
+          "volume": "5 000 Л - 20 000 Л",
+          "pressure": "-1 / +4 Бар",
           "highlight": "orange"
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "Sterile Bioreactor Assembly"
+          "alt": "Монтаж стерильного биореактора"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "Cell Culture Fermentation Unit"
+          "alt": "Ферментационная установка для клеточной культуры"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "Precise pH Oxygen Sensor Group"
+          "alt": "Группа прецизионных датчиков pH и кислорода"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "Industrial Bioprocess Facility Installation"
+          "alt": "Установка промышленного биопроцессингового предприятия"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-15 PDF Specification",
+        "title": "Технический документ",
+        "subtitle": "DOK-15 PDF-спецификация",
         "btn": "Скачать спецификацию (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-15-biyoreaktorler.pdf"
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/DOK-15-bioreaktory.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "Vaccine Production Facility Bioreactor Reference",
-        "desc": "Custom 2,000 L capacity bioreactor line installation for a cell culture production facility."
+        "badge": "Эталонное применение",
+        "imgAlt": "Эталон биореактора на предприятии по производству вакцин",
+        "desc": "Индивидуальная установка линии биореактора объёмом 2 000 Л для предприятия по производству клеточных культур.",
+        "link": "Все ссылки"
       },
       "cta": {
-        "title": "Project Engineering",
-        "desc": "Plan with our technical team for your scale-up processes from laboratory to industrial production.",
+        "title": "Инженерия проекта",
+        "desc": "Планируйте с нашей технической командой процессы масштабирования от лаборатории до промышленного производства.",
         "btn": "Техническая поддержка"
       }
     }
   },
   "homogenizersPage": {
     "metadata": {
-      "title": "Homogenizer Systems | Welltech®",
-      "description": "High-speed (high-shear) rotor-stator homogenizer systems for cosmetic, pharmaceutical and food processes."
+      "title": "Системы гомогенизаторов | Welltech®",
+      "description": "Высокоскоростные роторно-статорные гомогенизаторы (high-shear) для косметических, фармацевтических и пищевых процессов."
     },
     "breadcrumb": {
       "home": "Главная",
       "process": "Технологические системы",
-      "current": "Homogenizers"
+      "current": "Гомогенизаторы"
     },
     "hero": {
-      "title": "Homogenizer Systems",
-      "desc": "Perfect particle reduction in liquid-liquid and liquid-solid emulsions. Rotor-stator technology with high shear force for cosmetics, pharmaceuticals and advanced chemistry processes."
+      "title": "Системы гомогенизаторов",
+      "desc": "Идеальное измельчение частиц в эмульсиях жидкость-жидкость и жидкость-твёрдое. Технология ротор-статор с высокой силой сдвига для косметики, фармацевтики и передовой химии."
     },
     "technology": {
-      "title": "Rotor & Stator Technology",
-      "desc": "Ordinary mixers only move the fluid. Homogenizers subject the fluid to enormous mechanical shear force through rotor blades rotating at a very narrow gap (micron level) and stationary stator blades. This way, substances like oil and water that normally don't mix are converted into a perfect emulsion (cream, mayonnaise, lotion, etc.) and particles are micronized to prevent sedimentation.",
-      "imgAlt": "Rotor and Stator Blade Detail"
+      "title": "Технология ротора и статора",
+      "desc": "Обычные мешалки лишь перемещают жидкость. Гомогенизаторы подвергают жидкость огромным механическим силам сдвига через лопасти ротора, вращающиеся в очень узком зазоре (уровень микрон), и неподвижные лопасти статора. Таким образом, вещества, как масло и вода, которые обычно не смешиваются, превращаются в идеальную эмульсию (крем, майонез, лосьон и т.д.), а частицы микронизируются для предотвращения осадка.",
+      "imgAlt": "Деталь лопасти ротора и статора"
     },
     "features": {
-      "title": "Critical Engineering Features",
-      "imgAlt": "High-Speed Homogenizer Motor",
+      "title": "Критические технические характеристики",
+      "imgAlt": "Высокоскоростной двигатель гомогенизатора",
       "items": [
-        "3000 RPM High-Speed Capacity",
-        "Double-Acting Cooled Mechanical Seal",
-        "AISI 316L Special Alloy Cutting Head",
-        "Interchangeable Stator Heads",
-        "CIP / SIP Washability (Hygienic)",
-        "Inverter-Controlled Precise Speed Control"
+        "Высокоскоростная мощность 3000 об/мин",
+        "Охлаждаемое двойное механическое уплотнение",
+        "Режущая головка из специального сплава AISI 316L",
+        "Сменные головки статора",
+        "Возможность мойки CIP / SIP (гигиеническая)",
+        "Точное управление скоростью с инвертором"
       ]
     },
     "table": {
-      "title": "Homogenizer Mounting Types",
-      "note": "* Selected based on your facility's piping system, tank design and product rheology (fluidity) properties.",
-      "imgAlt": "In-Line Homogenizer Drawing",
+      "title": "Типы монтажа гомогенизатора",
+      "note": "* Выбирается с учётом системы трубопроводов, конструкции резервуара и реологических свойств продукта вашего предприятия.",
+      "imgAlt": "Чертёж гомогенизатора Inline",
       "headers": [
-        "Mounting Type",
-        "Operating Principle",
-        "Application Area"
+        "Тип монтажа",
+        "Принцип работы",
+        "Область применения"
       ],
       "rows": [
         {
-          "type": "Bottom Entry",
-          "principle": "Mounted to tank bottom, product fed by gravity.",
-          "usage": "Cosmetic Creams, Mayonnaise, Lotion",
+          "type": "Нижний ввод (Bottom Entry)",
+          "principle": "Монтируется на дно резервуара, продукт подаётся под действием силы тяжести.",
+          "usage": "Косметические кремы, майонез, лосьон",
           "highlight": "orange"
         },
         {
-          "type": "In-Line (Continuous Flow)",
-          "principle": "Mounted on the pipeline, circulates.",
-          "usage": "Large volume syrups, Dairy Products",
+          "type": "Inline (непрерывный поток)",
+          "principle": "Монтируется на трубопровод, осуществляет циркуляцию.",
+          "usage": "Большие объёмы сиропов, молочные продукты",
           "highlight": "blue"
         },
         {
-          "type": "Top Entry (Immersion)",
-          "principle": "Immersed from the top of the tank via elevator or flange.",
-          "usage": "Open vessels, Mobile R&D tanks",
+          "type": "Верхний ввод (погружной)",
+          "principle": "Погружается сверху в резервуар через подъёмник или фланец.",
+          "usage": "Открытые котлы, мобильные R&D резервуары",
           "highlight": "dark"
         },
         {
-          "type": "Powder Mixer",
-          "principle": "Draws powdered raw materials from outside using vacuum created.",
-          "usage": "Carbon black, Milk powder, Pectin dissolving",
+          "type": "Смеситель порошка",
+          "principle": "Всасывает порошкообразное сырьё снаружи посредством создаваемого вакуума.",
+          "usage": "Сажа, сухое молоко, растворение пектина",
           "highlight": "blue"
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "Bottom-Entry Homogenizer"
+          "alt": "Гомогенизатор с нижним вводом"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "Cosmetic Cream Production Tank"
+          "alt": "Резервуар для производства косметических кремов"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "In-Line Continuous Flow System"
+          "alt": "Система непрерывного Inline-потока"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "Powder Suction Dispersion Unit"
+          "alt": "Установка для диспергирования с всасыванием порошка"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Specification",
-        "subtitle": "DOK-08 PDF Document",
-        "desc": "Technical specification containing rotor-stator tolerances, mechanical seal cooling circuit and motor kW calculations.",
+        "title": "Техническая спецификация",
+        "subtitle": "DOK-08 PDF-документ",
+        "desc": "Техническая спецификация, содержащая допуски ротор-статор, контур охлаждения механического уплотнения и расчёты мощности двигателя кВт.",
         "btn": "Скачать документ (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-08-homojenizatorler.pdf"
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/DOK-08-gomogenizatory.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Cosmetic Process Project Reference",
-        "desc": "22kW bottom-entry homogenizer cream production reactor operating under vacuum for a luxury skincare product facility.",
+        "badge": "Ведущий эталон",
+        "imgAlt": "Эталон косметического технологического проекта",
+        "desc": "Реактор производства крема с гомогенизатором нижнего ввода 22 кВт, работающим под вакуумом, для предприятия по производству элитной косметики.",
         "link": "Все ссылки"
       },
       "cta": {
-        "title": "Emulsion Solution",
-        "desc": "Cosmetics, food or chemistry... Share your product recipe with us and we will design the most efficient particle reduction (high-shear) system.",
+        "title": "Решение для эмульсии",
+        "desc": "Косметика, продукты питания или химия... Поделитесь своей рецептурой с нами, и мы разработаем наиболее эффективную систему измельчения частиц (high-shear).",
         "btn": "Запросить предложение →",
         "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20homojenizat%C3%B6r%20ve%20em%C3%BClsiyon%20sistemleri%20i%C3%A7in%20kapasite%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
       }
@@ -1703,118 +1704,118 @@
   },
   "mixingTanksPage": {
     "metadata": {
-      "title": "Mixing Process Tanks | Welltech®",
-      "description": "Stainless steel mixing tanks with custom mixer designs for different viscosities and inverter-supported automation."
+      "title": "Технологические резервуары с мешалкой | Welltech®",
+      "description": "Резервуары-смесители из нержавеющей стали с индивидуальными конструкциями мешалок для различных вязкостей и автоматизацией с поддержкой инвертора."
     },
     "breadcrumb": {
       "home": "Главная",
       "process": "Технологические системы",
-      "current": "Mixing Tanks"
+      "current": "Резервуары с мешалкой"
     },
     "hero": {
-      "title": "Mixing Process Tanks",
-      "desc": "Advanced engineering mixer systems with optimal viscosity control for liquid-liquid or liquid-solid mixtures, with inverter support and different blade types."
+      "title": "Технологические резервуары с мешалкой",
+      "desc": "Передовые инженерные системы мешалок с оптимальным контролем вязкости для смесей жидкость-жидкость или жидкость-твёрдое, с поддержкой инвертора и различными типами лопастей."
     },
     "technology": {
-      "title": "Homogeneous Mixing Technology",
-      "desc": "The success of a process is measured by how correctly the mixture is homogenized. We design turbine, propeller, anchor or scraper mixer blades based on the viscosity (fluid like water or viscous like honey) and density of your product. Our systems are equipped with geared motors and PLC-controlled speed inverters to provide maximum control in your process.",
-      "imgAlt": "Mixer Blade Detail"
+      "title": "Технология гомогенного смешения",
+      "desc": "Успех процесса измеряется точностью гомогенизации смеси. Мы проектируем лопасти мешалок типа турбина, пропеллер, якорь или скребок исходя из вязкости (текучей как вода или густой как мёд) и плотности вашего продукта. Наши системы оснащены мотор-редукторами и частотными преобразователями под управлением PLC для максимального контроля над вашим процессом.",
+      "imgAlt": "Деталь лопасти мешалки"
     },
     "features": {
-      "title": "Equipment & Automation",
-      "imgAlt": "Automation and Inverter Panel",
+      "title": "Оборудование и автоматизация",
+      "imgAlt": "Панель автоматизации и инвертора",
       "items": [
-        "Variable-Speed Inverter System",
-        "Teflon (PTFE) Wall Scrapers",
-        "Mechanical Seal Sealing",
-        "Bottom, Top or Side Entry Design",
-        "CIP and SIP Spray Ball Integration",
-        "AISI 316L Complete Stainless Shaft"
+        "Система частотного преобразователя с переменной скоростью",
+        "Настенные скребки из тефлона (PTFE)",
+        "Уплотнение механическим уплотнителем",
+        "Конструкция нижнего, верхнего или бокового ввода",
+        "Интеграция шарика для опрыскивания CIP и SIP",
+        "Вал полностью из нержавеющей стали AISI 316L"
       ]
     },
     "table": {
-      "title": "Mixer Type Selection Table",
-      "note": "* Calculated by our engineers based on the viscosity (cP) and particle structure of the mixture.",
-      "imgAlt": "Mixing Process Tank Technical Drawing",
+      "title": "Таблица выбора типа мешалки",
+      "note": "* Рассчитывается нашими инженерами исходя из вязкости (сП) и структуры частиц смеси.",
+      "imgAlt": "Технический чертёж технологического резервуара с мешалкой",
       "headers": [
-        "Blade Type",
-        "Viscosity",
-        "Application Example",
-        "Speed"
+        "Тип лопасти",
+        "Вязкость",
+        "Пример применения",
+        "Скорость"
       ],
       "rows": [
         {
-          "type": "Propeller",
-          "viscosity": "Low (like water)",
-          "usage": "Liquid Chemicals, Juice",
-          "speed": "High (900-1400 rpm)",
+          "type": "Пропеллер (Propeller)",
+          "viscosity": "Низкая (как вода)",
+          "usage": "Жидкие химикаты, сок",
+          "speed": "Высокая (900-1400 об/мин)",
           "highlight": "blue"
         },
         {
-          "type": "Turbine",
-          "viscosity": "Medium (like oil)",
-          "usage": "Syrup, Mineral Oil, Paint",
-          "speed": "Medium (100-300 rpm)",
+          "type": "Турбина",
+          "viscosity": "Средняя (как масло)",
+          "usage": "Сироп, минеральное масло, краска",
+          "speed": "Средняя (100-300 об/мин)",
           "highlight": "orange"
         },
         {
-          "type": "Anchor with Scraper",
-          "viscosity": "High (like honey)",
-          "usage": "Cosmetic Cream, Chocolate",
-          "speed": "Low (10-60 rpm)",
+          "type": "Якорь со скребком",
+          "viscosity": "Высокая (как мёд)",
+          "usage": "Косметический крем, шоколад",
+          "speed": "Низкая (10-60 об/мин)",
           "highlight": "dark"
         },
         {
-          "type": "Dispersion Type",
-          "viscosity": "Solid/Liquid Solutions",
-          "usage": "Dissolving Powder Chemicals in Liquid",
-          "speed": "Very High (1500+ rpm)",
+          "type": "Дисперсионный тип",
+          "viscosity": "Растворы твёрдое/жидкое",
+          "usage": "Растворение порошковых химикатов в жидкости",
+          "speed": "Очень высокая (1500+ об/мин)",
           "highlight": "blue"
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "Custom Design Anchor Mixer"
+          "alt": "Якорная мешалка специального дизайна"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "Inverter-Controlled Mixer"
+          "alt": "Мешалка с управлением инвертором"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "Paint Industry Disperser Tank"
+          "alt": "Дисперсионный резервуар для лакокрасочной промышленности"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "Food Industry Homogenizer Battery"
+          "alt": "Батарея гомогенизаторов для пищевой промышленности"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Specification",
-        "subtitle": "DOK-06 PDF Document",
-        "desc": "Engineering specification containing motor power calculations for different viscosities and mechanical seal sealing details.",
+        "title": "Техническая спецификация",
+        "subtitle": "DOK-06 PDF-документ",
+        "desc": "Инженерная спецификация, содержащая расчёты мощности двигателя для различных вязкостей и детали уплотнения механическим уплотнителем.",
         "btn": "Скачать документ (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-06-karistiricili-tanklar.pdf"
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/DOK-06-rezervuary-s-meshalkoy.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Chemical Process Project Reference",
-        "desc": "10,000 liter mixer tank with ex-proof motor, high torque capacity and Teflon scrapers for a polymer chemical production facility.",
+        "badge": "Ведущий эталон",
+        "imgAlt": "Эталон химического технологического проекта",
+        "desc": "Резервуар-смеситель объёмом 10 000 литров со взрывозащищённым двигателем, высокой крутящей моментной способностью и скребками тефлон для предприятия полимерного химического производства.",
         "link": "Все ссылки"
       },
       "cta": {
-        "title": "Viscosity Analysis",
-        "desc": "Share your product viscosity (cP) and operating conditions with us, and we will calculate the most suitable mixer design and gearbox power.",
+        "title": "Анализ вязкости",
+        "desc": "Поделитесь вязкостью (сП) вашего продукта и условиями работы с нами, и мы рассчитаем наиболее подходящую конструкцию мешалки и мощность редуктора.",
         "btn": "Запросить предложение →",
         "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20kar%C4%B1%C5%9Ft%C4%B1r%C4%B1c%C4%B1l%C4%B1%20tank%20projesi%20i%C3%A7in%20viskozite%20de%C4%9Ferlerime%20uygun%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
       }
@@ -1822,232 +1823,232 @@
   },
   "reactorsPage": {
     "metadata": {
-      "title": "Chemical & Pharmaceutical Reactors | Welltech®",
-      "description": "Ex-proof production reactors withstanding 10 Bar pressure and full vacuum, made of 316Ti / Hastelloy alloys, to ATEX standards."
+      "title": "Химические и фармацевтические реакторы | Welltech®",
+      "description": "Взрывозащищённые производственные реакторы, выдерживающие 10 Бар и полный вакуум, из сплавов 316Ti / Hastelloy, по стандартам ATEX."
     },
     "breadcrumb": {
       "home": "Главная",
       "process": "Технологические системы",
-      "current": "Chemical Reactors"
+      "current": "Химические реакторы"
     },
     "hero": {
-      "title": "Chemical & Pharmaceutical Reactors",
-      "desc": "Fully automated heavy-duty reactors withstanding 10 Bar pressure and full vacuum, made of 316Ti / Hastelloy alloys, to ATEX ex-proof standards."
+      "title": "Химические и фармацевтические реакторы",
+      "desc": "Полностью автоматизированные тяжёлые реакторы, выдерживающие 10 Бар давления и полный вакуум, из сплавов 316Ti / Hastelloy, по взрывозащищённым стандартам ATEX."
     },
     "technology": {
-      "title": "Critical Process Control",
-      "desc1": "Polymerization, crystallization and aggressive chemical syntheses cannot be performed in standard storage tanks. Welltech® Chemical Reactors are engineered to <strong>ASME VIII Div.1</strong> standards to homogenize products of varying viscosities and immediately transfer the heat of endothermic/exothermic reactions.",
-      "desc2": "The <strong>Half-Pipe Serpentine (Half-Pipe Jacket)</strong> technology offered as standard on the body provides 40% more resistance to thermal shocks and high steam pressure compared to conventional jackets.",
-      "imgAlt": "Half-Pipe Serpentine and Reactor Body"
+      "title": "Критическое управление процессом",
+      "desc1": "Полимеризация, кристаллизация и агрессивные химические синтезы не могут выполняться в стандартных резервуарах хранения. Химические реакторы Welltech® спроектированы по стандартам <strong>ASME VIII Div.1</strong> для гомогенизации продуктов переменных вязкостей и немедленной передачи тепла эндо/экзотермических реакций.",
+      "desc2": "Технология <strong>Змеевика из полутрубы (Half-Pipe Jacket)</strong>, предлагаемая как стандарт на корпусе, обеспечивает на 40% большую стойкость к тепловым ударам и высокому давлению пара по сравнению с обычными рубашками.",
+      "imgAlt": "Змеевик из полутрубы и корпус реактора"
     },
     "features": {
-      "title": "Equipment & Safety",
-      "imgAlt": "Ex-Proof Motor and Reactor Equipment",
+      "title": "Оборудование и безопасность",
+      "imgAlt": "Взрывозащищённый двигатель и оборудование реактора",
       "items": [
-        "Full Vacuum and 10 Bar Pressure Resistance",
-        "316Ti or Hastelloy C22 Material",
-        "Mechanical Seal Sealing",
-        "ATEX Zone 1/2 Compliant Ex-Proof Motor",
-        "Proportionally Controlled Heating/Cooling",
-        "100% RT and UT Weld Reporting"
+        "Стойкость к полному вакууму и давлению 10 Бар",
+        "Материал 316Ti или Hastelloy C22",
+        "Уплотнение механическим уплотнителем",
+        "Взрывозащищённый двигатель, соответствующий ATEX Зона 1/2",
+        "Нагрев/охлаждение с пропорциональным управлением",
+        "Отчёты по сварке RT и UT 100%"
       ]
     },
     "table": {
-      "title": "Standard Reactor Capacity Table",
-      "note": "* Values in the table are for reference. Welltech works with custom engineering dimensions based on your factory's ceiling height and installation lines.",
-      "imgAlt": "Chemical Reactor Technical Drawing",
+      "title": "Стандартная таблица производительности реакторов",
+      "note": "* Значения в таблице являются справочными. Welltech работает с индивидуальными инженерными размерами исходя из высоты потолка вашего завода и монтажных линий.",
+      "imgAlt": "Технический чертёж химического реактора",
       "headers": [
-        "Working Volume",
-        "Design Pressure",
-        "Heating Type",
-        "Mixer Type"
+        "Рабочий объём",
+        "Расчётное давление",
+        "Тип нагрева",
+        "Тип мешалки"
       ],
       "rows": [
         {
-          "volume": "1,000 Liters",
-          "pressure": "-1 / +6 Bar",
-          "heating": "Half-Pipe / Electric",
-          "mixer": "Anchor / Propeller",
+          "volume": "1 000 Литров",
+          "pressure": "-1 / +6 Бар",
+          "heating": "Полутруба / Электрический",
+          "mixer": "Якорь / Пропеллер",
           "highlight": "blue"
         },
         {
-          "volume": "5,000 Liters",
-          "pressure": "-1 / +8 Bar",
-          "heating": "Half-Pipe Serpentine",
-          "mixer": "Anchor with Scraper",
+          "volume": "5 000 Литров",
+          "pressure": "-1 / +8 Бар",
+          "heating": "Змеевик из полутрубы",
+          "mixer": "Якорь со скребком",
           "highlight": "blue"
         },
         {
-          "volume": "10,000 Liters",
-          "pressure": "-1 / +10 Bar",
-          "heating": "Half-Pipe + Internal Serpentine",
-          "mixer": "Turbine / Disperser",
+          "volume": "10 000 Литров",
+          "pressure": "-1 / +10 Бар",
+          "heating": "Полутруба + Внутренний змеевик",
+          "mixer": "Турбина / Диспергатор",
           "highlight": "orange"
         },
         {
-          "volume": "25,000 Liters",
-          "pressure": "-1 / +10 Bar",
-          "heating": "Half-Pipe Serpentine",
-          "mixer": "Bi-Directional Anchor",
+          "volume": "25 000 Литров",
+          "pressure": "-1 / +10 Бар",
+          "heating": "Змеевик из полутрубы",
+          "mixer": "Двунаправленный якорь",
           "highlight": "dark"
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "10 Bar Reactor Production"
+          "alt": "Производство реактора на 10 Бар"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "Half-Pipe Serpentine Fabrication"
+          "alt": "Изготовление змеевика из полутрубы"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "ATEX Ex-Proof Motor Integration"
+          "alt": "Интеграция взрывозащищённого двигателя ATEX"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "Petrochemical Reactor Battery Installation"
+          "alt": "Установка батареи нефтехимических реакторов"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Specification",
+        "title": "Техническая спецификация",
         "subtitle": "WLL-RX-01 PDF",
-        "desc": "Engineering document containing ASME material codes, weld thicknesses and motor kW calculations.",
+        "desc": "Инженерный документ, содержащий коды материалов ASME, толщины сварных швов и расчёты мощности двигателя кВт.",
         "btn": "Скачать PDF-спецификацию",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/WLL-RX-01-reaktorler.pdf"
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/WLL-RX-01-reaktory.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Petrochemical Reactor Project Reference",
-        "desc": "25,000 liter capacity polymerization reactor made of Hastelloy C276 alloy, resistant to 10 Bar pressure, delivered to a petrochemical facility.",
+        "badge": "Ведущий эталон",
+        "imgAlt": "Эталон проекта нефтехимического реактора",
+        "desc": "Реактор полимеризации объёмом 25 000 литров из сплава Hastelloy C276, стойкий к 10 Бар, поставленный нефтехимическому предприятию.",
         "link": "Все ссылки"
       },
       "cta": {
-        "title": "Do You Have Special Process Needs?",
-        "desc": "We engineer with Hastelloy alloys for fluids causing aggressive corrosion or viscosities requiring high torque.",
+        "title": "У вас особые технологические требования?",
+        "desc": "Мы проектируем со сплавами Hastelloy для жидкостей, вызывающих агрессивную коррозию, или вязкостей, требующих высокого крутящего момента.",
         "btn": "Консультация инженера"
       }
     }
   },
   "skidSystemsPage": {
     "metadata": {
-      "title": "Mobile Process Units (Skid Systems) | Welltech®",
-      "description": "Compact plug-and-play process solutions with reactor, pump and automation on a single chassis."
+      "title": "Мобильные технологические установки (Skid Systems) | Welltech®",
+      "description": "Компактные технологические решения plug-and-play с реактором, насосом и автоматизацией на одной раме."
     },
     "breadcrumb": {
       "home": "Главная",
       "process": "Технологические системы",
-      "current": "Mobile Units"
+      "current": "Мобильные установки"
     },
     "hero": {
-      "title": "Mobile Process Units",
-      "desc": "Plug-and-play compact solutions designed for rapid installation, with reactor, pump and automation assembled on a single stainless chassis."
+      "title": "Мобильные технологические установки",
+      "desc": "Компактные решения plug-and-play, разработанные для быстрой установки, с реактором, насосом и автоматизацией, собранными на одной раме из нержавеющей стали."
     },
     "technology": {
-      "title": "Plug & Play Engineering",
-      "desc": "Don't waste weeks on piping, cabling and automation complexity at your facility. Our skid systems are compact systems where the reactor, heat exchanger, transfer pumps, valves and PLC control panel are mounted and tested at our factory on a single stainless chassis. When it arrives at your facility, you can start production the same day by just connecting the main electricity and raw material connections.",
-      "imgAlt": "Stainless Steel Skid Chassis Design"
+      "title": "Инженерия Plug & Play",
+      "desc": "Не тратьте недели на сложности трубопроводов, кабельных соединений и автоматизации на вашем предприятии. Наши skid-системы — это компактные системы, где реактор, теплообменник, насосы перекачки, клапаны и панель управления PLC монтируются и испытываются на нашем заводе на одной раме из нержавеющей стали. Когда она прибывает на ваше предприятие, вы можете начать производство в тот же день, просто подключив основное электропитание и соединения сырья.",
+      "imgAlt": "Конструкция рамы скид из нержавеющей стали"
     },
     "features": {
-      "title": "Compact Equipment Features",
-      "imgAlt": "Skid PLC Automation Panel",
+      "title": "Характеристики компактного оборудования",
+      "imgAlt": "Панель автоматизации PLC скид",
       "items": [
-        "AISI 304/316L Stainless Carrier Chassis",
-        "Fully Integrated Piping and Manifolds",
-        "Factory-Exit FAT/SAT Test Approval",
-        "Smart PLC and Touch-Screen HMI",
-        "Ex-Proof (ATEX) Option",
-        "Vibration-Damping Chassis Feet"
+        "Несущая рама из нержавеющей стали AISI 304/316L",
+        "Полностью интегрированные трубопроводы и коллекторы",
+        "Одобрение испытания FAT/SAT с завода",
+        "Умный PLC и сенсорный экран HMI",
+        "Взрывозащитная опция (ATEX)",
+        "Виброгасящие опоры рамы"
       ]
     },
     "table": {
-      "title": "Skid System Application Areas",
-      "note": "* All equipment operates compatible with each other and connected to a single automation panel.",
-      "imgAlt": "Mobile Process Unit Technical Drawing",
+      "title": "Области применения систем скид",
+      "note": "* Всё оборудование работает совместимо друг с другом и подключено к единой панели автоматизации.",
+      "imgAlt": "Технический чертёж мобильной технологической установки",
       "headers": [
-        "Application Area",
-        "Integrated Equipment",
-        "Installation Type"
+        "Область применения",
+        "Интегрированное оборудование",
+        "Тип установки"
       ],
       "rows": [
         {
-          "application": "Cosmetic & Pharmaceutical Syruping",
-          "equipment": "Reactor + Homogenizer + Lobe Pump",
+          "application": "Косметическое и фармацевтическое сиропирование",
+          "equipment": "Реактор + Гомогенизатор + Кулачковый насос",
           "setup": "Plug & Play",
           "highlight": "orange"
         },
         {
-          "application": "Chemical Dosing Line",
-          "equipment": "Storage Tank + Dosing Pump + Flow Meter",
+          "application": "Линия химического дозирования",
+          "equipment": "Резервуар хранения + Дозировочный насос + Расходомер",
           "setup": "Plug & Play",
           "highlight": "blue"
         },
         {
-          "application": "CIP (Clean-in-Place) Units",
-          "equipment": "Acid/Caustic Tanks + Heater + Centrifugal Pump",
+          "application": "Установки CIP (мойка на месте)",
+          "equipment": "Резервуары кислота/щёлочь + Нагреватель + Центробежный насос",
           "setup": "Plug & Play",
           "highlight": "dark"
         },
         {
-          "application": "Mobile R&D Stations",
-          "equipment": "Pilot Reactor + Chiller + Mini Filter Press",
-          "setup": "Wheeled/Mobile",
+          "application": "Мобильные R&D-станции",
+          "equipment": "Пилотный реактор + Холодильник + Мини фильтр-пресс",
+          "setup": "На колёсах/Мобильный",
           "highlight": "blue"
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "Compact Piping Design"
+          "alt": "Компактная конструкция трубопроводов"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "Pharmaceutical Industry Mobile Unit"
+          "alt": "Мобильная установка фармацевтической промышленности"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "Integrated Control Panel"
+          "alt": "Интегрированная панель управления"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "Plug & Play Chassis Assembly"
+          "alt": "Монтаж рамы Plug & Play"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Specification",
-        "subtitle": "DOK-09 PDF Document",
-        "desc": "Engineering specification containing compact chassis load resistance calculations, piping standards and automation P&ID diagrams.",
+        "title": "Техническая спецификация",
+        "subtitle": "DOK-09 PDF-документ",
+        "desc": "Инженерная спецификация, содержащая расчёты нагрузки компактной рамы, стандарты трубопроводов и P&ID-диаграммы автоматизации.",
         "btn": "Скачать документ (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-09-skid-sistemler.pdf"
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/DOK-09-skid-sistemy.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Mobile Skid System Reference",
-        "desc": "Mobile syruping unit (Skid System) project with ex-proof standards, full automation and CIP integration for the pharmaceutical industry.",
+        "badge": "Ведущий эталон",
+        "imgAlt": "Эталон мобильной системы скид",
+        "desc": "Проект мобильной установки сиропирования (Skid System) по взрывозащищённым стандартам, полностью автоматизированный и с интеграцией CIP для фармацевтической промышленности.",
         "link": "Все ссылки"
       },
       "cta": {
-        "title": "Your Custom Skid Project",
-        "desc": "Contact our engineers to design a completely custom mobile unit tailored to your facility's space constraints and process recipe.",
+        "title": "Ваш индивидуальный проект скид",
+        "desc": "Свяжитесь с нашими инженерами для проектирования полностью индивидуальной мобильной установки, адаптированной к пространственным ограничениям и технологическому рецепту вашего предприятия.",
         "btn": "Запросить предложение →",
         "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20tesisime%20%C3%B6zel%20kompakt%20skid%20sistemi%20projelendirmesi%20ve%20fiyat%C4%B1%20almak%20istiyorum."
       }
@@ -2055,138 +2056,138 @@
   },
   "cipSystemsPage": {
     "metadata": {
-      "title": "Fully Automatic CIP Systems | Welltech®",
-      "description": "PLC-controlled automatic Clean-in-Place (in-place washing) units that guarantee hygiene standards for pharmaceutical, food and chemical facilities."
+      "title": "Полностью автоматические CIP-системы | Welltech®",
+      "description": "Автоматические установки Clean-in-Place (мойки на месте) под управлением PLC, гарантирующие гигиенические стандарты для фармацевтических, пищевых и химических предприятий."
     },
     "breadcrumb": {
       "home": "Главная",
       "process": "Технологические системы",
-      "current": "CIP Systems"
+      "current": "CIP-системы"
     },
     "hero": {
-      "title": "Fully Automatic CIP Systems",
-      "desc": "Clean-in-Place (in-place washing) units that guarantee your facility's hygiene standards with PLC control and conductivity-based chemical dosing."
+      "title": "Полностью автоматические CIP-системы",
+      "desc": "Установки Clean-in-Place (мойки на месте), гарантирующие гигиенические стандарты вашего предприятия с управлением PLC и химическим дозированием на основе электропроводности."
     },
     "technology": {
-      "title": "Traceable Hygiene Assurance",
-      "desc": "The only way to prevent cross-contamination in food, beverage and pharmaceutical production lines is validatable washing processes. Welltech CIP (Clean-in-Place) systems wash your pipelines and tanks without disassembly using high-turbulence flow (min. 1.5 m/s). The conductivity of the returning liquid is measured in real-time, and acid and caustic concentrations are automatically replenished through dosing pumps via PLC. Water and energy savings are maximized.",
-      "imgAlt": "Conductivity and Dosing Control"
+      "title": "Прослеживаемое обеспечение гигиены",
+      "desc": "Единственный способ предотвратить перекрёстное загрязнение на пищевых, напиточных и фармацевтических производственных линиях — это валидируемые процессы мойки. CIP-системы (Clean-in-Place) Welltech промывают ваши трубопроводы и резервуары без демонтажа с использованием высокотурбулентного потока (мин. 1,5 м/с). Электропроводность возвращающейся жидкости измеряется в реальном времени, а концентрации кислоты и щёлочи автоматически пополняются дозировочными насосами через PLC. Экономия воды и энергии максимизируется.",
+      "imgAlt": "Управление электропроводностью и дозированием"
     },
     "features": {
-      "title": "System & Automation Features",
-      "imgAlt": "Recovery System and Automation",
+      "title": "Характеристики системы и автоматизации",
+      "imgAlt": "Система рекуперации и автоматизации",
       "items": [
-        "PLC & Touch-Screen HMI Control",
-        "Independent Caustic and Acid Dosing Pumps",
-        "Real-Time Conductivity Measurement",
-        "Automatic Temperature Control with Heat Exchanger",
-        "EHEDG Approved Hygienic Centrifugal Pumps",
-        "Recordable Washing Recipes"
+        "Управление PLC и сенсорный экран HMI",
+        "Независимые дозировочные насосы щёлочи и кислоты",
+        "Измерение электропроводности в реальном времени",
+        "Автоматическое управление температурой с теплообменником",
+        "Гигиенические центробежные насосы, одобренные EHEDG",
+        "Записываемые рецепты мойки"
       ]
     },
     "table": {
-      "title": "CIP Station Models",
-      "note": "* Washing lines can be designed as simultaneous (multi-line) or single-line based on facility needs.",
-      "imgAlt": "Modular Design and CIP P&ID Diagram",
+      "title": "Модели CIP-станций",
+      "note": "* Линии мойки могут проектироваться как одновременные (многолинейные) или однолинейные в зависимости от потребностей предприятия.",
+      "imgAlt": "Модульная конструкция и P&ID-диаграмма CIP",
       "headers": [
-        "Configuration",
-        "Tank Contents",
-        "Recommended Sector"
+        "Конфигурация",
+        "Содержимое резервуара",
+        "Рекомендуемый сектор"
       ],
       "rows": [
         {
-          "config": "Mobile / 1-Tank CIP",
-          "tanks": "Water (Loss Washing)",
-          "sector": "Wine, Boutique Production",
+          "config": "Мобильный / CIP 1 резервуар",
+          "tanks": "Вода (мойка с потерями)",
+          "sector": "Вино, Бутиковое производство",
           "highlight": "dark"
         },
         {
-          "config": "2-Tank CIP System",
-          "tanks": "Caustic + Water",
-          "sector": "Water, Beverage, Light Process",
+          "config": "CIP-система 2 резервуара",
+          "tanks": "Щёлочь + Вода",
+          "sector": "Вода, Напитки, Лёгкий процесс",
           "highlight": "blue"
         },
         {
-          "config": "3-Tank CIP System",
-          "tanks": "Caustic + Acid + Water",
-          "sector": "Milk, Juice, Food",
+          "config": "CIP-система 3 резервуара",
+          "tanks": "Щёлочь + Кислота + Вода",
+          "sector": "Молоко, Сок, Пищевая промышленность",
           "highlight": "orange"
         },
         {
-          "config": "4-Tank CIP System",
-          "tanks": "Caustic + Acid + Water + Recovery",
-          "sector": "Pharmaceutical, Biotechnology, Heavy Industry",
+          "config": "CIP-система 4 резервуара",
+          "tanks": "Щёлочь + Кислота + Вода + Рекуперация",
+          "sector": "Фармацевтика, Биотехнология, Тяжёлая промышленность",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "CIP Systems FAQ",
+      "title": "FAQ по CIP-системам",
       "items": [
         {
-          "q": "How do you guarantee that the washing liquid reaches sufficient speed?",
-          "a": "Turbulent flow is required for hygiene in pipelines. Thanks to flowmeters integrated into the system, the washing flow rate is maintained at a minimum of 1.5 - 2.0 m/s and monitored via PLC."
+          "q": "Как гарантируете, что моющая жидкость достигает достаточной скорости?",
+          "a": "Для гигиены в трубопроводах необходим турбулентный поток. Благодаря расходомерам, интегрированным в систему, скорость моющего потока поддерживается на минимуме 1,5 - 2,0 м/с и контролируется через PLC."
         },
         {
-          "q": "Can chemical solutions be reused?",
-          "a": "Yes, our 3 and 4-tank CIP systems have recovery cycles. Returning acid and caustic solutions are analyzed by conductivity sensors; if the concentration drops, they are dosed and returned to the tank. This saves significant amounts of chemicals and water."
+          "q": "Можно ли повторно использовать химические растворы?",
+          "a": "Да, наши CIP-системы на 3 и 4 резервуара имеют циклы рекуперации. Возвращающиеся растворы кислоты и щёлочи анализируются датчиками электропроводности; если концентрация падает, они дозируются и возвращаются в резервуар. Это экономит значительные количества химикатов и воды."
         },
         {
-          "q": "Is reporting and validation possible?",
-          "a": "All CIP operations are recorded in the automation panel along with time, temperature, conductivity and flow data. For audits, these data can be output in PDF format via USB or network to ensure full traceability."
+          "q": "Возможны ли отчётность и валидация?",
+          "a": "Все операции CIP записываются в панели автоматизации вместе с данными времени, температуры, электропроводности и расхода. Для аудитов эти данные могут выводиться в формате PDF через USB или сеть для обеспечения полной прослеживаемости."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "4-Tank Automatic CIP Unit"
+          "alt": "Автоматическая CIP-установка на 4 резервуара"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "Dosing Pumps and Collector Group"
+          "alt": "Дозировочные насосы и группа коллекторов"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "Heat Exchanger Integration"
+          "alt": "Интеграция теплообменника"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "Dairy Facility Multi-Line Washing"
+          "alt": "Многолинейная мойка молочного предприятия"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-16 PDF Specification",
-        "desc": "CIP system flow diagrams, heat exchanger capacities and pneumatic valve matrix technical details.",
+        "title": "Технический документ",
+        "subtitle": "DOK-16 PDF-спецификация",
+        "desc": "Схемы потоков CIP-системы, мощности теплообменников и технические детали матрицы пневматических клапанов.",
         "btn": "Скачать спецификацию (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-16-cip-sistemleri.pdf"
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/DOK-16-cip-sistemy.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "Dairy Facility Washing Line Reference",
-        "desc": "Fully automatic 4-tank CIP recovery system running 3 simultaneous lines (multi-line) for an integrated facility processing 200 tons of milk per day.",
+        "badge": "Эталонное применение",
+        "imgAlt": "Эталон линии мойки молочного предприятия",
+        "desc": "Полностью автоматическая CIP-система рекуперации на 4 резервуара, работающая на 3 одновременных линиях (многолинейная) для интегрированного предприятия, перерабатывающего 200 тонн молока в сутки.",
         "link": "Все ссылки"
       },
       "cta": {
-        "title": "Project Engineering",
-        "desc": "Contact us to determine the most suitable CIP module for your facility's capacity and washing line lengths.",
+        "title": "Инженерия проекта",
+        "desc": "Свяжитесь с нами для определения наиболее подходящего модуля CIP для мощности вашего предприятия и длин линий мойки.",
         "btn": "Техническая поддержка"
       }
     }
   },
   "referencesPage": {
     "metadata": {
-      "title": "Инженерные референции | Welltech®",
-      "description": "Успешно реализованные промышленные проекты из нержавеющей стали."
+      "title": "Инженерные референции и завершённые проекты | Welltech®",
+      "description": "Промышленные проекты из нержавеющей стали и полевые инженерные референции, успешно реализованные компанией Welltech."
     },
     "breadcrumb": {
       "home": "Главная",
@@ -2194,7 +2195,7 @@
     },
     "hero": {
       "title": "Инженерные референции",
-      "quote": "\"Мы не просто производим резервуары; мы строим высокотехнологичные площадки, которые нужны мировой промышленности.\""
+      "quote": "\"Мы не просто производим резервуары; мы строим высокотехнологичные технологические площадки, которые нужны мировой промышленности.\""
     },
     "labels": {
       "capacity": "Мощность",
@@ -2204,15 +2205,15 @@
     },
     "ctaBtn": "Запросить предложение по тому же стандарту",
     "cta": {
-      "title": "Разработаем решение для вашего проекта",
-      "desc": "Свяжитесь с нашими экспертами. Планируем производство по глобальным стандартам.",
+      "title": "Разработаем инженерное решение для вашего проекта",
+      "desc": "Свяжитесь с нашей командой экспертов для ваших конкретных требований к мощности и технических стандартов. Планируем ваше производство по глобальным стандартам.",
       "btn": "Техническая поддержка"
     }
   },
   "selfPrimingPumpsPage": {
     "metadata": {
-      "title": "Self-Priming Hygienic Pumps | Welltech®",
-      "description": "Liquid-ring self-priming pump technology for transferring air-gas mixed liquids, foamy products and CIP return lines."
+      "title": "Самовсасывающие гигиенические насосы | Welltech®",
+      "description": "Технология самовсасывания с жидкостным кольцом для перекачки жидкостей с газово-воздушными смесями, пенистых продуктов и линий возврата CIP."
     },
     "breadcrumb": {
       "home": "Главная",
@@ -2220,135 +2221,135 @@
       "current": "Самовсасывающие насосы"
     },
     "hero": {
-      "title": "Self-Priming Pumps",
-      "desc": "Even when there is air in the suction line, this technology creates vacuum for uninterrupted flow. The indispensable liquid-ring transfer technology for CIP return lines and foamy liquids."
+      "title": "Самовсасывающие насосы",
+      "desc": "Даже при наличии воздуха во всасывающей линии эта технология создаёт вакуум для непрерывного потока. Незаменимая технология перекачки с жидкостным кольцом для линий возврата CIP и пенистых жидкостей."
     },
     "technology": {
-      "title": "Power in Air-Liquid Mixtures",
-      "desc": "Standard centrifugal pumps suffer cavitation when air pockets form in the pipeline or at the tank bottom, stopping the transfer. Our self-priming (side-channel/liquid-ring) pumps create a vacuum by mixing the liquid inside with air through a special star impeller design. This technology, which can draw suction even when there is air in the line, is especially used when drawing product from tanks to trucks, with foamy products like whey, and in CIP washing liquid return (CIP Return).",
-      "imgAlt": "Liquid-Ring Star Impeller System"
+      "title": "Мощность при воздушно-жидкостных смесях",
+      "desc": "Стандартные центробежные насосы страдают кавитацией, когда в трубопроводе или на дне резервуара образуются воздушные карманы, останавливая перекачку. Наши самовсасывающие насосы (боковой канал/жидкостное кольцо) создают вакуум, смешивая внутреннюю жидкость с воздухом через специальную конструкцию звёздчатого рабочего колеса. Эта технология особенно используется при откачке продукта из резервуаров в автоцистерны, при работе с пенистыми продуктами как молочная сыворотка и в линиях возврата моющей жидкости CIP.",
+      "imgAlt": "Система звёздчатого рабочего колеса с жидкостным кольцом"
     },
     "features": {
-      "title": "Technical Equipment & Capacity",
-      "imgAlt": "Bi-Directional Motor and Body",
+      "title": "Техническое оборудование и производительность",
+      "imgAlt": "Двунаправленный двигатель и корпус",
       "items": [
-        "Up to 8 Meters Deep Suction Capacity",
-        "AISI 316L Precision Cast Open Star Impeller",
-        "Gas-Containing (Foamy) Fluid Compatibility",
-        "Ideal as CIP Return Pump",
-        "Reversible Option",
-        "Easy-to-Disassemble Front Cover Design"
+        "Глубина всасывания до 8 метров",
+        "Открытое звёздчатое рабочее колесо из прецизионного литья AISI 316L",
+        "Совместимость с газосодержащими (пенистыми) жидкостями",
+        "Идеален в качестве насоса возврата CIP",
+        "Реверсивная опция",
+        "Конструкция передней крышки, легко разбираемая"
       ]
     },
     "table": {
-      "title": "Performance & Selection Table",
-      "note": "* The pump body must contain some liquid (priming liquid) for the pump to self-prime. Values are determined by our hydraulic engineers for 1 cP viscosity.",
-      "imgAlt": "Suction Curve and Pump Drawing",
+      "title": "Таблица производительности и выбора",
+      "note": "* Корпус насоса должен содержать немного жидкости (жидкость заправки) для самовсасывания. Значения определены при вязкости 1 сП.",
+      "imgAlt": "Кривая всасывания и чертёж насоса",
       "headers": [
-        "Series No",
-        "Max. Flow (m³/h)",
-        "Suction / Discharge (mWC)",
-        "Motor Power (kW)"
+        "Серийный №",
+        "Макс. расход (м³/ч)",
+        "Всасывание / Подача (м вод. ст.)",
+        "Мощность двигателя (кВт)"
       ],
       "rows": [
         {
           "model": "WT-SP 15",
-          "flow": "15 m³/h",
-          "head": "-7 m / 25 mWC",
-          "power": "2.2 - 3.0 kW",
+          "flow": "15 м³/ч",
+          "head": "-7 м / 25 м вод. ст.",
+          "power": "2,2 - 3,0 кВт",
           "highlight": "blue"
         },
         {
           "model": "WT-SP 30",
-          "flow": "30 m³/h",
-          "head": "-7 m / 32 mWC",
-          "power": "4.0 - 5.5 kW",
+          "flow": "30 м³/ч",
+          "head": "-7 м / 32 м вод. ст.",
+          "power": "4,0 - 5,5 кВт",
           "highlight": "blue"
         },
         {
           "model": "WT-SP 50",
-          "flow": "50 m³/h",
-          "head": "-8 m / 35 mWC",
-          "power": "7.5 - 11.0 kW",
+          "flow": "50 м³/ч",
+          "head": "-8 м / 35 м вод. ст.",
+          "power": "7,5 - 11,0 кВт",
           "highlight": "orange"
         },
         {
           "model": "WT-SP 70",
-          "flow": "70 m³/h",
-          "head": "-8 m / 40 mWC",
-          "power": "15.0 - 18.5 kW",
+          "flow": "70 м³/ч",
+          "head": "-8 м / 40 м вод. ст.",
+          "power": "15,0 - 18,5 кВт",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Vacuum Transfer FAQ",
+      "title": "FAQ по вакуумной перекачке",
       "items": [
         {
-          "q": "Why can't a centrifugal pump be used as a CIP Return pump?",
-          "a": "During CIP, the chemical liquid returning from the tank contains a large amount of air and foam. The centrifugal pump stops flow when it sees air and the washing line gets blocked. The self-priming pump can swallow the liquid-air mixture and pump it into the system."
+          "q": "Почему центробежный насос нельзя использовать как насос возврата CIP?",
+          "a": "Во время CIP химическая жидкость, возвращающаяся из резервуара, содержит большое количество воздуха и пены. Центробежный насос останавливает поток при появлении воздуха, и линия мойки блокируется. Самовсасывающий насос может поглощать смесь жидкость-воздух и перекачивать её в систему."
         },
         {
-          "q": "Why do we need to put liquid inside during initial start (Priming)?",
-          "a": "For the liquid ring to form in the pump body and to vacuum out the air inside, part of the body must be filled with liquid from the start."
+          "q": "Почему при первом запуске (заправке) нужно залить жидкость внутрь?",
+          "a": "Для образования жидкостного кольца в корпусе насоса и вакуумирования воздуха внутри часть корпуса должна быть заполнена жидкостью с самого начала."
         },
         {
-          "q": "Can I draw milk from a truck or underground tank?",
-          "a": "Absolutely. Even if the suction pipe is 7-8 meters underground, the pump creates vacuum and draws the liquid up and pumps it to the main tanks."
+          "q": "Могу ли я откачивать молоко из грузовика или подземного резервуара?",
+          "a": "Абсолютно. Даже если всасывающая труба находится на 7-8 метров под землёй, насос создаёт вакуум, поднимает жидкость наверх и подаёт её в основные резервуары."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "CIP Return Pump Installation"
+          "alt": "Монтаж насоса возврата CIP"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "Liquid-Ring Impeller Design"
+          "alt": "Конструкция звёздчатого колеса с жидкостным кольцом"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "Underground Tank Product Drawing"
+          "alt": "Откачка продукта из подземного резервуара"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "Milk and Foam Transfer Line"
+          "alt": "Линия перекачки молока и пены"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-11 PDF Specification",
-        "desc": "Vacuum/suction depth charts, liquid-ring impeller tolerances and mechanical connection dimensions.",
-        "btn": "Download Curves (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-kendinden-emisli-pompalar.pdf"
+        "title": "Технический документ",
+        "subtitle": "DOK-11 PDF-спецификация",
+        "desc": "Диаграммы вакуума/глубины всасывания, допуски звёздчатого колеса с жидкостным кольцом и механические присоединительные размеры.",
+        "btn": "Скачать кривые (PDF)",
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/DOK-11-samovsasyvayushchie-nasosy.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "CIP Return Automation",
-        "desc": "30 m³/h capacity CIP return pumps integrated into foamy acid and caustic return lines for a large-scale juice facility.",
+        "badge": "Эталонное применение",
+        "imgAlt": "Автоматизация возврата CIP",
+        "desc": "Насосы возврата CIP производительностью 30 м³/ч, интегрированные в пенистые кислотные и щелочные линии возврата крупного сокового предприятия.",
         "link": "Все ссылки"
       },
       "cta": {
-        "title": "Vacuum Calculation",
-        "desc": "Tell us your suction depth (negative elevation) and air ratio in the pipeline, and we will design a system that transports your product without cavitation.",
-        "btn": "Request a Quote →",
+        "title": "Расчёт вакуума",
+        "desc": "Сообщите нам глубину всасывания и долю воздуха в трубопроводе, и мы спроектируем систему, транспортирующую ваш продукт без кавитации.",
+        "btn": "Запросить предложение →",
         "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20kendinden%20emi%C5%9Fli%20ve%20CIP%20d%C3%B6n%C3%BC%C5%9F%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
       }
     }
   },
   "diaphragmPumpsPage": {
     "metadata": {
-      "title": "Air-Operated Diaphragm Pumps | Welltech®",
-      "description": "Pneumatic air-operated diaphragm pump technologies that carry no electrical spark risk for flammable (ATEX) environments and aggressive chemicals."
+      "title": "Пневматические мембранные насосы | Welltech®",
+      "description": "Пневматические мембранные насосы без риска электрической искры для взрывоопасных (ATEX) сред и агрессивных химикатов."
     },
     "breadcrumb": {
       "home": "Главная",
@@ -2356,135 +2357,135 @@
       "current": "Пневматические мембранные насосы"
     },
     "hero": {
-      "title": "Air-Operated Diaphragm Pumps",
-      "desc": "Zero electrical spark, full ATEX compliance. Pneumatic systems powered by compressed air providing unrivalled safety in transferring flammable and aggressive chemicals."
+      "title": "Пневматические мембранные насосы",
+      "desc": "Нулевая электрическая искра, полное соответствие ATEX. Пневматические системы на сжатом воздухе обеспечивают непревзойдённую безопасность при перекачке воспламеняемых и агрессивных химикатов."
     },
     "safety": {
-      "title": "100% Safety Without Electricity",
-      "desc": "In environments with solvent, alcohol or flammable gas emissions, even a tiny spark from an electric motor pump can cause disaster. Pneumatic Diaphragm pumps draw their energy from compressed air from the factory compressor. Since there is no electrical connection, they provide 100% Ex-Proof (ATEX) protection. Since they have no mechanical impeller, they can also easily pump liquids containing fruit particles or solid particles without crushing the product.",
-      "imgAlt": "Pneumatic Air Valve Detail"
+      "title": "100% безопасность без электричества",
+      "desc": "В средах с выбросами растворителей, спирта или горючих газов даже малейшая искра от электромоторного насоса может вызвать катастрофу. Пневматические мембранные насосы получают энергию от сжатого воздуха заводского компрессора. Поскольку электрическое подключение отсутствует, они обеспечивают 100% взрывозащиту (ATEX). Так как у них нет механического рабочего колеса, они также легко перекачивают жидкости с частицами или твёрдые взвеси без дробления продукта.",
+      "imgAlt": "Деталь пневматического воздушного клапана"
     },
     "features": {
-      "title": "Critical Engineering Features",
-      "imgAlt": "ATEX Protection and Grounding",
+      "title": "Критические инженерные характеристики",
+      "imgAlt": "Взрывозащита ATEX и заземление",
       "items": [
-        "Dry Running Without Damage",
-        "ATEX (Ex-Proof) Zone Compliance",
-        "Solid Particle and Viscous Material Transfer",
-        "PTFE (Teflon) and Santoprene Diaphragm",
-        "Easy Flow Rate Adjustment with Air Pressure",
-        "Sealless Design"
+        "Работа всухую без повреждений",
+        "Соответствие зоне ATEX (Ex-Proof)",
+        "Перекачка твёрдых частиц и вязких материалов",
+        "Мембрана PTFE (Тефлон) и Santopren",
+        "Простая регулировка расхода давлением воздуха",
+        "Конструкция без уплотнений"
       ]
     },
     "table": {
-      "title": "Diaphragm Pump Capacity Table",
-      "note": "* The performance of pneumatic pumps is directly dependent on the air pressure (Bar) produced by the compressor in your facility. Data is calculated with reference to 7 Bar air supply.",
-      "imgAlt": "Diaphragm Pump Performance Curve",
+      "title": "Таблица производительности мембранных насосов",
+      "note": "* Производительность пневматических насосов напрямую зависит от давления воздуха (Бар) компрессора вашего предприятия. Данные рассчитаны при подаче воздуха 7 Бар.",
+      "imgAlt": "Кривая производительности мембранного насоса",
       "headers": [
-        "Connection Size",
-        "Max. Flow (L/min)",
-        "Max. Air Pressure",
-        "Solid Particle Size"
+        "Размер подключения",
+        "Макс. расход (л/мин)",
+        "Макс. давление воздуха",
+        "Размер твёрдых частиц"
       ],
       "rows": [
         {
-          "size": "1/2\" Inch",
-          "flow": "50 L/min",
-          "pressure": "7 Bar",
-          "particle": "3 mm",
+          "size": "1/2\" дюйм",
+          "flow": "50 л/мин",
+          "pressure": "7 Бар",
+          "particle": "3 мм",
           "highlight": "blue"
         },
         {
-          "size": "1\" Inch",
-          "flow": "160 L/min",
-          "pressure": "7 Bar",
-          "particle": "4 mm",
+          "size": "1\" дюйм",
+          "flow": "160 л/мин",
+          "pressure": "7 Бар",
+          "particle": "4 мм",
           "highlight": "blue"
         },
         {
-          "size": "1.5\" Inch",
-          "flow": "350 L/min",
-          "pressure": "7 Bar",
-          "particle": "6 mm",
+          "size": "1,5\" дюйм",
+          "flow": "350 л/мин",
+          "pressure": "7 Бар",
+          "particle": "6 мм",
           "highlight": "orange"
         },
         {
-          "size": "2\" Inch",
-          "flow": "600 L/min",
-          "pressure": "7 Bar",
-          "particle": "8 mm",
+          "size": "2\" дюйм",
+          "flow": "600 л/мин",
+          "pressure": "7 Бар",
+          "particle": "8 мм",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Pneumatic Transfer FAQ",
+      "title": "FAQ по пневматической перекачке",
       "items": [
         {
-          "q": "Does dry running damage the pump?",
-          "a": "No. Unlike centrifugal and lobe pumps, air diaphragm pumps do not heat up and break down even if they run dry (without liquid) for hours since there is no mechanical friction."
+          "q": "Повреждает ли работа всухую насос?",
+          "a": "Нет. В отличие от центробежных и кулачковых насосов, пневматические мембранные насосы не перегреваются и не выходят из строя даже при многочасовой работе всухую (без жидкости), так как механического трения нет."
         },
         {
-          "q": "How can I adjust the flow rate?",
-          "a": "While expensive inverters (frequency drives) are needed for electric motor pumps, simply throttling or opening the air valve from the compressor is sufficient to change the flow rate in diaphragm pumps."
+          "q": "Как отрегулировать расход?",
+          "a": "В то время как для электромоторных насосов требуются дорогостоящие частотные преобразователи, в мембранных насосах достаточно просто прикрыть или открыть воздушный клапан компрессора."
         },
         {
-          "q": "How do we select the diaphragm material?",
-          "a": "PTFE (Teflon) with excellent chemical resistance for aggressive acids and solvents; Santoprene or NBR with flexible structure for food applications or sludgy products containing abrasive particles."
+          "q": "Как выбрать материал мембраны?",
+          "a": "PTFE (Тефлон) с отличной химической стойкостью — для агрессивных кислот и растворителей; Santopren или NBR с эластичной структурой — для пищевых применений или шламистых продуктов с абразивными частицами."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "ATEX Chemical Transfer Pump"
+          "alt": "Насос перекачки химикатов ATEX"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "PTFE Diaphragm Group"
+          "alt": "Группа мембран PTFE"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "Food Sector Hygienic AODD"
+          "alt": "Гигиенический AODD для пищевого сектора"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "Air Pump Battery"
+          "alt": "Батарея воздушных насосов"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-13 PDF Specification",
-        "desc": "ATEX certification documents, diaphragm chemical resistance table and pressure/air consumption curves.",
-        "btn": "Download Document (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-13-havali-diyafram-pompalar.pdf"
+        "title": "Технический документ",
+        "subtitle": "DOK-13 PDF-спецификация",
+        "desc": "Документы сертификации ATEX, таблица химической стойкости мембраны и кривые давление/потребление воздуха.",
+        "btn": "Скачать документ (PDF)",
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/DOK-13-pnevmaticheskie-diafragmennye-nasosy.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "Chemical ATEX Line Reference",
-        "desc": "ATEX transfer station with PTFE diaphragm from reactors to 50-ton storage tanks in a high-flammability chemical production facility.",
+        "badge": "Эталонное применение",
+        "imgAlt": "Эталон химической линии ATEX",
+        "desc": "Станция перекачки ATEX с мембраной PTFE от реакторов до 50-тонных резервуаров хранения на предприятии химического производства с высокой воспламеняемостью.",
         "link": "Все ссылки"
       },
       "cta": {
-        "title": "Pneumatic Engineering",
-        "desc": "Specify your facility compressor capacity and the liquid to be transferred, and we will calculate the correct diaphragm material and size.",
-        "btn": "Request a Quote →",
+        "title": "Пневматическая инженерия",
+        "desc": "Укажите мощность компрессора вашего предприятия и перекачиваемую жидкость, и мы рассчитаем правильный материал мембраны и размер.",
+        "btn": "Запросить предложение →",
         "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20havalı%20diyafram%20pompası%20hakkında%20kimyasal%20uyumluluk%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
       }
     }
   },
   "monopompPumpsPage": {
     "metadata": {
-      "title": "Monopumps (Eccentric Screw) | Welltech®",
-      "description": "Rotor-stator monopump systems providing pulsation-free and continuous transfer for high-viscosity, sludge, honey and abrasive particle-containing fluids."
+      "title": "Мононасосы (Эксцентриковые шнековые насосы) | Welltech®",
+      "description": "Роторно-статорные мононасосные системы для безымпульсной и непрерывной перекачки высоковязких жидкостей, шлама, мёда и флюидов с абразивными частицами."
     },
     "breadcrumb": {
       "home": "Главная",
@@ -2492,127 +2493,127 @@
       "current": "Мононасосы"
     },
     "hero": {
-      "title": "Monopumps",
-      "desc": "Designed for the most difficult fluids. With eccentric screw (Rotor-Stator) operating principle, zero vibration and continuous flow for high-viscosity, abrasive and solid particle-containing products."
+      "title": "Мононасосы",
+      "desc": "Разработаны для самых сложных жидкостей. Принцип работы эксцентрикового шнека (ротор-статор) обеспечивает нулевую вибрацию и непрерывный поток для высоковязких, абразивных продуктов и продуктов с твёрдыми частицами."
     },
     "technology": {
-      "title": "Pulsation-Free and Continuous Transfer",
-      "desc": "Monopumps (Eccentric Screw Pumps) work on the principle of a helical stainless steel rotor rotating inside an elastomeric (rubber) stator. This unique geometry creates continuously closed cavities in the liquid, pushing the fluid forward under pressure. From water-like fluids to products with viscosity up to 1,000,000 cP such as dough, honey, wastewater sludge, fruit puree, glue and resin, it provides a perfect and constant flow rate without any pulsation.",
-      "imgAlt": "Monopump Rotor and Stator Detail"
+      "title": "Безымпульсная и непрерывная перекачка",
+      "desc": "Мononасосы (эксцентриковые шнековые насосы) работают по принципу вращения спирального ротора из нержавеющей стали внутри эластомерного (резинового) статора. Эта уникальная геометрия создаёт непрерывно закрытые полости в жидкости, продвигая флюид вперёд под давлением. От водоподобных жидкостей до продуктов с вязкостью до 1 000 000 сП — теста, мёда, шлама сточных вод, фруктового пюре, клея и смолы — обеспечивается идеальный и постоянный расход без каких-либо пульсаций.",
+      "imgAlt": "Деталь ротора и статора мononасоса"
     },
     "features": {
-      "title": "Superior Mechanical Properties",
-      "imgAlt": "Elastomer Stator and Rotor",
+      "title": "Превосходные механические свойства",
+      "imgAlt": "Эластомерный статор и ротор",
       "items": [
-        "Low Shear Technology",
-        "Solid Particle and Sludge Transfer",
-        "NBR, EPDM, FKM, PTFE Stator Options",
-        "Precise Proportional Dosing Capability",
-        "12-24 Bar High Pressure Resistance",
-        "Non-Crushing Flow for Fruit and Food Cells"
+        "Технология низкого сдвига (Low Shear)",
+        "Перекачка твёрдых частиц и шлама",
+        "Варианты статора NBR, EPDM, FKM, PTFE",
+        "Возможность точного пропорционального дозирования",
+        "Высокая стойкость к давлению 12-24 Бар",
+        "Нещадящий поток для фруктовых и пищевых клеток"
       ]
     },
     "table": {
-      "title": "Monopump Capacity Table",
-      "note": "* Values are calculated for average viscosity fluids (up to 12 Bar max pressure). Flow varies depending on reducer speed.",
-      "imgAlt": "Monopump Pressure and Capacity Curve",
+      "title": "Таблица производительности мononасосов",
+      "note": "* Значения рассчитаны для жидкостей средней вязкости (макс. давление до 12 Бар). Расход варьируется в зависимости от скорости редуктора.",
+      "imgAlt": "Кривая давление/производительность мononасоса",
       "headers": [
-        "Series No",
-        "Max. Flow (m³/h)",
-        "Max. Pressure",
-        "Connection Size"
+        "Серийный №",
+        "Макс. расход (м³/ч)",
+        "Макс. давление",
+        "Размер подключения"
       ],
       "rows": [
         {
           "model": "WT-M 05",
-          "flow": "5 m³/h",
-          "pressure": "12 Bar",
-          "connection": "2\" Inch",
+          "flow": "5 м³/ч",
+          "pressure": "12 Бар",
+          "connection": "2\" дюйм",
           "highlight": "blue"
         },
         {
           "model": "WT-M 10",
-          "flow": "10 m³/h",
-          "pressure": "12 Bar",
-          "connection": "2.5\" Inch",
+          "flow": "10 м³/ч",
+          "pressure": "12 Бар",
+          "connection": "2,5\" дюйм",
           "highlight": "blue"
         },
         {
           "model": "WT-M 20",
-          "flow": "20 m³/h",
-          "pressure": "12 Bar",
-          "connection": "3\" Inch",
+          "flow": "20 м³/ч",
+          "pressure": "12 Бар",
+          "connection": "3\" дюйм",
           "highlight": "orange"
         },
         {
           "model": "WT-M 40",
-          "flow": "40 m³/h",
-          "pressure": "12 Bar",
-          "connection": "4\" Inch",
+          "flow": "40 м³/ч",
+          "pressure": "12 Бар",
+          "connection": "4\" дюйм",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Eccentric Screw Pump FAQ",
+      "title": "FAQ по эксцентриковым шнековым насосам",
       "items": [
         {
-          "q": "Can monopumps run dry?",
-          "a": "No. Since the stator is usually made of elastomeric (rubber etc.) material, when no fluid (lubricant) passes through it, the stainless rotor rubs against the stator causing excessive heat and burns the stator. The system must be equipped with dry-run protection sensors."
+          "q": "Могут ли мононасосы работать всухую?",
+          "a": "Нет. Поскольку статор обычно изготовлен из эластомерного (резинового и т.п.) материала, когда через него не проходит жидкость (смазка), нержавеющий ротор трётся о статор, вызывая чрезмерный нагрев и выжигая статор. Система должна быть оснащена датчиками защиты от сухого хода."
         },
         {
-          "q": "Can it pump solid particle or seed-containing products?",
-          "a": "Absolutely. This is the greatest strength of monopumps. Products containing particles and fibers like wastewater sludge, seeded fruit purees or olive paste are transferred without clogging and without crushing their structure thanks to the rotor/stator cavity geometry."
+          "q": "Может ли насос перекачивать продукты с твёрдыми частицами или семенами?",
+          "a": "Абсолютно. Это главная сила мononасосов. Продукты с частицами и волокнами — шлам сточных вод, фруктовые пюре с семенами или оливковая паста — перекачиваются без засоров и без разрушения их структуры благодаря геометрии полостей ротор/статор."
         },
         {
-          "q": "How do we select the stator material?",
-          "a": "According to the chemical composition and temperature of your fluid. For food products like milk and honey: FDA-compliant white NBR or EPDM; for abrasive aggressive acids and chemicals: FKM (Viton) or PTFE (Teflon) stator."
+          "q": "Как выбрать материал статора?",
+          "a": "В зависимости от химического состава и температуры вашей жидкости. Для пищевых продуктов — молока и мёда: NBR или EPDM белого цвета, соответствующий FDA; для абразивных агрессивных кислот и химикатов: статор FKM (Viton) или PTFE (Тефлон)."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Примеры применений",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "ПРОЕКТ 01",
-          "alt": "Food-Grade Monopump"
+          "alt": "Мononасос пищевого класса"
         },
         {
           "src": "galeri-2.webp",
           "label": "ПРОЕКТ 02",
-          "alt": "Wastewater Sludge Pump"
+          "alt": "Насос для шлама сточных вод"
         },
         {
           "src": "galeri-3.webp",
           "label": "ПРОЕКТ 03",
-          "alt": "Rotor and Stator Detail"
+          "alt": "Деталь ротора и статора"
         },
         {
           "src": "galeri-4.webp",
           "label": "ПРОЕКТ 04",
-          "alt": "Gearbox-Driven Monopump Group"
+          "alt": "Группа мононасосов с редукторным приводом"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-11 PDF Specification",
-        "desc": "Monopump reducer speed ratios, stator chemical resistance table and pressure/flow measurement curves.",
-        "btn": "Download Curves (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-monopomp-pompalar.pdf"
+        "title": "Технический документ",
+        "subtitle": "DOK-11 PDF-спецификация",
+        "desc": "Передаточные числа редуктора мononасоса, таблица химической стойкости статора и кривые измерения давление/расход.",
+        "btn": "Скачать кривые (PDF)",
+        "fileUrl": "/assets/documents/ru/tehnicheskie-harakteristiki/DOK-11-vintovye-nasosy.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Heavy-Duty Sludge Pump Reference",
-        "desc": "Heavy-duty monopump battery with FKM stator, resistant to 12 Bar pressure for transferring 20% density active sludge in wastewater treatment facility.",
+        "badge": "Ведущий эталон",
+        "imgAlt": "Эталон тяжёлого шламового насоса",
+        "desc": "Батарея тяжёлых мononасосов с статором FKM, стойкостью к давлению 12 Бар для перекачки активного шлама плотностью 20% на очистных сооружениях.",
         "link": "Все ссылки"
       },
       "cta": {
-        "title": "Monopump Selection",
-        "desc": "Specify your fluid viscosity (cP) and particle density, and we will determine the most suitable rotor-stator pair.",
-        "btn": "Engineering Support →",
+        "title": "Выбор мononасоса",
+        "desc": "Укажите вязкость (сП) вашей жидкости и плотность частиц, и мы определим наиболее подходящую пару ротор-статор.",
+        "btn": "Инженерная поддержка →",
         "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20yüksek%20viskoziteli%20ürün%20transferi%20için%20monopomp%20fiyatı%20almak%20istiyorum."
       }
     }

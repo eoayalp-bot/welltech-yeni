@@ -864,408 +864,408 @@
   },
   "positivePumpsPage": {
     "metadata": {
-      "title": "Positive Displacement & Lobe Pumps | Welltech®",
-      "description": "Hygienic lobe pumps for transfer of high-viscosity products such as honey, chocolate, tomato paste and cosmetics without crushing."
+      "title": "مضخات الإزاحة الإيجابية ومضخات الفصوص | Welltech®",
+      "description": "مضخات فصوص صحية لنقل المنتجات عالية اللزوجة كالعسل والشوكولاتة ومعجون الطماطم ومستحضرات التجميل دون سحق."
     },
     "breadcrumb": {
       "home": "الرئيسية",
       "pumps": "المضخات",
-      "current": "Positive Displacement Pumps"
+      "current": "مضخات الإزاحة الإيجابية"
     },
     "hero": {
-      "title": "Positive Displacement Pumps",
-      "desc": "Hygienic lobe pump systems that transfer high-viscosity fluids such as honey, chocolate, tomato paste and cosmetics without crushing or damaging their cellular structure."
+      "title": "مضخات الإزاحة الإيجابية",
+      "desc": "أنظمة مضخات فصوص صحية تنقل السوائل عالية اللزوجة كالعسل والشوكولاتة ومعجون الطماطم ومستحضرات التجميل دون سحق أو إتلاف بنيتها الخلوية."
     },
     "technology": {
-      "title": "Precise & Gentle Transfer",
-      "desc": "The high-speed impellers of centrifugal pumps damage dense products like honey or chocolate. Our positive displacement (lobe) pumps transport the fluid in large chambers through stainless steel lobes rotating at very low speeds without contact. The cellular integrity (particle, consistency) of the product is never compromised. Even the densest products up to 100,000 cP viscosity can be pumped at constant high pressure.",
-      "imgAlt": "Lobe Rotor System Detail"
+      "title": "نقل دقيق ولطيف",
+      "desc": "تتلف أدوات الدفع عالية السرعة في المضخات الطاردة المركزية المنتجات الكثيفة كالعسل والشوكولاتة. تنقل مضخات الإزاحة الإيجابية (الفصوص) لدينا السائل في غرف كبيرة عبر فصوص من الفولاذ المقاوم للصدأ تدور بسرعة منخفضة جداً دون تلامس. لا تُمس السلامة الخلوية للمنتج أبداً. حتى أكثر المنتجات كثافةً بلزوجة تصل إلى 100,000 سنتيبواز يمكن ضخها بضغط عالٍ ثابت.",
+      "imgAlt": "تفاصيل نظام الروتور ذي الفصوص"
     },
     "features": {
-      "title": "Technical Engineering Features",
-      "imgAlt": "Gearbox Motor Connection",
+      "title": "الخصائص التقنية",
+      "imgAlt": "توصيل المحرك والمخفض",
       "items": [
-        "Low-RPM Transfer",
-        "AISI 316L Food-Grade Body and Lobes",
-        "Gearbox & Inverter for Variable Flow Rates",
-        "Heating Jacket Front Cover Option for Chocolate",
-        "Double-Acting Carbon Mechanical Seal",
-        "Reversible (Bi-Directional) Flow"
+        "نقل بسرعة منخفضة (Low-RPM)",
+        "هيكل وفصوص AISI 316L للدرجة الغذائية",
+        "مخفض وعاكس للتدفقات المتغيرة",
+        "خيار غطاء أمامي بغلاف تسخين للشوكولاتة",
+        "ختم ميكانيكي مزدوج من الكربون",
+        "تدفق عكسي (ثنائي الاتجاه)"
       ]
     },
     "table": {
-      "title": "Lobe Pump Capacity Table",
-      "note": "* As viscosity increases, the pump speed must be reduced. Gearbox selection is calculated by our engineers based on the specific product to be transferred (tomato paste, honey, glucose, etc.).",
-      "imgAlt": "Lobe Pump Technical Drawing",
+      "title": "جدول طاقة مضخات الفصوص",
+      "note": "* مع زيادة اللزوجة، يجب تقليل سرعة المضخة. يحسب مهندسونا اختيار المخفض بناءً على المنتج المراد نقله.",
+      "imgAlt": "الرسم الفني لمضخة الفصوص",
       "headers": [
-        "Series No",
-        "Max. Flow (m³/h)",
-        "Max. Pressure (Bar)",
-        "Connection Diameter"
+        "رقم السلسلة",
+        "أقصى تدفق (م³/س)",
+        "أقصى ضغط (بار)",
+        "قطر التوصيل"
       ],
       "rows": [
         {
           "model": "WT-L 20",
-          "flow": "3 - 5 m³/h",
-          "pressure": "5 - 10 Bar",
+          "flow": "3 - 5 م³/س",
+          "pressure": "5 - 10 بار",
           "connection": "DN 40 / 1.5\"",
           "highlight": "blue"
         },
         {
           "model": "WT-L 40",
-          "flow": "8 - 12 m³/h",
-          "pressure": "5 - 10 Bar",
+          "flow": "8 - 12 م³/س",
+          "pressure": "5 - 10 بار",
           "connection": "DN 50 / 2.0\"",
           "highlight": "blue"
         },
         {
           "model": "WT-L 80",
-          "flow": "18 - 25 m³/h",
-          "pressure": "5 - 12 Bar",
+          "flow": "18 - 25 م³/س",
+          "pressure": "5 - 12 بار",
           "connection": "DN 65 / 2.5\"",
           "highlight": "orange"
         },
         {
           "model": "WT-L 150",
-          "flow": "30 - 45 m³/h",
-          "pressure": "5 - 12 Bar",
+          "flow": "30 - 45 م³/س",
+          "pressure": "5 - 12 بار",
           "connection": "DN 100 / 4.0\"",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Positive Displacement FAQ",
+      "title": "الأسئلة الشائعة حول مضخات الإزاحة الإيجابية",
       "items": [
         {
-          "q": "Are lobe pumps suitable for CIP (Clean-in-Place) cleaning?",
-          "a": "Yes, as they are designed to meet food and pharmaceutical industry standards (EHEDG and 3A), they can be cleaned excellently with hot water and caustic through the pipeline."
+          "q": "هل مضخات الفصوص مناسبة لتنظيف CIP؟",
+          "a": "نعم، مصممة وفق معايير الصناعة الغذائية والصيدلانية (EHEDG و3A)، يمكن تنظيفها بامتياز بالماء الساخن والصودا الكاوية عبر خط الأنابيب."
         },
         {
-          "q": "How do you prevent freezing during chocolate transfer?",
-          "a": "Chocolate and vegetable oils tend to solidify at room temperature. By adding a jacket option to the front cover of our lobe pumps and circulating hot water through it, we guarantee that the product remains liquid."
+          "q": "كيف تمنعون التصلب أثناء نقل الشوكولاتة؟",
+          "a": "تميل الشوكولاتة والزيوت النباتية إلى التصلب في درجة حرارة الغرفة. بإضافة خيار غلاف للغطاء الأمامي لمضخات الفصوص لدينا وتدوير الماء الساخن، نضمن بقاء المنتج سائلاً."
         },
         {
-          "q": "Why can't centrifugal pumps handle honey?",
-          "a": "The impellers of centrifugal pumps rotate at high speed. When a high-viscosity fluid like honey hits the impeller, it creates great resistance that can burn the motor or damage the molecular structure (crystallization) of the product. Lobe pumps overcome this density with low RPM and high torque."
+          "q": "لماذا لا تستطيع المضخات الطاردة المركزية التعامل مع العسل؟",
+          "a": "تدور أدوات دفع المضخات الطاردة المركزية بسرعة عالية. عندما تصطدم سائل عالي اللزوجة كالعسل بأداة الدفع، يخلق مقاومة كبيرة قد تحرق المحرك أو تتلف البنية الجزيئية للمنتج. تتغلب مضخات الفصوص على هذه الكثافة بسرعة منخفضة وعزم دوران عالٍ."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "Hygienic Lobe Pump"
+          "alt": "مضخة فصوص صحية"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "Honey Transfer Line"
+          "alt": "خط نقل العسل"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "Chocolate Pump with Jacketed Cover"
+          "alt": "مضخة شوكولاتة بغطاء ذي غلاف"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "Gearbox and Motor Group"
+          "alt": "مجموعة المخفض والمحرك"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-11 PDF Specification",
-        "desc": "Lobe pump viscosity/speed diagrams, jacketed cover dimensions and gearbox power selection table.",
-        "btn": "تحميل الرسوم البيانية (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-loblu-pompalar.pdf"
+        "title": "الوثيقة التقنية",
+        "subtitle": "مواصفات PDF - DOK-11",
+        "desc": "مخططات اللزوجة/السرعة لمضخات الفصوص، وأبعاد الغطاء ذي الغلاف، وجدول اختيار قدرة المخفض.",
+        "btn": "تحميل المخططات (PDF)",
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-11-mudakhkhat-fasiyya.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "Cosmetic Transfer Line Reference",
-        "desc": "Speed-controlled (inverter-driven), double-lobe, 316L hygienic displacement pump integration for a facility producing body lotions and creams.",
+        "badge": "تطبيق مرجعي",
+        "imgAlt": "مرجع خط نقل مستحضرات التجميل",
+        "desc": "تكامل مضخة إزاحة صحية ثنائية الفصوص 316L بالتحكم في السرعة (عاكس) لمنشأة تنتج لوشنات وكريمات الجسم.",
         "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Torque & Power Calculation",
-        "desc": "Tell us the type and density (cP) of the product you will transfer, and we will select the most suitable gearbox-driven lobe pump.",
-        "btn": "طلب عرض سعر →",
+        "title": "حساب عزم الدوران والقدرة",
+        "desc": "أخبرونا بنوع وكثافة (سنتيبواز) المنتج المراد نقله، وسنختار مضخة الفصوص الأنسب.",
+        "btn": "طلب عرض سعر ←",
         "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20y%C3%BCksek%20viskoziteli%20%C3%BCr%C3%BCn%C3%BCm%20i%C3%A7in%20loblu%20pompa%20kapasite%20hesaplamas%C4%B1%20ve%20fiyat%20almak%20istiyorum."
       }
     }
   },
   "centrifugalPumpsPage": {
     "metadata": {
-      "title": "Hygienic Centrifugal Pumps | Welltech®",
-      "description": "High-flow, CIP-compatible, stainless steel hygienic centrifugal pumps for milk, water, juice and olive oil transfer."
+      "title": "مضخات طاردة مركزية صحية | Welltech®",
+      "description": "مضخات طاردة مركزية صحية من الفولاذ المقاوم للصدأ عالية التدفق ومتوافقة مع CIP لنقل الحليب والماء والعصير وزيت الزيتون."
     },
     "breadcrumb": {
       "home": "الرئيسية",
       "pumps": "المضخات",
-      "current": "Centrifugal Pumps"
+      "current": "مضخات طاردة مركزية"
     },
     "hero": {
-      "title": "Hygienic Centrifugal Pumps",
-      "desc": "Maximum flow rate and hydrodynamic efficiency for low-viscosity fluids. Transfer systems fully compliant with CIP standards for milk, olive oil and beverage processes."
+      "title": "مضخات طاردة مركزية صحية",
+      "desc": "أقصى تدفق وكفاءة هيدروديناميكية للسوائل منخفضة اللزوجة. أنظمة نقل متوافقة تماماً مع معايير CIP لعمليات الحليب وزيت الزيتون والمشروبات."
     },
     "technology": {
-      "title": "High Flow, Continuous Transfer",
-      "desc": "Centrifugal pumps pressurize the fluid using the centrifugal force generated by the rotation of the motor-driven impeller. It is the most ideal, long-lasting and low-cost solution for transferring low-viscosity (1-500 cP) products such as milk, juice, wine, olive oil and liquid chemicals. Offered with optimized motor powers based on your facility's pipe diameter, desired flow rate and discharge head (mWC).",
-      "imgAlt": "Hydrodynamic Impeller System"
+      "title": "تدفق عالٍ ونقل مستمر",
+      "desc": "تضغط المضخات الطاردة المركزية السائل باستخدام القوة الطاردة المركزية الناتجة عن دوران أداة الدفع المحركة بمحرك. إنها الحل الأمثل والأكثر متانة والأقل تكلفة لنقل المنتجات منخفضة اللزوجة (1-500 سنتيبواز) كالحليب والعصير والنبيذ وزيت الزيتون والمواد الكيميائية السائلة.",
+      "imgAlt": "نظام أداة الدفع الهيدروديناميكية"
     },
     "features": {
-      "title": "Equipment & Material Features",
-      "imgAlt": "Stainless Steel Motor Enclosure",
+      "title": "خصائص المعدات والمواد",
+      "imgAlt": "غلاف المحرك من الفولاذ المقاوم للصدأ",
       "items": [
-        "AISI 316L Precision Cast Body",
-        "Open and Closed Impeller Options",
-        "SiC/SiC/EPDM Mechanical Seal",
-        "Full Compatibility with CIP and SIP Systems",
-        "Stainless Steel Motor Enclosure",
-        "Low NPSH (Cavitation Protection)"
+        "هيكل صب دقيق AISI 316L",
+        "خيارات أداة دفع مفتوحة ومغلقة",
+        "ختم ميكانيكي SiC/SiC/EPDM",
+        "توافق كامل مع أنظمة CIP وSIP",
+        "غلاف المحرك من الفولاذ المقاوم للصدأ",
+        "NPSH منخفض (حماية من التجويف)"
       ]
     },
     "table": {
-      "title": "Centrifugal Pump Capacity Table",
-      "note": "* Values in the table are referenced to water (1 cP) viscosity. Our hydraulic engineers will select the correct motor based on the number of elbows and discharge head in your line.",
-      "imgAlt": "Pump Performance Curve",
+      "title": "جدول طاقة المضخات الطاردة المركزية",
+      "note": "* القيم في الجدول مستندة إلى لزوجة الماء (1 سنتيبواز). سيختار مهندسو الهيدروليك لدينا المحرك الصحيح بناءً على عدد الانحناءات والضغط الهيدروستاتيكي في خطك.",
+      "imgAlt": "منحنى أداء المضخة",
       "headers": [
-        "Series No",
-        "Max. Flow (m³/h)",
-        "Discharge Head (mWC)",
-        "Motor Power (kW)"
+        "رقم السلسلة",
+        "أقصى تدفق (م³/س)",
+        "الارتفاع الهيدروستاتيكي (م)",
+        "قدرة المحرك (كيلوواط)"
       ],
       "rows": [
         {
           "model": "WT-C 20",
-          "flow": "20 m³/h",
-          "head": "25 mWC",
-          "power": "1.5 - 2.2 kW",
+          "flow": "20 م³/س",
+          "head": "25 م",
+          "power": "1.5 - 2.2 كيلوواط",
           "highlight": "blue"
         },
         {
           "model": "WT-C 40",
-          "flow": "40 m³/h",
-          "head": "35 mWC",
-          "power": "3.0 - 4.0 kW",
+          "flow": "40 م³/س",
+          "head": "35 م",
+          "power": "3.0 - 4.0 كيلوواط",
           "highlight": "blue"
         },
         {
           "model": "WT-C 80",
-          "flow": "80 m³/h",
-          "head": "45 mWC",
-          "power": "5.5 - 7.5 kW",
+          "flow": "80 م³/س",
+          "head": "45 م",
+          "power": "5.5 - 7.5 كيلوواط",
           "highlight": "orange"
         },
         {
           "model": "WT-C 150",
-          "flow": "150 m³/h",
-          "head": "60 mWC",
-          "power": "11.0 - 15.0 kW",
+          "flow": "150 م³/س",
+          "head": "60 م",
+          "power": "11.0 - 15.0 كيلوواط",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Centrifugal Pump FAQ",
+      "title": "الأسئلة الشائعة حول المضخات الطاردة المركزية",
       "items": [
         {
-          "q": "What is the difference between open and closed impellers?",
-          "a": "For fully liquid products like milk and water, a closed impeller is used to achieve maximum pressure (mWC). However, for fluids containing small particles such as pulpy juice or grape must, an open impeller is preferred to prevent clogging."
+          "q": "ما الفرق بين أداة الدفع المفتوحة والمغلقة؟",
+          "a": "للمنتجات السائلة بالكامل كالحليب والماء، تُستخدم أداة الدفع المغلقة للحصول على أقصى ضغط. أما للسوائل التي تحتوي على جزيئات صغيرة كعصير اللب، فيُفضَّل أداة الدفع المفتوحة لمنع الانسداد."
         },
         {
-          "q": "What does pump cavitation mean?",
-          "a": "When there is insufficient liquid on the pump suction line or the pipe diameter is too narrow, the boiling point of the fluid drops and air bubbles form. These bubbles erode the metal when they hit the impeller blades. Our engineers eliminate this risk by selecting pumps with low NPSH values."
+          "q": "ما معنى تجويف المضخة؟",
+          "a": "عندما يكون السائل غير كافٍ في جانب الشفط أو قطر الأنبوب ضيق جداً، تنخفض نقطة غليان السائل وتتكون فقاعات هواء. هذه الفقاعات تتآكل المعدن عند اصطدامها بريش أداة الدفع. يزيل مهندسونا هذا الخطر باختيار مضخات ذات قيم NPSH منخفضة."
         },
         {
-          "q": "What should I do if the mechanical seal leaks?",
-          "a": "In our food pumps, sealing is provided by high-tech Carbon/Silicon Carbide mechanical seals instead of braided rope packing. In case of wear, the seal kit is designed to be easily replaced at your facility within minutes."
+          "q": "ماذا أفعل إذا كان الختم الميكانيكي يتسرب؟",
+          "a": "في مضخاتنا الغذائية، يتم الإحكام عبر أختام ميكانيكية عالية التقنية من الكربون/كربيد السيليكون. في حالة التآكل، صُمِّم طقم الختم ليُستبدل بسهولة في منشأتكم في دقائق."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "Milk Transfer Pump"
+          "alt": "مضخة نقل الحليب"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "Mechanical Seal Detail"
+          "alt": "تفاصيل الختم الميكانيكي"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "Hygienic Open Impeller Application"
+          "alt": "تطبيق أداة دفع مفتوحة صحية"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "CIP Washing Line Pump"
+          "alt": "مضخة خط غسيل CIP"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-10 PDF Specification",
-        "desc": "Centrifugal pump performance curves, NPSH values and mechanical seal material compatibility table.",
+        "title": "الوثيقة التقنية",
+        "subtitle": "مواصفات PDF - DOK-10",
+        "desc": "منحنيات أداء المضخات الطاردة المركزية وقيم NPSH وجدول توافق مواد الأختام الميكانيكية.",
         "btn": "تحميل المنحنيات (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-10-santrifuj-pompalar.pdf"
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-10-mudakhkhat-tarda-markaziyya.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Milk Transfer Line Reference",
-        "desc": "CIP-compatible centrifugal pump battery with stainless cover and 40 m³/h capacity for a facility processing 500 tons of raw milk per day.",
+        "badge": "مرجع بارز",
+        "imgAlt": "مرجع خط نقل الحليب",
+        "desc": "بطارية مضخات طاردة مركزية متوافقة مع CIP بغطاء فولاذي وطاقة 40 م³/س لمنشأة تعالج 500 طن من الحليب الخام يومياً.",
         "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Pump Selection",
-        "desc": "Tell us the type of liquid, your flow demand and pipeline length, and we will calculate the most efficient motor and impeller diameter.",
-        "btn": "حساب التدفق →",
+        "title": "اختيار المضخة",
+        "desc": "أخبرونا بنوع السائل ومتطلبات التدفق وطول خط الأنابيب، وسنحسب المحرك وقطر أداة الدفع الأكثر كفاءة.",
+        "btn": "حساب التدفق ←",
         "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20santrifüj%20pompa%20kapasite%20hesaplamas%C4%B1%20ve%20fiyat%20almak%20istiyorum."
       }
     }
   },
   "drumPumpsPage": {
     "metadata": {
-      "title": "Industrial Drum & IBC Pumps | Welltech®",
-      "description": "Portable pump solutions for safe discharge of acids, chemicals and liquid foods from drums, IBC tanks and containers."
+      "title": "مضخات البرميل وIBC الصناعية | Welltech®",
+      "description": "حلول مضخات محمولة لتفريغ الأحماض والمواد الكيميائية والأغذية السائلة من البراميل وخزانات IBC والحاويات بأمان."
     },
     "breadcrumb": {
       "home": "الرئيسية",
       "pumps": "المضخات",
-      "current": "Drum Pumps"
+      "current": "مضخات البرميل"
     },
     "hero": {
-      "title": "Drum & IBC Tank Pumps",
-      "desc": "End product losses from manual discharge of raw materials. Lightweight, portable and highly efficient discharge units specially designed for acids, chemicals and liquid foods."
+      "title": "مضخات البرميل وخزان IBC",
+      "desc": "أنهوا خسائر المنتج في التفريغ اليدوي للمواد الخام. وحدات تفريغ خفيفة ومحمولة وعالية الكفاءة مصممة خصيصاً للأحماض والمواد الكيميائية والأغذية السائلة."
     },
     "technology": {
-      "title": "Safe Raw Material Discharge",
-      "desc": "In industrial production, raw materials are usually supplied in 200-liter drums or 1000-liter IBC tanks. Manual emptying of these containers causes both product loss and work accidents. Welltech drum pumps provide 99% discharge efficiency, leaving only a few drops of product at the bottom of the container thanks to the immersion-type tube design. They adapt to the most demanding field conditions with electric and pneumatic motor options.",
-      "imgAlt": "Drum Immersion Unit"
+      "title": "تفريغ آمن للمواد الخام",
+      "desc": "في الإنتاج الصناعي، تُوَرَّد المواد الخام عادةً في براميل 200 لتر أو خزانات IBC بسعة 1000 لتر. يتسبب التفريغ اليدوي لهذه الحاويات في خسائر المنتج وحوادث العمل. توفر مضخات البرميل من Welltech كفاءة تفريغ 99%، تاركةً بضع قطرات فقط من المنتج في قاع الحاوية بفضل تصميم أنبوب الغمر.",
+      "imgAlt": "وحدة الغمر للبرميل"
     },
     "features": {
-      "title": "Product & Motor Options",
-      "imgAlt": "High-Speed Electric Motor",
+      "title": "خيارات المنتج والمحرك",
+      "imgAlt": "محرك كهربائي عالي السرعة",
       "items": [
-        "ATEX Certified Explosion-Proof Motor",
-        "AISI 316L or PP / PVDF Tube Options",
-        "Screw Type for High-Viscosity Honey and Tomato Paste",
-        "Stepless Precise Speed Control",
-        "1200mm Tube Length for IBC Tanks",
-        "Easy-to-Clean Modular Design"
+        "محرك مضاد للانفجار معتمد ATEX",
+        "خيارات أنبوب AISI 316L أو PP / PVDF",
+        "نوع لولبي للعسل الشديد اللزوجة ومعجون الطماطم",
+        "تحكم دقيق في السرعة بدون درجات",
+        "طول أنبوب 1200 مم لخزانات IBC",
+        "تصميم معياري سهل التنظيف"
       ]
     },
     "table": {
-      "title": "Drum Pump Selection Table",
-      "note": "* The immersion tube material must be selected according to the corrosion table of the chemical to be transferred. ATEX motors must be used for flammable liquids.",
-      "imgAlt": "Pipe Dimensions and Assembly Drawing",
+      "title": "جدول اختيار مضخات البرميل",
+      "note": "* يجب اختيار مادة أنبوب الغمر وفقاً لجدول مقاومة التآكل للمادة الكيميائية المراد نقلها. يجب استخدام محركات ATEX للسوائل القابلة للاشتعال.",
+      "imgAlt": "أبعاد الأنبوب ورسم التجميع",
       "headers": [
-        "Application",
-        "Tube Material",
-        "Tube Length (mm)",
-        "Viscosity (cP)"
+        "التطبيق",
+        "مادة الأنبوب",
+        "طول الأنبوب (مم)",
+        "اللزوجة (سنتيبواز)"
       ],
       "rows": [
         {
-          "application": "Standard Drum (200L)",
+          "application": "برميل قياسي (200 ل)",
           "material": "AISI 316L / PP",
-          "length": "1000 mm",
-          "viscosity": "0 - 800 cP",
+          "length": "1000 مم",
+          "viscosity": "0 - 800 سنتيبواز",
           "highlight": "blue"
         },
         {
-          "application": "IBC Tank (1000L)",
+          "application": "خزان IBC (1000 ل)",
           "material": "AISI 316L / PVDF",
-          "length": "1200 mm",
-          "viscosity": "0 - 1000 cP",
+          "length": "1200 مم",
+          "viscosity": "0 - 1000 سنتيبواز",
           "highlight": "blue"
         },
         {
-          "application": "Viscous Food (Honey/Cream)",
-          "material": "Food-Grade 316L",
-          "length": "1000 - 1200 mm",
-          "viscosity": "Up to 100,000 cP",
+          "application": "غذاء لزج (عسل/كريم)",
+          "material": "316L درجة غذائية",
+          "length": "1000 - 1200 مم",
+          "viscosity": "حتى 100,000 سنتيبواز",
           "highlight": "orange"
         },
         {
-          "application": "Laboratory/Small Container",
+          "application": "مختبر/حاوية صغيرة",
           "material": "PP / PVDF",
-          "length": "700 mm",
-          "viscosity": "0 - 200 cP",
+          "length": "700 مم",
+          "viscosity": "0 - 200 سنتيبواز",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Drum Discharge FAQ",
+      "title": "الأسئلة الشائعة حول تفريغ البرميل",
       "items": [
         {
-          "q": "Which motor should I choose for solvent or alcohol transfer?",
-          "a": "Standard electric motors can produce sparks when transferring flammable and combustible fluids. In this case, ATEX certified explosion-proof motors or pneumatic motors operating with compressed air must be used."
+          "q": "أي محرك يجب اختياره لنقل المذيبات أو الكحول؟",
+          "a": "قد تنتج المحركات الكهربائية القياسية شرراً عند نقل السوائل القابلة للاشتعال. في هذه الحالة يجب استخدام محركات مضادة للانفجار معتمدة ATEX أو محركات هوائية تعمل بالهواء المضغوط."
         },
         {
-          "q": "What is a screw-type (Eccentric Screw) drum pump used for?",
-          "a": "Standard drum pumps cannot draw products with very low fluidity such as honey, glucose or dense cosmetic creams. Screw-type drum pumps can effortlessly vacuum and pump products of this density thanks to their endless screw mechanism."
+          "q": "لماذا تُستخدم مضخة برميل لولبية (مسمار لولبي خارج المركز)؟",
+          "a": "لا تستطيع مضخات البرميل القياسية شفط منتجات منخفضة السيولة جداً كالعسل والغلوكوز والكريمات التجميلية الكثيفة. يمكن لمضخات البرميل اللولبية شفط وضخ منتجات بهذه الكثافة بسهولة بفضل آلية اللولب اللانهائي."
         },
         {
-          "q": "How is the pump tube cleaned?",
-          "a": "Welltech drum pumps have a modular design. The motor and tube parts are separated from each other within seconds. The shaft and impeller inside the tube can be easily removed and placed in a sterilization or CIP bath."
+          "q": "كيف يُنظَّف أنبوب المضخة؟",
+          "a": "مضخات البرميل من Welltech ذات تصميم معياري. تنفصل أجزاء المحرك والأنبوب في ثوانٍ. يمكن إزالة العمود وأداة الدفع داخل الأنبوب بسهولة ووضعها في حمام التعقيم أو CIP."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "ATEX Motor Chemical Transfer"
+          "alt": "نقل كيميائي بمحرك ATEX"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "PVDF Tube IBC Pump"
+          "alt": "مضخة IBC بأنبوب PVDF"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "Screw-Type Food Pump"
+          "alt": "مضخة غذائية لولبية"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "Precise Flow Drum Discharge"
+          "alt": "تفريغ برميل بتدفق دقيق"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-12 PDF Specification",
-        "desc": "Chemical resistance table, motor speed ranges and IBC tank connection fittings technical document.",
-        "btn": "تحميل المواصفة (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-12-varil-pompalar.pdf"
+        "title": "الوثيقة التقنية",
+        "subtitle": "مواصفات PDF - DOK-12",
+        "desc": "جدول مقاومة المواد الكيميائية ونطاقات سرعة المحرك والوثيقة التقنية لوصلات خزانات IBC.",
+        "btn": "تحميل المواصفات (PDF)",
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-12-mudakhkhat-barmiliyya.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "Chemical Raw Material Transfer Reference",
-        "desc": "Automatic drum emptying station with ATEX certified, solvent-resistant PVDF tube for a paint factory.",
+        "badge": "تطبيق مرجعي",
+        "imgAlt": "مرجع نقل المواد الخام الكيميائية",
+        "desc": "محطة تفريغ براميل آلية معتمدة ATEX بأنبوب PVDF مقاوم للمذيبات لمصنع طلاء.",
         "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Motor Selection",
-        "desc": "Specify the raw material you will transfer and the number of drums, and we will determine the electric or pneumatic motor option together.",
-        "btn": "طلب عرض سعر →",
+        "title": "اختيار المحرك",
+        "desc": "حددوا المادة الخام المراد نقلها وعدد البراميل، وسنحدد معاً خيار المحرك الكهربائي أو الهوائي.",
+        "btn": "طلب عرض سعر ←",
         "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20varil%20ve%20IBC%20bo%C5%9Faltma%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum."
       }
     }
@@ -1273,7 +1273,7 @@
   "projectsPage": {
     "metadata": {
       "title": "المشاريع المكتملة | Welltech®",
-      "description": "مشاريع الفولاذ المقاوم للصدأ الصناعية المُسلَّمة بنجاح من قِبل Welltech."
+      "description": "مشاريع الفولاذ المقاوم للصدأ الصناعية ودراسات الحالة المُسلَّمة بنجاح من قِبل Welltech."
     },
     "breadcrumb": {
       "home": "الرئيسية",
@@ -1291,15 +1291,15 @@
     },
     "viewDetails": "عرض تفاصيل المشروع والتحليل التقني",
     "cta": {
-      "title": "لنطور حلاً هندسياً لمشروعك",
-      "desc": "تواصل مع فريق خبرائنا لمتطلبات السعة والمعايير التقنية.",
+      "title": "لنطور حلاً هندسياً لمشروعكم",
+      "desc": "تواصلوا مع فريق خبرائنا لمتطلبات السعة الخاصة بكم والمعايير التقنية.",
       "btn": "دعم تقني"
     }
   },
   "processSystemsPage": {
     "metadata": {
       "title": "أنظمة العمليات الصناعية والمفاعلات | Welltech®",
-      "description": "خطوط إنتاج بخلاطات مصممة وفق معايير ASME وATEX للخلطات عالية اللزوجة والتفاعلات الخطرة."
+      "description": "خطوط إنتاج بخلاطات مصممة وفق معايير ASME وATEX للخلطات عالية اللزوجة والتفاعلات الخطرة والعمليات الثرموديناميكية."
     },
     "breadcrumb": {
       "home": "الرئيسية",
@@ -1307,7 +1307,7 @@
     },
     "hero": {
       "title": "أنظمة العمليات",
-      "desc": "خطوط إنتاج بخلاطات مصممة وفق معايير ASME وATEX للخلطات عالية اللزوجة والتفاعلات الخطرة والعمليات الديناميكية الحرارية."
+      "desc": "خطوط إنتاج بخلاطات مصممة وفق معايير ASME وATEX للخلطات عالية اللزوجة والتفاعلات الخطرة والعمليات الثرموديناميكية."
     },
     "viewModels": "استكشاف النماذج",
     "categories": [
@@ -1341,845 +1341,846 @@
       }
     ],
     "cta": {
-      "title": "هل لديك متطلبات عملية خاصة؟",
-      "desc": "تواصل مع قسم الهندسة لدينا للأحجام المخصصة أو الضغط العالي ASME أو مفاعلات المناطق الخطرة المعتمدة ATEX.",
+      "title": "هل لديكم متطلبات عملية خاصة؟",
+      "desc": "تواصلوا مع قسم الهندسة لدينا للأحجام المخصصة أو الضغط العالي (ASME) أو مفاعلات المناطق الخطرة المعتمدة ATEX غير المدرجة في كتالوجنا.",
       "btn": "طلب عرض سعر"
     }
   },
   "jacketedTanksPage": {
     "metadata": {
-      "title": "Heating & Cooling Jacketed Tanks | Welltech®",
-      "description": "Stainless steel heating/cooling process tanks with roll-bond (dimple) and half-pipe serpentine jackets for high thermal efficiency."
+      "title": "خزانات ذات غلاف تسخين وتبريد | Welltech®",
+      "description": "خزانات عمليات تسخين/تبريد من الفولاذ المقاوم للصدأ بأغلفة رول-بوند (دمبل) وسرپانتين نصف الأنبوب لكفاءة حرارية عالية."
     },
     "breadcrumb": {
       "home": "الرئيسية",
       "process": "أنظمة العمليات",
-      "current": "Jacketed Tanks"
+      "current": "خزانات ذات غلاف"
     },
     "hero": {
-      "title": "Heating & Cooling Jacketed Tanks",
-      "desc": "Maximum thermal efficiency for your processes requiring precise temperature control. Specially insulated systems equipped with roll-bond, half-pipe or full jacket technology."
+      "title": "خزانات ذات غلاف تسخين وتبريد",
+      "desc": "أقصى كفاءة حرارية لعملياتكم التي تتطلب تحكماً دقيقاً في درجة الحرارة. أنظمة معزولة خصيصاً مجهزة بتقنية رول-بوند أو نصف الأنبوب أو الغلاف الكامل."
     },
     "technology": {
-      "title": "Thermodynamic Engineering",
-      "desc": "Keeping the fluid at the correct temperature in production processes directly determines the final product quality. Our systems are designed with special jackets through which steam, hot oil, hot water or glycol/ice water can circulate. We prefer <strong>Roll-Bond (Dimple)</strong> jackets for low-pressure cooling processes, while using welded <strong>Half-Pipe Serpentine</strong> technology for heating reactions requiring high pressure and steam.",
-      "imgAlt": "Half-Pipe and Dimple Jacket Detail"
+      "title": "الهندسة الثرموديناميكية",
+      "desc": "إبقاء السائل عند درجة الحرارة الصحيحة في عمليات الإنتاج يحدد مباشرةً جودة المنتج النهائي. أنظمتنا مصممة بأغلفة خاصة يمكن من خلالها تدوير البخار أو الزيت الساخن أو الماء الساخن أو الجليكول/الماء المثلج. نفضل أغلفة <strong>رول-بوند (دمبل)</strong> لعمليات التبريد منخفض الضغط، بينما نستخدم تقنية <strong>سرپانتين نصف الأنبوب (Half-Pipe)</strong> الملحومة لتفاعلات التسخين التي تتطلب ضغطاً عالياً وبخاراً.",
+      "imgAlt": "تفاصيل غلاف نصف الأنبوب والدمبل"
     },
     "features": {
-      "title": "Equipment & Insulation Features",
-      "imgAlt": "Tank Insulation Cross-Section",
+      "title": "خصائص المعدات والعزل",
+      "imgAlt": "مقطع عرضي لعزل الخزان",
       "items": [
-        "Laser-Welded Dimple Jacket",
-        "Half-Pipe Serpentine",
-        "Rockwool Insulation",
-        "Polyurethane Insulation (Cooling)",
-        "Fully Sealed Outer Cladding Sheet",
-        "PT100 Thermocouple Temperature Sensor"
+        "غلاف دمبل ملحوم بالليزر",
+        "سرپانتين نصف الأنبوب (Half-Pipe)",
+        "عزل من الصوف الصخري (Rockwool)",
+        "عزل بولي يوريثان (التبريد)",
+        "صفيحة تغليف خارجية محكمة الإغلاق بالكامل",
+        "مستشعر درجة حرارة ترموكابل PT100"
       ]
     },
     "table": {
-      "title": "Jacket Technology Selection Table",
-      "note": "* Our engineers determine the most suitable jacket type based on the type and pressure of the heating/cooling fluid in your facility.",
-      "imgAlt": "Jacketed Tank Technical Drawing",
+      "title": "جدول اختيار تقنية الغلاف",
+      "note": "* يحدد مهندسونا نوع الغلاف الأنسب بناءً على نوع وضغط سائل التسخين/التبريد في منشأتكم.",
+      "imgAlt": "الرسم الفني للخزان ذي الغلاف",
       "headers": [
-        "Jacket Type",
-        "Purpose",
-        "Fluid (Medium)",
-        "Working Pressure"
+        "نوع الغلاف",
+        "الغرض",
+        "السائل (الوسط)",
+        "ضغط التشغيل"
       ],
       "rows": [
         {
-          "type": "Dimple (Roll-Bond)",
-          "purpose": "Precise Cooling",
-          "fluid": "Ice Water / Glycol",
-          "pressure": "Low / Medium (2-4 Bar)",
+          "type": "دمبل (رول-بوند)",
+          "purpose": "تبريد دقيق",
+          "fluid": "ماء مثلج / جليكول",
+          "pressure": "منخفض / متوسط (2-4 بار)",
           "highlight": "blue"
         },
         {
-          "type": "Half-Pipe Serpentine",
-          "purpose": "Rapid Heating",
-          "fluid": "Steam / Hot Oil",
-          "pressure": "High (6-10+ Bar)",
+          "type": "سرپانتين نصف الأنبوب",
+          "purpose": "تسخين سريع",
+          "fluid": "بخار / زيت ساخن",
+          "pressure": "عالٍ (6-10+ بار)",
           "highlight": "orange"
         },
         {
-          "type": "Full Jacket",
-          "purpose": "General Heating/Cooling",
-          "fluid": "Hot or Cold Water",
-          "pressure": "Low (1-2 Bar)",
+          "type": "غلاف كامل",
+          "purpose": "تسخين/تبريد عام",
+          "fluid": "ماء ساخن أو بارد",
+          "pressure": "منخفض (1-2 بار)",
           "highlight": "dark"
         },
         {
-          "type": "Internal Serpentine",
-          "purpose": "Shock Heating/Cooling",
-          "fluid": "Steam / Water",
-          "pressure": "Medium / High",
+          "type": "سرپانتين داخلي",
+          "purpose": "تسخين/تبريد صدمة",
+          "fluid": "بخار / ماء",
+          "pressure": "متوسط / عالٍ",
           "highlight": "blue"
         }
       ]
     },
     "faq": {
-      "title": "Heating / Cooling FAQ",
+      "title": "الأسئلة الشائعة حول التسخين / التبريد",
       "items": [
         {
-          "q": "Why should I use Half-Pipe instead of Dimple Jacket for steam applications?",
-          "a": "Steam and hot oil have very high pressure and temperature. Dimple (honeycomb) jackets have thin walls and can balloon or deform under high pressure. Half-pipe serpentines are wound around the tank body with thick welds, so they have high pressure resistance."
+          "q": "لماذا يجب استخدام نصف الأنبوب بدلاً من غلاف دمبل لتطبيقات البخار؟",
+          "a": "البخار والزيت الساخن لهما ضغط ودرجة حرارة عالية جداً. أغلفة دمبل ذات جدران رقيقة ويمكن أن تنتفخ أو تتشوه تحت الضغط العالي. سرپانتينات نصف الأنبوب ملفوفة حول جسم الخزان بلحامات سميكة، لذا فهي ذات مقاومة عالية للضغط."
         },
         {
-          "q": "What happens if heat insulation is not applied?",
-          "a": "The energy (heat or cold) in the tank jacket mixes into the air instead of passing only to the product inside. This drives your energy costs to terrible levels and prolongs the process time. Dense rockwool insulation is essential for heating tanks, and polyurethane insulation that prevents sweating is essential for cooling tanks."
+          "q": "ماذا يحدث إذا لم يُطبَّق العزل الحراري؟",
+          "a": "تختلط الطاقة (الحرارة أو البرودة) في غلاف الخزان مع الهواء بدلاً من المرور فقط للمنتج الداخلي. هذا يرفع تكاليف الطاقة لمستويات مرعبة ويطيل وقت العملية. العزل الكثيف بالصوف الصخري ضروري لخزانات التسخين، والعزل بالبولي يوريثان الذي يمنع التكثيف ضروري لخزانات التبريد."
         },
         {
-          "q": "How is the jacket area calculated?",
-          "a": "The jacket area is calculated using thermodynamic engineering formulas based on the amount of product (kg) in the tank, the specific heat of the product, its initial temperature and how long (minutes/hours) it needs to reach the target temperature."
+          "q": "كيف يُحسب مساحة الغلاف؟",
+          "a": "تُحسب مساحة الغلاف باستخدام معادلات الهندسة الثرموديناميكية بناءً على كمية المنتج (كجم) في الخزان وحرارته النوعية ودرجة حرارته الابتدائية والوقت (دقائق/ساعات) اللازم للوصول إلى درجة الحرارة المستهدفة."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "Half-Pipe Jacketed Tank"
+          "alt": "خزان بغلاف نصف الأنبوب"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "Dimple Jacket Cooling"
+          "alt": "تبريد بغلاف دمبل"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "Rockwool Insulation Application"
+          "alt": "تطبيق عزل الصوف الصخري"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "Heated Process Tank Battery"
+          "alt": "بطارية خزانات عمليات مسخنة"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Specification",
-        "subtitle": "DOK-05 PDF Document",
-        "desc": "Engineering specification containing thermodynamic area calculations, working pressures and insulation thicknesses.",
+        "title": "المواصفة التقنية",
+        "subtitle": "وثيقة PDF - DOK-05",
+        "desc": "مواصفة هندسية تحتوي على حسابات المساحة الثرموديناميكية وضغوط التشغيل وسماكات العزل.",
         "btn": "تحميل الوثيقة (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-05-ceketli-tanklar.pdf"
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-05-khazzanat-mughallafa.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Heated Process Project Reference",
-        "desc": "Steam-heated, half-pipe serpentine and rockwool-insulated cooking tank battery in the food industry.",
+        "badge": "مرجع بارز",
+        "imgAlt": "مرجع مشروع العملية المسخنة",
+        "desc": "بطارية خزانات طبخ مسخنة بالبخار بسرپانتين نصف الأنبوب وعزل صوف صخري في الصناعة الغذائية.",
         "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Thermal Calculation",
-        "desc": "Contact us to calculate the required jacket surface area based on your process target time and temperature values.",
-        "btn": "طلب عرض سعر →",
+        "title": "الحساب الحراري",
+        "desc": "تواصلوا معنا لحساب مساحة الغلاف المطلوبة بناءً على قيم الوقت ودرجة الحرارة المستهدفة لعمليتكم.",
+        "btn": "طلب عرض سعر ←",
         "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20%C4%B1s%C4%B1tma%20so%C4%9Futma%20ceketli%20tanklar%20i%C3%A7in%20termodinamik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
       }
     }
   },
   "bioreactorsPage": {
     "metadata": {
-      "title": "Fermentation & Bioreactor Systems | Welltech®",
-      "description": "Precise pH, oxygen and temperature-controlled, fully sterile (SIP) stainless steel fermentation systems for biotechnology, pharmaceutical and food industries."
+      "title": "أنظمة التخمير والمفاعلات الحيوية | Welltech®",
+      "description": "أنظمة تخمير معقمة من الفولاذ المقاوم للصدأ بتحكم دقيق في pH والأكسجين ودرجة الحرارة للتكنولوجيا الحيوية والصناعة الصيدلانية والغذائية."
     },
     "breadcrumb": {
       "home": "الرئيسية",
       "process": "أنظمة العمليات",
-      "current": "Fermentation & Bioreactors"
+      "current": "التخمير والمفاعلات الحيوية"
     },
     "hero": {
-      "title": "Fermentation & Bioreactors",
-      "desc": "Perfect sterilization for microbial cell cultures and enzyme production. Industrial bioprocess systems with precise pH, Dissolved Oxygen (DO2) and temperature control."
+      "title": "التخمير والمفاعلات الحيوية",
+      "desc": "تعقيم مثالي للمزارع الخلوية الميكروبية وإنتاج الإنزيمات. أنظمة معالجة حيوية صناعية بتحكم دقيق في pH والأكسجين المذاب (DO2) ودرجة الحرارة."
     },
     "technology": {
-      "title": "Precise Bioprocess Control",
-      "desc": "Sustaining microbial life and achieving the target product yield in fermentation processes depends on millimetric control of environmental conditions.",
-      "imgAlt": "Bioreactor Thermodynamic Control Detail"
+      "title": "تحكم دقيق في العملية الحيوية",
+      "desc": "إبقاء الحياة الميكروبية والوصول إلى إنتاجية المنتج المستهدفة في عمليات التخمير يعتمد على التحكم الدقيق بالمليمتر في ظروف البيئة.",
+      "imgAlt": "تفاصيل التحكم الثرموديناميكي للمفاعل الحيوي"
     },
     "features": {
-      "title": "Equipment & Engineering Features",
-      "imgAlt": "Bioreactor PLC SCADA System",
+      "title": "خصائص المعدات والهندسة",
+      "imgAlt": "نظام PLC SCADA للمفاعل الحيوي",
       "items": [
-        "Ra < 0.4 µm Electropolished Inner Surface",
-        "Sterile Design to ASME BPE Standard",
-        "Automatic SIP (Sterilization-in-Place)",
-        "High Mass Transfer Aeration",
-        "Fully Insulated Dimple/Half-Pipe Jacket",
-        "Dead-Leg Free Valve Design"
+        "سطح داخلي مصقول كهربائياً Ra < 0.4 ميكرومتر",
+        "تصميم معقم وفق معيار ASME BPE",
+        "SIP آلي (التعقيم في المكان)",
+        "تهوية بنقل كتلة عالٍ",
+        "غلاف دمبل/نصف أنبوب معزول بالكامل",
+        "تصميم صمام بدون نقاط ميتة"
       ]
     },
     "table": {
-      "title": "Capacity Table",
-      "note": "* Facility capacities are designed from R&D scale to industrial scale.",
-      "imgAlt": "Bioreactor P&ID Diagram",
+      "title": "جدول الطاقة",
+      "note": "* تُصمَّم طاقات المنشأة من مقياس البحث والتطوير إلى المقياس الصناعي.",
+      "imgAlt": "مخطط P&ID للمفاعل الحيوي",
       "headers": [
-        "Series",
-        "Volume",
-        "Pressure"
+        "السلسلة",
+        "الحجم",
+        "الضغط"
       ],
       "rows": [
         {
           "series": "WT-BIO Lab",
-          "volume": "10 L - 100 L",
-          "pressure": "-1 / +3 Bar",
+          "volume": "10 ل - 100 ل",
+          "pressure": "-1 / +3 بار",
           "highlight": "blue"
         },
         {
           "series": "WT-BIO Pilot",
-          "volume": "200 L - 2,000 L",
-          "pressure": "-1 / +3 Bar",
+          "volume": "200 ل - 2,000 ل",
+          "pressure": "-1 / +3 بار",
           "highlight": "blue"
         },
         {
           "series": "WT-BIO Pro",
-          "volume": "5,000 L - 20,000 L",
-          "pressure": "-1 / +4 Bar",
+          "volume": "5,000 ل - 20,000 ل",
+          "pressure": "-1 / +4 بار",
           "highlight": "orange"
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "Sterile Bioreactor Assembly"
+          "alt": "تجميع مفاعل حيوي معقم"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "Cell Culture Fermentation Unit"
+          "alt": "وحدة تخمير المزرعة الخلوية"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "Precise pH Oxygen Sensor Group"
+          "alt": "مجموعة مستشعرات pH وأكسجين دقيقة"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "Industrial Bioprocess Facility Installation"
+          "alt": "تركيب منشأة معالجة حيوية صناعية"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-15 PDF Specification",
-        "btn": "تحميل المواصفة (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-15-biyoreaktorler.pdf"
+        "title": "الوثيقة التقنية",
+        "subtitle": "مواصفات PDF - DOK-15",
+        "btn": "تحميل المواصفات (PDF)",
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-15-mufa-ilat-hayawiyya.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "Vaccine Production Facility Bioreactor Reference",
-        "desc": "Custom 2,000 L capacity bioreactor line installation for a cell culture production facility."
+        "badge": "تطبيق مرجعي",
+        "imgAlt": "مرجع مفاعل حيوي لمنشأة إنتاج لقاحات",
+        "desc": "تركيب خط مفاعل حيوي مخصص بطاقة 2,000 ل لمنشأة إنتاج مزارع خلوية.",
+        "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Project Engineering",
-        "desc": "Plan with our technical team for your scale-up processes from laboratory to industrial production.",
-        "btn": "الحصول على دعم تقني"
+        "title": "هندسة المشروع",
+        "desc": "خططوا مع فريقنا التقني لعمليات التوسع من المختبر إلى الإنتاج الصناعي.",
+        "btn": "دعم تقني"
       }
     }
   },
   "homogenizersPage": {
     "metadata": {
-      "title": "Homogenizer Systems | Welltech®",
-      "description": "High-speed (high-shear) rotor-stator homogenizer systems for cosmetic, pharmaceutical and food processes."
+      "title": "أنظمة المجانسة | Welltech®",
+      "description": "أنظمة مجانسة روتور-ستاتور عالية السرعة (قص عالٍ) لعمليات مستحضرات التجميل والأدوية والأغذية."
     },
     "breadcrumb": {
       "home": "الرئيسية",
       "process": "أنظمة العمليات",
-      "current": "Homogenizers"
+      "current": "أجهزة التجانس"
     },
     "hero": {
-      "title": "Homogenizer Systems",
-      "desc": "Perfect particle reduction in liquid-liquid and liquid-solid emulsions. Rotor-stator technology with high shear force for cosmetics, pharmaceuticals and advanced chemistry processes."
+      "title": "أنظمة المجانسة",
+      "desc": "تقليل مثالي للجزيئات في مستحلبات سائل-سائل وسائل-صلب. تقنية روتور-ستاتور بقوة قص عالية لمستحضرات التجميل والأدوية والكيمياء المتقدمة."
     },
     "technology": {
-      "title": "Rotor & Stator Technology",
-      "desc": "Ordinary mixers only move the fluid. Homogenizers subject the fluid to enormous mechanical shear force through rotor blades rotating at a very narrow gap (micron level) and stationary stator blades. This way, substances like oil and water that normally don't mix are converted into a perfect emulsion (cream, mayonnaise, lotion, etc.) and particles are micronized to prevent sedimentation.",
-      "imgAlt": "Rotor and Stator Blade Detail"
+      "title": "تقنية الروتور والستاتور",
+      "desc": "الخلاطات العادية تحرك السائل فقط. تخضع المجانسات السائل لقوى قص ميكانيكية هائلة عبر ريش الروتور التي تدور في فجوة ضيقة جداً (على مستوى الميكرون) وريش الستاتور الثابتة. بهذه الطريقة، تُحوَّل مواد كالزيت والماء التي لا تختلط عادةً إلى مستحلب مثالي (كريم، مايونيز، لوشن إلخ) وتُجزَّأ الجزيئات لمنع الترسب.",
+      "imgAlt": "تفاصيل ريشة الروتور والستاتور"
     },
     "features": {
-      "title": "Critical Engineering Features",
-      "imgAlt": "High-Speed Homogenizer Motor",
+      "title": "الخصائص الهندسية الحرجة",
+      "imgAlt": "محرك مجانس عالي السرعة",
       "items": [
-        "3000 RPM High-Speed Capacity",
-        "Double-Acting Cooled Mechanical Seal",
-        "AISI 316L Special Alloy Cutting Head",
-        "Interchangeable Stator Heads",
-        "CIP / SIP Washability (Hygienic)",
-        "Inverter-Controlled Precise Speed Control"
+        "طاقة سرعة عالية 3000 دورة/دقيقة",
+        "ختم ميكانيكي مبرد مزدوج",
+        "رأس قطع من سبيكة خاصة AISI 316L",
+        "رؤوس ستاتور قابلة للتبديل",
+        "قابلية الغسيل CIP / SIP (صحية)",
+        "تحكم دقيق في السرعة بالعاكس"
       ]
     },
     "table": {
-      "title": "Homogenizer Mounting Types",
-      "note": "* Selected based on your facility's piping system, tank design and product rheology (fluidity) properties.",
-      "imgAlt": "In-Line Homogenizer Drawing",
+      "title": "أنواع التركيب للمجانس",
+      "note": "* يُختار بناءً على نظام الأنابيب وتصميم الخزان وخصائص ريولوجيا (سيولة) المنتج في منشأتكم.",
+      "imgAlt": "رسم مجانس In-Line",
       "headers": [
-        "Mounting Type",
-        "Operating Principle",
-        "Application Area"
+        "نوع التركيب",
+        "مبدأ التشغيل",
+        "مجال التطبيق"
       ],
       "rows": [
         {
-          "type": "Bottom Entry",
-          "principle": "Mounted to tank bottom, product fed by gravity.",
-          "usage": "Cosmetic Creams, Mayonnaise, Lotion",
+          "type": "دخول سفلي (Bottom Entry)",
+          "principle": "مركب في قاع الخزان، المنتج يُغذى بالجاذبية.",
+          "usage": "كريمات تجميلية، مايونيز، لوشن",
           "highlight": "orange"
         },
         {
-          "type": "In-Line (Continuous Flow)",
-          "principle": "Mounted on the pipeline, circulates.",
-          "usage": "Large volume syrups, Dairy Products",
+          "type": "In-Line (تدفق مستمر)",
+          "principle": "مركب على خط الأنابيب، يدور.",
+          "usage": "شراب بكميات كبيرة، منتجات الألبان",
           "highlight": "blue"
         },
         {
-          "type": "Top Entry (Immersion)",
-          "principle": "Immersed from the top of the tank via elevator or flange.",
-          "usage": "Open vessels, Mobile R&D tanks",
+          "type": "دخول علوي (غمر)",
+          "principle": "يُغمر من أعلى الخزان عبر رافعة أو شفة.",
+          "usage": "أوعية مفتوحة، خزانات بحث وتطوير متنقلة",
           "highlight": "dark"
         },
         {
-          "type": "Powder Mixer",
-          "principle": "Draws powdered raw materials from outside using vacuum created.",
-          "usage": "Carbon black, Milk powder, Pectin dissolving",
+          "type": "خلاط المسحوق",
+          "principle": "يشفط المواد الخام المسحوقة من الخارج بالفراغ المتكون.",
+          "usage": "الكربون الأسود، الحليب المسحوق، إذابة البكتين",
           "highlight": "blue"
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "Bottom-Entry Homogenizer"
+          "alt": "مجانس بدخول سفلي"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "Cosmetic Cream Production Tank"
+          "alt": "خزان إنتاج كريمات تجميلية"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "In-Line Continuous Flow System"
+          "alt": "نظام تدفق مستمر In-Line"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "Powder Suction Dispersion Unit"
+          "alt": "وحدة تشتت بشفط المسحوق"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Specification",
-        "subtitle": "DOK-08 PDF Document",
-        "desc": "Technical specification containing rotor-stator tolerances, mechanical seal cooling circuit and motor kW calculations.",
+        "title": "المواصفة التقنية",
+        "subtitle": "وثيقة PDF - DOK-08",
+        "desc": "مواصفة تقنية تحتوي على تفاوتات الروتور-ستاتور ودائرة تبريد الختم الميكانيكي وحسابات قدرة المحرك بالكيلوواط.",
         "btn": "تحميل الوثيقة (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-08-homojenizatorler.pdf"
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-08-mujannisat.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Cosmetic Process Project Reference",
-        "desc": "22kW bottom-entry homogenizer cream production reactor operating under vacuum for a luxury skincare product facility.",
+        "badge": "مرجع بارز",
+        "imgAlt": "مرجع مشروع عملية تجميلية",
+        "desc": "مفاعل إنتاج كريم بمجانس بدخول سفلي 22 كيلوواط يعمل تحت الفراغ لمنشأة منتجات عناية بالبشرة الفاخرة.",
         "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Emulsion Solution",
-        "desc": "Cosmetics, food or chemistry... Share your product recipe with us and we will design the most efficient particle reduction (high-shear) system.",
-        "btn": "طلب عرض سعر →",
+        "title": "حل الاستحلاب",
+        "desc": "مستحضرات تجميل، أغذية أو كيمياء... شاركوا وصفة منتجكم معنا وسنصمم أكفأ نظام لتقليل الجزيئات (قص عالٍ).",
+        "btn": "طلب عرض سعر ←",
         "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20homojenizat%C3%B6r%20ve%20em%C3%BClsiyon%20sistemleri%20i%C3%A7in%20kapasite%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
       }
     }
   },
   "mixingTanksPage": {
     "metadata": {
-      "title": "Mixing Process Tanks | Welltech®",
-      "description": "Stainless steel mixing tanks with custom mixer designs for different viscosities and inverter-supported automation."
+      "title": "خزانات العمليات مع خلاط | Welltech®",
+      "description": "خزانات خلط من الفولاذ المقاوم للصدأ بتصاميم خلاطات مخصصة للزوجات مختلفة وأتمتة بدعم عاكس."
     },
     "breadcrumb": {
       "home": "الرئيسية",
       "process": "أنظمة العمليات",
-      "current": "Mixing Tanks"
+      "current": "خزانات الخلط"
     },
     "hero": {
-      "title": "Mixing Process Tanks",
-      "desc": "Advanced engineering mixer systems with optimal viscosity control for liquid-liquid or liquid-solid mixtures, with inverter support and different blade types."
+      "title": "خزانات العمليات مع خلاط",
+      "desc": "أنظمة خلاطات هندسية متقدمة بتحكم أمثل في اللزوجة لمزيج سائل-سائل أو سائل-صلب، مع دعم عاكس وأنواع مختلفة من الريش."
     },
     "technology": {
-      "title": "Homogeneous Mixing Technology",
-      "desc": "The success of a process is measured by how correctly the mixture is homogenized. We design turbine, propeller, anchor or scraper mixer blades based on the viscosity (fluid like water or viscous like honey) and density of your product. Our systems are equipped with geared motors and PLC-controlled speed inverters to provide maximum control in your process.",
-      "imgAlt": "Mixer Blade Detail"
+      "title": "تقنية الخلط المتجانس",
+      "desc": "نجاح العملية يقاس بمدى دقة تجانس الخليط. نصمم ريش خلاط من نوع التوربين أو المروحة أو المرساة أو الكاشطة بناءً على لزوجة (سائل كالماء أو لزج كالعسل) وكثافة منتجكم. أنظمتنا مجهزة بمحركات مخفض وعاكسات سرعة يتحكم فيها PLC لأقصى تحكم في عمليتكم.",
+      "imgAlt": "تفاصيل ريشة الخلاط"
     },
     "features": {
-      "title": "Equipment & Automation",
-      "imgAlt": "Automation and Inverter Panel",
+      "title": "المعدات والأتمتة",
+      "imgAlt": "لوحة الأتمتة والعاكس",
       "items": [
-        "Variable-Speed Inverter System",
-        "Teflon (PTFE) Wall Scrapers",
-        "Mechanical Seal Sealing",
-        "Bottom, Top or Side Entry Design",
-        "CIP and SIP Spray Ball Integration",
-        "AISI 316L Complete Stainless Shaft"
+        "نظام عاكس بسرعة متغيرة",
+        "كواشط جدارية من تيفلون (PTFE)",
+        "إحكام بختم ميكانيكي",
+        "تصميم دخول سفلي أو علوي أو جانبي",
+        "تكامل كرة رش CIP وSIP",
+        "عمود فولاذ مقاوم للصدأ AISI 316L بالكامل"
       ]
     },
     "table": {
-      "title": "Mixer Type Selection Table",
-      "note": "* Calculated by our engineers based on the viscosity (cP) and particle structure of the mixture.",
-      "imgAlt": "Mixing Process Tank Technical Drawing",
+      "title": "جدول اختيار نوع الخلاط",
+      "note": "* يحسبه مهندسونا بناءً على اللزوجة (سنتيبواز) وبنية جزيئات الخليط.",
+      "imgAlt": "الرسم الفني لخزان العملية مع الخلاط",
       "headers": [
-        "Blade Type",
-        "Viscosity",
-        "Application Example",
-        "Speed"
+        "نوع الريشة",
+        "اللزوجة",
+        "مثال التطبيق",
+        "السرعة"
       ],
       "rows": [
         {
-          "type": "Propeller",
-          "viscosity": "Low (like water)",
-          "usage": "Liquid Chemicals, Juice",
-          "speed": "High (900-1400 rpm)",
+          "type": "مروحة (Propeller)",
+          "viscosity": "منخفضة (كالماء)",
+          "usage": "مواد كيميائية سائلة، عصير",
+          "speed": "عالية (900-1400 دورة/دقيقة)",
           "highlight": "blue"
         },
         {
-          "type": "Turbine",
-          "viscosity": "Medium (like oil)",
-          "usage": "Syrup, Mineral Oil, Paint",
-          "speed": "Medium (100-300 rpm)",
+          "type": "توربين",
+          "viscosity": "متوسطة (كالزيت)",
+          "usage": "شراب، زيت معدني، دهان",
+          "speed": "متوسطة (100-300 دورة/دقيقة)",
           "highlight": "orange"
         },
         {
-          "type": "Anchor with Scraper",
-          "viscosity": "High (like honey)",
-          "usage": "Cosmetic Cream, Chocolate",
-          "speed": "Low (10-60 rpm)",
+          "type": "مرساة مع كاشط",
+          "viscosity": "عالية (كالعسل)",
+          "usage": "كريم تجميلي، شوكولاتة",
+          "speed": "منخفضة (10-60 دورة/دقيقة)",
           "highlight": "dark"
         },
         {
-          "type": "Dispersion Type",
-          "viscosity": "Solid/Liquid Solutions",
-          "usage": "Dissolving Powder Chemicals in Liquid",
-          "speed": "Very High (1500+ rpm)",
+          "type": "نوع تشتت",
+          "viscosity": "محاليل صلب/سائل",
+          "usage": "إذابة مواد كيميائية مسحوقة في سائل",
+          "speed": "عالية جداً (+1500 دورة/دقيقة)",
           "highlight": "blue"
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "Custom Design Anchor Mixer"
+          "alt": "خلاط مرساة بتصميم خاص"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "Inverter-Controlled Mixer"
+          "alt": "خلاط بتحكم عاكس"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "Paint Industry Disperser Tank"
+          "alt": "خزان موزع لصناعة الدهانات"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "Food Industry Homogenizer Battery"
+          "alt": "بطارية مجانسات للصناعة الغذائية"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Specification",
-        "subtitle": "DOK-06 PDF Document",
-        "desc": "Engineering specification containing motor power calculations for different viscosities and mechanical seal sealing details.",
+        "title": "المواصفة التقنية",
+        "subtitle": "وثيقة PDF - DOK-06",
+        "desc": "مواصفة هندسية تحتوي على حسابات قدرة المحرك للزوجات مختلفة وتفاصيل إحكام الختم الميكانيكي.",
         "btn": "تحميل الوثيقة (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-06-karistiricili-tanklar.pdf"
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-06-khazzanat-khalt.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Chemical Process Project Reference",
-        "desc": "10,000 liter mixer tank with ex-proof motor, high torque capacity and Teflon scrapers for a polymer chemical production facility.",
+        "badge": "مرجع بارز",
+        "imgAlt": "مرجع مشروع عملية كيميائية",
+        "desc": "خزان خلط بسعة 10,000 لتر بمحرك مضاد للانفجار وطاقة عزم دوران عالية وكواشط تيفلون لمنشأة إنتاج كيميائيات بوليمر.",
         "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Viscosity Analysis",
-        "desc": "Share your product viscosity (cP) and operating conditions with us, and we will calculate the most suitable mixer design and gearbox power.",
-        "btn": "طلب عرض سعر →",
+        "title": "تحليل اللزوجة",
+        "desc": "شاركوا لزوجة منتجكم (سنتيبواز) وظروف التشغيل معنا، وسنحسب تصميم الخلاط الأنسب وقدرة المخفض.",
+        "btn": "طلب عرض سعر ←",
         "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20kar%C4%B1%C5%9Ft%C4%B1r%C4%B1c%C4%B1l%C4%B1%20tank%20projesi%20i%C3%A7in%20viskozite%20de%C4%9Ferlerime%20uygun%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
       }
     }
   },
   "reactorsPage": {
     "metadata": {
-      "title": "Chemical & Pharmaceutical Reactors | Welltech®",
-      "description": "Ex-proof production reactors withstanding 10 Bar pressure and full vacuum, made of 316Ti / Hastelloy alloys, to ATEX standards."
+      "title": "مفاعلات كيميائية وصيدلانية | Welltech®",
+      "description": "مفاعلات إنتاج مضادة للانفجار تتحمل 10 بار وفراغ تام، من سبائك 316Ti / Hastelloy، وفق معايير ATEX."
     },
     "breadcrumb": {
       "home": "الرئيسية",
       "process": "أنظمة العمليات",
-      "current": "Chemical Reactors"
+      "current": "مفاعلات كيميائية"
     },
     "hero": {
-      "title": "Chemical & Pharmaceutical Reactors",
-      "desc": "Fully automated heavy-duty reactors withstanding 10 Bar pressure and full vacuum, made of 316Ti / Hastelloy alloys, to ATEX ex-proof standards."
+      "title": "مفاعلات كيميائية وصيدلانية",
+      "desc": "مفاعلات ثقيلة مؤتمتة بالكامل تتحمل ضغط 10 بار وفراغ تام، من سبائك 316Ti / Hastelloy، وفق معايير ATEX المضادة للانفجار."
     },
     "technology": {
-      "title": "Critical Process Control",
-      "desc1": "Polymerization, crystallization and aggressive chemical syntheses cannot be performed in standard storage tanks. Welltech® Chemical Reactors are engineered to <strong>ASME VIII Div.1</strong> standards to homogenize products of varying viscosities and immediately transfer the heat of endothermic/exothermic reactions.",
-      "desc2": "The <strong>Half-Pipe Serpentine (Half-Pipe Jacket)</strong> technology offered as standard on the body provides 40% more resistance to thermal shocks and high steam pressure compared to conventional jackets.",
-      "imgAlt": "Half-Pipe Serpentine and Reactor Body"
+      "title": "تحكم حرج في العملية",
+      "desc1": "لا يمكن تنفيذ البلمرة والتبلور والتخليقات الكيميائية العدوانية في خزانات التخزين القياسية. المفاعلات الكيميائية من Welltech® مصممة وفق معايير <strong>ASME VIII Div.1</strong> لتجانس المنتجات ذات اللزوجات المتغيرة والنقل الفوري لحرارة التفاعلات الماصة/الطاردة للحرارة.",
+      "desc2": "تقنية <strong>سرپانتين نصف الأنبوب (Half-Pipe Jacket)</strong> المقدمة كمعيار على الجسم توفر مقاومة 40% أكبر للصدمات الحرارية والضغط العالي للبخار مقارنة بالأغلفة التقليدية.",
+      "imgAlt": "سرپانتين نصف الأنبوب وجسم المفاعل"
     },
     "features": {
-      "title": "Equipment & Safety",
-      "imgAlt": "Ex-Proof Motor and Reactor Equipment",
+      "title": "المعدات والسلامة",
+      "imgAlt": "محرك مضاد للانفجار ومعدات المفاعل",
       "items": [
-        "Full Vacuum and 10 Bar Pressure Resistance",
-        "316Ti or Hastelloy C22 Material",
-        "Mechanical Seal Sealing",
-        "ATEX Zone 1/2 Compliant Ex-Proof Motor",
-        "Proportionally Controlled Heating/Cooling",
-        "100% RT and UT Weld Reporting"
+        "مقاومة الفراغ التام وضغط 10 بار",
+        "مادة 316Ti أو Hastelloy C22",
+        "إحكام بختم ميكانيكي",
+        "محرك مضاد للانفجار متوافق مع ATEX المنطقة 1/2",
+        "تسخين/تبريد بتحكم تناسبي",
+        "تقارير لحام RT وUT بنسبة 100%"
       ]
     },
     "table": {
-      "title": "Standard Reactor Capacity Table",
-      "note": "* Values in the table are for reference. Welltech works with custom engineering dimensions based on your factory's ceiling height and installation lines.",
-      "imgAlt": "Chemical Reactor Technical Drawing",
+      "title": "جدول الطاقة القياسي للمفاعلات",
+      "note": "* القيم في الجدول مرجعية. تعمل Welltech بأبعاد هندسية مخصصة بناءً على ارتفاع سقف مصنعكم وخطوط التركيب.",
+      "imgAlt": "الرسم الفني للمفاعل الكيميائي",
       "headers": [
-        "Working Volume",
-        "Design Pressure",
-        "Heating Type",
-        "Mixer Type"
+        "الحجم التشغيلي",
+        "ضغط التصميم",
+        "نوع التسخين",
+        "نوع الخلاط"
       ],
       "rows": [
         {
-          "volume": "1,000 Liters",
-          "pressure": "-1 / +6 Bar",
-          "heating": "Half-Pipe / Electric",
-          "mixer": "Anchor / Propeller",
+          "volume": "1,000 لتر",
+          "pressure": "-1 / +6 بار",
+          "heating": "نصف أنبوب / كهربائي",
+          "mixer": "مرساة / مروحة",
           "highlight": "blue"
         },
         {
-          "volume": "5,000 Liters",
-          "pressure": "-1 / +8 Bar",
-          "heating": "Half-Pipe Serpentine",
-          "mixer": "Anchor with Scraper",
+          "volume": "5,000 لتر",
+          "pressure": "-1 / +8 بار",
+          "heating": "سرپانتين نصف الأنبوب",
+          "mixer": "مرساة مع كاشط",
           "highlight": "blue"
         },
         {
-          "volume": "10,000 Liters",
-          "pressure": "-1 / +10 Bar",
-          "heating": "Half-Pipe + Internal Serpentine",
-          "mixer": "Turbine / Disperser",
+          "volume": "10,000 لتر",
+          "pressure": "-1 / +10 بار",
+          "heating": "نصف أنبوب + سرپانتين داخلي",
+          "mixer": "توربين / موزع",
           "highlight": "orange"
         },
         {
-          "volume": "25,000 Liters",
-          "pressure": "-1 / +10 Bar",
-          "heating": "Half-Pipe Serpentine",
-          "mixer": "Bi-Directional Anchor",
+          "volume": "25,000 لتر",
+          "pressure": "-1 / +10 بار",
+          "heating": "سرپانتين نصف الأنبوب",
+          "mixer": "مرساة ثنائية الاتجاه",
           "highlight": "dark"
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "10 Bar Reactor Production"
+          "alt": "إنتاج مفاعل 10 بار"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "Half-Pipe Serpentine Fabrication"
+          "alt": "تصنيع سرپانتين نصف الأنبوب"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "ATEX Ex-Proof Motor Integration"
+          "alt": "تكامل محرك ATEX المضاد للانفجار"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "Petrochemical Reactor Battery Installation"
+          "alt": "تركيب بطارية مفاعلات بتروكيماوية"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Specification",
-        "subtitle": "WLL-RX-01 PDF",
-        "desc": "Engineering document containing ASME material codes, weld thicknesses and motor kW calculations.",
-        "btn": "تحميل مواصفة PDF",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/WLL-RX-01-reaktorler.pdf"
+        "title": "المواصفة التقنية",
+        "subtitle": "PDF - WLL-RX-01",
+        "desc": "وثيقة هندسية تحتوي على رموز مواد ASME وسماكات اللحام وحسابات قدرة المحرك بالكيلوواط.",
+        "btn": "تحميل مواصفات PDF",
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/WLL-RX-01-mufa-ilat.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Petrochemical Reactor Project Reference",
-        "desc": "25,000 liter capacity polymerization reactor made of Hastelloy C276 alloy, resistant to 10 Bar pressure, delivered to a petrochemical facility.",
+        "badge": "مرجع بارز",
+        "imgAlt": "مرجع مشروع مفاعل بتروكيماوي",
+        "desc": "مفاعل بلمرة بطاقة 25,000 لتر من سبيكة Hastelloy C276 مقاومة لـ 10 بار، تم تسليمه لمنشأة بتروكيماوية.",
         "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Do You Have Special Process Needs?",
-        "desc": "We engineer with Hastelloy alloys for fluids causing aggressive corrosion or viscosities requiring high torque.",
+        "title": "هل لديكم متطلبات عملية خاصة؟",
+        "desc": "نصمم بسبائك Hastelloy للسوائل المسببة للتآكل العدواني أو اللزوجات التي تتطلب عزم دوران عالٍ.",
         "btn": "استشارة مهندس"
       }
     }
   },
   "skidSystemsPage": {
     "metadata": {
-      "title": "Mobile Process Units (Skid Systems) | Welltech®",
-      "description": "Compact plug-and-play process solutions with reactor, pump and automation on a single chassis."
+      "title": "وحدات العمليات المتنقلة (أنظمة سكيد) | Welltech®",
+      "description": "حلول عمليات مدمجة plug-and-play مع مفاعل ومضخة وأتمتة على هيكل واحد."
     },
     "breadcrumb": {
       "home": "الرئيسية",
       "process": "أنظمة العمليات",
-      "current": "Mobile Units"
+      "current": "وحدات متنقلة"
     },
     "hero": {
-      "title": "Mobile Process Units",
-      "desc": "Plug-and-play compact solutions designed for rapid installation, with reactor, pump and automation assembled on a single stainless chassis."
+      "title": "وحدات العمليات المتنقلة",
+      "desc": "حلول مدمجة plug-and-play مصممة للتركيب السريع، مع مفاعل ومضخة وأتمتة مجمعة على هيكل واحد من الفولاذ المقاوم للصدأ."
     },
     "technology": {
-      "title": "Plug & Play Engineering",
-      "desc": "Don't waste weeks on piping, cabling and automation complexity at your facility. Our skid systems are compact systems where the reactor, heat exchanger, transfer pumps, valves and PLC control panel are mounted and tested at our factory on a single stainless chassis. When it arrives at your facility, you can start production the same day by just connecting the main electricity and raw material connections.",
-      "imgAlt": "Stainless Steel Skid Chassis Design"
+      "title": "هندسة Plug & Play",
+      "desc": "لا تضيعوا أسابيع في تعقيدات الأنابيب والكابلات والأتمتة في منشأتكم. أنظمة سكيد لدينا هي أنظمة مدمجة يُركَّب فيها المفاعل ومبادل الحرارة ومضخات النقل والصمامات ولوحة تحكم PLC ويُختبر في مصنعنا على هيكل واحد من الفولاذ المقاوم للصدأ. عندما يصل إلى منشأتكم، يمكنكم بدء الإنتاج في نفس اليوم بمجرد توصيل الطاقة الرئيسية وتوصيلات المواد الخام.",
+      "imgAlt": "تصميم هيكل سكيد من الفولاذ المقاوم للصدأ"
     },
     "features": {
-      "title": "Compact Equipment Features",
-      "imgAlt": "Skid PLC Automation Panel",
+      "title": "خصائص المعدات المدمجة",
+      "imgAlt": "لوحة أتمتة PLC للسكيد",
       "items": [
-        "AISI 304/316L Stainless Carrier Chassis",
-        "Fully Integrated Piping and Manifolds",
-        "Factory-Exit FAT/SAT Test Approval",
-        "Smart PLC and Touch-Screen HMI",
-        "Ex-Proof (ATEX) Option",
-        "Vibration-Damping Chassis Feet"
+        "هيكل حامل من الفولاذ المقاوم للصدأ AISI 304/316L",
+        "أنابيب وموزعات مدمجة بالكامل",
+        "موافقة اختبار FAT/SAT من المصنع",
+        "PLC ذكي وواجهة HMI بشاشة لمس",
+        "خيار مضاد للانفجار (ATEX)",
+        "أرجل هيكل ماصة للاهتزاز"
       ]
     },
     "table": {
-      "title": "Skid System Application Areas",
-      "note": "* All equipment operates compatible with each other and connected to a single automation panel.",
-      "imgAlt": "Mobile Process Unit Technical Drawing",
+      "title": "مجالات تطبيق نظام السكيد",
+      "note": "* تعمل جميع المعدات بشكل متوافق مع بعضها وموصولة بلوحة أتمتة واحدة.",
+      "imgAlt": "الرسم الفني لوحدة العملية المتنقلة",
       "headers": [
-        "Application Area",
-        "Integrated Equipment",
-        "Installation Type"
+        "مجال التطبيق",
+        "المعدات المدمجة",
+        "نوع التركيب"
       ],
       "rows": [
         {
-          "application": "Cosmetic & Pharmaceutical Syruping",
-          "equipment": "Reactor + Homogenizer + Lobe Pump",
+          "application": "صناعة الشراب التجميلي والصيدلاني",
+          "equipment": "مفاعل + مجانس + مضخة فصوص",
           "setup": "Plug & Play",
           "highlight": "orange"
         },
         {
-          "application": "Chemical Dosing Line",
-          "equipment": "Storage Tank + Dosing Pump + Flow Meter",
+          "application": "خط جرعات كيميائية",
+          "equipment": "خزان تخزين + مضخة جرعات + عداد تدفق",
           "setup": "Plug & Play",
           "highlight": "blue"
         },
         {
-          "application": "CIP (Clean-in-Place) Units",
-          "equipment": "Acid/Caustic Tanks + Heater + Centrifugal Pump",
+          "application": "وحدات CIP (التنظيف في المكان)",
+          "equipment": "خزانات حمض/قلوي + سخان + مضخة طاردة مركزية",
           "setup": "Plug & Play",
           "highlight": "dark"
         },
         {
-          "application": "Mobile R&D Stations",
-          "equipment": "Pilot Reactor + Chiller + Mini Filter Press",
-          "setup": "Wheeled/Mobile",
+          "application": "محطات بحث وتطوير متنقلة",
+          "equipment": "مفاعل تجريبي + مبرد + مكبس ترشيح صغير",
+          "setup": "على عجلات/متنقل",
           "highlight": "blue"
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "Compact Piping Design"
+          "alt": "تصميم أنابيب مدمج"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "Pharmaceutical Industry Mobile Unit"
+          "alt": "وحدة متنقلة للصناعة الصيدلانية"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "Integrated Control Panel"
+          "alt": "لوحة تحكم مدمجة"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "Plug & Play Chassis Assembly"
+          "alt": "تجميع هيكل Plug & Play"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Specification",
-        "subtitle": "DOK-09 PDF Document",
-        "desc": "Engineering specification containing compact chassis load resistance calculations, piping standards and automation P&ID diagrams.",
+        "title": "المواصفة التقنية",
+        "subtitle": "وثيقة PDF - DOK-09",
+        "desc": "مواصفة هندسية تحتوي على حسابات حمل الهيكل المدمج ومعايير الأنابيب ومخططات P&ID للأتمتة.",
         "btn": "تحميل الوثيقة (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-09-skid-sistemler.pdf"
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-09-anzimat-skid.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Mobile Skid System Reference",
-        "desc": "Mobile syruping unit (Skid System) project with ex-proof standards, full automation and CIP integration for the pharmaceutical industry.",
+        "badge": "مرجع بارز",
+        "imgAlt": "مرجع نظام سكيد متنقل",
+        "desc": "مشروع وحدة صناعة شراب متنقلة (نظام سكيد) وفق معايير مضادة للانفجار، مؤتمت بالكامل ومع تكامل CIP للصناعة الصيدلانية.",
         "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Your Custom Skid Project",
-        "desc": "Contact our engineers to design a completely custom mobile unit tailored to your facility's space constraints and process recipe.",
-        "btn": "طلب عرض سعر →",
+        "title": "مشروع سكيد مخصص لكم",
+        "desc": "تواصلوا مع مهندسينا لتصميم وحدة متنقلة مخصصة تماماً لقيود مساحة منشأتكم ووصفة العملية.",
+        "btn": "طلب عرض سعر ←",
         "whatsappUrl": "https://wa.me/905322830628?text=Merhaba,%20tesisime%20%C3%B6zel%20kompakt%20skid%20sistemi%20projelendirmesi%20ve%20fiyat%C4%B1%20almak%20istiyorum."
       }
     }
   },
   "cipSystemsPage": {
     "metadata": {
-      "title": "Fully Automatic CIP Systems | Welltech®",
-      "description": "PLC-controlled automatic Clean-in-Place (in-place washing) units that guarantee hygiene standards for pharmaceutical, food and chemical facilities."
+      "title": "أنظمة CIP الآلية الكاملة | Welltech®",
+      "description": "وحدات تنظيف في المكان (Clean-in-Place) يتحكم فيها PLC تضمن معايير النظافة للمنشآت الصيدلانية والغذائية والكيميائية."
     },
     "breadcrumb": {
       "home": "الرئيسية",
       "process": "أنظمة العمليات",
-      "current": "CIP Systems"
+      "current": "أنظمة CIP"
     },
     "hero": {
-      "title": "Fully Automatic CIP Systems",
-      "desc": "Clean-in-Place (in-place washing) units that guarantee your facility's hygiene standards with PLC control and conductivity-based chemical dosing."
+      "title": "أنظمة CIP الآلية الكاملة",
+      "desc": "وحدات التنظيف في المكان (Clean-in-Place) التي تضمن معايير النظافة في منشأتكم بتحكم PLC وجرعات كيميائية مبنية على الموصلية."
     },
     "technology": {
-      "title": "Traceable Hygiene Assurance",
-      "desc": "The only way to prevent cross-contamination in food, beverage and pharmaceutical production lines is validatable washing processes. Welltech CIP (Clean-in-Place) systems wash your pipelines and tanks without disassembly using high-turbulence flow (min. 1.5 m/s). The conductivity of the returning liquid is measured in real-time, and acid and caustic concentrations are automatically replenished through dosing pumps via PLC. Water and energy savings are maximized.",
-      "imgAlt": "Conductivity and Dosing Control"
+      "title": "ضمان النظافة القابل للتتبع",
+      "desc": "الطريقة الوحيدة لمنع التلوث المتبادل في خطوط إنتاج الغذاء والمشروبات والأدوية هي عمليات الغسيل القابلة للتحقق. أنظمة CIP (التنظيف في المكان) من Welltech تغسل خطوط أنابيبكم وخزاناتكم دون فك بتدفق عالي الاضطراب (الحد الأدنى 1.5 م/ث). تُقاس موصلية السائل العائد في الوقت الفعلي، وتُجدَّد تركيزات الحمض والقلوي تلقائياً عبر مضخات الجرعات من خلال PLC. يتم تعظيم وفورات الماء والطاقة.",
+      "imgAlt": "التحكم في الموصلية والجرعات"
     },
     "features": {
-      "title": "System & Automation Features",
-      "imgAlt": "Recovery System and Automation",
+      "title": "خصائص النظام والأتمتة",
+      "imgAlt": "نظام الاسترداد والأتمتة",
       "items": [
-        "PLC & Touch-Screen HMI Control",
-        "Independent Caustic and Acid Dosing Pumps",
-        "Real-Time Conductivity Measurement",
-        "Automatic Temperature Control with Heat Exchanger",
-        "EHEDG Approved Hygienic Centrifugal Pumps",
-        "Recordable Washing Recipes"
+        "تحكم PLC وواجهة HMI بشاشة لمس",
+        "مضخات جرعات قلوي وحمض مستقلة",
+        "قياس الموصلية في الوقت الفعلي",
+        "تحكم آلي في درجة الحرارة بمبادل حراري",
+        "مضخات طاردة مركزية صحية معتمدة EHEDG",
+        "وصفات غسيل قابلة للتسجيل"
       ]
     },
     "table": {
-      "title": "CIP Station Models",
-      "note": "* Washing lines can be designed as simultaneous (multi-line) or single-line based on facility needs.",
-      "imgAlt": "Modular Design and CIP P&ID Diagram",
+      "title": "نماذج محطة CIP",
+      "note": "* يمكن تصميم خطوط الغسيل كمتزامنة (متعددة الخطوط) أو خط واحد حسب احتياجات المنشأة.",
+      "imgAlt": "التصميم المعياري ومخطط P&ID لـ CIP",
       "headers": [
-        "Configuration",
-        "Tank Contents",
-        "Recommended Sector"
+        "التكوين",
+        "محتوى الخزان",
+        "القطاع الموصى به"
       ],
       "rows": [
         {
-          "config": "Mobile / 1-Tank CIP",
-          "tanks": "Water (Loss Washing)",
-          "sector": "Wine, Boutique Production",
+          "config": "متنقل / CIP خزان واحد",
+          "tanks": "ماء (غسيل بالخسارة)",
+          "sector": "نبيذ، إنتاج بوتيك",
           "highlight": "dark"
         },
         {
-          "config": "2-Tank CIP System",
-          "tanks": "Caustic + Water",
-          "sector": "Water, Beverage, Light Process",
+          "config": "نظام CIP خزانان",
+          "tanks": "قلوي + ماء",
+          "sector": "ماء، مشروبات، عملية خفيفة",
           "highlight": "blue"
         },
         {
-          "config": "3-Tank CIP System",
-          "tanks": "Caustic + Acid + Water",
-          "sector": "Milk, Juice, Food",
+          "config": "نظام CIP 3 خزانات",
+          "tanks": "قلوي + حمض + ماء",
+          "sector": "حليب، عصير، غذائي",
           "highlight": "orange"
         },
         {
-          "config": "4-Tank CIP System",
-          "tanks": "Caustic + Acid + Water + Recovery",
-          "sector": "Pharmaceutical, Biotechnology, Heavy Industry",
+          "config": "نظام CIP 4 خزانات",
+          "tanks": "قلوي + حمض + ماء + استرداد",
+          "sector": "صيدلاني، تكنولوجيا حيوية، صناعة ثقيلة",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "CIP Systems FAQ",
+      "title": "الأسئلة الشائعة حول أنظمة CIP",
       "items": [
         {
-          "q": "How do you guarantee that the washing liquid reaches sufficient speed?",
-          "a": "Turbulent flow is required for hygiene in pipelines. Thanks to flowmeters integrated into the system, the washing flow rate is maintained at a minimum of 1.5 - 2.0 m/s and monitored via PLC."
+          "q": "كيف تضمنون أن سائل الغسيل يصل إلى السرعة الكافية؟",
+          "a": "التدفق المضطرب مطلوب للنظافة في خطوط الأنابيب. بفضل عدادات التدفق المدمجة في النظام، تُحافَظ على سرعة تدفق الغسيل عند الحد الأدنى 1.5 - 2.0 م/ث وتُراقَب عبر PLC."
         },
         {
-          "q": "Can chemical solutions be reused?",
-          "a": "Yes, our 3 and 4-tank CIP systems have recovery cycles. Returning acid and caustic solutions are analyzed by conductivity sensors; if the concentration drops, they are dosed and returned to the tank. This saves significant amounts of chemicals and water."
+          "q": "هل يمكن إعادة استخدام المحاليل الكيميائية؟",
+          "a": "نعم، أنظمة CIP ذات 3 و4 خزانات لدينا لها دورات استرداد. تُحلَّل محاليل الحمض والقلوي العائدة من الخط بواسطة مستشعرات الموصلية؛ إذا انخفض التركيز، تُجرَّع وتُعاد إلى الخزان. هذا يوفر كميات كبيرة من المواد الكيميائية والماء."
         },
         {
-          "q": "Is reporting and validation possible?",
-          "a": "All CIP operations are recorded in the automation panel along with time, temperature, conductivity and flow data. For audits, these data can be output in PDF format via USB or network to ensure full traceability."
+          "q": "هل التقارير والتحقق ممكنان؟",
+          "a": "تُسجَّل جميع عمليات CIP في لوحة الأتمتة مع بيانات الوقت ودرجة الحرارة والموصلية والتدفق. للتدقيق، يمكن إخراج هذه البيانات بتنسيق PDF عبر USB أو الشبكة لضمان التتبع الكامل."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "4-Tank Automatic CIP Unit"
+          "alt": "وحدة CIP آلية بـ 4 خزانات"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "Dosing Pumps and Collector Group"
+          "alt": "مضخات الجرعات ومجموعة الموزع"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "Heat Exchanger Integration"
+          "alt": "تكامل المبادل الحراري"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "Dairy Facility Multi-Line Washing"
+          "alt": "غسيل متعدد الخطوط لمنشأة الألبان"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-16 PDF Specification",
-        "desc": "CIP system flow diagrams, heat exchanger capacities and pneumatic valve matrix technical details.",
-        "btn": "تحميل المواصفة (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-16-cip-sistemleri.pdf"
+        "title": "الوثيقة التقنية",
+        "subtitle": "مواصفات PDF - DOK-16",
+        "desc": "مخططات تدفق نظام CIP وطاقات المبادل الحراري والتفاصيل التقنية لمصفوفة الصمامات الهوائية.",
+        "btn": "تحميل المواصفات (PDF)",
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-16-anzimat-cip.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "Dairy Facility Washing Line Reference",
-        "desc": "Fully automatic 4-tank CIP recovery system running 3 simultaneous lines (multi-line) for an integrated facility processing 200 tons of milk per day.",
+        "badge": "تطبيق مرجعي",
+        "imgAlt": "مرجع خط غسيل منشأة الألبان",
+        "desc": "نظام استرداد CIP آلي بالكامل بـ 4 خزانات يعمل على 3 خطوط متزامنة (متعددة الخطوط) لمنشأة متكاملة تعالج 200 طن من الحليب يومياً.",
         "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Project Engineering",
-        "desc": "Contact us to determine the most suitable CIP module for your facility's capacity and washing line lengths.",
-        "btn": "الحصول على دعم تقني"
+        "title": "هندسة المشروع",
+        "desc": "تواصلوا معنا لتحديد وحدة CIP الأنسب لطاقة منشأتكم وأطوال خطوط الغسيل.",
+        "btn": "دعم تقني"
       }
     }
   },
@@ -2204,151 +2205,151 @@
     },
     "ctaBtn": "طلب عرض سعر بنفس المعيار",
     "cta": {
-      "title": "لنطور حلاً هندسياً لمشروعك",
-      "desc": "تواصل مع فريق خبرائنا لمتطلباتك الخاصة. سنخطط لتصنيعك وفق المعايير العالمية.",
+      "title": "لنطور حلاً هندسياً لمشروعكم",
+      "desc": "تواصلوا مع فريق خبرائنا لمتطلباتكم الخاصة من السعة والمعايير التقنية. سنخطط لتصنيعكم وفق المعايير العالمية.",
       "btn": "دعم تقني"
     }
   },
   "selfPrimingPumpsPage": {
     "metadata": {
-      "title": "Self-Priming Hygienic Pumps | Welltech®",
-      "description": "Liquid-ring self-priming pump technology for transferring air-gas mixed liquids, foamy products and CIP return lines."
+      "title": "مضخات ذاتية الشحن الصحية | Welltech®",
+      "description": "تقنية الشحن الذاتي بالحلقة السائلة لنقل السوائل المختلطة بالغاز والهواء والمنتجات الرغوية وخطوط عودة CIP."
     },
     "breadcrumb": {
       "home": "الرئيسية",
       "pumps": "المضخات",
-      "current": "مضخات ذاتية السحب"
+      "current": "مضخات ذاتية الشحن"
     },
     "hero": {
-      "title": "Self-Priming Pumps",
-      "desc": "Even when there is air in the suction line, this technology creates vacuum for uninterrupted flow. The indispensable liquid-ring transfer technology for CIP return lines and foamy liquids."
+      "title": "مضخات ذاتية الشحن",
+      "desc": "حتى عند وجود هواء في خط الشفط، تخلق هذه التقنية فراغاً لتدفق مستمر بدون انقطاع. تقنية النقل بالحلقة السائلة التي لا غنى عنها لخطوط عودة CIP والسوائل الرغوية."
     },
     "technology": {
-      "title": "Power in Air-Liquid Mixtures",
-      "desc": "Standard centrifugal pumps suffer cavitation when air pockets form in the pipeline or at the tank bottom, stopping the transfer. Our self-priming (side-channel/liquid-ring) pumps create a vacuum by mixing the liquid inside with air through a special star impeller design. This technology, which can draw suction even when there is air in the line, is especially used when drawing product from tanks to trucks, with foamy products like whey, and in CIP washing liquid return (CIP Return).",
-      "imgAlt": "Liquid-Ring Star Impeller System"
+      "title": "قوة في مزيج الهواء والسائل",
+      "desc": "تعاني المضخات الطاردة المركزية القياسية من التجويف عند تكون جيوب هوائية في خط الأنابيب أو قاع الخزان، مما يوقف النقل. تخلق مضخاتنا ذاتية الشحن (القناة الجانبية/الحلقة السائلة) فراغاً بخلط السائل الداخلي بالهواء عبر تصميم أداة دفع نجمية خاصة. تُستخدم هذه التقنية خصيصاً عند سحب المنتج من الخزانات إلى الشاحنات، مع المنتجات الرغوية كمصل اللبن، وفي عودة سائل الغسيل CIP.",
+      "imgAlt": "نظام أداة الدفع النجمية بالحلقة السائلة"
     },
     "features": {
-      "title": "Technical Equipment & Capacity",
-      "imgAlt": "Bi-Directional Motor and Body",
+      "title": "المعدات التقنية والطاقة",
+      "imgAlt": "محرك ثنائي الاتجاه والهيكل",
       "items": [
-        "Up to 8 Meters Deep Suction Capacity",
-        "AISI 316L Precision Cast Open Star Impeller",
-        "Gas-Containing (Foamy) Fluid Compatibility",
-        "Ideal as CIP Return Pump",
-        "Reversible Option",
-        "Easy-to-Disassemble Front Cover Design"
+        "طاقة شفط عميق تصل إلى 8 أمتار",
+        "أداة دفع نجمية مفتوحة بصب دقيق AISI 316L",
+        "توافق مع السوائل المحتوية على غاز (رغوية)",
+        "مثالية كمضخة عودة CIP",
+        "خيار عكسي",
+        "تصميم غطاء أمامي سهل الفك"
       ]
     },
     "table": {
-      "title": "Performance & Selection Table",
-      "note": "* The pump body must contain some liquid (priming liquid) for the pump to self-prime. Values are determined by our hydraulic engineers for 1 cP viscosity.",
-      "imgAlt": "Suction Curve and Pump Drawing",
+      "title": "جدول الأداء والاختيار",
+      "note": "* يجب أن يحتوي هيكل المضخة على بعض السائل (سائل التشحيم) للشحن الذاتي. القيم محددة للزوجة 1 سنتيبواز.",
+      "imgAlt": "منحنى الشفط والرسم الفني للمضخة",
       "headers": [
-        "Series No",
-        "Max. Flow (m³/h)",
-        "Suction / Discharge (mWC)",
-        "Motor Power (kW)"
+        "رقم السلسلة",
+        "أقصى تدفق (م³/س)",
+        "الشفط/الضخ (م)",
+        "قدرة المحرك (كيلوواط)"
       ],
       "rows": [
         {
           "model": "WT-SP 15",
-          "flow": "15 m³/h",
-          "head": "-7 m / 25 mWC",
-          "power": "2.2 - 3.0 kW",
+          "flow": "15 م³/س",
+          "head": "-7 م / 25 م",
+          "power": "2.2 - 3.0 كيلوواط",
           "highlight": "blue"
         },
         {
           "model": "WT-SP 30",
-          "flow": "30 m³/h",
-          "head": "-7 m / 32 mWC",
-          "power": "4.0 - 5.5 kW",
+          "flow": "30 م³/س",
+          "head": "-7 م / 32 م",
+          "power": "4.0 - 5.5 كيلوواط",
           "highlight": "blue"
         },
         {
           "model": "WT-SP 50",
-          "flow": "50 m³/h",
-          "head": "-8 m / 35 mWC",
-          "power": "7.5 - 11.0 kW",
+          "flow": "50 م³/س",
+          "head": "-8 م / 35 م",
+          "power": "7.5 - 11.0 كيلوواط",
           "highlight": "orange"
         },
         {
           "model": "WT-SP 70",
-          "flow": "70 m³/h",
-          "head": "-8 m / 40 mWC",
-          "power": "15.0 - 18.5 kW",
+          "flow": "70 م³/س",
+          "head": "-8 م / 40 م",
+          "power": "15.0 - 18.5 كيلوواط",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Vacuum Transfer FAQ",
+      "title": "الأسئلة الشائعة حول النقل بالفراغ",
       "items": [
         {
-          "q": "Why can't a centrifugal pump be used as a CIP Return pump?",
-          "a": "During CIP, the chemical liquid returning from the tank contains a large amount of air and foam. The centrifugal pump stops flow when it sees air and the washing line gets blocked. The self-priming pump can swallow the liquid-air mixture and pump it into the system."
+          "q": "لماذا لا يمكن استخدام مضخة طاردة مركزية كمضخة عودة CIP؟",
+          "a": "أثناء CIP، يحتوي السائل الكيميائي العائد من الخزان على كميات كبيرة من الهواء والرغوة. تتوقف المضخة الطاردة المركزية عن التدفق عند رؤية الهواء ويُسد خط الغسيل. يمكن لمضخة الشحن الذاتي ابتلاع مزيج السائل-الهواء وضخه في النظام."
         },
         {
-          "q": "Why do we need to put liquid inside during initial start (Priming)?",
-          "a": "For the liquid ring to form in the pump body and to vacuum out the air inside, part of the body must be filled with liquid from the start."
+          "q": "لماذا يجب وضع سائل داخل المضخة عند بدء التشغيل الأول (التعبئة)؟",
+          "a": "لتشكيل الحلقة السائلة في هيكل المضخة وشفط الهواء الداخلي، يجب ملء جزء من الهيكل بالسائل من البداية."
         },
         {
-          "q": "Can I draw milk from a truck or underground tank?",
-          "a": "Absolutely. Even if the suction pipe is 7-8 meters underground, the pump creates vacuum and draws the liquid up and pumps it to the main tanks."
+          "q": "هل يمكنني سحب الحليب من شاحنة أو خزان تحت الأرض؟",
+          "a": "بالتأكيد. حتى لو كان أنبوب الشفط على بعد 7-8 أمتار تحت الأرض، تخلق المضخة فراغاً وترفع السائل للأعلى وتضخه إلى الخزانات الرئيسية."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "CIP Return Pump Installation"
+          "alt": "تركيب مضخة عودة CIP"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "Liquid-Ring Impeller Design"
+          "alt": "تصميم أداة الدفع النجمية بالحلقة السائلة"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "Underground Tank Product Drawing"
+          "alt": "سحب المنتج من خزان تحت الأرض"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "Milk and Foam Transfer Line"
+          "alt": "خط نقل الحليب والرغوة"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-11 PDF Specification",
-        "desc": "Vacuum/suction depth charts, liquid-ring impeller tolerances and mechanical connection dimensions.",
-        "btn": "Download Curves (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-kendinden-emisli-pompalar.pdf"
+        "title": "الوثيقة التقنية",
+        "subtitle": "مواصفات PDF - DOK-11",
+        "desc": "مخططات الفراغ/عمق الشفط وتفاوتات أداة الدفع بالحلقة السائلة وأبعاد التوصيل الميكانيكي.",
+        "btn": "تحميل المنحنيات (PDF)",
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-11-mudakhkhat-thatiyyat-al-tahdir.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "CIP Return Automation",
-        "desc": "30 m³/h capacity CIP return pumps integrated into foamy acid and caustic return lines for a large-scale juice facility.",
+        "badge": "تطبيق مرجعي",
+        "imgAlt": "أتمتة عودة CIP",
+        "desc": "مضخات عودة CIP بطاقة 30 م³/س مدمجة في خطوط عودة الحمض والقلوي الرغوية لمنشأة عصير كبيرة.",
         "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Vacuum Calculation",
-        "desc": "Tell us your suction depth (negative elevation) and air ratio in the pipeline, and we will design a system that transports your product without cavitation.",
-        "btn": "Request a Quote →",
+        "title": "حساب الفراغ",
+        "desc": "أخبرونا بعمق الشفط ونسبة الهواء في خط الأنابيب، وسنصمم نظاماً ينقل منتجكم دون تجويف.",
+        "btn": "طلب عرض سعر ←",
         "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20kendinden%20emi%C5%9Fli%20ve%20CIP%20d%C3%B6n%C3%BC%C5%9F%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
       }
     }
   },
   "diaphragmPumpsPage": {
     "metadata": {
-      "title": "Air-Operated Diaphragm Pumps | Welltech®",
-      "description": "Pneumatic air-operated diaphragm pump technologies that carry no electrical spark risk for flammable (ATEX) environments and aggressive chemicals."
+      "title": "مضخات الحجاب الهوائية الهوائية | Welltech®",
+      "description": "تقنيات مضخات الحجاب الهوائية الهوائية التي لا تحمل خطر شرر كهربائي للبيئات القابلة للاشتعال (ATEX) والمواد الكيميائية العدوانية."
     },
     "breadcrumb": {
       "home": "الرئيسية",
@@ -2356,263 +2357,263 @@
       "current": "مضخات الحجاب الهوائي"
     },
     "hero": {
-      "title": "Air-Operated Diaphragm Pumps",
-      "desc": "Zero electrical spark, full ATEX compliance. Pneumatic systems powered by compressed air providing unrivalled safety in transferring flammable and aggressive chemicals."
+      "title": "مضخات الحجاب الهوائي",
+      "desc": "صفر شرر كهربائي، توافق كامل مع ATEX. أنظمة هوائية تعمل بالهواء المضغوط توفر سلامة لا مثيل لها في نقل المواد الكيميائية القابلة للاشتعال والعدوانية."
     },
     "safety": {
-      "title": "100% Safety Without Electricity",
-      "desc": "In environments with solvent, alcohol or flammable gas emissions, even a tiny spark from an electric motor pump can cause disaster. Pneumatic Diaphragm pumps draw their energy from compressed air from the factory compressor. Since there is no electrical connection, they provide 100% Ex-Proof (ATEX) protection. Since they have no mechanical impeller, they can also easily pump liquids containing fruit particles or solid particles without crushing the product.",
-      "imgAlt": "Pneumatic Air Valve Detail"
+      "title": "100% أمان بدون كهرباء",
+      "desc": "في البيئات التي تنبعث فيها المذيبات أو الكحول أو الغازات القابلة للاشتعال، يمكن حتى لشرارة صغيرة من مضخة المحرك الكهربائي أن تسبب كارثة. تستمد مضخات الحجاب الهوائية طاقتها من الهواء المضغوط لضاغط المصنع. نظراً لعدم وجود توصيل كهربائي، توفر حماية 100% مضادة للانفجار (ATEX). وبما أنها لا تحتوي على أداة دفع ميكانيكية، يمكنها أيضاً ضخ السوائل المحتوية على جزيئات فاكهة أو مواد صلبة بسهولة دون سحق المنتج.",
+      "imgAlt": "تفاصيل صمام الهواء الهوائي"
     },
     "features": {
-      "title": "Critical Engineering Features",
-      "imgAlt": "ATEX Protection and Grounding",
+      "title": "الخصائص الهندسية الحرجة",
+      "imgAlt": "حماية ATEX والتأريض",
       "items": [
-        "Dry Running Without Damage",
-        "ATEX (Ex-Proof) Zone Compliance",
-        "Solid Particle and Viscous Material Transfer",
-        "PTFE (Teflon) and Santoprene Diaphragm",
-        "Easy Flow Rate Adjustment with Air Pressure",
-        "Sealless Design"
+        "التشغيل الجاف دون تلف",
+        "توافق منطقة ATEX (مضادة للانفجار)",
+        "نقل الجزيئات الصلبة والمواد اللزجة",
+        "حجاب PTFE (تيفلون) وسانتوبرين",
+        "ضبط سهل لمعدل التدفق بضغط الهواء",
+        "تصميم بدون أختام"
       ]
     },
     "table": {
-      "title": "Diaphragm Pump Capacity Table",
-      "note": "* The performance of pneumatic pumps is directly dependent on the air pressure (Bar) produced by the compressor in your facility. Data is calculated with reference to 7 Bar air supply.",
-      "imgAlt": "Diaphragm Pump Performance Curve",
+      "title": "جدول طاقة مضخات الحجاب",
+      "note": "* يعتمد أداء المضخات الهوائية مباشرةً على ضغط الهواء (بار) الذي ينتجه ضاغط منشأتكم. البيانات محسوبة بإمداد هواء 7 بار.",
+      "imgAlt": "منحنى أداء مضخة الحجاب",
       "headers": [
-        "Connection Size",
-        "Max. Flow (L/min)",
-        "Max. Air Pressure",
-        "Solid Particle Size"
+        "حجم التوصيل",
+        "أقصى تدفق (ل/د)",
+        "أقصى ضغط هواء",
+        "حجم الجزيئات الصلبة"
       ],
       "rows": [
         {
-          "size": "1/2\" Inch",
-          "flow": "50 L/min",
-          "pressure": "7 Bar",
-          "particle": "3 mm",
+          "size": "1/2 بوصة",
+          "flow": "50 ل/د",
+          "pressure": "7 بار",
+          "particle": "3 مم",
           "highlight": "blue"
         },
         {
-          "size": "1\" Inch",
-          "flow": "160 L/min",
-          "pressure": "7 Bar",
-          "particle": "4 mm",
+          "size": "1 بوصة",
+          "flow": "160 ل/د",
+          "pressure": "7 بار",
+          "particle": "4 مم",
           "highlight": "blue"
         },
         {
-          "size": "1.5\" Inch",
-          "flow": "350 L/min",
-          "pressure": "7 Bar",
-          "particle": "6 mm",
+          "size": "1.5 بوصة",
+          "flow": "350 ل/د",
+          "pressure": "7 بار",
+          "particle": "6 مم",
           "highlight": "orange"
         },
         {
-          "size": "2\" Inch",
-          "flow": "600 L/min",
-          "pressure": "7 Bar",
-          "particle": "8 mm",
+          "size": "2 بوصة",
+          "flow": "600 ل/د",
+          "pressure": "7 بار",
+          "particle": "8 مم",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Pneumatic Transfer FAQ",
+      "title": "الأسئلة الشائعة حول النقل الهوائي",
       "items": [
         {
-          "q": "Does dry running damage the pump?",
-          "a": "No. Unlike centrifugal and lobe pumps, air diaphragm pumps do not heat up and break down even if they run dry (without liquid) for hours since there is no mechanical friction."
+          "q": "هل التشغيل الجاف يُتلف المضخة؟",
+          "a": "لا. على عكس المضخات الطاردة المركزية ومضخات الفصوص، لا تسخن مضخات الحجاب الهوائية ولا تتعطل حتى لو عملت جافة (بدون سائل) لساعات، إذ لا يوجد احتكاك ميكانيكي."
         },
         {
-          "q": "How can I adjust the flow rate?",
-          "a": "While expensive inverters (frequency drives) are needed for electric motor pumps, simply throttling or opening the air valve from the compressor is sufficient to change the flow rate in diaphragm pumps."
+          "q": "كيف يمكنني ضبط معدل التدفق؟",
+          "a": "بينما تحتاج مضخات المحرك الكهربائي إلى عاكسات تردد باهظة الثمن، يكفي في مضخات الحجاب تقليل أو فتح صمام الهواء من الضاغط لتغيير معدل التدفق."
         },
         {
-          "q": "How do we select the diaphragm material?",
-          "a": "PTFE (Teflon) with excellent chemical resistance for aggressive acids and solvents; Santoprene or NBR with flexible structure for food applications or sludgy products containing abrasive particles."
+          "q": "كيف نختار مادة الحجاب؟",
+          "a": "PTFE (تيفلون) ذو مقاومة كيميائية ممتازة للأحماض العدوانية والمذيبات؛ سانتوبرين أو NBR ذو البنية المرنة للتطبيقات الغذائية أو المنتجات الطينية المحتوية على جزيئات كاشطة."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "ATEX Chemical Transfer Pump"
+          "alt": "مضخة نقل كيميائي ATEX"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "PTFE Diaphragm Group"
+          "alt": "مجموعة حجاب PTFE"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "Food Sector Hygienic AODD"
+          "alt": "AODD صحية للقطاع الغذائي"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "Air Pump Battery"
+          "alt": "بطارية مضخات هوائية"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-13 PDF Specification",
-        "desc": "ATEX certification documents, diaphragm chemical resistance table and pressure/air consumption curves.",
-        "btn": "Download Document (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-13-havali-diyafram-pompalar.pdf"
+        "title": "الوثيقة التقنية",
+        "subtitle": "مواصفات PDF - DOK-13",
+        "desc": "وثائق اعتماد ATEX وجدول مقاومة مادة الحجاب الكيميائية ومنحنيات الضغط/استهلاك الهواء.",
+        "btn": "تحميل الوثيقة (PDF)",
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-13-mudakhkhat-ghishaiyya-hawaiyya.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "Chemical ATEX Line Reference",
-        "desc": "ATEX transfer station with PTFE diaphragm from reactors to 50-ton storage tanks in a high-flammability chemical production facility.",
+        "badge": "تطبيق مرجعي",
+        "imgAlt": "مرجع خط كيميائي ATEX",
+        "desc": "محطة نقل ATEX بحجاب PTFE من المفاعلات إلى خزانات تخزين 50 طن في منشأة إنتاج كيميائية عالية الاشتعالية.",
         "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Pneumatic Engineering",
-        "desc": "Specify your facility compressor capacity and the liquid to be transferred, and we will calculate the correct diaphragm material and size.",
-        "btn": "Request a Quote →",
+        "title": "الهندسة الهوائية",
+        "desc": "حددوا طاقة ضاغط منشأتكم والسائل المراد نقله، وسنحسب مادة الحجاب الصحيحة والحجم المناسب.",
+        "btn": "طلب عرض سعر ←",
         "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20havalı%20diyafram%20pompası%20hakkında%20kimyasal%20uyumluluk%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
       }
     }
   },
   "monopompPumpsPage": {
     "metadata": {
-      "title": "Monopumps (Eccentric Screw) | Welltech®",
-      "description": "Rotor-stator monopump systems providing pulsation-free and continuous transfer for high-viscosity, sludge, honey and abrasive particle-containing fluids."
+      "title": "مضخات أحادية (مضخات اللولب خارج المركز) | Welltech®",
+      "description": "أنظمة مضخات روتور-ستاتور أحادية توفر نقلاً بدون نبضات ومستمر للسوائل عالية اللزوجة والحمأة والعسل والسوائل المحتوية على جزيئات كاشطة."
     },
     "breadcrumb": {
       "home": "الرئيسية",
       "pumps": "المضخات",
-      "current": "مضخات وحيدة"
+      "current": "مضخات أحادية"
     },
     "hero": {
-      "title": "Monopumps",
-      "desc": "Designed for the most difficult fluids. With eccentric screw (Rotor-Stator) operating principle, zero vibration and continuous flow for high-viscosity, abrasive and solid particle-containing products."
+      "title": "المضخات الأحادية",
+      "desc": "مصممة للسوائل الأكثر صعوبة. مبدأ عمل اللولب خارج المركز (روتور-ستاتور) يوفر تدفقاً مستمراً وصفري الاهتزاز للمنتجات عالية اللزوجة والكاشطة والمحتوية على جزيئات صلبة."
     },
     "technology": {
-      "title": "Pulsation-Free and Continuous Transfer",
-      "desc": "Monopumps (Eccentric Screw Pumps) work on the principle of a helical stainless steel rotor rotating inside an elastomeric (rubber) stator. This unique geometry creates continuously closed cavities in the liquid, pushing the fluid forward under pressure. From water-like fluids to products with viscosity up to 1,000,000 cP such as dough, honey, wastewater sludge, fruit puree, glue and resin, it provides a perfect and constant flow rate without any pulsation.",
-      "imgAlt": "Monopump Rotor and Stator Detail"
+      "title": "نقل بدون نبضات ومستمر",
+      "desc": "تعمل المضخات الأحادية (مضخات اللولب خارج المركز) وفق مبدأ دوران روتور لولبي من الفولاذ المقاوم للصدأ داخل ستاتور مرن (مطاطي). تخلق هذه الهندسة الفريدة تجاويف مغلقة باستمرار في السائل، مما يدفع السائل للأمام تحت الضغط. من السوائل المائية إلى المنتجات ذات اللزوجة التي تصل إلى 1,000,000 سنتيبواز كالعجين والعسل وحمأة مياه الصرف ومهروس الفاكهة والغراء والراتنج، يوفر تدفقاً مثالياً وثابتاً دون أي نبضات.",
+      "imgAlt": "تفاصيل روتور وستاتور المضخة الأحادية"
     },
     "features": {
-      "title": "Superior Mechanical Properties",
-      "imgAlt": "Elastomer Stator and Rotor",
+      "title": "خصائص ميكانيكية متفوقة",
+      "imgAlt": "ستاتور مرن وروتور",
       "items": [
-        "Low Shear Technology",
-        "Solid Particle and Sludge Transfer",
-        "NBR, EPDM, FKM, PTFE Stator Options",
-        "Precise Proportional Dosing Capability",
-        "12-24 Bar High Pressure Resistance",
-        "Non-Crushing Flow for Fruit and Food Cells"
+        "تقنية القص المنخفض (Low Shear)",
+        "نقل الجزيئات الصلبة والحمأة",
+        "خيارات ستاتور NBR وEPDM وFKM وPTFE",
+        "قدرة جرعات تناسبية دقيقة",
+        "مقاومة ضغط عالٍ 12-24 بار",
+        "تدفق غير ساحق لخلايا الفاكهة والأغذية"
       ]
     },
     "table": {
-      "title": "Monopump Capacity Table",
-      "note": "* Values are calculated for average viscosity fluids (up to 12 Bar max pressure). Flow varies depending on reducer speed.",
-      "imgAlt": "Monopump Pressure and Capacity Curve",
+      "title": "جدول طاقة المضخات الأحادية",
+      "note": "* القيم محسوبة للسوائل متوسطة اللزوجة (حتى 12 بار أقصى ضغط). يتغير التدفق حسب سرعة المخفض.",
+      "imgAlt": "منحنى ضغط وطاقة المضخة الأحادية",
       "headers": [
-        "Series No",
-        "Max. Flow (m³/h)",
-        "Max. Pressure",
-        "Connection Size"
+        "رقم السلسلة",
+        "أقصى تدفق (م³/س)",
+        "أقصى ضغط",
+        "حجم التوصيل"
       ],
       "rows": [
         {
           "model": "WT-M 05",
-          "flow": "5 m³/h",
-          "pressure": "12 Bar",
-          "connection": "2\" Inch",
+          "flow": "5 م³/س",
+          "pressure": "12 بار",
+          "connection": "2 بوصة",
           "highlight": "blue"
         },
         {
           "model": "WT-M 10",
-          "flow": "10 m³/h",
-          "pressure": "12 Bar",
-          "connection": "2.5\" Inch",
+          "flow": "10 م³/س",
+          "pressure": "12 بار",
+          "connection": "2.5 بوصة",
           "highlight": "blue"
         },
         {
           "model": "WT-M 20",
-          "flow": "20 m³/h",
-          "pressure": "12 Bar",
-          "connection": "3\" Inch",
+          "flow": "20 م³/س",
+          "pressure": "12 بار",
+          "connection": "3 بوصة",
           "highlight": "orange"
         },
         {
           "model": "WT-M 40",
-          "flow": "40 m³/h",
-          "pressure": "12 Bar",
-          "connection": "4\" Inch",
+          "flow": "40 م³/س",
+          "pressure": "12 بار",
+          "connection": "4 بوصة",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Eccentric Screw Pump FAQ",
+      "title": "الأسئلة الشائعة حول مضخات اللولب خارج المركز",
       "items": [
         {
-          "q": "Can monopumps run dry?",
-          "a": "No. Since the stator is usually made of elastomeric (rubber etc.) material, when no fluid (lubricant) passes through it, the stainless rotor rubs against the stator causing excessive heat and burns the stator. The system must be equipped with dry-run protection sensors."
+          "q": "هل يمكن للمضخات الأحادية العمل جافة؟",
+          "a": "لا. بما أن الستاتور مصنوع عادةً من مادة مرنة (مطاط إلخ)، عندما لا يمر سائل (مزلق) عبره، يحتك الروتور الفولاذي بالستاتور مسبباً حرارة مفرطة وحرق الستاتور. يجب تزويد النظام بمستشعرات حماية من التشغيل الجاف."
         },
         {
-          "q": "Can it pump solid particle or seed-containing products?",
-          "a": "Absolutely. This is the greatest strength of monopumps. Products containing particles and fibers like wastewater sludge, seeded fruit purees or olive paste are transferred without clogging and without crushing their structure thanks to the rotor/stator cavity geometry."
+          "q": "هل يمكنها ضخ منتجات تحتوي على جزيئات صلبة أو بذور؟",
+          "a": "بالتأكيد. هذه هي القوة الأكبر للمضخات الأحادية. المنتجات المحتوية على جزيئات وألياف كحمأة مياه الصرف ومهروس الفاكهة بالبذور أو عجينة الزيتون تُنقل دون انسداد ودون تكسير بنيتها بفضل هندسة تجاويف الروتور/الستاتور."
         },
         {
-          "q": "How do we select the stator material?",
-          "a": "According to the chemical composition and temperature of your fluid. For food products like milk and honey: FDA-compliant white NBR or EPDM; for abrasive aggressive acids and chemicals: FKM (Viton) or PTFE (Teflon) stator."
+          "q": "كيف نختار مادة الستاتور؟",
+          "a": "وفقاً للتركيب الكيميائي ودرجة حرارة سائلكم. للمنتجات الغذائية كالحليب والعسل: NBR أو EPDM أبيض متوافق مع FDA؛ للأحماض والمواد الكيميائية الكاشطة العدوانية: ستاتور FKM (فيتون) أو PTFE (تيفلون)."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "أمثلة التطبيقات",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "المشروع 01",
-          "alt": "Food-Grade Monopump"
+          "alt": "مضخة أحادية للدرجة الغذائية"
         },
         {
           "src": "galeri-2.webp",
           "label": "المشروع 02",
-          "alt": "Wastewater Sludge Pump"
+          "alt": "مضخة حمأة مياه الصرف"
         },
         {
           "src": "galeri-3.webp",
           "label": "المشروع 03",
-          "alt": "Rotor and Stator Detail"
+          "alt": "تفاصيل الروتور والستاتور"
         },
         {
           "src": "galeri-4.webp",
           "label": "المشروع 04",
-          "alt": "Gearbox-Driven Monopump Group"
+          "alt": "مجموعة مضخات أحادية بمحرك مخفض"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-11 PDF Specification",
-        "desc": "Monopump reducer speed ratios, stator chemical resistance table and pressure/flow measurement curves.",
-        "btn": "Download Curves (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-monopomp-pompalar.pdf"
+        "title": "الوثيقة التقنية",
+        "subtitle": "مواصفات PDF - DOK-11",
+        "desc": "نسب سرعة مخفض المضخة الأحادية وجدول مقاومة مادة الستاتور الكيميائية ومنحنيات قياس الضغط/التدفق.",
+        "btn": "تحميل المنحنيات (PDF)",
+        "fileUrl": "/assets/documents/ar/al-muwasafat-al-fanniyya/DOC-11-mudakhkhat-halazuniyya.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Heavy-Duty Sludge Pump Reference",
-        "desc": "Heavy-duty monopump battery with FKM stator, resistant to 12 Bar pressure for transferring 20% density active sludge in wastewater treatment facility.",
+        "badge": "مرجع بارز",
+        "imgAlt": "مرجع مضخة حمأة ثقيلة",
+        "desc": "بطارية مضخات أحادية ثقيلة بستاتور FKM، مقاومة لضغط 12 بار لنقل الحمأة النشطة بكثافة 20% في محطة معالجة مياه الصرف.",
         "link": "عرض جميع المراجع"
       },
       "cta": {
-        "title": "Monopump Selection",
-        "desc": "Specify your fluid viscosity (cP) and particle density, and we will determine the most suitable rotor-stator pair.",
-        "btn": "Engineering Support →",
+        "title": "اختيار المضخة الأحادية",
+        "desc": "حددوا لزوجة سائلكم (سنتيبواز) وكثافة الجزيئات، وسنحدد زوج الروتور-ستاتور الأنسب.",
+        "btn": "دعم هندسي ←",
         "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20yüksek%20viskoziteli%20ürün%20transferi%20için%20monopomp%20fiyatı%20almak%20istiyorum."
       }
     }
