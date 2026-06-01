@@ -982,7 +982,7 @@
         "subtitle": "DOK-11 Especificación PDF",
         "desc": "Diagramas viscosidad/velocidad de bombas de lóbulos, dimensiones de tapa con camisa y tabla de selección de potencia del reductor.",
         "btn": "Descargar Diagramas (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-loblu-pompalar.pdf"
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/DOC-11-bombas-lobulares.pdf"
       },
       "reference": {
         "badge": "Aplicación de Referencia",
@@ -1118,7 +1118,7 @@
         "subtitle": "DOK-10 Especificación PDF",
         "desc": "Curvas de rendimiento de bombas centrífugas, valores NPSH y tabla de compatibilidad de materiales de sellos mecánicos.",
         "btn": "Descargar Curvas (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-10-santrifuj-pompalar.pdf"
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/DOC-10-bombas-centrifugas.pdf"
       },
       "reference": {
         "badge": "Referencia Destacada",
@@ -1254,7 +1254,7 @@
         "subtitle": "DOK-12 Especificación PDF",
         "desc": "Tabla de resistencia química, rangos de velocidad del motor y documento técnico de accesorios de conexión para depósitos IBC.",
         "btn": "Descargar Especificación (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-12-varil-pompalar.pdf"
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/DOC-12-bombas-de-barril.pdf"
       },
       "reference": {
         "badge": "Aplicación de Referencia",
@@ -1466,7 +1466,7 @@
         "subtitle": "DOK-05 Documento PDF",
         "desc": "Especificación de ingeniería que contiene cálculos de área termodinámica, presiones de trabajo y espesores de aislamiento.",
         "btn": "Descargar Documento (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-05-ceketli-tanklar.pdf"
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/DOC-05-tanques-encamisados.pdf"
       },
       "reference": {
         "badge": "Referencia Destacada",
@@ -1573,7 +1573,7 @@
         "title": "Documento Técnico",
         "subtitle": "DOK-15 Especificación PDF",
         "btn": "Descargar Especificación (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-15-biyoreaktorler.pdf"
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/DOC-15-biorreactores.pdf"
       },
       "reference": {
         "badge": "Aplicación de Referencia",
@@ -1685,7 +1685,7 @@
         "subtitle": "DOK-08 Documento PDF",
         "desc": "Especificación técnica que contiene tolerancias rotor-estátor, circuito de enfriamiento del sello mecánico y cálculos de potencia del motor kW.",
         "btn": "Descargar Documento (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-08-homojenizatorler.pdf"
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/DOC-08-homogeneizadores.pdf"
       },
       "reference": {
         "badge": "Referencia Destacada",
@@ -1804,7 +1804,7 @@
         "subtitle": "DOK-06 Documento PDF",
         "desc": "Especificación de ingeniería que contiene cálculos de potencia del motor para diferentes viscosidades y detalles de estanqueidad del sello mecánico.",
         "btn": "Descargar Documento (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-06-karistiricili-tanklar.pdf"
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/DOC-06-tanques-mezcladores.pdf"
       },
       "reference": {
         "badge": "Referencia Destacada",
@@ -1924,7 +1924,7 @@
         "subtitle": "WLL-RX-01 PDF",
         "desc": "Documento de ingeniería que contiene códigos de materiales ASME, espesores de soldadura y cálculos de potencia del motor kW.",
         "btn": "Descargar Especificación PDF",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/WLL-RX-01-reaktorler.pdf"
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/WLL-RX-01-reactores.pdf"
       },
       "reference": {
         "badge": "Referencia Destacada",
@@ -2037,7 +2037,7 @@
         "subtitle": "DOK-09 Documento PDF",
         "desc": "Especificación de ingeniería que contiene cálculos de carga del chasis compacto, normas de tuberías y diagramas P&ID de automatización.",
         "btn": "Descargar Documento (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-09-skid-sistemler.pdf"
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/DOC-09-sistemas-skid.pdf"
       },
       "reference": {
         "badge": "Referencia Destacada",
@@ -2168,7 +2168,7 @@
         "subtitle": "DOK-16 Especificación PDF",
         "desc": "Diagramas de flujo del sistema CIP, capacidades del intercambiador de calor y detalles técnicos de la matriz de válvulas neumáticas.",
         "btn": "Descargar Especificación (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-16-cip-sistemleri.pdf"
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/DOC-16-sistemas-cip.pdf"
       },
       "reference": {
         "badge": "Aplicación de Referencia",
@@ -2211,8 +2211,8 @@
   },
   "selfPrimingPumpsPage": {
     "metadata": {
-      "title": "Self-Priming Hygienic Pumps | Welltech®",
-      "description": "Liquid-ring self-priming pump technology for transferring air-gas mixed liquids, foamy products and CIP return lines."
+      "title": "Bombas Autocebantes Higiénicas | Welltech®",
+      "description": "Tecnología de bomba autocebante por anillo líquido para transferir líquidos con mezcla de aire-gas, productos espumosos y líneas de retorno CIP."
     },
     "breadcrumb": {
       "home": "Inicio",
@@ -2220,135 +2220,135 @@
       "current": "Bombas Autocebantes"
     },
     "hero": {
-      "title": "Self-Priming Pumps",
-      "desc": "Even when there is air in the suction line, this technology creates vacuum for uninterrupted flow. The indispensable liquid-ring transfer technology for CIP return lines and foamy liquids."
+      "title": "Bombas Autocebantes",
+      "desc": "Incluso cuando hay aire en la línea de succión, esta tecnología crea vacío para un flujo ininterrumpido. La tecnología de transferencia por anillo líquido imprescindible para líneas de retorno CIP y líquidos espumosos."
     },
     "technology": {
-      "title": "Power in Air-Liquid Mixtures",
-      "desc": "Standard centrifugal pumps suffer cavitation when air pockets form in the pipeline or at the tank bottom, stopping the transfer. Our self-priming (side-channel/liquid-ring) pumps create a vacuum by mixing the liquid inside with air through a special star impeller design. This technology, which can draw suction even when there is air in the line, is especially used when drawing product from tanks to trucks, with foamy products like whey, and in CIP washing liquid return (CIP Return).",
-      "imgAlt": "Liquid-Ring Star Impeller System"
+      "title": "Potencia en mezclas aire-líquido",
+      "desc": "Las bombas centrífugas estándar sufren cavitación cuando se forman bolsas de aire en la tubería o en el fondo del tanque, deteniendo la transferencia. Nuestras bombas autocebantes (canal lateral/anillo líquido) crean vacío mezclando el líquido interior con aire a través de un diseño especial de impulsor estrella. Esta tecnología se usa especialmente al extraer producto de tanques a camiones, con productos espumosos como suero de leche, y en el retorno del líquido de lavado CIP.",
+      "imgAlt": "Sistema de impulsor estrella de anillo líquido"
     },
     "features": {
-      "title": "Technical Equipment & Capacity",
-      "imgAlt": "Bi-Directional Motor and Body",
+      "title": "Equipamiento técnico y capacidad",
+      "imgAlt": "Motor bidireccional y cuerpo",
       "items": [
-        "Up to 8 Meters Deep Suction Capacity",
-        "AISI 316L Precision Cast Open Star Impeller",
-        "Gas-Containing (Foamy) Fluid Compatibility",
-        "Ideal as CIP Return Pump",
-        "Reversible Option",
-        "Easy-to-Disassemble Front Cover Design"
+        "Capacidad de succión profunda hasta 8 metros",
+        "Impulsor estrella abierto de fundición de precisión AISI 316L",
+        "Compatibilidad con fluidos con gas (espumosos)",
+        "Ideal como bomba de retorno CIP",
+        "Opción reversible",
+        "Diseño de tapa frontal fácil de desmontar"
       ]
     },
     "table": {
-      "title": "Performance & Selection Table",
-      "note": "* The pump body must contain some liquid (priming liquid) for the pump to self-prime. Values are determined by our hydraulic engineers for 1 cP viscosity.",
-      "imgAlt": "Suction Curve and Pump Drawing",
+      "title": "Tabla de rendimiento y selección",
+      "note": "* El cuerpo de la bomba debe contener algo de líquido (líquido de cebado) para el autocebado. Valores determinados para viscosidad 1 cP.",
+      "imgAlt": "Curva de succión y dibujo de la bomba",
       "headers": [
-        "Series No",
-        "Max. Flow (m³/h)",
-        "Suction / Discharge (mWC)",
-        "Motor Power (kW)"
+        "N° Serie",
+        "Caudal Máx. (m³/h)",
+        "Succión/Descarga (mca)",
+        "Potencia Motor (kW)"
       ],
       "rows": [
         {
           "model": "WT-SP 15",
           "flow": "15 m³/h",
-          "head": "-7 m / 25 mWC",
-          "power": "2.2 - 3.0 kW",
+          "head": "-7 m / 25 mca",
+          "power": "2,2 - 3,0 kW",
           "highlight": "blue"
         },
         {
           "model": "WT-SP 30",
           "flow": "30 m³/h",
-          "head": "-7 m / 32 mWC",
-          "power": "4.0 - 5.5 kW",
+          "head": "-7 m / 32 mca",
+          "power": "4,0 - 5,5 kW",
           "highlight": "blue"
         },
         {
           "model": "WT-SP 50",
           "flow": "50 m³/h",
-          "head": "-8 m / 35 mWC",
-          "power": "7.5 - 11.0 kW",
+          "head": "-8 m / 35 mca",
+          "power": "7,5 - 11,0 kW",
           "highlight": "orange"
         },
         {
           "model": "WT-SP 70",
           "flow": "70 m³/h",
-          "head": "-8 m / 40 mWC",
-          "power": "15.0 - 18.5 kW",
+          "head": "-8 m / 40 mca",
+          "power": "15,0 - 18,5 kW",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Vacuum Transfer FAQ",
+      "title": "FAQ Transferencia por vacío",
       "items": [
         {
-          "q": "Why can't a centrifugal pump be used as a CIP Return pump?",
-          "a": "During CIP, the chemical liquid returning from the tank contains a large amount of air and foam. The centrifugal pump stops flow when it sees air and the washing line gets blocked. The self-priming pump can swallow the liquid-air mixture and pump it into the system."
+          "q": "¿Por qué no se puede usar una bomba centrífuga como bomba de retorno CIP?",
+          "a": "Durante el CIP, el líquido químico que regresa del tanque contiene gran cantidad de aire y espuma. La bomba centrífuga detiene el flujo al ver aire y la línea de lavado se bloquea. La bomba autocebante puede tragar la mezcla líquido-aire y bombearla al sistema."
         },
         {
-          "q": "Why do we need to put liquid inside during initial start (Priming)?",
-          "a": "For the liquid ring to form in the pump body and to vacuum out the air inside, part of the body must be filled with liquid from the start."
+          "q": "¿Por qué hay que poner líquido dentro al primer arranque (cebado)?",
+          "a": "Para que se forme el anillo líquido en el cuerpo de la bomba y se evacúe el aire interior, parte del cuerpo debe llenarse con líquido desde el inicio."
         },
         {
-          "q": "Can I draw milk from a truck or underground tank?",
-          "a": "Absolutely. Even if the suction pipe is 7-8 meters underground, the pump creates vacuum and draws the liquid up and pumps it to the main tanks."
+          "q": "¿Puedo extraer leche de un camión o tanque subterráneo?",
+          "a": "Por supuesto. Incluso si el tubo de succión está a 7-8 metros bajo tierra, la bomba crea vacío y eleva el líquido hasta los tanques principales."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Ejemplos de Aplicaciones",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "PROYECTO 01",
-          "alt": "CIP Return Pump Installation"
+          "alt": "Instalación bomba retorno CIP"
         },
         {
           "src": "galeri-2.webp",
           "label": "PROYECTO 02",
-          "alt": "Liquid-Ring Impeller Design"
+          "alt": "Diseño impulsor estrella anillo líquido"
         },
         {
           "src": "galeri-3.webp",
           "label": "PROYECTO 03",
-          "alt": "Underground Tank Product Drawing"
+          "alt": "Extracción producto tanque subterráneo"
         },
         {
           "src": "galeri-4.webp",
           "label": "PROYECTO 04",
-          "alt": "Milk and Foam Transfer Line"
+          "alt": "Línea transferencia leche y espuma"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-11 PDF Specification",
-        "desc": "Vacuum/suction depth charts, liquid-ring impeller tolerances and mechanical connection dimensions.",
-        "btn": "Download Curves (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-kendinden-emisli-pompalar.pdf"
+        "title": "Documento Técnico",
+        "subtitle": "DOK-11 Especificación PDF",
+        "desc": "Gráficos vacío/profundidad de succión, tolerancias impulsor estrella anillo líquido y dimensiones de conexión mecánica.",
+        "btn": "Descargar Curvas (PDF)",
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/DOC-11-bombas-autocebantes.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "CIP Return Automation",
-        "desc": "30 m³/h capacity CIP return pumps integrated into foamy acid and caustic return lines for a large-scale juice facility.",
+        "badge": "Aplicación de Referencia",
+        "imgAlt": "Automatización retorno CIP",
+        "desc": "Bombas de retorno CIP de 30 m³/h integradas en líneas de retorno de ácido y cáustico espumoso para una gran instalación de zumos.",
         "link": "Ver Todas las Referencias"
       },
       "cta": {
-        "title": "Vacuum Calculation",
-        "desc": "Tell us your suction depth (negative elevation) and air ratio in the pipeline, and we will design a system that transports your product without cavitation.",
-        "btn": "Request a Quote →",
-        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20kendinden%20emi%C5%9Fli%20ve%20CIP%20d%C3%B6n%C3%BC%C5%9F%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+        "title": "Cálculo de vacío",
+        "desc": "Indíquenos la profundidad de succión y la proporción de aire en la tubería, y diseñaremos un sistema que transporte su producto sin cavitación.",
+        "btn": "Solicitar Presupuesto →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba"
       }
     }
   },
   "diaphragmPumpsPage": {
     "metadata": {
-      "title": "Air-Operated Diaphragm Pumps | Welltech®",
-      "description": "Pneumatic air-operated diaphragm pump technologies that carry no electrical spark risk for flammable (ATEX) environments and aggressive chemicals."
+      "title": "Bombas de Diafragma Neumáticas | Welltech®",
+      "description": "Tecnologías de bombas de diafragma neumáticas sin riesgo de chispa eléctrica para entornos inflamables (ATEX) y productos químicos agresivos."
     },
     "breadcrumb": {
       "home": "Inicio",
@@ -2356,60 +2356,60 @@
       "current": "Bombas de Diafragma Neumáticas"
     },
     "hero": {
-      "title": "Air-Operated Diaphragm Pumps",
-      "desc": "Zero electrical spark, full ATEX compliance. Pneumatic systems powered by compressed air providing unrivalled safety in transferring flammable and aggressive chemicals."
+      "title": "Bombas de Diafragma Neumáticas",
+      "desc": "Cero chispa eléctrica, plena conformidad ATEX. Sistemas neumáticos accionados por aire comprimido que proporcionan seguridad inigualable en la transferencia de productos químicos inflamables y agresivos."
     },
     "safety": {
-      "title": "100% Safety Without Electricity",
-      "desc": "In environments with solvent, alcohol or flammable gas emissions, even a tiny spark from an electric motor pump can cause disaster. Pneumatic Diaphragm pumps draw their energy from compressed air from the factory compressor. Since there is no electrical connection, they provide 100% Ex-Proof (ATEX) protection. Since they have no mechanical impeller, they can also easily pump liquids containing fruit particles or solid particles without crushing the product.",
-      "imgAlt": "Pneumatic Air Valve Detail"
+      "title": "100% seguridad sin electricidad",
+      "desc": "En entornos con emisiones de solventes, alcohol o gases inflamables, incluso una pequeña chispa de una bomba de motor eléctrico puede causar un desastre. Las bombas de diafragma neumáticas obtienen su energía del aire comprimido del compresor de la fábrica. Al no haber conexión eléctrica, proporcionan protección Ex-Proof (ATEX) al 100%. Como no tienen impulsor mecánico, también pueden bombear fácilmente líquidos con partículas de fruta o sólidos sin triturar el producto.",
+      "imgAlt": "Detalle válvula de aire neumática"
     },
     "features": {
-      "title": "Critical Engineering Features",
-      "imgAlt": "ATEX Protection and Grounding",
+      "title": "Características críticas de ingeniería",
+      "imgAlt": "Protección ATEX y puesta a tierra",
       "items": [
-        "Dry Running Without Damage",
-        "ATEX (Ex-Proof) Zone Compliance",
-        "Solid Particle and Viscous Material Transfer",
-        "PTFE (Teflon) and Santoprene Diaphragm",
-        "Easy Flow Rate Adjustment with Air Pressure",
-        "Sealless Design"
+        "Funcionamiento en seco sin daños",
+        "Conformidad con zona ATEX (Ex-Proof)",
+        "Transferencia de partículas sólidas y materiales viscosos",
+        "Diafragma PTFE (Teflón) y Santopren",
+        "Fácil ajuste del caudal con presión de aire",
+        "Diseño sin sellos"
       ]
     },
     "table": {
-      "title": "Diaphragm Pump Capacity Table",
-      "note": "* The performance of pneumatic pumps is directly dependent on the air pressure (Bar) produced by the compressor in your facility. Data is calculated with reference to 7 Bar air supply.",
-      "imgAlt": "Diaphragm Pump Performance Curve",
+      "title": "Tabla de capacidad de bombas de diafragma",
+      "note": "* El rendimiento de las bombas neumáticas depende directamente de la presión de aire (Bar) del compresor de su instalación. Datos calculados con suministro de aire de 7 Bar.",
+      "imgAlt": "Curva de rendimiento bomba de diafragma",
       "headers": [
-        "Connection Size",
-        "Max. Flow (L/min)",
-        "Max. Air Pressure",
-        "Solid Particle Size"
+        "Tamaño conexión",
+        "Caudal Máx. (L/min)",
+        "Máx. presión aire",
+        "Tamaño partícula sólida"
       ],
       "rows": [
         {
-          "size": "1/2\" Inch",
+          "size": "1/2\" Pulgada",
           "flow": "50 L/min",
           "pressure": "7 Bar",
           "particle": "3 mm",
           "highlight": "blue"
         },
         {
-          "size": "1\" Inch",
+          "size": "1\" Pulgada",
           "flow": "160 L/min",
           "pressure": "7 Bar",
           "particle": "4 mm",
           "highlight": "blue"
         },
         {
-          "size": "1.5\" Inch",
+          "size": "1,5\" Pulgada",
           "flow": "350 L/min",
           "pressure": "7 Bar",
           "particle": "6 mm",
           "highlight": "orange"
         },
         {
-          "size": "2\" Inch",
+          "size": "2\" Pulgada",
           "flow": "600 L/min",
           "pressure": "7 Bar",
           "particle": "8 mm",
@@ -2418,73 +2418,73 @@
       ]
     },
     "faq": {
-      "title": "Pneumatic Transfer FAQ",
+      "title": "FAQ transferencia neumática",
       "items": [
         {
-          "q": "Does dry running damage the pump?",
-          "a": "No. Unlike centrifugal and lobe pumps, air diaphragm pumps do not heat up and break down even if they run dry (without liquid) for hours since there is no mechanical friction."
+          "q": "¿El funcionamiento en seco daña la bomba?",
+          "a": "No. A diferencia de las bombas centrífugas y de lóbulos, las bombas de diafragma neumáticas no se calientan ni se rompen incluso si funcionan en seco (sin líquido) durante horas, ya que no hay fricción mecánica."
         },
         {
-          "q": "How can I adjust the flow rate?",
-          "a": "While expensive inverters (frequency drives) are needed for electric motor pumps, simply throttling or opening the air valve from the compressor is sufficient to change the flow rate in diaphragm pumps."
+          "q": "¿Cómo puedo ajustar el caudal?",
+          "a": "Mientras que las bombas de motor eléctrico necesitan costosos inversores de frecuencia, en las bombas de diafragma basta con estrangular o abrir la válvula de aire del compresor."
         },
         {
-          "q": "How do we select the diaphragm material?",
-          "a": "PTFE (Teflon) with excellent chemical resistance for aggressive acids and solvents; Santoprene or NBR with flexible structure for food applications or sludgy products containing abrasive particles."
+          "q": "¿Cómo seleccionamos el material del diafragma?",
+          "a": "PTFE (Teflón) con excelente resistencia química para ácidos agresivos y solventes; Santopren o NBR con estructura flexible para aplicaciones alimentarias o productos lodosos con partículas abrasivas."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Ejemplos de Aplicaciones",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "PROYECTO 01",
-          "alt": "ATEX Chemical Transfer Pump"
+          "alt": "Bomba transferencia química ATEX"
         },
         {
           "src": "galeri-2.webp",
           "label": "PROYECTO 02",
-          "alt": "PTFE Diaphragm Group"
+          "alt": "Grupo diafragma PTFE"
         },
         {
           "src": "galeri-3.webp",
           "label": "PROYECTO 03",
-          "alt": "Food Sector Hygienic AODD"
+          "alt": "AODD higiénica sector alimentario"
         },
         {
           "src": "galeri-4.webp",
           "label": "PROYECTO 04",
-          "alt": "Air Pump Battery"
+          "alt": "Batería bombas neumáticas"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-13 PDF Specification",
-        "desc": "ATEX certification documents, diaphragm chemical resistance table and pressure/air consumption curves.",
-        "btn": "Download Document (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-13-havali-diyafram-pompalar.pdf"
+        "title": "Documento Técnico",
+        "subtitle": "DOK-13 Especificación PDF",
+        "desc": "Documentos certificación ATEX, tabla resistencia química diafragma y curvas presión/consumo aire.",
+        "btn": "Descargar Documento (PDF)",
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/DOC-13-bombas-neumaticas-de-diafragma.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "Chemical ATEX Line Reference",
-        "desc": "ATEX transfer station with PTFE diaphragm from reactors to 50-ton storage tanks in a high-flammability chemical production facility.",
+        "badge": "Aplicación de Referencia",
+        "imgAlt": "Referencia línea química ATEX",
+        "desc": "Estación de transferencia ATEX con diafragma PTFE desde reactores hasta tanques de almacenamiento de 50 toneladas en instalación de producción química de alta inflamabilidad.",
         "link": "Ver Todas las Referencias"
       },
       "cta": {
-        "title": "Pneumatic Engineering",
-        "desc": "Specify your facility compressor capacity and the liquid to be transferred, and we will calculate the correct diaphragm material and size.",
-        "btn": "Request a Quote →",
-        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20havalı%20diyafram%20pompası%20hakkında%20kimyasal%20uyumluluk%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
+        "title": "Ingeniería neumática",
+        "desc": "Especifique la capacidad del compresor de su instalación y el líquido a transferir, y calcularemos el material de diafragma y tamaño correctos.",
+        "btn": "Solicitar Presupuesto →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba"
       }
     }
   },
   "monopompPumpsPage": {
     "metadata": {
-      "title": "Monopumps (Eccentric Screw) | Welltech®",
-      "description": "Rotor-stator monopump systems providing pulsation-free and continuous transfer for high-viscosity, sludge, honey and abrasive particle-containing fluids."
+      "title": "Monobombas (Tornillo Excéntrico) | Welltech®",
+      "description": "Sistemas de monobomba rotor-estátor que proporcionan transferencia sin pulsaciones y continua para fluidos de alta viscosidad, lodos, miel y fluidos con partículas abrasivas."
     },
     "breadcrumb": {
       "home": "Inicio",
@@ -2492,128 +2492,128 @@
       "current": "Monobombas"
     },
     "hero": {
-      "title": "Monopumps",
-      "desc": "Designed for the most difficult fluids. With eccentric screw (Rotor-Stator) operating principle, zero vibration and continuous flow for high-viscosity, abrasive and solid particle-containing products."
+      "title": "Monobombas",
+      "desc": "Diseñadas para los fluidos más difíciles. Con principio de funcionamiento de tornillo excéntrico (Rotor-Estátor), flujo continuo y cero vibración para productos de alta viscosidad, abrasivos y con partículas sólidas."
     },
     "technology": {
-      "title": "Pulsation-Free and Continuous Transfer",
-      "desc": "Monopumps (Eccentric Screw Pumps) work on the principle of a helical stainless steel rotor rotating inside an elastomeric (rubber) stator. This unique geometry creates continuously closed cavities in the liquid, pushing the fluid forward under pressure. From water-like fluids to products with viscosity up to 1,000,000 cP such as dough, honey, wastewater sludge, fruit puree, glue and resin, it provides a perfect and constant flow rate without any pulsation.",
-      "imgAlt": "Monopump Rotor and Stator Detail"
+      "title": "Transferencia sin pulsaciones y continua",
+      "desc": "Las monobombas (Bombas de Tornillo Excéntrico) funcionan según el principio de un rotor helicoidal de acero inoxidable que gira dentro de un estátor elastomérico (goma). Esta geometría única crea cavidades continuamente cerradas en el líquido, empujando el fluido hacia adelante bajo presión. Desde fluidos similares al agua hasta productos con viscosidad de hasta 1.000.000 cP como masa, miel, lodo de aguas residuales, puré de fruta, pegamento y resina, proporciona un caudal perfecto y constante sin ninguna pulsación.",
+      "imgAlt": "Detalle rotor y estátor monobomba"
     },
     "features": {
-      "title": "Superior Mechanical Properties",
-      "imgAlt": "Elastomer Stator and Rotor",
+      "title": "Propiedades mecánicas superiores",
+      "imgAlt": "Estátor elastomérico y rotor",
       "items": [
-        "Low Shear Technology",
-        "Solid Particle and Sludge Transfer",
-        "NBR, EPDM, FKM, PTFE Stator Options",
-        "Precise Proportional Dosing Capability",
-        "12-24 Bar High Pressure Resistance",
-        "Non-Crushing Flow for Fruit and Food Cells"
+        "Tecnología de bajo cizallamiento (Low Shear)",
+        "Transferencia de partículas sólidas y lodos",
+        "Opciones de estátor NBR, EPDM, FKM, PTFE",
+        "Capacidad de dosificación proporcional precisa",
+        "Alta resistencia a presión 12-24 Bar",
+        "Flujo no aplastante para células de fruta y alimentos"
       ]
     },
     "table": {
-      "title": "Monopump Capacity Table",
-      "note": "* Values are calculated for average viscosity fluids (up to 12 Bar max pressure). Flow varies depending on reducer speed.",
-      "imgAlt": "Monopump Pressure and Capacity Curve",
+      "title": "Tabla de capacidad de monobombas",
+      "note": "* Valores calculados para fluidos de viscosidad media (máx. 12 Bar presión máxima). El caudal varía según la velocidad del reductor.",
+      "imgAlt": "Curva presión y capacidad monobomba",
       "headers": [
-        "Series No",
-        "Max. Flow (m³/h)",
-        "Max. Pressure",
-        "Connection Size"
+        "N° Serie",
+        "Caudal Máx. (m³/h)",
+        "Máx. Presión",
+        "Tamaño conexión"
       ],
       "rows": [
         {
           "model": "WT-M 05",
           "flow": "5 m³/h",
           "pressure": "12 Bar",
-          "connection": "2\" Inch",
+          "connection": "2\" Pulgada",
           "highlight": "blue"
         },
         {
           "model": "WT-M 10",
           "flow": "10 m³/h",
           "pressure": "12 Bar",
-          "connection": "2.5\" Inch",
+          "connection": "2,5\" Pulgada",
           "highlight": "blue"
         },
         {
           "model": "WT-M 20",
           "flow": "20 m³/h",
           "pressure": "12 Bar",
-          "connection": "3\" Inch",
+          "connection": "3\" Pulgada",
           "highlight": "orange"
         },
         {
           "model": "WT-M 40",
           "flow": "40 m³/h",
           "pressure": "12 Bar",
-          "connection": "4\" Inch",
+          "connection": "4\" Pulgada",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Eccentric Screw Pump FAQ",
+      "title": "FAQ bombas de tornillo excéntrico",
       "items": [
         {
-          "q": "Can monopumps run dry?",
-          "a": "No. Since the stator is usually made of elastomeric (rubber etc.) material, when no fluid (lubricant) passes through it, the stainless rotor rubs against the stator causing excessive heat and burns the stator. The system must be equipped with dry-run protection sensors."
+          "q": "¿Pueden funcionar en seco las monobombas?",
+          "a": "No. Como el estátor está generalmente fabricado con material elastomérico (goma, etc.), cuando no pasa líquido (lubricante) por él, el rotor de acero inoxidable fricciona contra el estátor causando calor excesivo y quemando el estátor. El sistema debe estar equipado con sensores de protección contra funcionamiento en seco."
         },
         {
-          "q": "Can it pump solid particle or seed-containing products?",
-          "a": "Absolutely. This is the greatest strength of monopumps. Products containing particles and fibers like wastewater sludge, seeded fruit purees or olive paste are transferred without clogging and without crushing their structure thanks to the rotor/stator cavity geometry."
+          "q": "¿Puede bombear productos con partículas sólidas o semillas?",
+          "a": "Absolutamente. Esta es la mayor fortaleza de las monobombas. Productos con partículas y fibras como lodo de aguas residuales, purés de fruta con semillas o pasta de oliva se transfieren sin obstrucciones y sin romper su estructura gracias a la geometría de cavidades rotor/estátor."
         },
         {
-          "q": "How do we select the stator material?",
-          "a": "According to the chemical composition and temperature of your fluid. For food products like milk and honey: FDA-compliant white NBR or EPDM; for abrasive aggressive acids and chemicals: FKM (Viton) or PTFE (Teflon) stator."
+          "q": "¿Cómo seleccionamos el material del estátor?",
+          "a": "Según la composición química y temperatura de su fluido. Para productos alimentarios como leche y miel: NBR o EPDM blanco conforme FDA; para ácidos agresivos abrasivos y productos químicos: estátor FKM (Viton) o PTFE (Teflón)."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Ejemplos de Aplicaciones",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "PROYECTO 01",
-          "alt": "Food-Grade Monopump"
+          "alt": "Monobomba grado alimentario"
         },
         {
           "src": "galeri-2.webp",
           "label": "PROYECTO 02",
-          "alt": "Wastewater Sludge Pump"
+          "alt": "Bomba lodo aguas residuales"
         },
         {
           "src": "galeri-3.webp",
           "label": "PROYECTO 03",
-          "alt": "Rotor and Stator Detail"
+          "alt": "Detalle rotor y estátor"
         },
         {
           "src": "galeri-4.webp",
           "label": "PROYECTO 04",
-          "alt": "Gearbox-Driven Monopump Group"
+          "alt": "Grupo monobombas con accionamiento reductor"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-11 PDF Specification",
-        "desc": "Monopump reducer speed ratios, stator chemical resistance table and pressure/flow measurement curves.",
-        "btn": "Download Curves (PDF)",
-        "fileUrl": "/assets/documents/tr/teknik-sartnameler/DOK-11-monopomp-pompalar.pdf"
+        "title": "Documento Técnico",
+        "subtitle": "DOK-11 Especificación PDF",
+        "desc": "Relaciones de velocidad reductor monobomba, tabla resistencia química estátor y curvas medición presión/caudal.",
+        "btn": "Descargar Curvas (PDF)",
+        "fileUrl": "/assets/documents/es/especificaciones-tecnicas/DOC-11-bombas-de-cavidad-progresiva.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Heavy-Duty Sludge Pump Reference",
-        "desc": "Heavy-duty monopump battery with FKM stator, resistant to 12 Bar pressure for transferring 20% density active sludge in wastewater treatment facility.",
+        "badge": "Referencia Destacada",
+        "imgAlt": "Referencia bomba lodo pesado",
+        "desc": "Batería de monobombas pesadas con estátor FKM, resistente a presión de 12 Bar para transferir lodo activo de densidad 20% en instalación de tratamiento de aguas residuales.",
         "link": "Ver Todas las Referencias"
       },
       "cta": {
-        "title": "Monopump Selection",
-        "desc": "Specify your fluid viscosity (cP) and particle density, and we will determine the most suitable rotor-stator pair.",
-        "btn": "Engineering Support →",
-        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20yüksek%20viskoziteli%20ürün%20transferi%20için%20monopomp%20fiyatı%20almak%20istiyorum."
+        "title": "Selección de monobomba",
+        "desc": "Especifique la viscosidad (cP) de su fluido y la densidad de partículas, y determinaremos el par rotor-estátor más adecuado.",
+        "btn": "Soporte de Ingeniería →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba"
       }
     }
   }

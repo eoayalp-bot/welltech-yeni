@@ -2215,8 +2215,8 @@
   },
   "selfPrimingPumpsPage": {
     "metadata": {
-      "title": "Self-Priming Hygienic Pumps | Welltech®",
-      "description": "Liquid-ring self-priming pump technology for transferring air-gas mixed liquids, foamy products and CIP return lines."
+      "title": "Pompes Auto-Amorçantes Hygiéniques | Welltech®",
+      "description": "Technologie de pompe auto-amorçante à anneau liquide pour transférer des liquides avec mélange air-gaz, produits moussants et lignes de retour CIP."
     },
     "breadcrumb": {
       "home": "Accueil",
@@ -2224,135 +2224,135 @@
       "current": "Pompes Auto-Amorçantes"
     },
     "hero": {
-      "title": "Self-Priming Pumps",
-      "desc": "Even when there is air in the suction line, this technology creates vacuum for uninterrupted flow. The indispensable liquid-ring transfer technology for CIP return lines and foamy liquids."
+      "title": "Pompes Auto-Amorçantes",
+      "desc": "Même lorsqu'il y a de l'air dans la ligne d'aspiration, cette technologie crée le vide pour un flux ininterrompu. La technologie de transfert à anneau liquide indispensable pour les lignes de retour CIP et les liquides moussants."
     },
     "technology": {
-      "title": "Power in Air-Liquid Mixtures",
-      "desc": "Standard centrifugal pumps suffer cavitation when air pockets form in the pipeline or at the tank bottom, stopping the transfer. Our self-priming (side-channel/liquid-ring) pumps create a vacuum by mixing the liquid inside with air through a special star impeller design. This technology, which can draw suction even when there is air in the line, is especially used when drawing product from tanks to trucks, with foamy products like whey, and in CIP washing liquid return (CIP Return).",
-      "imgAlt": "Liquid-Ring Star Impeller System"
+      "title": "Puissance dans les mélanges air-liquide",
+      "desc": "Les pompes centrifuges standard subissent la cavitation lorsque des poches d'air se forment dans la canalisation ou au fond du réservoir, arrêtant le transfert. Nos pompes auto-amorçantes (canal latéral/anneau liquide) créent le vide en mélangeant le liquide interne avec l'air grâce à un design spécial de turbine étoile. Cette technologie est utilisée notamment lors de l'extraction de produit des cuves vers les camions, avec des produits moussants comme le lactosérum, et dans le retour du liquide de lavage CIP.",
+      "imgAlt": "Système turbine étoile à anneau liquide"
     },
     "features": {
-      "title": "Technical Equipment & Capacity",
-      "imgAlt": "Bi-Directional Motor and Body",
+      "title": "Équipement technique et capacité",
+      "imgAlt": "Moteur bidirectionnel et corps",
       "items": [
-        "Up to 8 Meters Deep Suction Capacity",
-        "AISI 316L Precision Cast Open Star Impeller",
-        "Gas-Containing (Foamy) Fluid Compatibility",
-        "Ideal as CIP Return Pump",
-        "Reversible Option",
-        "Easy-to-Disassemble Front Cover Design"
+        "Capacité d'aspiration profonde jusqu'à 8 mètres",
+        "Turbine étoile ouverte en fonte de précision AISI 316L",
+        "Compatibilité avec les fluides contenant du gaz (moussants)",
+        "Idéale comme pompe de retour CIP",
+        "Option réversible",
+        "Design du couvercle avant facile à démonter"
       ]
     },
     "table": {
-      "title": "Performance & Selection Table",
-      "note": "* The pump body must contain some liquid (priming liquid) for the pump to self-prime. Values are determined by our hydraulic engineers for 1 cP viscosity.",
-      "imgAlt": "Suction Curve and Pump Drawing",
+      "title": "Tableau de performances et sélection",
+      "note": "* Le corps de la pompe doit contenir du liquide (liquide d'amorçage) pour l'auto-amorçage. Valeurs déterminées pour viscosité 1 cP.",
+      "imgAlt": "Courbe d'aspiration et dessin de la pompe",
       "headers": [
-        "Series No",
-        "Max. Flow (m³/h)",
-        "Suction / Discharge (mWC)",
-        "Motor Power (kW)"
+        "N° de Série",
+        "Débit Max. (m³/h)",
+        "Aspiration/Refoulement (mCE)",
+        "Puissance Moteur (kW)"
       ],
       "rows": [
         {
           "model": "WT-SP 15",
           "flow": "15 m³/h",
-          "head": "-7 m / 25 mWC",
-          "power": "2.2 - 3.0 kW",
+          "head": "-7 m / 25 mCE",
+          "power": "2,2 - 3,0 kW",
           "highlight": "blue"
         },
         {
           "model": "WT-SP 30",
           "flow": "30 m³/h",
-          "head": "-7 m / 32 mWC",
-          "power": "4.0 - 5.5 kW",
+          "head": "-7 m / 32 mCE",
+          "power": "4,0 - 5,5 kW",
           "highlight": "blue"
         },
         {
           "model": "WT-SP 50",
           "flow": "50 m³/h",
-          "head": "-8 m / 35 mWC",
-          "power": "7.5 - 11.0 kW",
+          "head": "-8 m / 35 mCE",
+          "power": "7,5 - 11,0 kW",
           "highlight": "orange"
         },
         {
           "model": "WT-SP 70",
           "flow": "70 m³/h",
-          "head": "-8 m / 40 mWC",
-          "power": "15.0 - 18.5 kW",
+          "head": "-8 m / 40 mCE",
+          "power": "15,0 - 18,5 kW",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Vacuum Transfer FAQ",
+      "title": "FAQ transfert sous vide",
       "items": [
         {
-          "q": "Why can't a centrifugal pump be used as a CIP Return pump?",
-          "a": "During CIP, the chemical liquid returning from the tank contains a large amount of air and foam. The centrifugal pump stops flow when it sees air and the washing line gets blocked. The self-priming pump can swallow the liquid-air mixture and pump it into the system."
+          "q": "Pourquoi ne peut-on pas utiliser une pompe centrifuge comme pompe de retour CIP?",
+          "a": "Pendant le CIP, le liquide chimique revenant du réservoir contient une grande quantité d'air et de mousse. La pompe centrifuge arrête le flux en voyant de l'air et la ligne de lavage se bloque. La pompe auto-amorçante peut avaler le mélange liquide-air et le pomper dans le système."
         },
         {
-          "q": "Why do we need to put liquid inside during initial start (Priming)?",
-          "a": "For the liquid ring to form in the pump body and to vacuum out the air inside, part of the body must be filled with liquid from the start."
+          "q": "Pourquoi faut-il mettre du liquide à l'intérieur au premier démarrage (amorçage)?",
+          "a": "Pour que l'anneau liquide se forme dans le corps de la pompe et que l'air intérieur soit évacué, une partie du corps doit être remplie de liquide dès le début."
         },
         {
-          "q": "Can I draw milk from a truck or underground tank?",
-          "a": "Absolutely. Even if the suction pipe is 7-8 meters underground, the pump creates vacuum and draws the liquid up and pumps it to the main tanks."
+          "q": "Puis-je extraire du lait d'un camion ou d'un réservoir souterrain?",
+          "a": "Absolument. Même si le tuyau d'aspiration se trouve à 7-8 mètres sous terre, la pompe crée le vide et remonte le liquide vers les cuves principales."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Exemples d'Applications",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "PROJET 01",
-          "alt": "CIP Return Pump Installation"
+          "alt": "Installation pompe retour CIP"
         },
         {
           "src": "galeri-2.webp",
           "label": "PROJET 02",
-          "alt": "Liquid-Ring Impeller Design"
+          "alt": "Design turbine étoile anneau liquide"
         },
         {
           "src": "galeri-3.webp",
           "label": "PROJET 03",
-          "alt": "Underground Tank Product Drawing"
+          "alt": "Extraction produit réservoir souterrain"
         },
         {
           "src": "galeri-4.webp",
           "label": "PROJET 04",
-          "alt": "Milk and Foam Transfer Line"
+          "alt": "Ligne transfert lait et mousse"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-11 PDF Specification",
-        "desc": "Vacuum/suction depth charts, liquid-ring impeller tolerances and mechanical connection dimensions.",
-        "btn": "Download Curves (PDF)",
+        "title": "Document Technique",
+        "subtitle": "DOK-11 Spécification PDF",
+        "desc": "Graphiques vide/profondeur d'aspiration, tolérances turbine étoile anneau liquide et dimensions de connexion mécanique.",
+        "btn": "Télécharger Courbes (PDF)",
         "fileUrl": "/assets/documents/fr/specifications-techniques/DOC-11-pompes-auto-amorcantes.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "CIP Return Automation",
-        "desc": "30 m³/h capacity CIP return pumps integrated into foamy acid and caustic return lines for a large-scale juice facility.",
+        "badge": "Application de Référence",
+        "imgAlt": "Automatisation retour CIP",
+        "desc": "Pompes de retour CIP de 30 m³/h intégrées dans les lignes de retour acide et caustique moussant pour une grande installation de jus.",
         "link": "Voir Toutes les Références"
       },
       "cta": {
-        "title": "Vacuum Calculation",
-        "desc": "Tell us your suction depth (negative elevation) and air ratio in the pipeline, and we will design a system that transports your product without cavitation.",
-        "btn": "Request a Quote →",
-        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20kendinden%20emi%C5%9Fli%20ve%20CIP%20d%C3%B6n%C3%BC%C5%9F%20pompas%C4%B1%20hakk%C4%B1nda%20teknik%20hesaplama%20ve%20fiyat%20almak%20istiyorum."
+        "title": "Calcul du vide",
+        "desc": "Indiquez-nous la profondeur d'aspiration et le taux d'air dans la canalisation, et nous concevrons un système qui transporte votre produit sans cavitation.",
+        "btn": "Demander un Devis →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba"
       }
     }
   },
   "diaphragmPumpsPage": {
     "metadata": {
-      "title": "Air-Operated Diaphragm Pumps | Welltech®",
-      "description": "Pneumatic air-operated diaphragm pump technologies that carry no electrical spark risk for flammable (ATEX) environments and aggressive chemicals."
+      "title": "Pompes à Membrane Pneumatiques | Welltech®",
+      "description": "Technologies de pompes à membrane pneumatiques sans risque d'étincelle électrique pour les environnements inflammables (ATEX) et les produits chimiques agressifs."
     },
     "breadcrumb": {
       "home": "Accueil",
@@ -2360,60 +2360,60 @@
       "current": "Pompes à Membrane Pneumatiques"
     },
     "hero": {
-      "title": "Air-Operated Diaphragm Pumps",
-      "desc": "Zero electrical spark, full ATEX compliance. Pneumatic systems powered by compressed air providing unrivalled safety in transferring flammable and aggressive chemicals."
+      "title": "Pompes à Membrane Pneumatiques",
+      "desc": "Zéro étincelle électrique, pleine conformité ATEX. Systèmes pneumatiques actionnés par air comprimé offrant une sécurité inégalée dans le transfert de produits chimiques inflammables et agressifs."
     },
     "safety": {
-      "title": "100% Safety Without Electricity",
-      "desc": "In environments with solvent, alcohol or flammable gas emissions, even a tiny spark from an electric motor pump can cause disaster. Pneumatic Diaphragm pumps draw their energy from compressed air from the factory compressor. Since there is no electrical connection, they provide 100% Ex-Proof (ATEX) protection. Since they have no mechanical impeller, they can also easily pump liquids containing fruit particles or solid particles without crushing the product.",
-      "imgAlt": "Pneumatic Air Valve Detail"
+      "title": "100% sécurité sans électricité",
+      "desc": "Dans les environnements avec émissions de solvants, d'alcool ou de gaz inflammables, même une petite étincelle d'une pompe à moteur électrique peut causer un désastre. Les pompes à membrane pneumatiques tirent leur énergie de l'air comprimé du compresseur de l'usine. Comme il n'y a pas de connexion électrique, elles offrent une protection Ex-Proof (ATEX) à 100%. Comme elles n'ont pas de turbine mécanique, elles peuvent aussi facilement pomper des liquides contenant des particules de fruits ou des solides sans broyer le produit.",
+      "imgAlt": "Détail vanne d'air pneumatique"
     },
     "features": {
-      "title": "Critical Engineering Features",
-      "imgAlt": "ATEX Protection and Grounding",
+      "title": "Caractéristiques ingénierie critiques",
+      "imgAlt": "Protection ATEX et mise à la terre",
       "items": [
-        "Dry Running Without Damage",
-        "ATEX (Ex-Proof) Zone Compliance",
-        "Solid Particle and Viscous Material Transfer",
-        "PTFE (Teflon) and Santoprene Diaphragm",
-        "Easy Flow Rate Adjustment with Air Pressure",
-        "Sealless Design"
+        "Fonctionnement à sec sans dommages",
+        "Conformité zone ATEX (Ex-Proof)",
+        "Transfert de particules solides et matériaux visqueux",
+        "Membrane PTFE (Téflon) et Santopren",
+        "Réglage facile du débit avec pression d'air",
+        "Design sans joints"
       ]
     },
     "table": {
-      "title": "Diaphragm Pump Capacity Table",
-      "note": "* The performance of pneumatic pumps is directly dependent on the air pressure (Bar) produced by the compressor in your facility. Data is calculated with reference to 7 Bar air supply.",
-      "imgAlt": "Diaphragm Pump Performance Curve",
+      "title": "Tableau capacité pompes à membrane",
+      "note": "* Les performances des pompes pneumatiques dépendent directement de la pression d'air (Bar) du compresseur de votre installation. Données calculées avec alimentation air à 7 Bar.",
+      "imgAlt": "Courbe performance pompe à membrane",
       "headers": [
-        "Connection Size",
-        "Max. Flow (L/min)",
-        "Max. Air Pressure",
-        "Solid Particle Size"
+        "Taille connexion",
+        "Débit Max. (L/min)",
+        "Max. pression air",
+        "Taille particules solides"
       ],
       "rows": [
         {
-          "size": "1/2\" Inch",
+          "size": "1/2\" Pouce",
           "flow": "50 L/min",
           "pressure": "7 Bar",
           "particle": "3 mm",
           "highlight": "blue"
         },
         {
-          "size": "1\" Inch",
+          "size": "1\" Pouce",
           "flow": "160 L/min",
           "pressure": "7 Bar",
           "particle": "4 mm",
           "highlight": "blue"
         },
         {
-          "size": "1.5\" Inch",
+          "size": "1,5\" Pouce",
           "flow": "350 L/min",
           "pressure": "7 Bar",
           "particle": "6 mm",
           "highlight": "orange"
         },
         {
-          "size": "2\" Inch",
+          "size": "2\" Pouce",
           "flow": "600 L/min",
           "pressure": "7 Bar",
           "particle": "8 mm",
@@ -2422,73 +2422,73 @@
       ]
     },
     "faq": {
-      "title": "Pneumatic Transfer FAQ",
+      "title": "FAQ transfert pneumatique",
       "items": [
         {
-          "q": "Does dry running damage the pump?",
-          "a": "No. Unlike centrifugal and lobe pumps, air diaphragm pumps do not heat up and break down even if they run dry (without liquid) for hours since there is no mechanical friction."
+          "q": "Le fonctionnement à sec endommage-t-il la pompe?",
+          "a": "Non. Contrairement aux pompes centrifuges et à lobes, les pompes à membrane pneumatiques ne surchauffent pas et ne tombent pas en panne même si elles fonctionnent à sec (sans liquide) pendant des heures, car il n'y a pas de friction mécanique."
         },
         {
-          "q": "How can I adjust the flow rate?",
-          "a": "While expensive inverters (frequency drives) are needed for electric motor pumps, simply throttling or opening the air valve from the compressor is sufficient to change the flow rate in diaphragm pumps."
+          "q": "Comment puis-je régler le débit?",
+          "a": "Alors que les pompes à moteur électrique nécessitent des variateurs de fréquence coûteux, dans les pompes à membrane il suffit d'étrangler ou d'ouvrir la vanne d'air du compresseur."
         },
         {
-          "q": "How do we select the diaphragm material?",
-          "a": "PTFE (Teflon) with excellent chemical resistance for aggressive acids and solvents; Santoprene or NBR with flexible structure for food applications or sludgy products containing abrasive particles."
+          "q": "Comment sélectionner le matériau de la membrane?",
+          "a": "PTFE (Téflon) avec une excellente résistance chimique pour les acides agressifs et les solvants; Santopren ou NBR avec une structure flexible pour les applications alimentaires ou les produits boueux avec des particules abrasives."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Exemples d'Applications",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "PROJET 01",
-          "alt": "ATEX Chemical Transfer Pump"
+          "alt": "Pompe transfert chimique ATEX"
         },
         {
           "src": "galeri-2.webp",
           "label": "PROJET 02",
-          "alt": "PTFE Diaphragm Group"
+          "alt": "Groupe membrane PTFE"
         },
         {
           "src": "galeri-3.webp",
           "label": "PROJET 03",
-          "alt": "Food Sector Hygienic AODD"
+          "alt": "AODD hygiénique secteur alimentaire"
         },
         {
           "src": "galeri-4.webp",
           "label": "PROJET 04",
-          "alt": "Air Pump Battery"
+          "alt": "Batterie pompes pneumatiques"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-13 PDF Specification",
-        "desc": "ATEX certification documents, diaphragm chemical resistance table and pressure/air consumption curves.",
-        "btn": "Download Document (PDF)",
+        "title": "Document Technique",
+        "subtitle": "DOK-13 Spécification PDF",
+        "desc": "Documents certification ATEX, tableau résistance chimique membrane et courbes pression/consommation air.",
+        "btn": "Télécharger Document (PDF)",
         "fileUrl": "/assets/documents/fr/specifications-techniques/DOC-13-pompes-pneumatiques-a-membranes.pdf"
       },
       "reference": {
-        "badge": "Reference Application",
-        "imgAlt": "Chemical ATEX Line Reference",
-        "desc": "ATEX transfer station with PTFE diaphragm from reactors to 50-ton storage tanks in a high-flammability chemical production facility.",
+        "badge": "Application de Référence",
+        "imgAlt": "Référence ligne chimique ATEX",
+        "desc": "Station de transfert ATEX avec membrane PTFE des réacteurs aux cuves de stockage de 50 tonnes dans une installation de production chimique à haute inflammabilité.",
         "link": "Voir Toutes les Références"
       },
       "cta": {
-        "title": "Pneumatic Engineering",
-        "desc": "Specify your facility compressor capacity and the liquid to be transferred, and we will calculate the correct diaphragm material and size.",
-        "btn": "Request a Quote →",
-        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20havalı%20diyafram%20pompası%20hakkında%20kimyasal%20uyumluluk%20ve%20fiyat%20bilgisi%20almak%20istiyorum."
+        "title": "Ingénierie pneumatique",
+        "desc": "Précisez la capacité du compresseur de votre installation et le liquide à transférer, et nous calculerons le matériau de membrane et la taille corrects.",
+        "btn": "Demander un Devis →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba"
       }
     }
   },
   "monopompPumpsPage": {
     "metadata": {
-      "title": "Monopumps (Eccentric Screw) | Welltech®",
-      "description": "Rotor-stator monopump systems providing pulsation-free and continuous transfer for high-viscosity, sludge, honey and abrasive particle-containing fluids."
+      "title": "Monopompes (Vis Excentrée) | Welltech®",
+      "description": "Systèmes de monopompe rotor-stator fournissant un transfert continu sans pulsations pour les fluides à haute viscosité, boues, miel et fluides avec particules abrasives."
     },
     "breadcrumb": {
       "home": "Accueil",
@@ -2496,128 +2496,128 @@
       "current": "Monopompes"
     },
     "hero": {
-      "title": "Monopumps",
-      "desc": "Designed for the most difficult fluids. With eccentric screw (Rotor-Stator) operating principle, zero vibration and continuous flow for high-viscosity, abrasive and solid particle-containing products."
+      "title": "Monopompes",
+      "desc": "Conçues pour les fluides les plus difficiles. Avec le principe de fonctionnement à vis excentrée (Rotor-Stator), flux continu zéro vibration pour les produits à haute viscosité, abrasifs et avec particules solides."
     },
     "technology": {
-      "title": "Pulsation-Free and Continuous Transfer",
-      "desc": "Monopumps (Eccentric Screw Pumps) work on the principle of a helical stainless steel rotor rotating inside an elastomeric (rubber) stator. This unique geometry creates continuously closed cavities in the liquid, pushing the fluid forward under pressure. From water-like fluids to products with viscosity up to 1,000,000 cP such as dough, honey, wastewater sludge, fruit puree, glue and resin, it provides a perfect and constant flow rate without any pulsation.",
-      "imgAlt": "Monopump Rotor and Stator Detail"
+      "title": "Transfert continu sans pulsations",
+      "desc": "Les monopompes (Pompes à Vis Excentrée) fonctionnent selon le principe d'un rotor hélicoïdal en acier inoxydable tournant à l'intérieur d'un stator élastomère (caoutchouc). Cette géométrie unique crée des cavités continuellement fermées dans le liquide, poussant le fluide vers l'avant sous pression. Des fluides similaires à l'eau aux produits avec une viscosité allant jusqu'à 1 000 000 cP comme la pâte, le miel, les boues d'eaux usées, la purée de fruits, la colle et la résine, il fournit un débit parfait et constant sans aucune pulsation.",
+      "imgAlt": "Détail rotor et stator monopompe"
     },
     "features": {
-      "title": "Superior Mechanical Properties",
-      "imgAlt": "Elastomer Stator and Rotor",
+      "title": "Propriétés mécaniques supérieures",
+      "imgAlt": "Stator élastomère et rotor",
       "items": [
-        "Low Shear Technology",
-        "Solid Particle and Sludge Transfer",
-        "NBR, EPDM, FKM, PTFE Stator Options",
-        "Precise Proportional Dosing Capability",
-        "12-24 Bar High Pressure Resistance",
-        "Non-Crushing Flow for Fruit and Food Cells"
+        "Technologie à faible cisaillement (Low Shear)",
+        "Transfert de particules solides et boues",
+        "Options stator NBR, EPDM, FKM, PTFE",
+        "Capacité de dosage proportionnel précis",
+        "Haute résistance à la pression 12-24 Bar",
+        "Flux non écrasant pour les cellules de fruits et aliments"
       ]
     },
     "table": {
-      "title": "Monopump Capacity Table",
-      "note": "* Values are calculated for average viscosity fluids (up to 12 Bar max pressure). Flow varies depending on reducer speed.",
-      "imgAlt": "Monopump Pressure and Capacity Curve",
+      "title": "Tableau capacité monopompes",
+      "note": "* Valeurs calculées pour les fluides à viscosité moyenne (max 12 Bar pression maximale). Le débit varie selon la vitesse du réducteur.",
+      "imgAlt": "Courbe pression et capacité monopompe",
       "headers": [
-        "Series No",
-        "Max. Flow (m³/h)",
-        "Max. Pressure",
-        "Connection Size"
+        "N° de Série",
+        "Débit Max. (m³/h)",
+        "Max. Pression",
+        "Taille connexion"
       ],
       "rows": [
         {
           "model": "WT-M 05",
           "flow": "5 m³/h",
           "pressure": "12 Bar",
-          "connection": "2\" Inch",
+          "connection": "2\" Pouce",
           "highlight": "blue"
         },
         {
           "model": "WT-M 10",
           "flow": "10 m³/h",
           "pressure": "12 Bar",
-          "connection": "2.5\" Inch",
+          "connection": "2,5\" Pouce",
           "highlight": "blue"
         },
         {
           "model": "WT-M 20",
           "flow": "20 m³/h",
           "pressure": "12 Bar",
-          "connection": "3\" Inch",
+          "connection": "3\" Pouce",
           "highlight": "orange"
         },
         {
           "model": "WT-M 40",
           "flow": "40 m³/h",
           "pressure": "12 Bar",
-          "connection": "4\" Inch",
+          "connection": "4\" Pouce",
           "highlight": "dark"
         }
       ]
     },
     "faq": {
-      "title": "Eccentric Screw Pump FAQ",
+      "title": "FAQ pompes à vis excentrée",
       "items": [
         {
-          "q": "Can monopumps run dry?",
-          "a": "No. Since the stator is usually made of elastomeric (rubber etc.) material, when no fluid (lubricant) passes through it, the stainless rotor rubs against the stator causing excessive heat and burns the stator. The system must be equipped with dry-run protection sensors."
+          "q": "Les monopompes peuvent-elles fonctionner à sec?",
+          "a": "Non. Comme le stator est généralement fabriqué en matériau élastomère (caoutchouc etc.), lorsqu'aucun fluide (lubrifiant) ne passe à travers, le rotor en acier inoxydable frotte contre le stator causant une chaleur excessive et brûlant le stator. Le système doit être équipé de capteurs de protection contre le fonctionnement à sec."
         },
         {
-          "q": "Can it pump solid particle or seed-containing products?",
-          "a": "Absolutely. This is the greatest strength of monopumps. Products containing particles and fibers like wastewater sludge, seeded fruit purees or olive paste are transferred without clogging and without crushing their structure thanks to the rotor/stator cavity geometry."
+          "q": "Peut-elle pomper des produits avec des particules solides ou des graines?",
+          "a": "Absolument. C'est la plus grande force des monopompes. Les produits avec particules et fibres comme les boues d'eaux usées, les purées de fruits avec graines ou la pâte d'olive sont transférés sans obstruction et sans rompre leur structure grâce à la géométrie des cavités rotor/stator."
         },
         {
-          "q": "How do we select the stator material?",
-          "a": "According to the chemical composition and temperature of your fluid. For food products like milk and honey: FDA-compliant white NBR or EPDM; for abrasive aggressive acids and chemicals: FKM (Viton) or PTFE (Teflon) stator."
+          "q": "Comment sélectionner le matériau du stator?",
+          "a": "Selon la composition chimique et la température de votre fluide. Pour les produits alimentaires comme le lait et le miel: NBR ou EPDM blanc conforme FDA; pour les acides abrasifs agressifs et les produits chimiques: stator FKM (Viton) ou PTFE (Téflon)."
         }
       ]
     },
     "gallery": {
-      "title": "Example Applications",
+      "title": "Exemples d'Applications",
       "items": [
         {
           "src": "galeri-1.webp",
           "label": "PROJET 01",
-          "alt": "Food-Grade Monopump"
+          "alt": "Monopompe qualité alimentaire"
         },
         {
           "src": "galeri-2.webp",
           "label": "PROJET 02",
-          "alt": "Wastewater Sludge Pump"
+          "alt": "Pompe boues eaux usées"
         },
         {
           "src": "galeri-3.webp",
           "label": "PROJET 03",
-          "alt": "Rotor and Stator Detail"
+          "alt": "Détail rotor et stator"
         },
         {
           "src": "galeri-4.webp",
           "label": "PROJET 04",
-          "alt": "Gearbox-Driven Monopump Group"
+          "alt": "Groupe monopompes avec entraînement réducteur"
         }
       ]
     },
     "sidebar": {
       "doc": {
-        "title": "Technical Document",
-        "subtitle": "DOK-11 PDF Specification",
-        "desc": "Monopump reducer speed ratios, stator chemical resistance table and pressure/flow measurement curves.",
-        "btn": "Download Curves (PDF)",
+        "title": "Document Technique",
+        "subtitle": "DOK-11 Spécification PDF",
+        "desc": "Rapports de vitesse réducteur monopompe, tableau résistance chimique stator et courbes mesure pression/débit.",
+        "btn": "Télécharger Courbes (PDF)",
         "fileUrl": "/assets/documents/fr/specifications-techniques/DOC-11-pompes-a-cavite-progressive.pdf"
       },
       "reference": {
-        "badge": "Featured Reference",
-        "imgAlt": "Heavy-Duty Sludge Pump Reference",
-        "desc": "Heavy-duty monopump battery with FKM stator, resistant to 12 Bar pressure for transferring 20% density active sludge in wastewater treatment facility.",
+        "badge": "Référence Vedette",
+        "imgAlt": "Référence pompe boues lourdes",
+        "desc": "Batterie de monopompes lourdes avec stator FKM, résistante à la pression de 12 Bar pour transférer des boues actives de densité 20% dans une installation de traitement des eaux usées.",
         "link": "Voir Toutes les Références"
       },
       "cta": {
-        "title": "Monopump Selection",
-        "desc": "Specify your fluid viscosity (cP) and particle density, and we will determine the most suitable rotor-stator pair.",
-        "btn": "Engineering Support →",
-        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20yüksek%20viskoziteli%20ürün%20transferi%20için%20monopomp%20fiyatı%20almak%20istiyorum."
+        "title": "Sélection de monopompe",
+        "desc": "Précisez la viscosité (cP) de votre fluide et la densité des particules, et nous déterminerons la paire rotor-stator la plus adaptée.",
+        "btn": "Support Ingénierie →",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba"
       }
     }
   }
