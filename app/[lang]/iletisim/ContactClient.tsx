@@ -1,12 +1,16 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { ChevronRight, MapPin, Phone, Mail, Clock, Send, Globe, Factory, Building2, MessageCircle, Loader2 } from 'lucide-react';
-import { getLocalizedUrl } from '../../../dictionaries/routes';
+import { ChevronRight, MapPin, Phone, Mail, Clock, Send, Globe, Factory, Building2, MessageCircle, Loader2, UploadCloud, FileType, X } from 'lucide-react';
+import ReCAPTCHA from 'react-google-recaptcha';
+import imageCompression from 'browser-image-compression';
 
 export default function ContactClient({ lang, dict }: { lang: string; dict: any }) {
+  const recaptchaRef = useRef<ReCAPTCHA>(null);
+  const fileInputRef = useRef<HTMLInputElement>(null);
+
   const [formData, setFormData] = useState({
     name: '',
     company: '',
@@ -15,6 +19,10 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
     subject: '',
     message: ''
   });
+
+  const [captchaToken, setCaptchaToken] = useState<string | null>(null);
+  const [fileData, setFileData] = useState<{ name: string; base64: string; type: string; size: string } | null>(null);
+  const [isCompressing, setIsCompressing] = useState(false);
 
   const [status, setStatus] = useState<{
     type: 'idle' | 'loading' | 'success' | 'error';
@@ -25,11 +33,69 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
     setFormData({ ...formData, [e.target.id]: e.target.value });
   };
 
+  const handleCaptchaChange = (token: string | null) => {
+    setCaptchaToken(token);
+  };
+
+  const handleFileChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    setIsCompressing(true);
+    setStatus({ type: 'idle', message: '' });
+
+    try {
+      let finalFile = file;
+
+      if (file.type.startsWith('image/')) {
+        const options = {
+          maxSizeMB: 1, 
+          maxWidthOrHeight: 1920, 
+          useWebWorker: true,
+        };
+        finalFile = await imageCompression(file, options);
+      } else {
+        if (file.size > 5 * 1024 * 1024) {
+          setStatus({ type: 'error', message: 'Doküman boyutu maksimum 5MB olmalıdır.' });
+          setIsCompressing(false);
+          return;
+        }
+      }
+
+      const reader = new FileReader();
+      reader.readAsDataURL(finalFile);
+      reader.onloadend = () => {
+        const sizeInMb = (finalFile.size / (1024 * 1024)).toFixed(2);
+        setFileData({
+          name: finalFile.name,
+          type: finalFile.type,
+          base64: reader.result as string,
+          size: `${sizeInMb} MB`
+        });
+        setIsCompressing(false);
+      };
+    } catch (error) {
+      console.error("Dosya işleme hatası:", error);
+      setStatus({ type: 'error', message: "Dosya işlenirken bir hata oluştu." });
+      setIsCompressing(false);
+    }
+  };
+
+  const removeFile = () => {
+    setFileData(null);
+    if (fileInputRef.current) fileInputRef.current.value = '';
+  };
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     
     if (!formData.name || !formData.email || !formData.message) {
       setStatus({ type: 'error', message: dict.contactPage.form.status.errorFields });
+      return;
+    }
+
+    if (!captchaToken) {
+      setStatus({ type: 'error', message: 'Lütfen robot olmadığınızı doğrulayın (reCAPTCHA).' });
       return;
     }
 
@@ -39,18 +105,24 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
       const response = await fetch('/api/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({ ...formData, file: fileData, captchaToken }),
       });
 
       if (response.ok) {
         setStatus({ type: 'success', message: dict.contactPage.form.status.success });
         setFormData({ name: '', company: '', email: '', phone: '', subject: '', message: '' });
+        setCaptchaToken(null);
+        setFileData(null);
+        if (recaptchaRef.current) recaptchaRef.current.reset();
+        if (fileInputRef.current) fileInputRef.current.value = '';
       } else {
         const errorData = await response.json().catch(() => ({}));
         setStatus({ type: 'error', message: errorData.error || dict.contactPage.form.status.errorServer });
+        if (recaptchaRef.current) recaptchaRef.current.reset();
       }
     } catch (error) {
       setStatus({ type: 'error', message: dict.contactPage.form.status.errorConnection });
+      if (recaptchaRef.current) recaptchaRef.current.reset();
     }
   };
 
@@ -276,6 +348,59 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                   <textarea id="message" rows={5} value={formData.message} onChange={handleChange} required placeholder={dict.contactPage.form.message.placeholder} className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 placeholder-gray-400 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all resize-none"></textarea>
                 </div>
 
+                <div className="flex flex-col gap-2">
+                  <label className="text-xs font-bold tracking-widest text-gray-500">PROJE DOSYASI VEYA GÖRSEL EKLEYİN</label>
+                  
+                  {!fileData && !isCompressing ? (
+                    <label className="flex flex-col items-center justify-center w-full h-32 border-2 border-gray-200 border-dashed rounded-xl cursor-pointer bg-gray-50 hover:bg-gray-100 hover:border-[#005284] transition-colors">
+                      <div className="flex flex-col items-center justify-center pt-5 pb-6">
+                        <UploadCloud className="w-8 h-8 text-gray-400 mb-2" />
+                        <p className="text-sm text-gray-500 font-medium">Dosya seçmek için tıklayın</p>
+                        <p className="text-xs text-gray-400 mt-1">PNG, JPG, PDF (Max. 5MB)</p>
+                      </div>
+                      <input 
+                        type="file" 
+                        ref={fileInputRef}
+                        className="hidden" 
+                        accept="image/jpeg, image/png, image/webp, application/pdf" 
+                        onChange={handleFileChange} 
+                      />
+                    </label>
+                  ) : isCompressing ? (
+                    <div className="flex items-center justify-center w-full h-32 border border-gray-200 rounded-xl bg-gray-50">
+                      <div className="flex flex-col items-center gap-2">
+                        <Loader2 className="w-6 h-6 text-[#005284] animate-spin" />
+                        <span className="text-sm text-gray-500 font-medium">Görsel optimize ediliyor...</span>
+                      </div>
+                    </div>
+                  ) : (
+                    <div className="flex items-center justify-between w-full p-4 border border-green-200 bg-green-50 rounded-xl">
+                      <div className="flex items-center gap-3 overflow-hidden">
+                        <div className="p-2 bg-white rounded-lg border border-green-100 shrink-0">
+                          <FileType className="w-5 h-5 text-green-600" />
+                        </div>
+                        <div className="flex flex-col min-w-0">
+                          <span className="text-sm font-bold text-gray-900 truncate">{fileData?.name}</span>
+                          <span className="text-xs text-gray-500">{fileData?.size} • Eklendi</span>
+                        </div>
+                      </div>
+                      <button type="button" onClick={removeFile} className="p-2 text-gray-400 hover:text-red-500 hover:bg-white rounded-lg transition-colors shrink-0">
+                        <X className="w-5 h-5" />
+                      </button>
+                    </div>
+                  )}
+                </div>
+
+                <div className="flex flex-col gap-2 mt-2">
+                  <label className="text-xs font-bold tracking-widest text-gray-500">GÜVENLİK DOĞRULAMASI</label>
+                  <ReCAPTCHA
+                    ref={recaptchaRef}
+                    sitekey="6LfjAgctAAAAAGKHv127CbLH8SO6SlK4WnHkE6H1"
+                    onChange={handleCaptchaChange}
+                    hl={lang}
+                  />
+                </div>
+
                 {status.type !== 'idle' && (
                   <div className={`p-4 rounded-xl text-sm font-medium border ${
                     status.type === 'loading' ? 'bg-blue-50 border-blue-100 text-blue-700 flex items-center gap-2' :
@@ -287,10 +412,10 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                   </div>
                 )}
 
-                <div className="flex flex-col gap-6 mt-4">
+                <div className="flex flex-col gap-6 mt-2">
                   <button 
                     type="submit" 
-                    disabled={status.type === 'loading'}
+                    disabled={status.type === 'loading' || isCompressing}
                     className="group w-full md:w-auto inline-flex items-center justify-center gap-3 bg-[#E35205] text-white px-8 py-5 rounded-xl text-sm font-bold tracking-widest hover:bg-[#005284] transition-colors shadow-lg disabled:bg-gray-400 disabled:cursor-not-allowed"
                   >
                     {status.type === 'loading' ? dict.contactPage.form.submit.loading : dict.contactPage.form.submit.idle}
