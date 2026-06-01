@@ -54,7 +54,7 @@ export default async function MilkTanksPage({ params }: { params: Promise<{ lang
     { src: "galeri-4.webp", title: dict.milkTanksPage.projects.p4.title, alt: dict.milkTanksPage.projects.p4.alt }
   ];
 
-  const specPdfUrl = getDocumentPath(lang, 'DOK-03-sut-tanklari-tr.pdf', 'DOC-03-milk-tanks.pdf', 'spec');
+  const specPdfUrl = getDocumentPath(lang, 'DOK-03-sut-tanklari-tr.pdf', 'DOC-03-milk-tanks.pdf');
 
   return (
     <div className="bg-gray-50 pb-24 selection:bg-[#E35205] selection:text-white">
