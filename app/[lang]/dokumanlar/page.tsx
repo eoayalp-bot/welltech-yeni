@@ -215,7 +215,7 @@ export default async function DocumentsPage({ params }: { params: Promise<{ lang
                 </div>
                 <p className="text-sm text-gray-600 mb-6 leading-relaxed">{dict.documentsPage.sidebar.iso.desc}</p>
                 <a 
-                  href="/assets/documents/welltech-iso-9001.pdf" 
+                  href={dict.documentsPage.sidebar.iso.fileUrl} 
                   download
                   className="w-full flex items-center justify-center gap-2 bg-[#005284] text-white px-4 py-3 rounded-xl text-sm font-bold tracking-wider hover:bg-[#E35205] transition-colors shadow-md"
                 >
@@ -236,7 +236,7 @@ export default async function DocumentsPage({ params }: { params: Promise<{ lang
                 </div>
                 <p className="text-sm text-gray-600 mb-6 leading-relaxed">{dict.documentsPage.sidebar.catalog.desc}</p>
                 <a 
-                  href="/assets/documents/welltech-kurumsal-katalog.pdf" 
+                  href={dict.documentsPage.sidebar.catalog.fileUrl} 
                   download
                   className="w-full flex items-center justify-center gap-2 bg-[#E35205] text-white px-4 py-3 rounded-xl text-sm font-bold tracking-wider hover:bg-[#005284] transition-colors shadow-md"
                 >
