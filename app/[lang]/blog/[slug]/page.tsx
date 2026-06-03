@@ -9,7 +9,7 @@ import { getLocalizedUrl } from '../../../../dictionaries/routes';
 export async function generateStaticParams() {
   const params: { lang: string; slug: string }[] = [];
   Object.keys(blogPosts).forEach((language) => {
-    blogPosts[language].forEach((post) => {
+    blogPosts[language as keyof typeof blogPosts].forEach((post) => {
       params.push({ lang: language, slug: post.slug });
     });
   });
@@ -22,18 +22,17 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   const currentSlug = resolvedParams.slug;
   
   const currentLanguagePosts = blogPosts[targetLang as keyof typeof blogPosts] || [];
-  let post = currentLanguagePosts.find((p) => p.slug === currentSlug);
+  let post = currentLanguagePosts.find((p) => p?.slug === currentSlug);
 
-  // GERÇEK ÇÖZÜM METADATA: Link bu dilde yoksa diğer dillerde kaçıncı sırada olduğunu bul
   if (!post) {
     for (const [languageKey, posts] of Object.entries(blogPosts)) {
-      const foundIndex = posts.findIndex(p => p.slug === currentSlug);
+      const foundIndex = posts.findIndex(p => p?.slug === currentSlug);
       if (foundIndex !== -1) {
         const correctPost = currentLanguagePosts[foundIndex];
         if (correctPost) {
           return {
-            title: `${correctPost.title} | Welltech®`,
-            description: correctPost.excerpt || "",
+            title: `${correctPost?.title || 'Blog'} | Welltech®`,
+            description: correctPost?.excerpt || "",
           };
         }
       }
@@ -43,8 +42,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   if (!post) return { title: "Not Found | Welltech®" };
 
   return {
-    title: `${post.title} | Welltech®`,
-    description: post.excerpt || "",
+    title: `${post?.title || 'Blog'} | Welltech®`,
+    description: post?.excerpt || "",
   };
 }
 
@@ -54,32 +53,25 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
   const slug = resolvedParams.slug;
 
   const currentLanguagePosts = blogPosts[lang as keyof typeof blogPosts] || [];
-  let post = currentLanguagePosts.find((p) => p.slug === slug);
+  let post = currentLanguagePosts.find((p) => p?.slug === slug);
 
-  // 🏗️ GERÇEK MÜHENDİSLİK: Çapraz Dil Link Eşleştirme Motoru (Cross-Language Slug Mapping)
   if (!post) {
     let foundIndex = -1;
-    
-    // Gelen link (slug) hangi dilde ve kaçıncı sırada yazılmış? Onu bul.
     for (const [languageKey, posts] of Object.entries(blogPosts)) {
-      const index = posts.findIndex((p) => p.slug === slug);
+      const index = posts.findIndex((p) => p?.slug === slug);
       if (index !== -1) {
         foundIndex = index;
-        break; // Bulduğumuz an aramayı durdur
+        break;
       }
     }
 
-    // Makaleyi bulduk! Şimdi hedeflenen dildeki (lang) aynı sıradaki gerçek linke yönlendir.
     if (foundIndex !== -1) {
       const correctPostForTargetLang = currentLanguagePosts[foundIndex];
       if (correctPostForTargetLang) {
         const localizedBlogRoute = getLocalizedUrl('blog', lang) || 'blog';
-        // Bu bir yama değil, 301 Kalıcı Yönlendirme (SEO için kusursuz) yöntemidir.
         redirect(`/${lang}/${localizedBlogRoute}/${correctPostForTargetLang.slug}`);
       }
     }
-    
-    // Eğer hiçbir dilde böyle bir yazı gerçekten yoksa o zaman 404 sayfasına git
     notFound();
   }
 
@@ -88,15 +80,15 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
-    "headline": post.title,
-    "image": post.image ? `https://www.welltech.com${post.image}` : undefined,
-    "description": post.excerpt || "",
+    "headline": post?.title || "",
+    "image": post?.image ? `https://www.welltech.com${post.image}` : undefined,
+    "description": post?.excerpt || "",
     "author": {
       "@type": "Person",
-      "name": post.author || "Welltech"
+      "name": post?.author || "Welltech"
     },
-    "datePublished": post.date,
-    "articleSection": post.category,
+    "datePublished": post?.date || "",
+    "articleSection": post?.category || "",
     "publisher": {
       "@type": "Organization",
       "name": "Welltech® International Engineering"
@@ -121,8 +113,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
       
       <section className="relative h-[65vh] min-h-[500px] flex flex-col justify-end pb-24 px-6 overflow-hidden">
         <div className="absolute inset-0 z-0">
-          {post.image ? (
-            <Image src={post.image} alt={post.title} fill priority className="object-cover transition-transform duration-[3000ms] scale-105" sizes="100vw" />
+          {post?.image ? (
+            <Image src={post.image} alt={post?.title || 'Blog'} fill priority className="object-cover transition-transform duration-[3000ms] scale-105" sizes="100vw" />
           ) : (
             <div className="absolute inset-0 bg-[#005284]"></div>
           )}
@@ -136,14 +128,14 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
           </Link>
 
           <div className="flex flex-wrap items-center gap-4 md:gap-6 mb-6 text-[10px] md:text-xs font-bold tracking-widest">
-            <span className="bg-[#E35205] text-white px-3 py-1.5 rounded-md shadow-md uppercase">{post.category}</span>
-            <span className="text-gray-300 flex items-center gap-2"><Calendar className="w-4 h-4 text-[#E35205]" />{post.date}</span>
-            <span className="text-gray-300 flex items-center gap-2"><Clock className="w-4 h-4 text-[#E35205]" />{post.readTime}</span>
-            <span className="text-gray-300 flex items-center gap-2"><User className="w-4 h-4 text-[#E35205]" />{post.author}</span>
+            <span className="bg-[#E35205] text-white px-3 py-1.5 rounded-md shadow-md uppercase">{post?.category}</span>
+            <span className="text-gray-300 flex items-center gap-2"><Calendar className="w-4 h-4 text-[#E35205]" />{post?.date}</span>
+            <span className="text-gray-300 flex items-center gap-2"><Clock className="w-4 h-4 text-[#E35205]" />{post?.readTime}</span>
+            <span className="text-gray-300 flex items-center gap-2"><User className="w-4 h-4 text-[#E35205]" />{post?.author}</span>
           </div>
 
           <h1 className="text-3xl md:text-5xl lg:text-6xl font-black text-white tracking-tighter drop-shadow-2xl leading-tight max-w-4xl">
-            {post.title}
+            {post?.title}
           </h1>
         </div>
       </section>
@@ -155,10 +147,10 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
             <article className="bg-white p-8 md:p-14 rounded-2xl shadow-2xl border border-gray-100">
               <div className="prose prose-lg max-w-none">
                 <p className="text-xl md:text-2xl leading-relaxed text-[#005284] font-medium mb-10 pb-10 border-b border-gray-100">
-                  {post.excerpt}
+                  {post?.excerpt}
                 </p>
                 <div className="leading-loose text-gray-700 whitespace-pre-wrap text-base md:text-lg font-light">
-                  {post.content}
+                  {post?.content}
                 </div>
               </div>
 
