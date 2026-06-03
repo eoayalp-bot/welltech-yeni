@@ -47,21 +47,20 @@ export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
   const switchLanguage = (newLang: string) => {
     if (!pathname || pathname === '/') return `/${newLang}`;
     
-    let cleanPathname = pathname;
-    allLanguages.forEach(l => {
-      if (cleanPathname.startsWith(`/${l.code}/${l.code}/`)) {
-        cleanPathname = cleanPathname.replace(`/${l.code}/${l.code}/`, `/${l.code}/`);
-      }
-    });
+    let segments = pathname.split('/').filter(Boolean);
+    
+    while (segments.length > 1 && segments[0] === segments[1] && allLanguages.some(l => l.code === segments[0])) {
+      segments.shift(); // Tekrarlayan dil kodunu at
+    }
 
-    const segments = cleanPathname.split('/').filter(Boolean);
-    const currentLang = segments[0];
+    const currentLangCode = segments[0];
 
-    const isBlogSegment = segments.length >= 2 && (Object.values((routeDictionary as any)['blog'] || {}).includes(segments[1]) || segments[1] === 'blog');
+    const blogTranslations = Object.values((routeDictionary as any)['blog'] || {});
+    const isBlogSegment = segments.length >= 2 && (segments[1] === 'blog' || blogTranslations.includes(segments[1]));
 
     if (isBlogSegment && segments.length >= 3) {
       const currentSlug = segments[2];
-      const currentPosts = blogPosts[currentLang as keyof typeof blogPosts] || blogPosts['tr'] || [];
+      const currentPosts = blogPosts[currentLangCode as keyof typeof blogPosts] || blogPosts['tr'] || [];
       const postIndex = currentPosts.findIndex((p: any) => p.slug === decodeURIComponent(currentSlug));
       
       if (postIndex !== -1) {
@@ -72,7 +71,6 @@ export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
           return `/${newLang}/${newBlogRoute}/${newPost.slug}`;
         }
       }
-      // Post bulunamazsa veya sadece /blog sayfasındaysak blog listesine git
       const newBlogRoute = (routeDictionary as any)['blog']?.[newLang] || 'blog';
       return `/${newLang}/${newBlogRoute}`;
     }
@@ -81,7 +79,7 @@ export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
       if (index === 0) return newLang;
       let physicalKey = segment;
       for (const [key, translations] of Object.entries(routeDictionary)) {
-        if ((translations as any)[currentLang] === segment) {
+        if ((translations as any)[currentLangCode] === segment) {
           physicalKey = key;
           break;
         }
