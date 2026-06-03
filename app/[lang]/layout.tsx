@@ -39,10 +39,10 @@ export async function generateMetadata({
   return {
     title: {
       template: '%s | Welltech®',
-      default: dict.metadata.default_title,
+      default: dict?.metadata?.default_title || "Welltech® | Endüstriyel Tank ve Proses Sistemleri",
     },
-    description: dict.metadata.default_desc,
-    keywords: dict.metadata.keywords,
+    description: dict?.metadata?.default_desc || "Uluslararası standartlarda paslanmaz çelik endüstriyel tanklar, hijyenik pompalar ve proses ekipmanları üreticisi.",
+    keywords: dict?.metadata?.keywords || ["paslanmaz tank", "proses sistemleri", "hijyenik pompa", "welltech"],
     robots: {
       index: true,
       follow: true,
@@ -83,7 +83,6 @@ export default async function RootLayout({
           {children}
         </main>
         <Footer lang={lang} dict={dict} />
-        {/* Chatbot dilleri dinamik hale getirildi (ur çıkarıldı, it dahil edildi) */}
         <div id="welltech-ai-chatbot-root" data-langs={locales.join(',')} aria-hidden="true"></div>
         <CookieBanner lang={lang} />
       </body>
