@@ -40,47 +40,55 @@ export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
   }, []);
 
   const getLink = (physicalKey: string) => {
-    const translatedPath = routeDictionary[physicalKey]?.[lang] || physicalKey;
+    const translatedPath = (routeDictionary as any)[physicalKey]?.[lang] || physicalKey;
     return `/${lang}/${translatedPath}`;
   };
 
   const switchLanguage = (newLang: string) => {
     if (!pathname || pathname === '/') return `/${newLang}`;
-    const segments = pathname.split('/').filter(Boolean);
+    
+    let cleanPathname = pathname;
+    allLanguages.forEach(l => {
+      if (cleanPathname.startsWith(`/${l.code}/${l.code}/`)) {
+        cleanPathname = cleanPathname.replace(`/${l.code}/${l.code}/`, `/${l.code}/`);
+      }
+    });
+
+    const segments = cleanPathname.split('/').filter(Boolean);
     const currentLang = segments[0];
 
-    if (segments.length === 3) {
-      const segment1 = segments[1];
-      const isBlogSegment = Object.values(routeDictionary['blog'] || {}).includes(segment1) || segment1 === 'blog';
-      if (isBlogSegment) {
-        const currentSlug = segments[2];
-        const currentPosts = blogPosts[currentLang as keyof typeof blogPosts] || blogPosts['tr'] || [];
-        const postIndex = currentPosts.findIndex((p: any) => p.slug === currentSlug);
-        if (postIndex !== -1) {
-          const newPosts = blogPosts[newLang as keyof typeof blogPosts] || blogPosts['tr'] || [];
-          const newPost = newPosts[postIndex];
-          if (newPost) {
-            const newBlogRoute = routeDictionary['blog']?.[newLang as keyof (typeof routeDictionary)['blog']] || 'blog';
-            return `/${newLang}/${newBlogRoute}/${newPost.slug}`;
-          }
+    const isBlogSegment = segments.length >= 2 && (Object.values((routeDictionary as any)['blog'] || {}).includes(segments[1]) || segments[1] === 'blog');
+
+    if (isBlogSegment && segments.length >= 3) {
+      const currentSlug = segments[2];
+      const currentPosts = blogPosts[currentLang as keyof typeof blogPosts] || blogPosts['tr'] || [];
+      const postIndex = currentPosts.findIndex((p: any) => p.slug === decodeURIComponent(currentSlug));
+      
+      if (postIndex !== -1) {
+        const newPosts = blogPosts[newLang as keyof typeof blogPosts] || blogPosts['tr'] || [];
+        const newPost = newPosts[postIndex];
+        if (newPost) {
+          const newBlogRoute = (routeDictionary as any)['blog']?.[newLang] || 'blog';
+          return `/${newLang}/${newBlogRoute}/${newPost.slug}`;
         }
-        // Post bulunamazsa blog listesine git
-        const newBlogRoute = routeDictionary['blog']?.[newLang as keyof (typeof routeDictionary)['blog']] || 'blog';
-        return `/${newLang}/${newBlogRoute}`;
       }
+      // Post bulunamazsa veya sadece /blog sayfasındaysak blog listesine git
+      const newBlogRoute = (routeDictionary as any)['blog']?.[newLang] || 'blog';
+      return `/${newLang}/${newBlogRoute}`;
     }
 
     const translatedSegments = segments.map((segment, index) => {
       if (index === 0) return newLang;
       let physicalKey = segment;
       for (const [key, translations] of Object.entries(routeDictionary)) {
-        if (translations[currentLang as keyof typeof translations] === segment) {
+        if ((translations as any)[currentLang] === segment) {
           physicalKey = key;
           break;
         }
       }
-      return routeDictionary[physicalKey]?.[newLang] || physicalKey;
+      return (routeDictionary as any)[physicalKey]?.[newLang] || physicalKey;
     });
+    
     return `/${translatedSegments.join('/')}`;
   };
 

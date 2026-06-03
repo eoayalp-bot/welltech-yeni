@@ -4,19 +4,23 @@ import { notFound, redirect } from 'next/navigation';
 import { ChevronRight, Calendar, Tag, Share2, ShieldCheck, FileText, ChevronLeft, Clock, User } from 'lucide-react';
 import { blogPosts } from '../../../../data/blogData';
 import { getDictionary } from '../../../../dictionaries/getDictionary';
-import { getLocalizedUrl } from '../../../../dictionaries/routes';
+import { routeDictionary } from '../../../../dictionaries/routes';
 
 export async function generateStaticParams() {
   const params: { lang: string; slug: string }[] = [];
   const allLangs = Object.keys(blogPosts);
 
   allLangs.forEach((lang) => {
-    blogPosts[lang as keyof typeof blogPosts].forEach((post) => {
+    const posts = blogPosts[lang as keyof typeof blogPosts] || [];
+    posts.forEach((post) => {
       params.push({ lang, slug: post.slug });
     });
+    
+    // Çapraz dil geçişleri için
     allLangs.forEach((otherLang) => {
       if (otherLang !== lang) {
-        blogPosts[otherLang as keyof typeof blogPosts].forEach((post) => {
+        const otherPosts = blogPosts[otherLang as keyof typeof blogPosts] || [];
+        otherPosts.forEach((post) => {
           params.push({ lang, slug: post.slug });
         });
       }
@@ -28,10 +32,10 @@ export async function generateStaticParams() {
   );
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ lang: string, slug: string }> }) {
-  const resolvedParams = await params;
+export async function generateMetadata({ params }: { params: any }) {
+  const resolvedParams = await Promise.resolve(params);
   const targetLang = resolvedParams.lang;
-  const currentSlug = resolvedParams.slug;
+  const currentSlug = decodeURIComponent(resolvedParams.slug || '');
   
   const currentLanguagePosts = blogPosts[targetLang as keyof typeof blogPosts] || [];
   let post = currentLanguagePosts.find((p) => p?.slug === currentSlug);
@@ -59,10 +63,10 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   };
 }
 
-export default async function BlogPostPage({ params }: { params: Promise<{ lang: string, slug: string }> }) {
-  const resolvedParams = await params;
+export default async function BlogPostPage({ params }: { params: any }) {
+  const resolvedParams = await Promise.resolve(params);
   const lang = resolvedParams.lang;
-  const slug = resolvedParams.slug;
+  const slug = decodeURIComponent(resolvedParams.slug || '');
 
   const currentLanguagePosts = blogPosts[lang as keyof typeof blogPosts] || [];
   let post = currentLanguagePosts.find((p) => p?.slug === slug);
@@ -80,7 +84,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
     if (foundIndex !== -1) {
       const correctPostForTargetLang = currentLanguagePosts[foundIndex];
       if (correctPostForTargetLang) {
-        const localizedBlogRoute = getLocalizedUrl('blog', lang) || 'blog';
+        const localizedBlogRoute = (routeDictionary as any)['blog']?.[lang] || 'blog';
         redirect(`/${lang}/${localizedBlogRoute}/${correctPostForTargetLang.slug}`);
       }
     }
@@ -88,6 +92,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
   }
 
   const dict = await getDictionary(lang);
+  const localizedBlogRoute = (routeDictionary as any)['blog']?.[lang] || 'blog';
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -119,6 +124,9 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
   const sidebarDocsDesc = dict?.blogPost?.sidebar?.docsDesc || "Kalite standartlarımızı inceleyin.";
   const sidebarGoToDocsBtn = dict?.blogPost?.sidebar?.goToDocsBtn || "İncele";
 
+  const contactRoute = (routeDictionary as any)['iletisim']?.[lang] || 'iletisim';
+  const docsRoute = (routeDictionary as any)['dokumanlar']?.[lang] || 'dokumanlar';
+
   return (
     <div className="bg-gray-50 pb-32 selection:bg-[#E35205] selection:text-white">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
@@ -134,7 +142,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
         </div>
         
         <div className="max-w-7xl mx-auto relative z-20 w-full">
-          <Link href={`/${lang}/${getLocalizedUrl('blog', lang)}`} className="inline-flex items-center gap-2 text-xs font-bold tracking-widest text-blue-200 hover:text-white transition-colors mb-8 bg-black/30 backdrop-blur-sm px-4 py-2 rounded-full border border-white/10">
+          <Link href={`/${lang}/${localizedBlogRoute}`} className="inline-flex items-center gap-2 text-xs font-bold tracking-widest text-blue-200 hover:text-white transition-colors mb-8 bg-black/30 backdrop-blur-sm px-4 py-2 rounded-full border border-white/10">
             <ChevronLeft className="w-4 h-4" />
             {backToPostsText}
           </Link>
@@ -194,7 +202,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
                   <p className="text-sm text-gray-400 mb-8 leading-relaxed">
                     {sidebarEngineeringDesc}
                   </p>
-                  <Link href={`/${lang}/${getLocalizedUrl('iletisim', lang)}`} className="w-full flex items-center justify-center gap-2 bg-[#E35205] text-white px-4 py-4 rounded-xl text-sm font-bold tracking-widest hover:bg-white hover:text-[#E35205] transition-all shadow-md hover:shadow-xl">
+                  <Link href={`/${lang}/${contactRoute}`} className="w-full flex items-center justify-center gap-2 bg-[#E35205] text-white px-4 py-4 rounded-xl text-sm font-bold tracking-widest hover:bg-white hover:text-[#E35205] transition-all shadow-md hover:shadow-xl">
                     {sidebarGetSupportBtn}
                   </Link>
                 </div>
@@ -209,7 +217,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
                   </div>
                 </div>
                 <p className="text-sm text-gray-600 mb-6 leading-relaxed">{sidebarDocsDesc}</p>
-                <Link href={`/${lang}/${getLocalizedUrl('dokumanlar', lang)}`} className="inline-flex items-center justify-center w-full gap-2 text-xs font-bold tracking-widest text-[#005284] bg-blue-50 hover:bg-[#005284] hover:text-white px-4 py-4 rounded-xl transition-all">
+                <Link href={`/${lang}/${docsRoute}`} className="inline-flex items-center justify-center w-full gap-2 text-xs font-bold tracking-widest text-[#005284] bg-blue-50 hover:bg-[#005284] hover:text-white px-4 py-4 rounded-xl transition-all">
                   {sidebarGoToDocsBtn} <ChevronRight className="w-4 h-4" />
                 </Link>
               </div>
