@@ -4,53 +4,39 @@ import { notFound, redirect } from 'next/navigation';
 import { ChevronRight, Calendar, Tag, Share2, ShieldCheck, FileText, ChevronLeft, Clock, User } from 'lucide-react';
 import { blogPosts } from '../../../../data/blogData';
 import { getDictionary } from '../../../../dictionaries/getDictionary';
-import { routeDictionary } from '../../../../dictionaries/routes';
+
+interface Props {
+  params: Promise<{ lang: string; slug: string }>;
+}
 
 export async function generateStaticParams() {
   const params: { lang: string; slug: string }[] = [];
   const allLangs = Object.keys(blogPosts);
 
   allLangs.forEach((lang) => {
-    const posts = blogPosts[lang as keyof typeof blogPosts] || [];
+    const posts = blogPosts[lang] || [];
     posts.forEach((post) => {
-      params.push({ lang, slug: post.slug });
-    });
-    
-    // Çapraz dil geçişleri için
-    allLangs.forEach((otherLang) => {
-      if (otherLang !== lang) {
-        const otherPosts = blogPosts[otherLang as keyof typeof blogPosts] || [];
-        otherPosts.forEach((post) => {
-          params.push({ lang, slug: post.slug });
-        });
+      if (post?.slug) {
+        params.push({ lang, slug: post.slug });
       }
     });
   });
 
-  return params.filter((p, i, arr) =>
-    arr.findIndex((x) => x.lang === p.lang && x.slug === p.slug) === i
-  );
+  return params;
 }
 
-export async function generateMetadata({ params }: { params: any }) {
-  const resolvedParams = await Promise.resolve(params);
-  const targetLang = resolvedParams.lang;
-  const currentSlug = decodeURIComponent(resolvedParams.slug || '');
+export async function generateMetadata({ params }: Props) {
+  const { lang, slug } = await params;
+  const decodedSlug = decodeURIComponent(slug || '');
   
-  const currentLanguagePosts = blogPosts[targetLang as keyof typeof blogPosts] || [];
-  let post = currentLanguagePosts.find((p) => p?.slug === currentSlug);
+  const currentLanguagePosts = blogPosts[lang] || [];
+  let post = currentLanguagePosts.find((p) => p?.slug === decodedSlug);
 
   if (!post) {
-    for (const [languageKey, posts] of Object.entries(blogPosts)) {
-      const foundIndex = posts.findIndex(p => p?.slug === currentSlug);
-      if (foundIndex !== -1) {
-        const correctPost = currentLanguagePosts[foundIndex];
-        if (correctPost) {
-          return {
-            title: `${correctPost?.title || 'Blog'} | Welltech®`,
-            description: correctPost?.excerpt || "",
-          };
-        }
+    for (const [_, posts] of Object.entries(blogPosts)) {
+      const found = posts.find(p => p?.slug === decodedSlug);
+      if (found) {
+        return { title: `${found.title} | Welltech®` };
       }
     }
   }
@@ -58,23 +44,23 @@ export async function generateMetadata({ params }: { params: any }) {
   if (!post) return { title: "Not Found | Welltech®" };
 
   return {
-    title: `${post?.title || 'Blog'} | Welltech®`,
-    description: post?.excerpt || "",
+    title: `${post.title} | Welltech®`,
+    description: post.excerpt || "",
   };
 }
 
-export default async function BlogPostPage({ params }: { params: any }) {
-  const resolvedParams = await Promise.resolve(params);
-  const lang = resolvedParams.lang;
-  const slug = decodeURIComponent(resolvedParams.slug || '');
+export default async function BlogPostPage({ params }: Props) {
+  const { lang, slug } = await params;
+  const decodedSlug = decodeURIComponent(slug || '');
 
-  const currentLanguagePosts = blogPosts[lang as keyof typeof blogPosts] || [];
-  let post = currentLanguagePosts.find((p) => p?.slug === slug);
+  const currentLanguagePosts = blogPosts[lang] || [];
+  let post = currentLanguagePosts.find((p) => p?.slug === decodedSlug);
 
   if (!post) {
     let foundIndex = -1;
-    for (const [languageKey, posts] of Object.entries(blogPosts)) {
-      const index = posts.findIndex((p) => p?.slug === slug);
+
+    for (const [_, posts] of Object.entries(blogPosts)) {
+      const index = posts.findIndex((p) => p?.slug === decodedSlug);
       if (index !== -1) {
         foundIndex = index;
         break;
@@ -84,48 +70,48 @@ export default async function BlogPostPage({ params }: { params: any }) {
     if (foundIndex !== -1) {
       const correctPostForTargetLang = currentLanguagePosts[foundIndex];
       if (correctPostForTargetLang) {
-        const localizedBlogRoute = (routeDictionary as any)['blog']?.[lang] || 'blog';
-        redirect(`/${lang}/${localizedBlogRoute}/${correctPostForTargetLang.slug}`);
+        redirect(`/${lang}/blog/${correctPostForTargetLang.slug}`);
       }
     }
     notFound();
   }
 
-  const dict = await getDictionary(lang);
-  const localizedBlogRoute = (routeDictionary as any)['blog']?.[lang] || 'blog';
+  let dict: any = {};
+  try {
+    dict = await getDictionary(lang);
+  } catch (error) {
+    console.error(`Sözlük yüklenemedi: ${lang}`, error);
+  }
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
-    "headline": post?.title || "",
-    "image": post?.image ? `https://www.welltech.com${post.image}` : undefined,
-    "description": post?.excerpt || "",
+    "headline": post.title || "",
+    "image": post.image ? `https://www.welltech.com${post.image}` : undefined,
+    "description": post.excerpt || "",
     "author": {
       "@type": "Person",
-      "name": post?.author || "Welltech"
+      "name": post.author || "Welltech"
     },
-    "datePublished": post?.date || "",
-    "articleSection": post?.category || "",
+    "datePublished": post.date || "",
+    "articleSection": post.category || "",
     "publisher": {
       "@type": "Organization",
       "name": "Welltech® International Engineering"
     }
   };
 
-  const backToPostsText = dict?.blogPost?.backToPosts || "Geri Dön";
+  const backToPostsText = dict?.blogPost?.backToPosts || "Yayınlara Dön";
   const tagsEngineeringText = dict?.blogPost?.tags?.engineering || "Mühendislik";
   const tagsProcessText = dict?.blogPost?.tags?.process || "Proses";
   const shareArticleText = dict?.blogPost?.shareArticle || "Paylaş";
-  const sidebarEngineeringTitle = dict?.blogPost?.sidebar?.engineeringTitle || "Mühendislik Desteği";
-  const sidebarEngineeringDesc = dict?.blogPost?.sidebar?.engineeringDesc || "Projeleriniz için teknik ekibimizle iletişime geçin.";
+  const sidebarEngineeringTitle = dict?.blogPost?.sidebar?.engineeringTitle || "Proje Mühendisliği";
+  const sidebarEngineeringDesc = dict?.blogPost?.sidebar?.engineeringDesc || "Teknik ekibimizle iletişime geçin.";
   const sidebarGetSupportBtn = dict?.blogPost?.sidebar?.getSupportBtn || "İletişime Geç";
-  const sidebarDocsTitle = dict?.blogPost?.sidebar?.docsTitle || "Dökümanlar";
+  const sidebarDocsTitle = dict?.blogPost?.sidebar?.docsTitle || "Teknik Dökümanlar";
   const sidebarDocsSubtitle = dict?.blogPost?.sidebar?.docsSubtitle || "Sertifikalar";
   const sidebarDocsDesc = dict?.blogPost?.sidebar?.docsDesc || "Kalite standartlarımızı inceleyin.";
   const sidebarGoToDocsBtn = dict?.blogPost?.sidebar?.goToDocsBtn || "İncele";
-
-  const contactRoute = (routeDictionary as any)['iletisim']?.[lang] || 'iletisim';
-  const docsRoute = (routeDictionary as any)['dokumanlar']?.[lang] || 'dokumanlar';
 
   return (
     <div className="bg-gray-50 pb-32 selection:bg-[#E35205] selection:text-white">
@@ -133,8 +119,8 @@ export default async function BlogPostPage({ params }: { params: any }) {
       
       <section className="relative h-[65vh] min-h-[500px] flex flex-col justify-end pb-24 px-6 overflow-hidden">
         <div className="absolute inset-0 z-0">
-          {post?.image ? (
-            <Image src={post.image} alt={post?.title || 'Blog'} fill priority className="object-cover transition-transform duration-[3000ms] scale-105" sizes="100vw" />
+          {post.image ? (
+            <Image src={post.image} alt={post.title} fill priority className="object-cover transition-transform duration-[3000ms] scale-105" sizes="100vw" />
           ) : (
             <div className="absolute inset-0 bg-[#005284]"></div>
           )}
@@ -142,20 +128,20 @@ export default async function BlogPostPage({ params }: { params: any }) {
         </div>
         
         <div className="max-w-7xl mx-auto relative z-20 w-full">
-          <Link href={`/${lang}/${localizedBlogRoute}`} className="inline-flex items-center gap-2 text-xs font-bold tracking-widest text-blue-200 hover:text-white transition-colors mb-8 bg-black/30 backdrop-blur-sm px-4 py-2 rounded-full border border-white/10">
+          <Link href={`/${lang}/blog`} className="inline-flex items-center gap-2 text-xs font-bold tracking-widest text-blue-200 hover:text-white transition-colors mb-8 bg-black/30 backdrop-blur-sm px-4 py-2 rounded-full border border-white/10">
             <ChevronLeft className="w-4 h-4" />
             {backToPostsText}
           </Link>
 
           <div className="flex flex-wrap items-center gap-4 md:gap-6 mb-6 text-[10px] md:text-xs font-bold tracking-widest">
-            <span className="bg-[#E35205] text-white px-3 py-1.5 rounded-md shadow-md uppercase">{post?.category}</span>
-            <span className="text-gray-300 flex items-center gap-2"><Calendar className="w-4 h-4 text-[#E35205]" />{post?.date}</span>
-            <span className="text-gray-300 flex items-center gap-2"><Clock className="w-4 h-4 text-[#E35205]" />{post?.readTime}</span>
-            <span className="text-gray-300 flex items-center gap-2"><User className="w-4 h-4 text-[#E35205]" />{post?.author}</span>
+            <span className="bg-[#E35205] text-white px-3 py-1.5 rounded-md shadow-md uppercase">{post.category}</span>
+            <span className="text-gray-300 flex items-center gap-2"><Calendar className="w-4 h-4 text-[#E35205]" />{post.date}</span>
+            <span className="text-gray-300 flex items-center gap-2"><Clock className="w-4 h-4 text-[#E35205]" />{post.readTime}</span>
+            <span className="text-gray-300 flex items-center gap-2"><User className="w-4 h-4 text-[#E35205]" />{post.author}</span>
           </div>
 
           <h1 className="text-3xl md:text-5xl lg:text-6xl font-black text-white tracking-tighter drop-shadow-2xl leading-tight max-w-4xl">
-            {post?.title}
+            {post.title}
           </h1>
         </div>
       </section>
@@ -167,10 +153,10 @@ export default async function BlogPostPage({ params }: { params: any }) {
             <article className="bg-white p-8 md:p-14 rounded-2xl shadow-2xl border border-gray-100">
               <div className="prose prose-lg max-w-none">
                 <p className="text-xl md:text-2xl leading-relaxed text-[#005284] font-medium mb-10 pb-10 border-b border-gray-100">
-                  {post?.excerpt}
+                  {post.excerpt}
                 </p>
                 <div className="leading-loose text-gray-700 whitespace-pre-wrap text-base md:text-lg font-light">
-                  {post?.content}
+                  {post.content}
                 </div>
               </div>
 
@@ -202,7 +188,7 @@ export default async function BlogPostPage({ params }: { params: any }) {
                   <p className="text-sm text-gray-400 mb-8 leading-relaxed">
                     {sidebarEngineeringDesc}
                   </p>
-                  <Link href={`/${lang}/${contactRoute}`} className="w-full flex items-center justify-center gap-2 bg-[#E35205] text-white px-4 py-4 rounded-xl text-sm font-bold tracking-widest hover:bg-white hover:text-[#E35205] transition-all shadow-md hover:shadow-xl">
+                  <Link href={`/${lang}/iletisim`} className="w-full flex items-center justify-center gap-2 bg-[#E35205] text-white px-4 py-4 rounded-xl text-sm font-bold tracking-widest hover:bg-white hover:text-[#E35205] transition-all shadow-md hover:shadow-xl">
                     {sidebarGetSupportBtn}
                   </Link>
                 </div>
@@ -217,7 +203,7 @@ export default async function BlogPostPage({ params }: { params: any }) {
                   </div>
                 </div>
                 <p className="text-sm text-gray-600 mb-6 leading-relaxed">{sidebarDocsDesc}</p>
-                <Link href={`/${lang}/${docsRoute}`} className="inline-flex items-center justify-center w-full gap-2 text-xs font-bold tracking-widest text-[#005284] bg-blue-50 hover:bg-[#005284] hover:text-white px-4 py-4 rounded-xl transition-all">
+                <Link href={`/${lang}/dokumanlar`} className="inline-flex items-center justify-center w-full gap-2 text-xs font-bold tracking-widest text-[#005284] bg-blue-50 hover:bg-[#005284] hover:text-white px-4 py-4 rounded-xl transition-all">
                   {sidebarGoToDocsBtn} <ChevronRight className="w-4 h-4" />
                 </Link>
               </div>
