@@ -55,8 +55,8 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
         };
         finalFile = await imageCompression(file, options);
       } else {
-        if (file.size > 5 * 1024 * 1024) {
-          setStatus({ type: 'error', message: 'Doküman boyutu maksimum 5MB olmalıdır.' });
+        if (file.size > 10 * 1024 * 1024) {
+          setStatus({ type: 'error', message: 'Doküman boyutu maksimum 10MB olmalıdır.' });
           setIsCompressing(false);
           return;
         }
@@ -68,7 +68,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
         const sizeInMb = (finalFile.size / (1024 * 1024)).toFixed(2);
         setFileData({
           name: finalFile.name,
-          type: finalFile.type,
+          type: finalFile.type || 'application/octet-stream', 
           base64: reader.result as string,
           size: `${sizeInMb} MB`
         });
@@ -356,13 +356,13 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                       <div className="flex flex-col items-center justify-center pt-5 pb-6">
                         <UploadCloud className="w-8 h-8 text-gray-400 mb-2" />
                         <p className="text-sm text-gray-500 font-medium">Dosya seçmek için tıklayın</p>
-                        <p className="text-xs text-gray-400 mt-1">PNG, JPG, PDF (Max. 5MB)</p>
+                        <p className="text-xs text-gray-400 mt-1">PDF, JPG, DWG, STEP, SLDPRT vb. (Max. 10MB)</p>
                       </div>
                       <input 
                         type="file" 
                         ref={fileInputRef}
                         className="hidden" 
-                        accept="image/jpeg, image/png, image/webp, application/pdf" 
+                        accept="image/jpeg, image/png, image/webp, application/pdf, .dwg, .dxf, .step, .stp, .iges, .igs, .sldprt, .sldasm, .slddrw" 
                         onChange={handleFileChange} 
                       />
                     </label>
@@ -395,7 +395,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                   <label className="text-xs font-bold tracking-widest text-gray-500">GÜVENLİK DOĞRULAMASI</label>
                   <ReCAPTCHA
                     ref={recaptchaRef}
-                    sitekey={process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || "6LfjAgctAAAAAGKHv127CbLH8SO6SlK4WnHkE6H1"}
+                    sitekey={process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || "6LdWSgstAAAAAJef6eyVy5XDmjewHl26EaiqUYCi"}
                     onChange={handleCaptchaChange}
                     hl={lang}
                   />
