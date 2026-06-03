@@ -39,7 +39,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
   const currentLanguagePosts = blogPosts[lang as keyof typeof blogPosts] || [];
   const post = currentLanguagePosts.find((p) => p.slug === slug);
 
-  // 🚨 GÜVENLİK AĞI: Makale o dilde yoksa 404 vermek yerine Blog Ana Sayfasına Yönlendir (Redirect)
   if (!post) {
     const blogIndex = getLocalizedUrl('blog', lang) || 'blog';
     redirect(`/${lang}/${blogIndex}`);
