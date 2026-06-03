@@ -395,7 +395,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                   <label className="text-xs font-bold tracking-widest text-gray-500">GÜVENLİK DOĞRULAMASI</label>
                   <ReCAPTCHA
                     ref={recaptchaRef}
-                    sitekey="6LfjAgctAAAAAGKHv127CbLH8SO6SlK4WnHkE6H1"
+                    sitekey={process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || "6LfjAgctAAAAAGKHv127CbLH8SO6SlK4WnHkE6H1"}
                     onChange={handleCaptchaChange}
                     hl={lang}
                   />

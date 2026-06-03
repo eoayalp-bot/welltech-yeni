@@ -12,6 +12,14 @@
     "docs": "Dokümanlar",
     "contact": "İletişim"
   },
+  "footer": {
+    "description": "Uluslararası standartlarda paslanmaz çelik endüstriyel tanklar, hijyenik pompalar ve proses ekipmanları üreticisi.",
+    "products": "Ürünler",
+    "locations": "Lokasyonlar",
+    "hq_title": "Genel Merkez",
+    "factory_title": "İmalathane",
+    "copyright": "Tüm Hakları Saklıdır."
+  },
   "home": {
     "hero": {
       "badge": "Welltech® International Engineering",
