@@ -1,7 +1,6 @@
-
 import Link from 'next/link';
 import Image from 'next/image';
-import { notFound } from 'next/navigation';
+import { redirect } from 'next/navigation';
 import { ChevronRight, Calendar, Tag, Share2, ShieldCheck, FileText, ChevronLeft, Clock, User } from 'lucide-react';
 import { blogPosts } from '../../../../data/blogData';
 import { getDictionary } from '../../../../dictionaries/getDictionary';
@@ -19,17 +18,16 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string, slug: string }> }) {
   const resolvedParams = await params;
-  const currentLanguagePosts = blogPosts[resolvedParams.lang as keyof typeof blogPosts] || blogPosts['tr'];
+  const currentLanguagePosts = blogPosts[resolvedParams.lang as keyof typeof blogPosts] || [];
   const post = currentLanguagePosts.find((p) => p.slug === resolvedParams.slug);
-  const dict = await getDictionary(resolvedParams.lang);
   
   if (!post) {
-    return { title: dict.blogPost.notFoundTitle };
+    return { title: "Not Found | Welltech®" };
   }
 
   return {
     title: `${post.title} | Welltech®`,
-    description: post.excerpt,
+    description: post.excerpt || "",
   };
 }
 
@@ -38,11 +36,13 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
   const lang = resolvedParams.lang;
   const slug = resolvedParams.slug;
 
-  const currentLanguagePosts = blogPosts[lang as keyof typeof blogPosts] || blogPosts['tr'];
+  const currentLanguagePosts = blogPosts[lang as keyof typeof blogPosts] || [];
   const post = currentLanguagePosts.find((p) => p.slug === slug);
 
+  // 🚨 GÜVENLİK AĞI: Makale o dilde yoksa 404 vermek yerine Blog Ana Sayfasına Yönlendir (Redirect)
   if (!post) {
-    notFound();
+    const blogIndex = getLocalizedUrl('blog', lang) || 'blog';
+    redirect(`/${lang}/${blogIndex}`);
   }
 
   const dict = await getDictionary(lang);
@@ -52,7 +52,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
     "@type": "BlogPosting",
     "headline": post.title,
     "image": post.image ? `https://www.welltech.com${post.image}` : undefined,
-    "description": post.excerpt,
+    "description": post.excerpt || "",
     "author": {
       "@type": "Person",
       "name": post.author
@@ -90,9 +90,9 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
         </div>
         
         <div className="max-w-7xl mx-auto relative z-20 w-full">
-          <Link href={getLocalizedUrl('blog', lang)} className="inline-flex items-center gap-2 text-xs font-bold tracking-widest text-blue-200 hover:text-white transition-colors mb-8 bg-black/30 backdrop-blur-sm px-4 py-2 rounded-full border border-white/10">
+          <Link href={`/${lang}/${getLocalizedUrl('blog', lang)}`} className="inline-flex items-center gap-2 text-xs font-bold tracking-widest text-blue-200 hover:text-white transition-colors mb-8 bg-black/30 backdrop-blur-sm px-4 py-2 rounded-full border border-white/10">
             <ChevronLeft className="w-4 h-4" />
-            {dict.blogPost.backToPosts}
+            {dict.blogPost?.backToPosts || "Geri Dön"}
           </Link>
 
           <div className="flex flex-wrap items-center gap-4 md:gap-6 mb-6 text-[10px] md:text-xs font-bold tracking-widest">
@@ -137,14 +137,14 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
                 <div className="flex items-center gap-3">
                   <Tag className="w-5 h-5 text-gray-400" />
                   <div className="flex gap-2">
-                    <span className="bg-gray-50 text-gray-500 px-3 py-1 rounded text-xs font-bold tracking-widest border border-gray-100">{dict.blogPost.tags.engineering}</span>
-                    <span className="bg-gray-50 text-gray-500 px-3 py-1 rounded text-xs font-bold tracking-widest border border-gray-100">{dict.blogPost.tags.process}</span>
+                    <span className="bg-gray-50 text-gray-500 px-3 py-1 rounded text-xs font-bold tracking-widest border border-gray-100">{dict.blogPost?.tags?.engineering || "Mühendislik"}</span>
+                    <span className="bg-gray-50 text-gray-500 px-3 py-1 rounded text-xs font-bold tracking-widest border border-gray-100">{dict.blogPost?.tags?.process || "Proses"}</span>
                   </div>
                 </div>
                 
                 <button className="flex items-center gap-2 text-xs font-bold tracking-widest text-gray-500 hover:text-[#005284] transition-colors bg-gray-50 px-4 py-2 rounded-lg border border-gray-100 hover:border-[#005284]">
                   <Share2 className="w-4 h-4" />
-                  {dict.blogPost.shareArticle}
+                  {dict.blogPost?.shareArticle || "Paylaş"}
                 </button>
               </div>
 
@@ -159,13 +159,13 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
                 <div className="relative z-10">
                   <h3 className="text-xl font-bold mb-4 tracking-tight flex items-center gap-3">
                     <ShieldCheck className="w-6 h-6 text-[#E35205]" />
-                    {dict.blogPost.sidebar.engineeringTitle}
+                    {dict.blogPost?.sidebar?.engineeringTitle || "Mühendislik Desteği"}
                   </h3>
                   <p className="text-sm text-gray-400 mb-8 leading-relaxed">
-                    {dict.blogPost.sidebar.engineeringDesc}
+                    {dict.blogPost?.sidebar?.engineeringDesc || "Projeleriniz için teknik ekibimizle iletişime geçin."}
                   </p>
-                  <Link href={getLocalizedUrl('iletisim', lang)} className="w-full flex items-center justify-center gap-2 bg-[#E35205] text-white px-4 py-4 rounded-xl text-sm font-bold tracking-widest hover:bg-white hover:text-[#E35205] transition-all shadow-md hover:shadow-xl">
-                    {dict.blogPost.sidebar.getSupportBtn}
+                  <Link href={`/${lang}/${getLocalizedUrl('iletisim', lang)}`} className="w-full flex items-center justify-center gap-2 bg-[#E35205] text-white px-4 py-4 rounded-xl text-sm font-bold tracking-widest hover:bg-white hover:text-[#E35205] transition-all shadow-md hover:shadow-xl">
+                    {dict.blogPost?.sidebar?.getSupportBtn || "İletişime Geç"}
                   </Link>
                 </div>
               </div>
@@ -176,13 +176,13 @@ export default async function BlogPostPage({ params }: { params: Promise<{ lang:
                     <FileText className="w-6 h-6" />
                   </div>
                   <div>
-                    <h4 className="font-bold text-gray-900">{dict.blogPost.sidebar.docsTitle}</h4>
-                    <p className="text-[10px] text-gray-500 tracking-widest uppercase">{dict.blogPost.sidebar.docsSubtitle}</p>
+                    <h4 className="font-bold text-gray-900">{dict.blogPost?.sidebar?.docsTitle || "Dökümanlar"}</h4>
+                    <p className="text-[10px] text-gray-500 tracking-widest uppercase">{dict.blogPost?.sidebar?.docsSubtitle || "Sertifikalar"}</p>
                   </div>
                 </div>
-                <p className="text-sm text-gray-600 mb-6 leading-relaxed">{dict.blogPost.sidebar.docsDesc}</p>
-                <Link href={getLocalizedUrl('dokumanlar', lang)} className="inline-flex items-center justify-center w-full gap-2 text-xs font-bold tracking-widest text-[#005284] bg-blue-50 hover:bg-[#005284] hover:text-white px-4 py-4 rounded-xl transition-all">
-                  {dict.blogPost.sidebar.goToDocsBtn} <ChevronRight className="w-4 h-4" />
+                <p className="text-sm text-gray-600 mb-6 leading-relaxed">{dict.blogPost?.sidebar?.docsDesc || "Kalite standartlarımızı inceleyin."}</p>
+                <Link href={`/${lang}/${getLocalizedUrl('dokumanlar', lang)}`} className="inline-flex items-center justify-center w-full gap-2 text-xs font-bold tracking-widest text-[#005284] bg-blue-50 hover:bg-[#005284] hover:text-white px-4 py-4 rounded-xl transition-all">
+                  {dict.blogPost?.sidebar?.goToDocsBtn || "İncele"} <ChevronRight className="w-4 h-4" />
                 </Link>
               </div>
 
