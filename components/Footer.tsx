@@ -11,7 +11,6 @@ function getLink(physicalKey: string, lang: string): string {
 export default function Footer({ lang, dict }: { lang: string; dict: any }) {
   const currentYear = new Date().getFullYear();
 
-  // 🛡️ ÇELİK YELEK: Eğer JSON dosyasında çeviriler eksikse sistem çökmek yerine bu varsayılanları kullanır. (Böylece Vercel asla patlamaz!)
   const footerDesc = dict?.footer?.description || "Uluslararası standartlarda paslanmaz çelik endüstriyel tanklar, hijyenik pompalar ve proses ekipmanları üreticisi.";
   const footerProducts = dict?.footer?.products || "Ürünler";
   const footerLocations = dict?.footer?.locations || "Lokasyonlar";
@@ -37,7 +36,6 @@ export default function Footer({ lang, dict }: { lang: string; dict: any }) {
             {footerDesc}
           </p>
 
-          {/* İnokstek Alt Marka Entegrasyonu */}
           <div className="pt-5 mt-2 border-t border-gray-800/80">
             <span className="block text-[10px] text-gray-500 tracking-widest uppercase mb-2 font-bold">
               {lang === 'tr' ? 'BİR İNOKSTEK KURULUŞUDUR' : 'A BRAND OF INOKSTEK'}

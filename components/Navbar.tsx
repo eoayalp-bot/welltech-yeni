@@ -7,7 +7,6 @@ import { Montserrat } from 'next/font/google';
 import { usePathname } from 'next/navigation';
 import { routeDictionary } from '../dictionaries/routes';
 import { ChevronDown } from 'lucide-react';
-import { blogPosts } from '../data/blogData';
 
 const montserrat = Montserrat({ subsets: ['latin'], weight: ['500', '600', '700', '900'] });
 
@@ -47,39 +46,22 @@ export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
   const switchLanguage = (newLang: string) => {
     if (!pathname || pathname === '/') return `/${newLang}`;
     
-    let segments = pathname.split('/').filter(Boolean);
-    
-    while (segments.length > 1 && segments[0] === segments[1] && allLanguages.some(l => l.code === segments[0])) {
-      segments.shift(); // Tekrarlayan dil kodunu at
-    }
-
-    const currentLangCode = segments[0];
-
-    const blogTranslations = Object.values((routeDictionary as any)['blog'] || {});
-    const isBlogSegment = segments.length >= 2 && (segments[1] === 'blog' || blogTranslations.includes(segments[1]));
-
-    if (isBlogSegment && segments.length >= 3) {
-      const currentSlug = segments[2];
-      const currentPosts = blogPosts[currentLangCode as keyof typeof blogPosts] || blogPosts['tr'] || [];
-      const postIndex = currentPosts.findIndex((p: any) => p.slug === decodeURIComponent(currentSlug));
-      
-      if (postIndex !== -1) {
-        const newPosts = blogPosts[newLang as keyof typeof blogPosts] || blogPosts['tr'] || [];
-        const newPost = newPosts[postIndex];
-        if (newPost) {
-          const newBlogRoute = (routeDictionary as any)['blog']?.[newLang] || 'blog';
-          return `/${newLang}/${newBlogRoute}/${newPost.slug}`;
-        }
+    // Basit URL temizleyici (Çift dil kodlarını engeller)
+    let cleanPathname = pathname;
+    allLanguages.forEach(l => {
+      if (cleanPathname.includes(`/${l.code}/${l.code}/`)) {
+        cleanPathname = cleanPathname.replace(`/${l.code}/${l.code}/`, `/${l.code}/`);
       }
-      const newBlogRoute = (routeDictionary as any)['blog']?.[newLang] || 'blog';
-      return `/${newLang}/${newBlogRoute}`;
-    }
+    });
+
+    const segments = cleanPathname.split('/').filter(Boolean);
+    const currentLang = segments[0];
 
     const translatedSegments = segments.map((segment, index) => {
       if (index === 0) return newLang;
       let physicalKey = segment;
       for (const [key, translations] of Object.entries(routeDictionary)) {
-        if ((translations as any)[currentLangCode] === segment) {
+        if ((translations as any)[currentLang] === segment) {
           physicalKey = key;
           break;
         }
@@ -113,7 +95,6 @@ export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
         <Link href={getLink('proses-sistemleri')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.nav?.machines || 'Proses Sistemleri'}</Link>
         <Link href={getLink('pompalar')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.nav?.pumps || 'Hijyenik Pompalar'}</Link>
         <Link href={getLink('hakkimizda')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.nav?.about || 'Kurumsal'}</Link>
-        <Link href={getLink('blog')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.nav?.blog || 'Blog'}</Link>
         <Link href={getLink('dokumanlar')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.nav?.docs || 'Dokümanlar'}</Link>
         <Link href={getLink('iletisim')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.nav?.contact || 'İletişim'}</Link>
       </div>
@@ -165,7 +146,6 @@ export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
           <Link onClick={() => setIsOpen(false)} href={getLink('proses-sistemleri')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.nav?.machines || 'Proses Sistemleri'}</Link>
           <Link onClick={() => setIsOpen(false)} href={getLink('pompalar')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.nav?.pumps || 'Hijyenik Pompalar'}</Link>
           <Link onClick={() => setIsOpen(false)} href={getLink('hakkimizda')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.nav?.about || 'Kurumsal'}</Link>
-          <Link onClick={() => setIsOpen(false)} href={getLink('blog')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.nav?.blog || 'Blog'}</Link>
           <Link onClick={() => setIsOpen(false)} href={getLink('dokumanlar')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.nav?.docs || 'Dokümanlar'}</Link>
           <Link onClick={() => setIsOpen(false)} href={getLink('iletisim')} className="block text-[15px] font-semibold tracking-wide text-[#E35205] py-4 border-b border-gray-50">{dict?.nav?.contact || 'İletişim'}</Link>
 
