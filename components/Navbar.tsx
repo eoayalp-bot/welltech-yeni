@@ -7,6 +7,7 @@ import { Montserrat } from 'next/font/google';
 import { usePathname } from 'next/navigation';
 import { routeDictionary } from '../dictionaries/routes';
 import { ChevronDown } from 'lucide-react';
+import { blogPosts } from '../data/blogData';
 
 const montserrat = Montserrat({ subsets: ['latin'], weight: ['500', '600', '700', '900'] });
 
@@ -47,6 +48,28 @@ export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
     if (!pathname || pathname === '/') return `/${newLang}`;
     const segments = pathname.split('/').filter(Boolean);
     const currentLang = segments[0];
+
+    if (segments.length === 3) {
+      const segment1 = segments[1];
+      const isBlogSegment = Object.values(routeDictionary['blog'] || {}).includes(segment1) || segment1 === 'blog';
+      if (isBlogSegment) {
+        const currentSlug = segments[2];
+        const currentPosts = blogPosts[currentLang as keyof typeof blogPosts] || blogPosts['tr'] || [];
+        const postIndex = currentPosts.findIndex((p: any) => p.slug === currentSlug);
+        if (postIndex !== -1) {
+          const newPosts = blogPosts[newLang as keyof typeof blogPosts] || blogPosts['tr'] || [];
+          const newPost = newPosts[postIndex];
+          if (newPost) {
+            const newBlogRoute = routeDictionary['blog']?.[newLang as keyof (typeof routeDictionary)['blog']] || 'blog';
+            return `/${newLang}/${newBlogRoute}/${newPost.slug}`;
+          }
+        }
+        // Post bulunamazsa blog listesine git
+        const newBlogRoute = routeDictionary['blog']?.[newLang as keyof (typeof routeDictionary)['blog']] || 'blog';
+        return `/${newLang}/${newBlogRoute}`;
+      }
+    }
+
     const translatedSegments = segments.map((segment, index) => {
       if (index === 0) return newLang;
       let physicalKey = segment;

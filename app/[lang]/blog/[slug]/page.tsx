@@ -8,12 +8,24 @@ import { getLocalizedUrl } from '../../../../dictionaries/routes';
 
 export async function generateStaticParams() {
   const params: { lang: string; slug: string }[] = [];
-  Object.keys(blogPosts).forEach((language) => {
-    blogPosts[language as keyof typeof blogPosts].forEach((post) => {
-      params.push({ lang: language, slug: post.slug });
+  const allLangs = Object.keys(blogPosts);
+
+  allLangs.forEach((lang) => {
+    blogPosts[lang as keyof typeof blogPosts].forEach((post) => {
+      params.push({ lang, slug: post.slug });
+    });
+    allLangs.forEach((otherLang) => {
+      if (otherLang !== lang) {
+        blogPosts[otherLang as keyof typeof blogPosts].forEach((post) => {
+          params.push({ lang, slug: post.slug });
+        });
+      }
     });
   });
-  return params;
+
+  return params.filter((p, i, arr) =>
+    arr.findIndex((x) => x.lang === p.lang && x.slug === p.slug) === i
+  );
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string, slug: string }> }) {
