@@ -2,11 +2,11 @@
   "contactPage": {
     "metadata": {
       "title": "Kontakt | Welltech®",
-      "description": "Kontaktieren Sie uns für Ihre Projekte. Unser Hauptsitz und unsere Produktionsstätte in Kemalpasa, Izmir."
+      "description": "Kontaktieren Sie uns für Ihre Projekte. Unser Hauptsitz und unsere Produktionsstätte befinden sich in Kemalpaşa, İzmir."
     },
     "hero": {
-      "title": "Kontaktieren Sie uns",
-      "desc": "Kontaktieren Sie unser Expertenteam direkt für Ihre Projekte, Technik-Anfragen und Produktionslösungen."
+      "title": "Kontakt",
+      "desc": "Nehmen Sie direkt Kontakt mit unserem Expertenteam bezüglich Ihrer Projekte, technischen Anfragen und Produktionslösungen auf."
     },
     "breadcrumb": {
       "home": "Startseite",
@@ -16,82 +16,82 @@
     "sidebar": {
       "title": "Kontaktinformationen",
       "hq": {
-        "title": "HAUPTSITZ",
-        "address": "Organize Sanayi Bolgesi, Kemalpasa OSB<br/>10. Sk. No:6, 35730<br/>Kemalpasa / Izmir / Türkei"
+        "title": "Hauptsitz",
+        "address": "Organize Sanayi Bölgesi, Kemalpaşa OSB<br/>10. Sk. No:6, 35730<br/>Kemalpaşa / İzmir"
       },
       "factory": {
-        "title": "PRODUKTIONSSTÄTTE",
-        "address": "Ulucak Istiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpasa / Izmir / Türkei"
+        "title": "Produktionsstätte",
+        "address": "Ulucak İstiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
       },
       "phone": {
-        "title": "TELEFON"
+        "title": "Telefon"
       },
       "whatsapp": {
-        "title": "WHATSAPP-SUPPORT"
+        "title": "WHATSAPP-HOTLINE"
       },
       "email": {
-        "title": "E-MAIL"
+        "title": "E-Mail"
       },
       "hours": {
-        "title": "ÖFFNUNGSZEITEN",
+        "title": "Öffnungszeiten",
         "desc1": "Montag - Freitag: 08:30 - 18:30",
         "desc2": "Am Wochenende geschlossen."
       },
       "social": {
-        "title": "FOLGEN SIE UNS"
+        "title": "Folgen Sie uns"
       }
     },
     "form": {
       "title": "Lassen Sie uns Ihr Projekt gemeinsam planen",
-      "name": "VOR- UND NACHNAME",
-      "company": "FIRMENNAME (Optional)",
-      "email": "E-MAIL-ADRESSE",
-      "phone": "TELEFONNUMMER (Optional)",
+      "name": "Vor- und Nachname",
+      "company": "Firmenname (optional)",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer (optional)",
       "subject": {
-        "label": "PRODUKT / DIENSTLEISTUNG",
-        "placeholder": "Bitte wählen Sie ein Thema aus...",
+        "label": "Gewünschtes Produkt / Dienstleistung",
+        "placeholder": "Bitte wählen Sie ein Thema...",
         "groups": {
-          "tanks": "Lagerbehälter aus Edelstahl",
-          "process": "Prozesssysteme",
+          "tanks": "Edelstahllagertanks",
+          "process": "Prozessanlagen",
           "hygienic": "Hygienepumpen",
           "other": "Sonstige Anfragen"
         },
         "options": {
-          "tanks_1": "Industrieller Lagerbehälter",
-          "tanks_2": "Olivenöl-Lagertank",
-          "tanks_3": "Milch- und Lebensmittel-Prozesstank",
-          "tanks_4": "Chemie- / Säuretank",
-          "process_1": "Rührwerksbehälter",
+          "tanks_1": "Industrielagertank",
+          "tanks_2": "Olivenöllagertank",
+          "tanks_3": "Milch- und Lebensmittelverarbeitungstank",
+          "tanks_4": "Chemikalien- / Säuretank",
+          "process_1": "Prozesstank mit Rührwerk",
           "process_2": "Chemischer / Pharmazeutischer Reaktor",
-          "process_3": "High-Shear Homogenisator",
-          "process_4": "Mobiles Prozess-Skid",
-          "process_5": "Doppelmantel-Heiz-/Kühltank",
+          "process_3": "Hochgeschwindigkeits-Homogenisatoren (High Shear)",
+          "process_4": "Mobile Prozesseinheit (Skid)",
+          "process_5": "Tank mit Heiz-/Kühlmantel",
           "process_6": "Fermenter und Bioreaktor",
-          "process_7": "Automatische CIP-Anlage",
+          "process_7": "Automatisches CIP-System (Clean-in-Place)",
           "hygienic_1": "Kreiselpumpe",
-          "hygienic_2": "Drehkolbenpumpe (Verdrängerpumpe)",
+          "hygienic_2": "Drehkolbenpumpe",
           "hygienic_3": "Selbstansaugende Pumpe",
           "hygienic_4": "Fasspumpe",
-          "hygienic_5": "Druckluft-Membranpumpe",
-          "hygienic_6": "Exzenterschneckenpumpe",
+          "hygienic_5": "Druckluftmembranpumpe",
+          "hygienic_6": "Exzenterschneckenpumpe (Mono)",
           "other_1": "Schlüsselfertige Anlageninstallation",
           "other_2": "Sonderanfertigung / Sonstiges"
         }
       },
       "message": {
-        "label": "PROJEKTDETAILS",
-        "placeholder": "Bitte geben Sie kurz Ihre Projektkapazität, Betriebsdruck, Temperatur oder andere technische Anforderungen an..."
+        "label": "Projektdetails",
+        "placeholder": "Bitte geben Sie kurz die Projektkapazität, den Betriebsdruck, die Temperatur oder andere technische Anforderungen an..."
       },
       "status": {
-        "errorFields": "Bitte füllen Sie Name, E-Mail und Nachricht vollständig aus.",
+        "errorFields": "Bitte füllen Sie die Felder Name, E-Mail und Nachricht vollständig aus.",
         "loading": "Ihre Nachricht wird gesendet...",
         "success": "Ihre Nachricht wurde erfolgreich gesendet. Wir werden uns so schnell wie möglich bei Ihnen melden.",
-        "errorServer": "Es ist ein Serverfehler aufgetreten. Bitte versuchen Sie es später noch einmal.",
-        "errorConnection": "Es ist ein Verbindungsfehler aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung."
+        "errorServer": "Ein Serverfehler ist aufgetreten. Bitte versuchen Sie es später noch einmal.",
+        "errorConnection": "Ein Verbindungsfehler ist aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung."
       },
       "submit": {
-        "loading": "SENDEN...",
-        "idle": "NACHRICHT SENDEN"
+        "loading": "Wird gesendet...",
+        "idle": "Nachricht senden"
       }
     }
   }
