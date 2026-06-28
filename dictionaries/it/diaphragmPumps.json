@@ -1,0 +1,95 @@
+{
+  "diaphragmPumpsPage": {
+    "metadata": {
+      "title": "Pompe Pneumatiche a Membrana | Welltech®",
+      "description": "Pompe pneumatiche a membrana in acciaio inox, senza alimentazione elettrica e con elevata capacità di aspirazione, progettate per ambienti esplosivi e infiammabili (ATEX)."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "pumps": "Pompe",
+      "current": "Pompe Pneumatiche a Membrana"
+    },
+    "hero": {
+      "title": "Pompe Pneumatiche a Membrana",
+      "desc": "Grazie al principio di funzionamento pneumatico, garantiscono la conformità ATEX e l'assenza di blocchi durante il trasferimento di fluidi ad alta viscosità e contenenti particelle solide."
+    },
+    "safety": {
+      "title": "Massima Sicurezza (ATEX)",
+      "desc": "Il principio di funzionamento pneumatico, privo di motore elettrico, rende queste pompe la soluzione più sicura per il trasferimento di solventi infiammabili e prodotti chimici esplosivi. Sono in grado di gestire fluidi con particelle solide e condizioni di funzionamento a secco senza subire danni. Il sistema con valvola pneumatica anti-stallo garantisce una produzione continua e sicura.",
+      "imgAlt": "Sezione di Pompa Pneumatica Certificata ATEX"
+    },
+    "features": {
+      "title": "Vantaggi di Progetto e Dotazioni",
+      "items": [
+        "Design con Sicurezza Totale Certificata ATEX (Ex-Proof)",
+        "Completa Resistenza al Funzionamento a Secco",
+        "Trasferimento di Particelle Solide senza Intasamenti",
+        "Sistema di Valvole Pneumatiche Anti-Stallo (Non-Stalling)",
+        "Ridotti Costi Operativi Grazie al Funzionamento Senza Elettricità",
+        "Facile Installazione e Minime Esigenze di Ricambi e Manutenzione"
+      ],
+      "imgAlt": "Sistema di Valvole della Pompa Pneumatica a Membrana"
+    },
+    "table": {
+      "title": "Curva Prestazionale e Tabella Capacità",
+      "note": "* I valori indicati sono riferiti all'acqua (1 cPs). Per fluidi ad alta viscosità o contenenti particelle, le dimensioni della pompa possono variare.",
+      "headers": [
+        "ATTACCO",
+        "PORTATA MAX (L/min)",
+        "PRESSIONE MAX DI ESERCIZIO",
+        "PASSAGGIO PARTICELLE (mm)"
+      ],
+      "imgAlt": "Disegno Tecnico della Pompa Pneumatica a Membrana",
+      "rows": [
+        { "size": "1/2\"", "flow": "55 L/dk", "pressure": "8 Bar", "particle": "2.5 mm", "highlight": "dark" },
+        { "size": "1\"", "flow": "160 L/dk", "pressure": "8 Bar", "particle": "3.5 mm", "highlight": "dark" },
+        { "size": "1 1/2\"", "flow": "350 L/dk", "pressure": "8 Bar", "particle": "6.0 mm", "highlight": "dark" },
+        { "size": "2\"", "flow": "550 L/dk", "pressure": "8 Bar", "particle": "6.5 mm", "highlight": "dark" },
+        { "size": "3\"", "flow": "900 L/dk", "pressure": "8 Bar", "particle": "9.5 mm", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Come viene selezionato il materiale della membrana?",
+          "a": "Le membrane in PTFE (Teflon), Santoprene, NBR o Hytrel vengono selezionate in base al valore di pH (acidità) e alla temperatura del fluido da trasferire."
+        },
+        {
+          "q": "Quali sono i vantaggi del funzionamento pneumatico?",
+          "a": "Poiché non richiedono alimentazione elettrica, il rischio di esplosione è praticamente nullo. Inoltre, quando la valvola viene chiusa, la pompa si arresta automaticamente e non richiede dispositivi di protezione aggiuntivi come valvole di bypass."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Applicazioni delle Pompe a Membrana",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Trasferimento di Solventi e Diluenti", "alt": "Pompa per Solventi ATEX" },
+        { "src": "galeri-2.webp", "label": "Trattamento Acque e Fanghi", "alt": "Pompa per Fanghi" },
+        { "src": "galeri-3.webp", "label": "Trasferimento di Additivi Alimentari", "alt": "Pompa a Membrana in Acciaio Inox" },
+        { "src": "galeri-4.webp", "label": "Trasferimento di Vernici e Resine", "alt": "Pompa per Vernici" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate le tabelle di compatibilità dei materiali delle membrane, i grafici del consumo d'aria (SCFM) e la documentazione ATEX.",
+        "fileUrl": "/assets/documents/it/pompe-pneumatiche-membrana-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "IMPIANTO CHIMICO",
+        "desc": "Linea composta da 40 pompe a membrana installata presso uno stabilimento internazionale per la produzione di vernici.",
+        "imgAlt": "Riferimento Pompa Pneumatica a Membrana",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "Quale Membrana è la Più Adatta?",
+        "desc": "PTFE, NBR o Santoprene? Inviateci la scheda MSDS del vostro fluido e selezioneremo il materiale della membrana più durevole.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Merhaba,%20havali%20diyafram%20pompalar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "selfPrimingPumpsPage": {
+    "metadata": {
+      "title": "Pompe Autoadescanti | Welltech®",
+      "description": "Pompe autoadescanti in acciaio inox progettate per il trasferimento di fluidi contenenti aria o schiuma e per l'aspirazione da serbatoi interrati."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "pumps": "Pompe",
+      "current": "Pompe Autoadescanti"
+    },
+    "hero": {
+      "title": "Pompe Autoadescanti",
+      "desc": "Funzionamento senza cavitazione con fluidi contenenti aria e gas. Soluzione ideale per linee di ritorno CIP e svuotamento di serbatoi posti sotto il livello della pompa."
+    },
+    "technology": {
+      "title": "Tecnologia di Aspirazione e Vuoto (Self-Priming)",
+      "desc": "Mentre le pompe centrifughe standard si bloccano in presenza di aria nella linea di aspirazione, le pompe autoadescanti (Self-Priming) espellono l'aria dal corpo pompa creando una depressione grazie alla loro speciale configurazione interna. Rappresentano la soluzione più igienica ed efficiente per l'aspirazione da serbatoi interrati e per il recupero delle acque schiumose nei sistemi CIP.",
+      "imgAlt": "Tecnologia della Girante della Pompa Autoadescante"
+    },
+    "features": {
+      "title": "Prestazioni e Vantaggi di Progettazione",
+      "items": [
+        "Elevata Capacità di Aspirazione da Livelli Inferiori",
+        "Trasferimento di Fluidi Contenenti Aria e Schiuma",
+        "Perfetta Compatibilità con le Linee di Ritorno CIP (Clean-In-Place)",
+        "Design Igienico con Assenza di Zone Morte e Facile Lavabilità",
+        "Acciaio Inox AISI 316L Forgiato o Microfuso",
+        "Tenuta Meccanica ad Alta Resistenza e Lunga Durata"
+      ],
+      "imgAlt": "Design Interno della Pompa Autoadescante"
+    },
+    "table": {
+      "title": "Specifiche Tecniche e Capacità",
+      "note": "* I valori di profondità di aspirazione e portata possono variare in funzione della viscosità del fluido (acqua = 1 cPs) e della temperatura di esercizio.",
+      "headers": [
+        "MODELLO POMPA",
+        "PORTATA MAX (m³/h)",
+        "PREVALENZA (m)",
+        "POTENZA MOTORE (kW)"
+      ],
+      "imgAlt": "Disegno Tecnico delle Capacità della Pompa",
+      "rows": [
+        { "model": "WSP-10", "flow": "10 m³/h", "head": "20 m", "power": "1.5 kW", "highlight": "dark" },
+        { "model": "WSP-20", "flow": "20 m³/h", "head": "25 m", "power": "2.2 kW", "highlight": "dark" },
+        { "model": "WSP-30", "flow": "30 m³/h", "head": "30 m", "power": "4.0 kW", "highlight": "dark" },
+        { "model": "WSP-40", "flow": "40 m³/h", "head": "35 m", "power": "5.5 kW", "highlight": "dark" },
+        { "model": "WSP-50", "flow": "50 m³/h", "head": "40 m", "power": "7.5 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Qual è il principio di funzionamento di una pompa autoadescante?",
+          "a": "Durante la prima messa in servizio, il corpo pompa viene riempito con una certa quantità di liquido. In esercizio, questo liquido miscela ed espelle l'aria presente nella linea di aspirazione; il vuoto generato consente quindi di sollevare il fluido dal livello inferiore."
+        },
+        {
+          "q": "Perché vengono utilizzate nelle linee di ritorno CIP?",
+          "a": "Durante i cicli di lavaggio CIP, il liquido contiene elevate quantità di aria e schiuma. Le pompe convenzionali possono andare in cavitazione, mentre le pompe autoadescanti tollerano la presenza di aria e garantiscono un trasferimento continuo del liquido di lavaggio."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Le Nostre Applicazioni Industriali",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Sistema di Ritorno CIP", "alt": "Pompa di Ritorno CIP" },
+        { "src": "galeri-2.webp", "label": "Svuotamento di Serbatoi Interrati", "alt": "Pompa per Serbatoi Interrati" },
+        { "src": "galeri-3.webp", "label": "Trasferimento di Fluidi Schiumosi", "alt": "Pompa per Fluidi Schiumosi" },
+        { "src": "galeri-4.webp", "label": "Stazione Mobile di Aspirazione", "alt": "Pompa Autoadescante Mobile" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il catalogo con curve caratteristiche, calcoli della profondità di aspirazione e opzioni motore.",
+        "fileUrl": "/assets/documents/it/pompe-autoadescanti-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "SISTEMA CIP",
+        "desc": "Linea automatica di ritorno CIP installata presso uno stabilimento di bevande con capacità produttiva di 500 tonnellate/giorno.",
+        "imgAlt": "Riferimento Ritorno CIP",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "Qual è la Distanza di Aspirazione?",
+        "desc": "Comunicateci la profondità del serbatoio interrato e la lunghezza delle tubazioni: selezioneremo la pompa più adatta eliminando ogni rischio di cavitazione.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Merhaba,%20kendinden%20emisli%20pompalar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "cipSystemsPage": {
+    "metadata": {
+      "title": "Fully Automatic CIP Systems (Clean-In-Place) | Welltech®",
+      "description": "Conductivity-controlled and highly energy-efficient fully automatic stainless CIP systems that clean food, pharmaceutical, and chemical lines without disassembly."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "process": "Process Systems",
+      "current": "CIP Systems"
+    },
+    "hero": {
+      "title": "Fully Automatic CIP Systems",
+      "desc": "Smart Clean-In-Place units designed to provide 100% hygiene in your industrial facilities, eliminating human error."
+    },
+    "technology": {
+      "title": "Clean-In-Place Technology",
+      "desc": "CIP (Clean-in-Place) systems are fully automatic systems that clean production lines, pipes, valves, and process tanks without dismantling them. It eliminates human errors by ensuring that water, acid, caustic, and disinfectants are circulated at the right temperature, flow rate, and duration. The system makes your production lines completely sterile and safe for the next batch.",
+      "imgAlt": "CIP System Process Technology"
+    },
+    "features": {
+      "title": "Automation and Hygiene Features",
+      "items": [
+        "Fully Automatic Recipe Control via PLC/SCADA",
+        "Precise Recovery with Conductivity Sensors",
+        "Accurate Chemical Mixing with Automatic Dosing Pumps",
+        "Stainless Design Compliant with FDA and 3A Hygiene Standards",
+        "Independent Acid, Caustic, Recovery, and Fresh Water Tanks",
+        "Fast and Energy-Efficient Heating with Tubular Heat Exchanger"
+      ],
+      "imgAlt": "CIP System Automation Panel"
+    },
+    "table": {
+      "title": "System Configurations",
+      "note": "* CIP systems are specially designed according to the length of the line to be washed, the degree of contamination, and the capacity of your facility.",
+      "headers": [
+        "SYSTEM CONFIGURATION",
+        "TANK CAPACITIES",
+        "APPLICATION AREA"
+      ],
+      "imgAlt": "CIP System Technical Drawing",
+      "rows": [
+        { "config": "2-Tank CIP (Water + Caustic)", "tanks": "500 L - 3,000 L", "sector": "Dairy and Beverage", "highlight": "dark" },
+        { "config": "3-Tank CIP (Water + Caustic + Acid)", "tanks": "1,000 L - 5,000 L", "sector": "Food and Cosmetics", "highlight": "dark" },
+        { "config": "4-Tank (Recovery) CIP", "tanks": "2,000 L - 10,000 L", "sector": "Pharma and Biotech", "highlight": "orange" },
+        { "config": "Mobile CIP Unit (Portable)", "tanks": "300 L - 1,000 L", "sector": "Flexible and Pilot Lines", "highlight": "dark" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What does a conductivity sensor do?",
+          "a": "It measures the density of the acid or caustic returning from the line. When the chemical concentration drops, it automatically doses fresh chemicals into the system. It also safely terminates the process by sensing that the line is completely free of chemicals when the washing is finished."
+        },
+        {
+          "q": "How does the CIP system save water?",
+          "a": "It stores the final rinse water (which is partially clean) in the 'Recovery Tank' to be used as the initial pre-rinse water for the next wash. This prevents a significant amount of water and energy consumption."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Industrial Applications",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Fully Automatic 3-Tank CIP", "alt": "3-Tank CIP System" },
+        { "src": "galeri-2.webp", "label": "Pharmaceutical Grade 4-Tank System", "alt": "Pharma CIP Unit" },
+        { "src": "galeri-3.webp", "label": "Mobile CIP Washing Cart", "alt": "Mobile CIP" },
+        { "src": "galeri-4.webp", "label": "Food Line SCADA Control", "alt": "CIP Control Panel" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download the specification file containing tank configurations, flow rates, and pump pressure calculations.",
+        "fileUrl": "/assets/documents/en/fully-automatic-cip-systems-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "BEVERAGE FACILITY",
+        "desc": "4-tank, fully automatic conductivity-controlled CIP line we installed for an international fruit juice factory.",
+        "imgAlt": "CIP System Reference",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "Do You Have a Special Recipe?",
+        "desc": "Inform us about the contamination load in your facility and the line length to be washed, and let's design the most efficient capacity.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

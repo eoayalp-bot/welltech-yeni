@@ -1,0 +1,40 @@
+{
+  "stainlessTanksPage": {
+    "metadata": {
+      "title": "Stainless Tanks | Welltech®",
+      "description": "High-quality stainless steel storage and process tanks specifically for the industrial, food, chemical, and olive oil sectors."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Stainless Tanks"
+    },
+    "hero": {
+      "title": "Stainless Tank Systems",
+      "desc": "Long-lasting and hygienic stainless steel solutions designed at international standards for different industrial processes."
+    },
+    "categories": [
+      {
+        "title": "Industrial Storage Tanks",
+        "desc": "Heavy-duty tank systems designed for the safe storage of high-volume liquids and raw materials, resistant to pressure and harsh conditions."
+      },
+      {
+        "title": "Olive Oil Storage Tanks",
+        "desc": "Custom-designed tanks with nitrogen blanketing systems, conical bottoms, and a zero oxidation guarantee that preserve the exquisite taste of premium olive oil."
+      },
+      {
+        "title": "Milk and Food Tanks",
+        "desc": "Ultra-hygienic, insulated, and cooling-jacketed stainless steel process tanks fully compliant with food safety standards (FDA/GMP)."
+      },
+      {
+        "title": "Chemical and Acid Tanks",
+        "desc": "Storage units fully resistant to aggressive chemicals, high temperatures, and pressure, compliant with international safety norms."
+      }
+    ],
+    "viewModels": "VIEW MODELS",
+    "cta": {
+      "title": "Custom Production for Your Project",
+      "desc": "Beyond standard models, get a quote for custom engineering solutions fully compatible with your factory's capacity and space constraints.",
+      "btn": "CONTACT US"
+    }
+  }
+}

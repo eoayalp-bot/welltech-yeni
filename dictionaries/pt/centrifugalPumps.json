@@ -1,0 +1,95 @@
+{
+  "centrifugalPumpsPage": {
+    "metadata": {
+      "title": "Bombas Centrífugas | Welltech®",
+      "description": "Bombas centrífugas de aço inoxidável para transferência higiênica, contínua e de alta vazão de fluidos de baixa viscosidade como leite, sucos e água."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "pumps": "Bombas",
+      "current": "Bombas Centrífugas"
+    },
+    "hero": {
+      "title": "Bombas Centrífugas",
+      "desc": "Alta vazão e transferência ininterrupta para fluidos de baixa viscosidade. Projeto em aço inoxidável que proporciona máxima higiene para linhas de alimentos e bebidas."
+    },
+    "technology": {
+      "title": "Tecnologia Centrífuga",
+      "desc": "As bombas centrífugas operam com o princípio de gerar força centrífuga por meio de um rotor (impulsor) girando em alta velocidade dentro da carcaça. O líquido é sugado do centro do rotor e acelerado pelas aletas em direção à linha de descarga. É a solução mais eficiente e econômica para a transferência de fluidos como leite, água, sucos de frutas e líquidos de lavagem CIP.",
+      "imgAlt": "Tecnologia do Rotor da Bomba Centrífuga"
+    },
+    "features": {
+      "title": "Vantagens de Projeto e Desempenho",
+      "items": [
+        "Fluxo Contínuo e Suave em Altas Vazões",
+        "Alta Eficiência com Baixo Consumo de Energia",
+        "Estrutura Interna 100% Lavável (CIP) sem Zonas Mortas",
+        "Carcaça Forjada em Aço Inoxidável AISI 304 ou 316L",
+        "Opções de Rotor Aberto, Semifechado ou Fechado",
+        "Selo Mecânico de Longa Duração e Fácil de Manter"
+      ],
+      "imgAlt": "Motor e Carcaça da Bomba Centrífuga"
+    },
+    "table": {
+      "title": "Especificações Técnicas e Capacidade",
+      "note": "* Os valores de vazão e altura manométrica (pressão) são configurados especificamente de acordo com as necessidades do seu processo, com base na potência do motor e no diâmetro do rotor.",
+      "headers": [
+        "MODELO DE BOMBA",
+        "VAZÃO MÁX. (m³/h)",
+        "ALTURA MANOMÉTRICA (m)",
+        "POTÊNCIA DO MOTOR (kW)"
+      ],
+      "imgAlt": "Desenho Técnico da Bomba Centrífuga",
+      "rows": [
+        { "model": "WCP-10", "flow": "10 m³/h", "head": "15 m", "power": "1.1 kW", "highlight": "dark" },
+        { "model": "WCP-20", "flow": "20 m³/h", "head": "25 m", "power": "2.2 kW", "highlight": "dark" },
+        { "model": "WCP-30", "flow": "30 m³/h", "head": "30 m", "power": "4.0 kW", "highlight": "dark" },
+        { "model": "WCP-50", "flow": "50 m³/h", "head": "35 m", "power": "5.5 kW", "highlight": "dark" },
+        { "model": "WCP-80", "flow": "80 m³/h", "head": "45 m", "power": "11.0 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "Bombas centrífugas podem ser usadas para líquidos muito densos?",
+          "a": "Não. As bombas centrífugas são projetadas para fluidos de baixa viscosidade, como água, leite e sucos de frutas. Líquidos de alta viscosidade, como mel ou creme, causarão cavitação no rotor."
+        },
+        {
+          "q": "Qual é a diferença entre rotores abertos e fechados?",
+          "a": "Os rotores fechados fornecem eficiência máxima na transferência de líquidos puros (água, leite); enquanto rotores abertos ou semifechados são usados para transferir líquidos contendo sedimentos leves ou partículas de frutas sem entupir."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nossas Aplicações Industriais",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Transferência de Leite e Laticínios", "alt": "Bomba de Leite" },
+        { "src": "galeri-2.webp", "label": "Linhas de Suco de Frutas", "alt": "Bomba de Suco" },
+        { "src": "galeri-3.webp", "label": "Sistemas de Lavagem CIP", "alt": "Bomba CIP" },
+        { "src": "galeri-4.webp", "label": "Processos de Água e Bebidas", "alt": "Bomba de Bebidas" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Baixe nosso catálogo que inclui curvas de desempenho da bomba, potências de motor e tipos de selos mecânicos.",
+        "fileUrl": "/assets/documents/pt/bombas-centrifugas-fichas-tec.pdf",
+        "btn": "BAIXAR ESPECIFICAÇÃO"
+      },
+      "reference": {
+        "badge": "FÁBRICA DE BEBIDAS",
+        "desc": "Linha de bombas centrífugas higiênicas que instalamos para uma instalação de produção de suco de grande capacidade.",
+        "imgAlt": "Referência de Bomba Centrífuga",
+        "link": "IR PARA O PROJETO"
+      },
+      "cta": {
+        "title": "Vazão e Pressão Precisas",
+        "desc": "Diga-nos o número de cotovelos e o comprimento do tubo em sua linha, e determinaremos o diâmetro do rotor correto que não causará cavitação.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Ola,%20gostaria%20de%20obter%20informacoes%20tecnicas%20e%20precos%20sobre%20bombas%20centrifugas.",
+        "btn": "CONSULTAR UM ENGENHEIRO"
+      }
+    }
+  }
+}

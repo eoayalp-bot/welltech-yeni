@@ -1,0 +1,49 @@
+{
+  "aboutPage": {
+    "metadata": {
+      "title": "Hakkımızda | Welltech®",
+      "description": "Welltech International Engineering; paslanmaz çelik tanklar, reaktörler ve endüstriyel tesis kurulumunda global mühendislik partneriniz."
+    },
+    "jsonLd": {
+      "description": "Welltech International Engineering; paslanmaz çelik tanklar, reaktörler ve endüstriyel tesis kurulumunda global mühendislik partneriniz."
+    },
+    "hero": {
+      "titleStart": "Geleceği İnşa Eden",
+      "titleHighlight": "Mühendislik",
+      "desc": "20 yılı aşkın tecrübemizle, paslanmaz çelik endüstriyel proses ve depolama sistemlerinde global bir marka olmanın gururunu yaşıyoruz."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "corporate": "Kurumsal",
+      "current": "Hakkımızda"
+    },
+    "roots": {
+      "title": "Köklerimiz ve Vizyonumuz",
+      "p1": "Welltech®, endüstriyel tesislerin kalbi olan proses ve depolama sistemlerinin tasarım, mühendislik ve üretim süreçlerinde uzmanlaşmış uluslararası bir firmadır. Tesisimiz İzmir Kemalpaşa'da, en son teknoloji ile donatılmış üretim hatlarında hizmet vermektedir.",
+      "p2": "Gıda, ilaç, kimya ve kozmetik sektörleri başta olmak üzere, katı hijyen standartları ve yüksek basınç gereksinimleri olan tüm projelerde anahtar teslim çözümler sunuyoruz. Sadece tank üretmiyor; otomasyonundan izolasyonuna kadar, tesisinize 100% entegre çalışan sistemler kuruyoruz."
+    },
+    "global": {
+      "title": "6 Kıta, 50'den Fazla Ülke",
+      "desc": "İzmir'den yola çıkan mühendisliğimiz, bugün Avrupa'dan Asya'ya, Afrika'dan Güney Amerika'ya kadar dünyanın dört bir yanındaki devasa endüstriyel tesislerde sorunsuz bir şekilde çalışmaktadır."
+    },
+    "cards": {
+      "mission": {
+        "title": "Misyonumuz",
+        "desc": "Müşterilerimizin üretim süreçlerini en verimli, güvenli ve hijyenik hale getirecek, uzun ömürlü ve yenilikçi paslanmaz sistemler inşa etmek."
+      },
+      "vision": {
+        "title": "Vizyonumuz",
+        "desc": "Uluslararası kalite standartlarından ödün vermeden, endüstriyel üretim teknolojilerinde dünya çapında en çok güvenilen ilk 3 markadan biri olmak."
+      },
+      "quality": {
+        "title": "Kalite Anlayışımız",
+        "desc": "Hammadde seçiminden, son kaynak noktasına kadar her adımı (ASME, CE, ISO) standartlarında test ediyor ve sertifikalandırıyoruz."
+      }
+    },
+    "cta": {
+      "title": "Projeniz İçin Kusursuz Mühendislik",
+      "desc": "Kapasite ihtiyacınız ne olursa olsun, uzman mühendislik kadromuz fabrikanıza en uygun tasarımı yapmak için hazır.",
+      "btn": "BİZE ULAŞIN"
+    }
+  }
+}

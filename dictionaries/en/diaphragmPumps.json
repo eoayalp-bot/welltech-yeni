@@ -1,0 +1,95 @@
+{
+  "diaphragmPumpsPage": {
+    "metadata": {
+      "title": "Air Operated Diaphragm Pumps | Welltech®",
+      "description": "Non-electric, high-suction stainless steel air operated diaphragm pumps for explosive and flammable environments (ATEX)."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "pumps": "Pumps",
+      "current": "Air Operated Diaphragm Pumps"
+    },
+    "hero": {
+      "title": "Air Operated Diaphragm Pumps",
+      "desc": "Zero stalling guarantee for fluids with solid particles and high viscosity, with ATEX approval thanks to its non-electric (pneumatic) operating principle."
+    },
+    "safety": {
+      "title": "Maximum Safety (ATEX)",
+      "desc": "The air-operated (pneumatic) working principle, which does not contain an electric motor, makes these pumps the single and safest option in transferring flammable solvents and explosive chemicals. It can tolerate transferring liquids with solid particles or dry running conditions without breaking down. Provides uninterrupted and safe production with its non-stalling air valve system.",
+      "imgAlt": "ATEX Approved Air Pump Cross-Section"
+    },
+    "features": {
+      "title": "Design and Hardware Advantages",
+      "items": [
+        "ATEX (Ex-Proof) Approved Fully Secure Design",
+        "Full Resistance to Dry Running",
+        "Ability to Transfer Solid Particles Without Jamming",
+        "Non-Stalling Pneumatic Valve System",
+        "Low Operating Cost Due to Non-Electric Operation",
+        "Easy Installation, Low Spare Parts and Maintenance Needs"
+      ],
+      "imgAlt": "Air Operated Diaphragm Pump Valve Mechanism"
+    },
+    "table": {
+      "title": "Performance Curve and Capacity Table",
+      "note": "* Given fluid values are calculated based on water (1 cPs). Pump sizes may change for highly viscous and particulate fluids.",
+      "headers": [
+        "CONNECTION SIZE",
+        "MAX. FLOW (L/min)",
+        "MAX. OPERATING PRESSURE",
+        "PARTICLE PASSAGE (mm)"
+      ],
+      "imgAlt": "Air Operated Diaphragm Pump Technical Drawing",
+      "rows": [
+        { "size": "1/2\"", "flow": "55 L/min", "pressure": "8 Bar", "particle": "2.5 mm", "highlight": "dark" },
+        { "size": "1\"", "flow": "160 L/min", "pressure": "8 Bar", "particle": "3.5 mm", "highlight": "dark" },
+        { "size": "1 1/2\"", "flow": "350 L/min", "pressure": "8 Bar", "particle": "6.0 mm", "highlight": "dark" },
+        { "size": "2\"", "flow": "550 L/min", "pressure": "8 Bar", "particle": "6.5 mm", "highlight": "dark" },
+        { "size": "3\"", "flow": "900 L/min", "pressure": "8 Bar", "particle": "9.5 mm", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How is the diaphragm material selected?",
+          "a": "Teflon (PTFE), Santoprene, NBR, or Hytrel diaphragms are selected according to the pH (acidity) level and temperature of the fluid to be transferred by the pump."
+        },
+        {
+          "q": "What is the advantage of the pump being air-operated?",
+          "a": "Since it does not need an electrical grid, the risk of explosion is zero. Furthermore, when the valve is closed, the pump stops on its own and does not require costly additional protection equipment like a pressure bypass valve."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Diaphragm Pump Applications",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Solvent and Thinner Transfer", "alt": "ATEX Solvent Pump" },
+        { "src": "galeri-2.webp", "label": "Treatment and Sludge Transfer", "alt": "Sludge Pump" },
+        { "src": "galeri-3.webp", "label": "Food Additive Pump", "alt": "Stainless Diaphragm Pump" },
+        { "src": "galeri-4.webp", "label": "Paint and Resin Transfer", "alt": "Paint Transfer Pump" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "You can download diaphragm material compatibility charts, air consumption (SCFM) graphs, and ATEX certificates.",
+        "fileUrl": "/assets/documents/en/air-operated-diaphragm-pumps-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "CHEMICAL FACILITY",
+        "desc": "A 40-unit diaphragm pump line we installed for an international paint manufacturing plant.",
+        "imgAlt": "Air Operated Diaphragm Pump Reference",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "Which Diaphragm is Suitable?",
+        "desc": "PTFE, NBR, or Santoprene? Let us choose the most durable diaphragm material based on your fluid's (MSDS) report.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hello,%20I%20would%20like%20to%20get%20technical%20information%20and%20pricing%20about%20air%20operated%20diaphragm%20pumps.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

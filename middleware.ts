@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 import { routeDictionary } from './dictionaries/routes';
 
-const locales = ['tr', 'en', 'de', 'es', 'ru', 'fr', 'ar', 'pt', 'it'];
+const locales = ['tr', 'en', 'de', 'fr', 'es', 'pt', 'it', 'ru', 'ar']; 
 const defaultLocale = 'tr';
 
 export function middleware(request: NextRequest) {
@@ -29,8 +29,10 @@ export function middleware(request: NextRequest) {
   const physicalSegments = pathnameSegments.map((segment, index) => {
     if (index === 0) return segment;
 
-      for (const [physicalKey, translations] of Object.entries(routeDictionary)) {
-      if (translations[pathnameLocale as keyof typeof translations] === segment) {
+    for (const [physicalKey, translations] of Object.entries(routeDictionary)) {
+      const trans = translations as Record<string, string>;
+      
+      if (trans[pathnameLocale] === segment) {
         if (physicalKey !== segment) needsRewrite = true;
         return physicalKey;
       }
@@ -39,13 +41,9 @@ export function middleware(request: NextRequest) {
   });
 
   if (needsRewrite) {
-    const rewriteUrl = `/${physicalSegments.join('/')}`;
-    return NextResponse.rewrite(new URL(rewriteUrl, request.url));
+    const physicalPath = `/${physicalSegments.join('/')}`;
+    return NextResponse.rewrite(new URL(physicalPath, request.url));
   }
 
   return NextResponse.next();
 }
-
-export const config = {
-  matcher: ['/((?!_next/static|_next/image|favicon.ico).*)'],
-};

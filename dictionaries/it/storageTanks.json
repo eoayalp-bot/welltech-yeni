@@ -1,0 +1,83 @@
+{
+  "storageTanksPage": {
+    "metadata": {
+      "title": "Serbatoi di Stoccaggio Industriali | Welltech®",
+      "description": "Produzione di serbatoi in acciaio inox heavy-duty per lo stoccaggio di prodotti chimici e alimentari ad alta capacità, conformi agli standard ASME e CE."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "tanks": "Serbatoi in Acciaio Inox",
+      "current": "Serbatoi di Stoccaggio"
+    },
+    "hero": {
+      "title": "Serbatoi di Stoccaggio Industriali",
+      "desc": "Soluzioni in acciaio inox a lunga durata, con massima tenuta e protezione totale contro l'ossidazione, progettate secondo gli standard internazionali (ASME, EN 14015, API 650) per rappresentare il cuore del vostro impianto."
+    },
+    "engineering": {
+      "title": "Ingegneria Heavy-Duty",
+      "desc": "Lo stoccaggio sicuro di liquidi, materie prime e semilavorati ad alto volume è essenziale per la continuità operativa del vostro impianto. I serbatoi di stoccaggio Welltech® vengono dimensionati mediante avanzate simulazioni 3D in funzione del peso specifico del fluido (viscosità) e dei carichi dovuti a vento e sisma. Ogni giunto saldato viene certificato mediante Controlli Non Distruttivi (NDT), garantendo la massima resistenza strutturale."
+    },
+    "features": {
+      "title": "Vantaggi di Progettazione e Dotazioni",
+      "items": {
+        "1": "Costruzione in Acciaio Inox AISI 304L, 316L, 316Ti o Duplex",
+        "2": "Tecnologia di Saldatura Robotizzata TIG e Plasma Dimensionata sulla Capacità",
+        "3": "Piena Conformità agli Standard API 650 ed EN 14015",
+        "4": "Opzioni di Fondo Conico, Bombato o Inclinato",
+        "5": "Elevata Resistenza a Pressione, Vento e Carichi Sismici",
+        "6": "Integrazione di Controllo Livello, Sfiato e Sfere CIP"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacità Standard di Produzione",
+      "note": "* Le dimensioni indicate (Diametro x Altezza) sono approssimative. Possono essere effettuate modifiche millimetriche in funzione dei vincoli dimensionali del vostro impianto.",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIAMETRO (Ø mm)",
+        "height": "ALTEZZA (mm)",
+        "material": "MATERIALE"
+      },
+      "onSite": "Per serbatoi di questa capacità e superiori viene fornito il servizio di installazione direttamente presso il sito del cliente (On-Site)."
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Come consegnate serbatoi che non possono passare attraverso i portoni del nostro stabilimento?",
+          "a": "I serbatoi di grande diametro e capacità elevata (oltre 100.000 L) vengono prefabbricati modularmente presso il nostro stabilimento e assemblati direttamente in sito (On-Site) dai nostri ingegneri specializzati in saldatura."
+        },
+        {
+          "q": "Qual è la differenza tra serbatoi per alimenti e per prodotti chimici?",
+          "a": "Nei serbatoi per uso alimentare sono fondamentali la finitura superficiale liscia (Ra < 0.6) e l'integrazione delle linee CIP. Per acidi, solventi e prodotti chimici aggressivi vengono invece preferiti acciai Duplex ad elevata resistenza alla corrosione e dotazioni conformi ATEX."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Le Nostre Applicazioni di Stoccaggio",
+      "p1": "Serbatoi per Acidi e Soda Caustica",
+      "p2": "Stoccaggio in Acciaio Inox per Uso Alimentare",
+      "p3": "Serbatoi di Stoccaggio Petrolchimici",
+      "p4": "Silos Industriali ad Alta Capacità"
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il dossier tecnico contenente spessori dei materiali, procedure di saldatura e standard qualitativi.",
+        "fileUrl": "/assets/documents/it/serbatoi-stoccaggio-industriale-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "INSTALLAZIONE IN SITO",
+        "desc": "Scoprite il nostro progetto Mega Storage da 500.000 litri completato lo scorso anno.",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "Avete Bisogno di Dimensioni Personalizzate?",
+        "desc": "Calcoliamo insieme ai nostri ingegneri la capacità massima compatibile con lo spazio disponibile nel vostro impianto (altezza/larghezza).",
+        "whatsappMsg": "Buongiorno, desidero ricevere informazioni sul dimensionamento personalizzato e sul calcolo delle capacità per serbatoi di stoccaggio industriali.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

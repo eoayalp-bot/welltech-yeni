@@ -1,0 +1,48 @@
+{
+  "pumpsPage": {
+    "metadata": {
+      "title": "Endüstriyel Hijyenik Pompalar | Welltech®",
+      "description": "Gıda, ilaç ve kimya endüstrileri için yüksek verimli paslanmaz çelik santrifüj, lob, kendinden emişli ve havalı diyafram pompa modelleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "current": "Endüstriyel Pompalar"
+    },
+    "hero": {
+      "title": "Endüstriyel Proses Pompaları",
+      "desc": "Akışkan transferinde sıfır kayıp ve maksimum hijyen (FDA/3A). Süt, bal, çikolata ve agresif kimyasallar için tasarlanmış yüksek mühendislik ürünleri."
+    },
+    "categories": [
+      {
+        "title": "Santrifüj Pompalar",
+        "desc": "Süt, meyve suyu ve su gibi düşük viskoziteli akışkanların yüksek debide, sürekli ve hijyenik transferi için tasarlanmış standart veya kendinden soğutmalı sistemler."
+      },
+      {
+        "title": "Pozitif Deplasmanlı Pompalar",
+        "desc": "Krema, bal, şampuan veya salça gibi yoğun (yüksek viskoziteli) ürünlerin, partikül yapısını bozmadan hassas bir şekilde transferini sağlayan loblu pompalar."
+      },
+      {
+        "title": "Kendinden Emişli Pompalar",
+        "desc": "Köpüklü veya gaz içeren sıvıları tahliye edebilen, hava yapma sorunu olmadan tank diplerinden emiş yapabilen güçlü ve kompakt sıvı transfer üniteleri."
+      },
+      {
+        "title": "Varil ve Konteyner Pompaları",
+        "desc": "Endüstriyel varil ve IBC tanklardaki asit, solvent veya gıda katkı maddelerinin dışarı aktarılması için portatif, hafif ve yüksek güvenlikli pompalar."
+      },
+      {
+        "title": "Havalı Diyafram Pompalar",
+        "desc": "Elektriksiz çalışan, patlayıcı/yanıcı (ATEX) ortamlarda ve içinde katı partikül bulunan akışkan transferlerinde güvenle kullanılabilen pnömatik pompalar."
+      },
+      {
+        "title": "Monopomp (Burgulu) Pompalar",
+        "desc": "Meyve posası, peynir telemesi, arıtma çamuru veya yüksek katı oranına sahip hamurların boru hatlarında sürekli itilmesi için kullanılan burgulu pompalar."
+      }
+    ],
+    "viewModels": "ÜRÜN DETAYI",
+    "cta": {
+      "title": "Doğru Pompayı Seçmek Kritik Bir Mühendisliktir",
+      "desc": "Akışkanınızın viskozitesi, sıcaklığı ve hattınızın basınç kayıplarını hesaplayarak, prosesiniz için en doğru (kavitasyonsuz) pompayı birlikte seçelim.",
+      "btn": "MÜHENDİSLİĞİMİZE DANIŞIN"
+    }
+  }
+}

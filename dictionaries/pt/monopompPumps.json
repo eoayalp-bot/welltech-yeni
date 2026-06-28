@@ -1,0 +1,95 @@
+{
+  "monopompPumpsPage": {
+    "metadata": {
+      "title": "Bombas de Cavidade Progressiva (Helicoidais) | Welltech®",
+      "description": "Bombas de aço inoxidável de cavidade progressiva para a transferência sem perdas de fluidos exigentes (lodo, massa, mel) de alta viscosidade, pegajosos e que contêm partículas sólidas."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "pumps": "Bombas",
+      "current": "Bombas de Cavidade Progressiva"
+    },
+    "hero": {
+      "title": "Bombas de Cavidade Progressiva (Helicoidais)",
+      "desc": "Transferência suave e sem alterar a estrutura de fluidos exigentes, pegajosos e altamente viscosos, como lodo de esgoto, pasta de tomate, polpa de frutas e mel."
+    },
+    "technology": {
+      "title": "Tecnologia de Cavidade Progressiva",
+      "desc": "As bombas de cavidade progressiva (Progressive Cavity Pumps) funcionam segundo o princípio de um rotor de aço inoxidável girando dentro de um estator flexível, criando câmaras volumétricas (cavidades). Este movimento helicoidal empurra continuamente o fluido para a frente sem esmagá-lo, espumá-lo ou criar pulsação. É o padrão da indústria indispensável na transferência dos líquidos mais exigentes, pegajosos ou contendo partículas sólidas.",
+      "imgAlt": "Seção Transversal do Rotor e Estator"
+    },
+    "features": {
+      "title": "Vantagens de Projeto e Desempenho",
+      "items": [
+        "Fluxo Contínuo, Preciso e Sem Pulsações",
+        "Transferência de Fluidos de até 1.000.000 cPs de Viscosidade",
+        "Transporte de Partículas Sólidas e Fibras sem Cisalhamento",
+        "Alta Pressão em Baixa Rotação (Sistema de Estator Multiestágio)",
+        "Opções de Estator NBR, EPDM ou Viton Conformes com Padrões Alimentícios",
+        "Operação Silenciosa e Fácil Substituição de Peças de Reposição"
+      ],
+      "imgAlt": "Características de Hardware Interno da Bomba de Cavidade Progressiva"
+    },
+    "table": {
+      "title": "Especificações Técnicas e Capacidade",
+      "note": "* Os valores de vazão e pressão são calculados especificamente para o projeto com base na viscosidade do fluido a ser transferido e na velocidade do motor (redutor).",
+      "headers": [
+        "MODELO DA BOMBA",
+        "VAZÃO MÁX. (m³/h)",
+        "PRESSÃO MÁX. (Bar)",
+        "TAMANHO DA CONEXÃO"
+      ],
+      "imgAlt": "Desenho de Capacidade Técnica de Bomba de Cavidade Progressiva",
+      "rows": [
+        { "model": "WMP-01", "flow": "1 m³/h", "head": "6 Bar", "power": "1\"", "highlight": "dark" },
+        { "model": "WMP-05", "flow": "5 m³/h", "head": "12 Bar", "power": "1 1/2\"", "highlight": "dark" },
+        { "model": "WMP-10", "flow": "10 m³/h", "head": "12 Bar", "power": "2\"", "highlight": "dark" },
+        { "model": "WMP-25", "flow": "25 m³/h", "head": "24 Bar", "power": "3\"", "highlight": "dark" },
+        { "model": "WMP-50", "flow": "50 m³/h", "head": "24 Bar", "power": "4\"", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "Para quais fluidos a bomba de cavidade progressiva é a preferida?",
+          "a": "É usada para líquidos altamente viscosos e pegajosos, como creme, xampu, lodo de esgoto, bagaço de azeitona, pasta de tomate, óleo de peixe e cola, onde as bombas normais têm dificuldade de bombear ou travam."
+        },
+        {
+          "q": "Qual é a vida útil do Estator (Borracha) e o que se faz quando ele falha?",
+          "a": "A vida útil do estator depende da abrasividade do fluido e da temperatura de operação. O funcionamento a seco (sem água) pode queimar o estator rapidamente. Quando falha, a substituição do estator (manutenção) pode ser feita facilmente apenas abrindo o corpo frontal sem remover completamente a bomba da linha."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nossas Aplicações Industriais",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Tratamento e Transferência de Lodo", "alt": "Bomba de Lodo" },
+        { "src": "galeri-2.webp", "label": "Transferência de Alimentos e Massa", "alt": "Bomba de Alimentos" },
+        { "src": "galeri-3.webp", "label": "Bomba de Bagaço de Azeitona", "alt": "Bomba de Bagaço" },
+        { "src": "galeri-4.webp", "label": "Enchimento de Xampu e Cosméticos", "alt": "Bomba Cosmética" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Baixe o catálogo contendo compatibilidades de material do estator, cálculos de pressão/cavidade e curvas do motor-redutor.",
+        "fileUrl": "/assets/documents/pt/bombas-cavidade-progressiva-fichas-tec.pdf",
+        "btn": "BAIXAR ESPECIFICAÇÃO"
+      },
+      "reference": {
+        "badge": "ESTAÇÃO DE TRATAMENTO",
+        "desc": "Bombas de alimentação de lodo (sludge) com pressão de 24 Bar que instalamos para uma estação de tratamento de águas residuais industriais.",
+        "imgAlt": "Referência de Tratamento",
+        "link": "IR PARA O PROJETO"
+      },
+      "cta": {
+        "title": "Quão Denso é o Seu Fluido?",
+        "desc": "Informe-nos a densidade (viscosidade) do líquido que deseja transferir e sua meta horária, e escolheremos a dupla rotor-estator correta.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Ola,%20gostaria%20de%20obter%20informacoes%20tecnicas%20e%20precos%20sobre%20bombas%20de%20cavidade%20progressiva.",
+        "btn": "CONSULTAR UM ENGENHEIRO"
+      }
+    }
+  }
+}

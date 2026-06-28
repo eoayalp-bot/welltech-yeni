@@ -1,0 +1,95 @@
+{
+  "drumPumpsPage": {
+    "metadata": {
+      "title": "Bombas para Bidones e IBC | Welltech®",
+      "description": "Bombas sumergibles portátiles de acero inoxidable para transferir de manera segura ácidos, disolventes, bases y productos químicos de alta viscosidad desde bidones y contenedores."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "pumps": "Bombas",
+      "current": "Bombas para Bidones"
+    },
+    "hero": {
+      "title": "Bombas para Bidones y Contenedores",
+      "desc": "La forma más rápida y segura de extraer fluidos de bidones industriales y tanques IBC. Diseño portátil, ligero y ergonómico que elimina el riesgo de derrames."
+    },
+    "technology": {
+      "title": "Tecnología de Inmersión Vertical (Tubo)",
+      "desc": "Gracias a sus cuerpos verticales largos y delgados, las bombas para bidones están diseñadas para llegar hasta el fondo de los IBC, bidones y contenedores de boca estrecha no estándar. Mientras el motor de la bomba se ubica en la parte superior (exterior), el rotor que empuja el fluido se encuentra en el extremo inferior (sumergido). Esto permite una transferencia segura de líquidos sin necesidad de volcar o inclinar bidones pesados.",
+      "imgAlt": "Sección Transversal del Tubo de Inmersión"
+    },
+    "features": {
+      "title": "Características de Diseño y Seguridad Laboral",
+      "items": [
+        "Elimina la Obligación de Levantar/Inclinar Bidones Pesados",
+        "Minimiza el Riesgo de Salpicaduras Químicas y Accidentes Laborales",
+        "Opciones de Motor Eléctrico o Neumático para Diferentes Viscosidades",
+        "Tubos de PP, PVDF, Aluminio o Acero Inoxidable AISI 316L",
+        "Cumplimiento ATEX (Ex-Proof) para Ácidos, Disolventes e Inflamables",
+        "Limpieza y Mantenimiento Rápidos Gracias a un Diseño Fácil de Desmontar"
+      ],
+      "imgAlt": "Conexión de Motor y Cuerpo de Bomba para Bidones"
+    },
+    "table": {
+      "title": "Selección de Material y Capacidad",
+      "note": "* Las longitudes de inmersión de la bomba deben seleccionarse entre 700 mm y 1200 mm de acuerdo con la profundidad del envase a utilizar (Bidón de 200L, IBC de 1000L, etc.).",
+      "headers": [
+        "APLICACIÓN / QUÍMICO",
+        "MATERIAL DEL TUBO",
+        "LONGITUD DE INMERSIÓN",
+        "VISCOSIDAD MÁX."
+      ],
+      "imgAlt": "Dibujo de Capacidad Técnica de Bomba para Bidones",
+      "rows": [
+        { "application": "Ácidos y Bases", "material": "PP (Polipropileno)", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Productos Químicos Corrosivos", "material": "PVDF", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Serie de Alimentos y Bebidas", "material": "Inoxidable AISI 316L", "length": "1000 mm / 1200 mm", "viscosity": "1.000 cPs", "highlight": "dark" },
+        { "application": "Disolventes Inflamables (ATEX)", "material": "Inoxidable + Ex-Proof", "length": "1000 mm / 1200 mm", "viscosity": "800 cPs", "highlight": "dark" },
+        { "application": "Fluidos Viscosos (Champú)", "material": "AISI 316L (Cavidad Progresiva)", "length": "1000 mm / 1200 mm", "viscosity": "100.000 cPs", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Qué densidad de líquidos se puede bombear con una bomba para bidones?",
+          "a": "Las bombas para bidones de tipo centrífugo estándar funcionan desde la consistencia del agua hasta aceites ligeros (máx. 1000 cPs). Para líquidos muy viscosos como cremas, miel o pastas, se deben preferir las bombas verticales de tipo 'cavidad progresiva'."
+        },
+        {
+          "q": "¿Es obligatorio un motor con aprobación ATEX (Ex-Proof)?",
+          "a": "Si el líquido que va a transferir es diluyente, alcohol, acetona o un producto petroquímico inflamable, se debe utilizar absolutamente un motor neumático o eléctrico con aprobación ATEX para evitar explosiones causadas por electricidad estática o chispas."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nuestras Aplicaciones Industriales",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Transferencia de Ácidos Químicos", "alt": "Bomba de Ácido" },
+        { "src": "galeri-2.webp", "label": "Vaciado de Tanques IBC", "alt": "Bomba de Transferencia IBC" },
+        { "src": "galeri-3.webp", "label": "Transferencia de Grado Alimentario", "alt": "Bomba Inoxidable Alimentaria" },
+        { "src": "galeri-4.webp", "label": "Extracción de Disolventes ATEX", "alt": "Bomba Ex-Proof" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Descargue nuestro catálogo que incluye tablas de resistencia química, opciones de motores (eléctrico/neumático) y curvas de caudal.",
+        "fileUrl": "/assets/documents/es/bombas-barriles-contenedores-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "PLANTA QUÍMICA",
+        "desc": "Bombas de bidones ATEX proporcionadas para la línea de recepción de materias primas de una instalación química internacional.",
+        "imgAlt": "Referencia Bomba de Bidón",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "¿Qué Material de Tubo Elegir?",
+        "desc": "PP, PVDF o Acero Inoxidable... Envíenos la ficha de seguridad (FDS) de su químico y determinaremos el material más seguro y duradero.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hola,%20me%20gustaria%20obtener%20informacion%20tecnica%20y%20precios%20sobre%20bombas%20para%20bidones%20e%20IBC.",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

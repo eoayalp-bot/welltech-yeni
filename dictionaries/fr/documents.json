@@ -1,0 +1,85 @@
+{
+  "documentsPage": {
+    "metadata": {
+      "title": "Qualité et Certifications | Welltech®",
+      "description": "Nos normes de qualité internationales, nos certifications et nos processus de contrôle non destructif (CND)."
+    },
+    "hero": {
+      "title": "Qualité et Certifications",
+      "desc": "Des processus d'ingénierie traçables et fiables à 100 %, conformes aux normes internationales."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "corporate": "Entreprise",
+      "current": "Qualité et Certifications"
+    },
+    "globalStandards": {
+      "title": "Normes de Production Mondiales",
+      "desc": "Chaque équipement fabriqué dans notre usine est inspecté et certifié conformément aux normes internationales (ISO, ASME, CE), de l'entrée des matières premières jusqu'au test final."
+    },
+    "ndt": {
+      "title": "Notre Capacité de Contrôle Non Destructif (CND)",
+      "items": {
+        "rt": "Contrôle Radiographique (RT)",
+        "pt": "Ressuage (PT)",
+        "ut": "Contrôle par Ultrasons (UT)",
+        "vt": "Contrôle Visuel (VT)",
+        "hydro": "Test de Pression Hydrostatique",
+        "roughness": "Mesure de Rugosité de Surface (Ra)"
+      }
+    },
+    "certifications": {
+      "title": "Nos Certifications Valides",
+      "note": "* Vous pouvez demander des copies des documents pertinents via le menu latéral ou auprès de notre département qualité.",
+      "tableHeaders": {
+        "standard": "STANDARD / NORMES",
+        "scope": "PORTÉE",
+        "status": "STATUT"
+      },
+      "scopes": {
+        "iso9001": "Système de Management de la Qualité",
+        "iso3834": "Exigences de Qualité en Soudage",
+        "ped": "Directive Équipements Sous Pression (DESP)",
+        "asme": "Normes de Production des Appareils à Pression",
+        "ce": "Déclaration de Conformité Européenne"
+      },
+      "status": {
+        "active": "Actif / Approuvé",
+        "compliant": "Production Conforme"
+      }
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Fournissez-vous des certificats de matériaux avec le produit ?",
+          "a": "Oui, les certificats EN 10204 3.1 pour tous les matériaux en acier inoxydable utilisés sont fournis dans le dossier technique du produit (Data Book)."
+        },
+        {
+          "q": "Vos procédures de soudage sont-elles approuvées ?",
+          "a": "Toute notre production soudée est réalisée par nos soudeurs certifiés et approuvés conformément aux procédures WPS et PQR/QMOS."
+        }
+      ]
+    },
+    "sidebar": {
+      "iso": {
+        "title": "Certificats ISO & CE",
+        "subtitle": "CERTIFICATS OFFICIELS",
+        "desc": "Vous pouvez télécharger les documents de gestion de la qualité et de qualification de production de notre usine en un seul clic.",
+        "fileUrl": "/assets/documents/fr/certificats-officiels-iso-ce.pdf",
+        "btn": "TÉLÉCHARGER LES CERTIFICATS"
+      },
+      "catalog": {
+        "title": "Catalogue Général",
+        "subtitle": "BULLETIN PRODUITS 2026",
+        "desc": "Téléchargez notre catalogue actuel pour découvrir l'ensemble de notre gamme de produits et notre capacité technique.",
+        "fileUrl": "/assets/documents/fr/catalogue-general-produits-2026.pdf",
+        "btn": "TÉLÉCHARGER LE CATALOGUE"
+      },
+      "department": {
+        "title": "Département Qualité",
+        "desc": "Contactez-nous pour vos exigences de qualité et vos demandes d'inspection par une tierce partie lors de vos projets spéciaux."
+      }
+    }
+  }
+}

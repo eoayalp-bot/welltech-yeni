@@ -1,0 +1,92 @@
+{
+  "homogenizersPage": {
+    "metadata": {
+      "title": "Homogenisatoren und High-Shear-Mischer | Welltech®",
+      "description": "Hochgeschwindigkeits-Industriemischer zur Erzeugung glatter und stabiler Produkte durch Zerkleinerung von Flüssigkeiten in verschiedenen Phasen (wie Wasser und Öl) auf Mikrometerebene."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "Homogenisatoren"
+    },
+    "hero": {
+      "title": "Homogenisatoren",
+      "desc": "Erhalten Sie vollständig homogene, glatte und sich nicht trennende (stabile) Emulsionen, indem Sie flüssig-flüssig oder flüssig-fest Gemische auf Mikrometerebene zerkleinern."
+    },
+    "technology": {
+      "title": "Rotor-Stator-Schertechnologie",
+      "desc": "Homogenisatoren sind Hochgeschwindigkeitssysteme (3.000 U/min), die ineinander unlösliche Flüssigkeiten bis auf Mikrometerebene zerkleinern. Die speziell entwickelte <strong>Rotor-Stator</strong>-Verzahnung reduziert die Partikelgröße, indem sie das Medium mit hoher Scherkraft (High Shear) durch einen sehr engen Spalt zwingt und so eine spätere Entmischung (Phasentrennung) der Mischung konsequent verhindert."
+    },
+    "features": {
+      "title": "Design- und Leistungsvorteile",
+      "items": [
+        "Hohe Scherkraft (High Shear) auf Mikrometerebene",
+        "Hohe Drehzahlkapazität bis zu 3.000 U/min",
+        "Produktspezifische (fein/grob) verzahnte Statoroptionen",
+        "In-Tank (Batch) oder Inline-Modelle",
+        "Hygienischer Edelstahl nach FDA- und 3A-Standards",
+        "Hohe Dichtigkeit und lange Lebensdauer durch Gleitringdichtung"
+      ],
+      "imgAlt": "Homogenisatormotor und Rotor-Stator-Struktur"
+    },
+    "table": {
+      "title": "Modelltypen und Anwendungsbereiche",
+      "note": "* Die Rotor-Stator-Verzahnungsstruktur (feiner, mittlerer, grober Partikeldurchgang) wird speziell nach der Viskosität Ihres Produkts und der gewünschten Endmikrongröße ausgewählt.",
+      "headers": [
+        "MODELLTYP",
+        "FUNKTIONSPRINZIP",
+        "ANWENDUNGSBEREICH"
+      ],
+      "imgAlt": "Technische Zeichnung Homogenisator",
+      "rows": [
+        { "type": "Inline (Durchlauf)", "principle": "Kontinuierliche Zirkulation und Scherung in der Rohrleitung", "usage": "Pharma und Chemie", "highlight": "dark" },
+        { "type": "Batch (Eintauch)", "principle": "Direkte Homogenisierung durch Eintauchen in die Flüssigkeit im Tank", "usage": "Kosmetik und Lebensmittel", "highlight": "dark" },
+        { "type": "Bogeneinbau (Bottom Entry)", "principle": "High-Shear-Einheit in den Tankboden integriert", "usage": "Saucen, Pasten und Cremes", "highlight": "dark" },
+        { "type": "Mehrstufig (Multi-Stage)", "principle": "Ultrafeine Mikron-Emulsion mit dreifachem Rotor-Stator", "usage": "Nanotechnologie (Pharma)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Was ist der Unterschied zwischen einem Homogenisator und einem normalen Mischer?",
+          "a": "Normale Mischer (Rührwerke) wälzen die Flüssigkeit nur um; Phasen wie Öl und Wasser trennen sich nach dem Stehenlassen wieder. Ein Homogenisator hingegen sorgt für eine dauerhafte und entmischungsfreie Emulsion, indem er die Partikel bis auf Mikrometerebene zerschneidet (schert)."
+        },
+        {
+          "q": "Sollte ich Inline- oder Batch-Typ wählen?",
+          "a": "Wenn Sie einen bestehenden Tank haben und durch Zirkulation homogenisieren möchten, wählen Sie Inline; wenn Sie direkt im Tank mischen und scheren möchten, sollten Sie den Batch-Typ (Eintauch) wählen."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Unsere industriellen Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Kosmetische Creme und Lotion", "alt": "Kosmetik-Homogenisator" },
+        { "src": "galeri-2.webp", "label": "Mayonnaise- und Ketchup-Produktion", "alt": "Lebensmittel-Homogenisator" },
+        { "src": "galeri-3.webp", "label": "Inline-Zirkulation", "alt": "Inline-Homogenisator" },
+        { "src": "galeri-4.webp", "label": "Pharma- und Sirup-Emulsion", "alt": "Mischer für die Pharmaindustrie" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie die technische Datei mit Rotor-Stator-Typen, Motordrehzahlen und Durchflusskapazitätstabellen herunter.",
+        "fileUrl": "/assets/documents/de/homogenisatoren-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "KOSMETIKANLAGE",
+        "desc": "Doppelwandige Creme-Homogenisierungsanlage, die wir für eine weltbekannte Kosmetikmarke hergestellt haben.",
+        "imgAlt": "Kosmetikmischer Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Die richtige Rotor-Stator-Wahl",
+        "desc": "Teilen Sie uns die Struktur des herzustellenden Produkts (z. B. Ketchup oder Lotion) mit, und wir wählen gemeinsam den am besten geeigneten Scherkopf aus.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Hallo,%20ich%20moechte%20technische%20Informationen%20und%20Preise%20zu%20Homogenisatoren%20erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

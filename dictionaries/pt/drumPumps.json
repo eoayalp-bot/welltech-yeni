@@ -1,0 +1,95 @@
+{
+  "drumPumpsPage": {
+    "metadata": {
+      "title": "Bombas de Tambor e IBC | Welltech®",
+      "description": "Bombas submersíveis portáteis de aço inoxidável para transferir com segurança ácidos, solventes, bases e produtos químicos de alta viscosidade de tambores e contêineres."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "pumps": "Bombas",
+      "current": "Bombas de Tambor"
+    },
+    "hero": {
+      "title": "Bombas de Tambor e Contêiner",
+      "desc": "A maneira mais rápida e segura de extrair fluidos de tambores industriais e tanques IBC. Design portátil, leve e ergonômico que elimina o risco de derramamentos."
+    },
+    "technology": {
+      "title": "Tecnologia de Imersão Vertical (Tubo)",
+      "desc": "Devido aos seus corpos verticais longos e estreitos, as bombas de tambor são projetadas para alcançar o fundo de IBCs, tambores e contêineres de boca estreita não padrão. Enquanto o motor da bomba está localizado na parte superior (exterior), o rotor que empurra o fluido está localizado na extremidade inferior (submersa). Isso permite a transferência segura de líquidos sem a necessidade de tombar ou inclinar tambores pesados.",
+      "imgAlt": "Seção Transversal do Tubo de Imersão"
+    },
+    "features": {
+      "title": "Características de Design e Segurança no Trabalho",
+      "items": [
+        "Elimina a Obrigação de Levantar/Inclinar Tambores Pesados",
+        "Minimiza o Risco de Respingos Químicos e Acidentes de Trabalho",
+        "Opções de Motor Elétrico ou Pneumático para Diferentes Viscosidades",
+        "Tubos de PP, PVDF, Alumínio ou Aço Inoxidável AISI 316L",
+        "Conformidade ATEX (Ex-Proof) para Ácidos, Solventes e Inflamáveis",
+        "Limpeza e Manutenção Rápidas Graças a um Design Fácil de Desmontar"
+      ],
+      "imgAlt": "Conexão do Motor e Corpo da Bomba de Tambor"
+    },
+    "table": {
+      "title": "Seleção de Material e Capacidade",
+      "note": "* Os comprimentos de imersão da bomba devem ser selecionados entre 700 mm e 1200 mm, de acordo com a profundidade da embalagem a ser usada (Tambor de 200L, IBC de 1000L, etc.).",
+      "headers": [
+        "APLICAÇÃO / PRODUTO QUÍMICO",
+        "MATERIAL DO TUBO",
+        "COMPRIMENTO DE IMERSÃO",
+        "VISCOSIDADE MÁX."
+      ],
+      "imgAlt": "Desenho de Capacidade Técnica da Bomba de Tambor",
+      "rows": [
+        { "application": "Ácidos e Bases", "material": "PP (Polipropileno)", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Produtos Químicos Corrosivos", "material": "PVDF", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Série de Alimentos e Bebidas", "material": "Inox AISI 316L", "length": "1000 mm / 1200 mm", "viscosity": "1.000 cPs", "highlight": "dark" },
+        { "application": "Solventes Inflamáveis (ATEX)", "material": "Inox + Ex-Proof", "length": "1000 mm / 1200 mm", "viscosity": "800 cPs", "highlight": "dark" },
+        { "application": "Fluidos Viscosos (Xampu)", "material": "AISI 316L (Cavidade Progressiva)", "length": "1000 mm / 1200 mm", "viscosity": "100.000 cPs", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "Qual densidade de líquidos pode ser bombeada com uma bomba de tambor?",
+          "a": "As bombas de tambor do tipo centrífuga padrão funcionam desde a consistência da água até óleos leves (máx. 1000 cPs). Para líquidos muito viscosos, como cremes, mel ou pastas, devem ser preferidas as bombas verticais do tipo 'cavidade progressiva'."
+        },
+        {
+          "q": "É obrigatório um motor com aprovação ATEX (Ex-Proof)?",
+          "a": "Se o líquido que você vai transferir for diluente, álcool, acetona ou um produto petroquímico inflamável, um motor pneumático ou elétrico com aprovação ATEX deve ser usado obrigatoriamente para evitar explosões causadas por eletricidade estática ou faíscas."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nossas Aplicações Industriais",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Transferência de Ácidos Químicos", "alt": "Bomba de Ácido" },
+        { "src": "galeri-2.webp", "label": "Esvaziamento de Tanques IBC", "alt": "Bomba de Transferência IBC" },
+        { "src": "galeri-3.webp", "label": "Transferência de Grau Alimentício", "alt": "Bomba Inoxidável Alimentícia" },
+        { "src": "galeri-4.webp", "label": "Extração de Solventes ATEX", "alt": "Bomba Ex-Proof" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Baixe nosso catálogo que inclui tabelas de resistência química, opções de motores (elétrico/pneumático) e curvas de vazão.",
+        "fileUrl": "/assets/documents/pt/bombas-tambores-recipientes-fichas-tec.pdf",
+        "btn": "BAIXAR ESPECIFICAÇÃO"
+      },
+      "reference": {
+        "badge": "INDÚSTRIA QUÍMICA",
+        "desc": "Bombas de tambor ATEX fornecidas para a linha de recebimento de matérias-primas de uma instalação química internacional.",
+        "imgAlt": "Referência de Bomba de Tambor",
+        "link": "IR PARA O PROJETO"
+      },
+      "cta": {
+        "title": "Qual Material do Tubo Escolher?",
+        "desc": "PP, PVDF ou Aço Inoxidável... Envie-nos a ficha de segurança (FISPQ) do seu produto químico e determinaremos o material mais seguro e durável.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Ola,%20gostaria%20de%20obter%20informacoes%20tecnicas%20e%20precos%20sobre%20bombas%20de%20tambor%20e%20IBC.",
+        "btn": "CONSULTAR UM ENGENHEIRO"
+      }
+    }
+  }
+}

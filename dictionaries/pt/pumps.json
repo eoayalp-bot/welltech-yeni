@@ -1,0 +1,48 @@
+{
+  "pumpsPage": {
+    "metadata": {
+      "title": "Bombas Higiênicas Industriais | Welltech®",
+      "description": "Modelos de bombas centrífugas, de lóbulos, autoescorvantes e de diafragma pneumático de aço inoxidável de alta eficiência para as indústrias alimentícia, farmacêutica e química."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "current": "Bombas Industriais"
+    },
+    "hero": {
+      "title": "Bombas de Processo Industriais",
+      "desc": "Transferência de fluido com perda zero e higiene máxima (FDA/3A). Produtos de alta engenharia projetados para leite, mel, chocolate e produtos químicos agressivos."
+    },
+    "categories": [
+      {
+        "title": "Bombas Centrífugas",
+        "desc": "Sistemas padrão ou de resfriamento autônomo projetados para transferência higiênica, contínua e de alta vazão de fluidos de baixa viscosidade como leite, suco e água."
+      },
+      {
+        "title": "Bombas de Deslocamento Positivo",
+        "desc": "Bombas de lóbulos que fornecem uma transferência precisa de produtos densos (alta viscosidade), como creme, mel, xampu ou pasta de tomate, sem alterar sua estrutura celular."
+      },
+      {
+        "title": "Bombas Autoescorvantes",
+        "desc": "Poderosas e compactas unidades de transferência de líquido que podem evacuar líquidos espumosos ou contendo gás e sugar do fundo do tanque sem problemas de entrada de ar."
+      },
+      {
+        "title": "Bombas de Tambor e Contêiner",
+        "desc": "Bombas portáteis, leves e de alta segurança para a extração de ácidos, solventes ou aditivos alimentares de tambores industriais e tanques IBC."
+      },
+      {
+        "title": "Bombas Pneumáticas de Diafragma",
+        "desc": "Bombas pneumáticas que operam sem eletricidade, que podem ser usadas com segurança em ambientes explosivos/inflamáveis (ATEX) e na transferência de fluidos que contêm partículas sólidas."
+      },
+      {
+        "title": "Bombas de Cavidade Progressiva (Helicoidais)",
+        "desc": "Bombas de fuso helicoidal usadas para empurrar continuamente polpa de frutas, coalhada de queijo, lodo de esgoto ou massa com um alto teor de sólidos nas tubulações."
+      }
+    ],
+    "viewModels": "DETALHES DO PRODUTO",
+    "cta": {
+      "title": "Escolher a Bomba Certa é uma Engenharia Crítica",
+      "desc": "Calculando a viscosidade, a temperatura do seu fluido e as perdas de carga da sua linha, vamos escolher juntos a bomba mais precisa (livre de cavitação) para o seu processo.",
+      "btn": "CONSULTE NOSSA ENGENHARIA"
+    }
+  }
+}

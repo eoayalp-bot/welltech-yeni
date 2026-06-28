@@ -11,17 +11,6 @@ function getLink(physicalKey: string, lang: string): string {
 export default function Footer({ lang, dict }: { lang: string; dict: any }) {
   const currentYear = new Date().getFullYear();
 
-  const footerDesc = dict?.footer?.description || "Uluslararası standartlarda paslanmaz çelik endüstriyel tanklar, hijyenik pompalar ve proses ekipmanları üreticisi.";
-  const footerProducts = dict?.footer?.products || "Ürünler";
-  const footerLocations = dict?.footer?.locations || "Lokasyonlar";
-  const footerHqTitle = dict?.footer?.hq_title || "Genel Merkez";
-  const footerFactoryTitle = dict?.footer?.factory_title || "İmalathane";
-  const footerCopyright = dict?.footer?.copyright || "Tüm Hakları Saklıdır.";
-  
-  const navTanks = dict?.nav?.tanks || "Paslanmaz Tanklar";
-  const navMachines = dict?.nav?.machines || "Proses Sistemleri";
-  const navPumps = dict?.nav?.pumps || "Hijyenik Pompalar";
-
   return (
     <footer className="bg-gray-950 text-gray-300 pt-16 pb-8 border-t-[6px] border-[#E35205]">
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
@@ -33,12 +22,12 @@ export default function Footer({ lang, dict }: { lang: string; dict: any }) {
             </h3>
           </Link>
           <p className="text-sm text-gray-500 leading-relaxed">
-            {footerDesc}
+            {dict.description}
           </p>
 
           <div className="pt-5 mt-2 border-t border-gray-800/80">
             <span className="block text-[10px] text-gray-500 tracking-widest uppercase mb-2 font-bold">
-              {lang === 'tr' ? 'BİR İNOKSTEK KURULUŞUDUR' : 'A BRAND OF INOKSTEK'}
+              {dict.inokstek}
             </span>
             <a 
               href="https://www.inokstek.com" 
@@ -59,22 +48,22 @@ export default function Footer({ lang, dict }: { lang: string; dict: any }) {
 
         <div className="space-y-4">
           <h4 className="text-white font-bold tracking-widest text-sm mb-4">
-            {footerProducts}
+            {dict.products}
           </h4>
           <ul className="space-y-2 text-sm">
             <li>
               <Link href={getLink('paslanmaz-tanklar', lang)} className="hover:text-[#E35205] transition-colors flex items-center gap-2">
-                <Database className="w-4 h-4" /> {navTanks}
+                <Database className="w-4 h-4" /> {dict.tanks}
               </Link>
             </li>
             <li>
               <Link href={getLink('proses-sistemleri', lang)} className="hover:text-[#E35205] transition-colors flex items-center gap-2">
-                <Activity className="w-4 h-4" /> {navMachines}
+                <Activity className="w-4 h-4" /> {dict.machines}
               </Link>
             </li>
             <li>
               <Link href={getLink('pompalar', lang)} className="hover:text-[#E35205] transition-colors flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4" /> {navPumps}
+                <ShieldCheck className="w-4 h-4" /> {dict.pumps}
               </Link>
             </li>
           </ul>
@@ -82,21 +71,14 @@ export default function Footer({ lang, dict }: { lang: string; dict: any }) {
 
         <div className="space-y-4">
           <h4 className="text-white font-bold tracking-widest text-sm mb-4">
-            {footerLocations}
+            {dict.locations}
           </h4>
           <ul className="space-y-4 text-sm">
             <li className="flex items-start gap-3">
               <MapPin className="w-5 h-5 text-[#E35205] shrink-0" />
               <div>
-                <strong className="text-white block mb-1">{footerHqTitle}:</strong>
+                <strong className="text-white block mb-1">{dict.hq_title}:</strong>
                 <span>Organize Sanayi Bölgesi, Kemalpaşa OSB, 10. Sk. No:6, 35730<br />Kemalpaşa / İZMİR / TÜRKİYE</span>
-              </div>
-            </li>
-            <li className="flex items-start gap-3">
-              <MapPin className="w-5 h-5 text-[#E35205] shrink-0" />
-              <div>
-                <strong className="text-white block mb-1">{footerFactoryTitle}:</strong>
-                <span>Ulucak İstiklal, Gazi Blv. no:169,<br />35735 Kemalpaşa/İzmir</span>
               </div>
             </li>
             <li className="flex items-center gap-3 pt-2">
@@ -112,7 +94,7 @@ export default function Footer({ lang, dict }: { lang: string; dict: any }) {
 
       <div className="max-w-7xl mx-auto px-6 pt-6 border-t border-gray-800/50 flex flex-col md:flex-row justify-between items-center gap-4">
         <p className="text-xs text-gray-500">
-          © {currentYear} Welltech® International. {footerCopyright}
+          © {currentYear} Welltech® International. {dict.copyright}
         </p>
         <p className="text-xs text-gray-500 flex items-center gap-1">
           Designed & Coded by

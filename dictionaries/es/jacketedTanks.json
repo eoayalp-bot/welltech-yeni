@@ -1,0 +1,93 @@
+{
+  "jacketedTanksPage": {
+    "metadata": {
+      "title": "Tanques Encamisados con Calefacción y Refrigeración | Welltech®",
+      "description": "Tanques de acero inoxidable encamisados y aislados, diseñados para controlar con precisión la temperatura del producto en procesos químicos, alimentarios y farmacéuticos."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "process": "Sistemas de Proceso",
+      "current": "Tanques Encamisados"
+    },
+    "hero": {
+      "title": "Tanques Encamisados (Calentamiento/Enfriamiento)",
+      "desc": "Reactores y tanques con tecnologías de medio tubo, camisa alveolar (roll-bond) y doble pared que ofrecen una alta eficiencia de transferencia térmica para proporcionar el control de temperatura preciso que requiere su proceso."
+    },
+    "technology": {
+      "title": "Tecnologías de Transferencia de Calor y Camisas",
+      "desc": "Los tanques encamisados son sistemas que tienen una cavidad secundaria (camisa) integrada en su cuerpo para calentar o enfriar el fluido en su interior. La <strong>Ingeniería Welltech®</strong> calcula el área de superficie óptima según la velocidad de calentamiento/enfriamiento de su proceso y el fluido que se utilizará (vapor, aceite térmico, glicol, agua helada). Mientras que el <strong>Medio tubo (Serpentín)</strong> es ideal para vapor de alta presión, las camisas <strong>Roll-bond (Dimple Jacket / Alveolar)</strong> brindan un rendimiento excelente en aplicaciones de enfriamiento y calentamiento homogéneos."
+    },
+    "features": {
+      "title": "Ventajas de Diseño y Aislamiento",
+      "items": [
+        "Diseños Especiales de Camisa que Proporcionan Distribución Homogénea de Calor",
+        "Soldaduras Probadas para Vapor de Alta Presión y Aceite Térmico",
+        "Aislamiento 100% Eficiente Energéticamente con Poliuretano o Lana de Roca",
+        "Revestimiento Exterior Inoxidable Totalmente Soldado sobre el Aislamiento",
+        "Conexiones de Rotura de Puente Térmico (Thermal Break) para Evitar Pérdida de Calor",
+        "Compatibilidad con Termopares Precisos PT-100 y Automatización de Control Térmico"
+      ],
+      "imgAlt": "Aislamiento de Tanque Encamisado y Transferencia de Calor"
+    },
+    "table": {
+      "title": "Tipos de Camisas y Aplicaciones Técnicas",
+      "note": "* La presión de funcionamiento y los espesores de la chapa de la camisa se calculan estáticamente según las normas (ASME Sección VIII o EN 13445).",
+      "headers": [
+        "TIPO DE CAMISA",
+        "PROPÓSITO DE USO",
+        "FLUIDO DE TRANSFERENCIA TÉRMICA",
+        "PRESIÓN MÁXIMA"
+      ],
+      "imgAlt": "Dibujo Técnico de Tanque Encamisado",
+      "rows": [
+        { "type": "Medio Tubo (Serpentín)", "purpose": "Calentamiento a Alta Presión", "fluid": "Vapor / Aceite Térmico", "pressure": "25 Bar", "highlight": "orange" },
+        { "type": "Doble Pared (Double Wall)", "purpose": "Calentamiento/Enfriamiento Atmosférico", "fluid": "Agua Caliente / Agua Fría", "pressure": "3 Bar", "highlight": "dark" },
+        { "type": "Alveolar (Roll-Bond / Dimple)", "purpose": "Enfriamiento/Calentamiento Rápido Homogéneo", "fluid": "Agua Helada / Glicol / Vapor", "pressure": "15 Bar", "highlight": "dark" },
+        { "type": "Eléctrica (Resistencia)", "purpose": "Calentamiento Autónomo (Sin Caldera)", "fluid": "Aceite Térmico / Agua", "pressure": "Atmosférico", "highlight": "dark" }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Cuál es la diferencia entre una camisa de Medio Tubo (Serpentín) y una de Doble Pared?",
+          "a": "Una camisa de medio tubo consiste en tuberías enrolladas y soldadas alrededor del cuerpo. Su resistencia a la alta presión (por ejemplo, 10 bares de vapor) es excelente. Una doble pared es una segunda chapa que rodea completamente el tanque, más adecuada para la circulación de agua a baja presión (atmosférica)."
+        },
+        {
+          "q": "¿Cómo se elige el material de aislamiento?",
+          "a": "Mientras se usa espuma de Poliuretano para evitar la condensación en los procesos de enfriamiento (chiller), en los procesos de calentamiento a alta temperatura (vapor, aceite térmico) se prefiere el aislamiento incombustible de Lana de Roca o Lana Cerámica."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nuestras Aplicaciones Industriales",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Reactor Calentado por Vapor", "alt": "Reactor con Camisa de Vapor" },
+        { "src": "galeri-2.webp", "label": "Tanque Enfriado por Agua Helada (Chiller)", "alt": "Tanque con Camisa de Enfriamiento" },
+        { "src": "galeri-3.webp", "label": "Tanque de Fusión con Aceite Térmico", "alt": "Tanque de Fusión" },
+        { "src": "galeri-4.webp", "label": "Mezclador Aislado con Resistencia", "alt": "Tanque Calentado Eléctricamente" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Descargue nuestro catálogo que incluye cálculos de superficie de transferencia de calor, pruebas de presión de la camisa y detalles de aislamiento.",
+        "fileUrl": "/assets/documents/es/tanques-camisa-climatizacion-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "PLANTA QUÍMICA",
+        "desc": "Línea de tanques de polimerización de 20.000 L de capacidad con enfriamiento por glicol y aislamiento de poliuretano.",
+        "imgAlt": "Referencia de Tanque Encamisado",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "¿Qué Tipo de Camisa?",
+        "desc": "Infórmenos de su tiempo de reacción objetivo y de su fluido de calentamiento/enfriamiento, y elegiremos juntos el sistema de camisa más seguro.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Hola,%20me%20gustaria%20obtener%20informacion%20tecnica%20y%20precios%20sobre%20tanques%20encamisados%20(calefaccion/refrigeracion).",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

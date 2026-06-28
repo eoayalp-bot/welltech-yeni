@@ -1,0 +1,48 @@
+{
+  "pumpsPage": {
+    "metadata": {
+      "title": "Industrial Hygienic Pumps | Welltech®",
+      "description": "High-efficiency stainless steel centrifugal, lobe, self-priming, and air-operated diaphragm pump models for the food, pharmaceutical, and chemical industries."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Industrial Pumps"
+    },
+    "hero": {
+      "title": "Industrial Process Pumps",
+      "desc": "Zero loss and maximum hygiene (FDA/3A) in fluid transfer. High engineering products designed for milk, honey, chocolate, and aggressive chemicals."
+    },
+    "categories": [
+      {
+        "title": "Centrifugal Pumps",
+        "desc": "Standard or self-cooling systems designed for the high-flow, continuous, and hygienic transfer of low-viscosity fluids like milk, juice, and water."
+      },
+      {
+        "title": "Positive Displacement Pumps",
+        "desc": "Lobe pumps that provide precise transfer of dense (high viscosity) products like cream, honey, shampoo, or tomato paste without disrupting their particulate structure."
+      },
+      {
+        "title": "Self-Priming Pumps",
+        "desc": "Powerful and compact liquid transfer units that can evacuate foamy or gas-containing liquids and suck from tank bottoms without air-lock issues."
+      },
+      {
+        "title": "Drum and Container Pumps",
+        "desc": "Portable, lightweight, and high-security pumps for extracting acids, solvents, or food additives from industrial drums and IBC tanks."
+      },
+      {
+        "title": "Air Operated Diaphragm Pumps",
+        "desc": "Non-electric pneumatic pumps that can be safely used in explosive/flammable (ATEX) environments and for transferring fluids containing solid particles."
+      },
+      {
+        "title": "Progressive Cavity (Monopump) Pumps",
+        "desc": "Progressive cavity pumps used for the continuous pushing of fruit pulp, cheese curd, treatment sludge, or dough with high solid content through pipelines."
+      }
+    ],
+    "viewModels": "PRODUCT DETAILS",
+    "cta": {
+      "title": "Choosing the Right Pump is Critical Engineering",
+      "desc": "Let's choose the most accurate (cavitation-free) pump for your process together by calculating the viscosity, temperature of your fluid, and the pressure losses of your line.",
+      "btn": "CONSULT OUR ENGINEERS"
+    }
+  }
+}

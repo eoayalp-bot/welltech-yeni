@@ -6,7 +6,7 @@ import { getLocalizedUrl } from '../../../dictionaries/routes';
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
-  const dict = await getDictionary(resolvedParams.lang);
+  const dict = await getDictionary(resolvedParams.lang, 'about');
 
   return {
     title: dict.aboutPage.metadata.title,
@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 export default async function AboutPage({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+  const dict = await getDictionary(lang, 'about');
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -56,7 +56,7 @@ export default async function AboutPage({ params }: { params: Promise<{ lang: st
         </div>
         
         <div className="relative z-20 max-w-4xl mx-auto w-full mt-16">
-          <div className="flex items-center justify-center gap-2 text-[10px] md:text-xs font-bold tracking-widest text-blue-200 mb-6">
+          <div className="flex items-center justify-center gap-2 text-[10px] md:text-xs font-bold tracking-widest text-blue-200 mb-6 drop-shadow-md">
             <Link href={`/${lang}`} className="hover:text-white transition-colors">{dict.aboutPage.breadcrumb.home}</Link>
             <ChevronRight className="w-3 h-3" />
             <span className="text-[#E35205]">{dict.aboutPage.breadcrumb.corporate}</span>
@@ -94,30 +94,36 @@ export default async function AboutPage({ params }: { params: Promise<{ lang: st
               </div>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-              <div className="relative h-64 sm:h-80 w-full overflow-hidden rounded-xl shadow-md group">
+            {/* YENİ ÜST ÜSTE BİNEN (OVERLAPPING) ASİMETRİK GÖRSEL TASARIMI */}
+            <div className="relative h-[450px] sm:h-[550px] w-full mt-10 lg:mt-0">
+              
+              {/* Arkadaki Dev Ana Fabrika Görseli */}
+              <div className="absolute top-0 right-0 w-[85%] h-[75%] overflow-hidden rounded-2xl shadow-2xl group border border-gray-100 z-10">
                 <Image 
-                  src="/assets/images/kurumsal/fabrika-1.webp" 
+                  src="/assets/images/kurumsal/welltech_fabirka.webp" 
                   alt="Welltech Fabrika İçi Üretim" 
                   fill 
-                  className="object-cover transition-transform duration-700 group-hover:scale-105" 
-                  sizes="(max-width: 768px) 100vw, 50vw" 
+                  className="object-cover transition-transform duration-1000 group-hover:scale-105" 
+                  sizes="(max-width: 1024px) 100vw, 50vw" 
                 />
               </div>
-              <div className="relative h-64 sm:h-80 w-full overflow-hidden rounded-xl shadow-md group sm:mt-12">
+
+              {/* Öne Çıkan, Kalın Çerçeveli İkinci Görsel (Sol Alta Biniyor) */}
+              <div className="absolute bottom-0 left-0 w-[65%] h-[55%] overflow-hidden rounded-2xl shadow-2xl group border-[8px] border-white z-20">
                 <Image 
-                src="/assets/images/kurumsal/fabrika-2.webp" 
-                alt="Mühendislik ve Tasarım Ofisi" 
-                fill 
-                className="object-cover transition-transform duration-700 group-hover:scale-105" 
-                sizes="(max-width: 768px) 100vw, 50vw" 
+                  src="/assets/images/kurumsal/hakkimizda-banner.webp" 
+                  alt="Welltech Fabrika Dış Görünüm" 
+                  fill 
+                  className="object-cover transition-transform duration-1000 group-hover:scale-105" 
+                  sizes="(max-width: 1024px) 100vw, 33vw" 
                 />
               </div>
+
             </div>
 
           </div>
 
-          <div className="mt-20 relative h-[60vh] min-h-[400px] w-full overflow-hidden rounded-2xl shadow-2xl group cursor-pointer border border-gray-100">
+          <div className="mt-24 relative h-[60vh] min-h-[400px] w-full overflow-hidden rounded-2xl shadow-2xl group cursor-pointer border border-gray-100">
              <Image 
                 src="/assets/images/kurumsal/6-kita-global-sevkiyat.webp" 
                 alt="İzmir'den 6 Kıta'ya Global Mühendislik Sevkiyatı" 
@@ -125,7 +131,6 @@ export default async function AboutPage({ params }: { params: Promise<{ lang: st
                 className="object-cover transition-transform duration-[1500ms] group-hover:scale-105" 
                 sizes="100vw" 
              />
-             <div className="absolute inset-0 bg-black/50 z-10"></div>
              <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/30 to-transparent z-10 opacity-70 group-hover:opacity-90 transition-opacity"></div>
              
              <div className="absolute bottom-0 left-0 p-8 lg:p-12 z-20 w-full max-w-xl">

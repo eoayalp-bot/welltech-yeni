@@ -1,0 +1,95 @@
+{
+  "diaphragmPumpsPage": {
+    "metadata": {
+      "title": "Bombas Pneumáticas de Diafragma | Welltech®",
+      "description": "Bombas pneumáticas de diafragma de aço inoxidável de alta sucção, sem necessidade de eletricidade, para ambientes explosivos e inflamáveis (ATEX)."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "pumps": "Bombas",
+      "current": "Bombas de Diafragma"
+    },
+    "hero": {
+      "title": "Bombas Pneumáticas de Diafragma",
+      "desc": "Garantia de zero travamento em fluidos com partículas sólidas e de alta viscosidade, com aprovação ATEX graças ao seu princípio de funcionamento pneumático (sem eletricidade)."
+    },
+    "safety": {
+      "title": "Máxima Segurança (ATEX)",
+      "desc": "O princípio de funcionamento acionado por ar (pneumático), que não inclui um motor elétrico, torna essas bombas a opção única e mais segura na transferência de solventes inflamáveis e produtos químicos explosivos. Pode tolerar o bombeamento de líquidos com partículas sólidas ou o funcionamento a seco (sem líquido) sem falhar. Fornece produção ininterrupta e segura graças ao seu sistema de válvula de ar antitravamento (non-stalling).",
+      "imgAlt": "Seção Transversal da Bomba Pneumática Aprovada pela ATEX"
+    },
+    "features": {
+      "title": "Vantagens de Projeto e Equipamento",
+      "items": [
+        "Projeto Totalmente Seguro com Aprovação ATEX (Ex-Proof)",
+        "Resistência Total ao Funcionamento a Seco",
+        "Capacidade de Transferir Partículas Sólidas sem Travar",
+        "Sistema de Válvula Pneumática Antitravamento (Non-Stalling)",
+        "Baixo Custo Operacional Devido à Operação Sem Eletricidade",
+        "Fácil Instalação, Baixa Necessidade de Peças de Reposição e Manutenção"
+      ],
+      "imgAlt": "Mecanismo da Válvula da Bomba de Diafragma"
+    },
+    "table": {
+      "title": "Curva de Desempenho e Tabela de Capacidade",
+      "note": "* Os valores de fluido fornecidos são calculados com base na água (1 cPs). O tamanho da bomba pode variar em líquidos de alta viscosidade e com partículas.",
+      "headers": [
+        "TAMANHO DA CONEXÃO",
+        "VAZÃO MÁX. (L/min)",
+        "PRESSÃO MÁX. DE TRABALHO",
+        "PASSAGEM DE PARTÍCULAS (mm)"
+      ],
+      "imgAlt": "Desenho Técnico da Bomba de Diafragma",
+      "rows": [
+        { "size": "1/2\"", "flow": "55 L/min", "pressure": "8 Bar", "particle": "2,5 mm", "highlight": "dark" },
+        { "size": "1\"", "flow": "160 L/min", "pressure": "8 Bar", "particle": "3,5 mm", "highlight": "dark" },
+        { "size": "1 1/2\"", "flow": "350 L/min", "pressure": "8 Bar", "particle": "6,0 mm", "highlight": "dark" },
+        { "size": "2\"", "flow": "550 L/min", "pressure": "8 Bar", "particle": "6,5 mm", "highlight": "dark" },
+        { "size": "3\"", "flow": "900 L/min", "pressure": "8 Bar", "particle": "9,5 mm", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "Como o material do diafragma é escolhido?",
+          "a": "Os diafragmas de Teflon (PTFE), Santoprene, NBR ou Hytrel são selecionados de acordo com o nível de pH (acidez) e a temperatura do fluido que a bomba irá transferir."
+        },
+        {
+          "q": "Qual é a vantagem da bomba funcionar com ar?",
+          "a": "Por não precisar da rede elétrica, o risco de explosão é zero. Além disso, quando a válvula de descarga é fechada, a bomba para por si só e não requer equipamentos adicionais de proteção caros, como válvulas de alívio (by-pass)."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Aplicações de Bombas de Diafragma",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Transferência de Solventes e Diluentes", "alt": "Bomba de Solvente ATEX" },
+        { "src": "galeri-2.webp", "label": "Tratamento e Lodo", "alt": "Bomba de Lodo" },
+        { "src": "galeri-3.webp", "label": "Bomba de Aditivos Alimentares", "alt": "Bomba de Diafragma em Inox" },
+        { "src": "galeri-4.webp", "label": "Transferência de Tinta e Resina", "alt": "Bomba de Tinta" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Você pode baixar as tabelas de compatibilidade de materiais do diafragma, gráficos de consumo de ar (SCFM) e certificados ATEX.",
+        "fileUrl": "/assets/documents/pt/bombas-pneumaticas-diafragma-fichas-tec.pdf",
+        "btn": "BAIXAR ESPECIFICAÇÃO"
+      },
+      "reference": {
+        "badge": "INDÚSTRIA QUÍMICA",
+        "desc": "Uma linha de bombas de diafragma de 40 unidades que instalamos para uma fábrica internacional de produção de tintas.",
+        "imgAlt": "Referência de Bomba Pneumática de Diafragma",
+        "link": "IR PARA O PROJETO"
+      },
+      "cta": {
+        "title": "Qual Diafragma é Adequado?",
+        "desc": "PTFE, NBR ou Santoprene? Envie-nos a ficha de segurança (FISPQ) do seu fluido e selecionaremos o material de diafragma mais durável.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Ola,%20gostaria%20de%20obter%20informacoes%20tecnicas%20e%20precos%20sobre%20bombas%20pneumaticas%20de%20diafragma.",
+        "btn": "CONSULTAR UM ENGENHEIRO"
+      }
+    }
+  }
+}

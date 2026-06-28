@@ -1,0 +1,101 @@
+{
+  "milkTanksPage": {
+    "metadata": {
+      "title": "Milk and Food Tanks | Welltech®",
+      "description": "Ultra-hygienic stainless steel milk cooling, storage, and process tanks fully compliant with food safety standards (FDA/GMP)."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "tanks": "Stainless Tanks",
+      "current": "Milk Tanks"
+    },
+    "hero": {
+      "title": "Milk and Food Tanks",
+      "desc": "Zero-roughness surfaces preventing bacterial growth, high-insulation polyurethane, and stainless engineering suitable for food safety."
+    },
+    "engineering": {
+      "title": "Ultra-Hygienic Engineering (FDA/GMP)",
+      "desc": "The storage of milk, fruit juice, and delicate food products requires maximum hygiene. Welltech® milk tanks are designed to leave no blind spots (dead volume) inside. Weld seams are ground to a smoothness of Ra < 0.6 microns. Thus, there are no surfaces left for bacteria to cling to, and excellent cleaning is ensured thanks to integrated CIP (Clean-In-Place) balls."
+    },
+    "features": {
+      "title": "Design and Cooling Equipment",
+      "items": {
+        "1": "Food-Grade AISI 304 or 316L Stainless Steel",
+        "2": "100% Washable (CIP) Inner Design with No Blind Spots",
+        "3": "High-Density CFC-Free Polyurethane Insulation",
+        "4": "Rollbond (Laser Welded) or Half-Pipe Cooling/Heating Jacket",
+        "5": "Low-Speed Scraper Agitators for Delicate Products",
+        "6": "Food-Grade (EPDM/Silicone) Sealing Gaskets"
+      }
+    },
+    "capacityTable": {
+      "title": "Standard Production Capacities",
+      "note": "* Polyurethane insulation thicknesses (between 50mm - 100mm) can be optimized according to ambient temperature and product holding time.",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIAMETER (Ø mm)",
+        "insulation": "INSULATION",
+        "material": "MATERIAL"
+      },
+      "insulationTypes": {
+        "50": "50 mm Polyurethane",
+        "60": "60 mm Polyurethane",
+        "80": "80 mm Polyurethane",
+        "100": "100 mm Polyurethane"
+      },
+      "customRow": "For this capacity and larger milk silos, On-Site installation is provided."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How well does the insulation in milk tanks maintain heat?",
+          "a": "Thanks to the high-density (40-42 kg/m³) polyurethane insulation we use, even if the outside temperature is 30°C, the product temperature inside the tank increases by a maximum of 1°C in 24 hours."
+        },
+        {
+          "q": "How is the cleaning (CIP) of the tanks ensured?",
+          "a": "Thanks to the 360° rotating CIP spraying balls placed at the top of the tanks, the pressurized washing liquid homogeneously contacts all inner surfaces of the tank, offering a zero bacteria guarantee."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Our Dairy Industry Projects",
+      "p1": {
+        "title": "Raw Milk Silo",
+        "alt": "High Volume Raw Milk Storage Silo"
+      },
+      "p2": {
+        "title": "Pasteurized Milk Tank",
+        "alt": "Insulated Pasteurized Milk Storage Tank"
+      },
+      "p3": {
+        "title": "Ayran / Kefir Process",
+        "alt": "Ayran and Kefir Process Tank with Special Agitator"
+      },
+      "p4": {
+        "title": "Whey Tank",
+        "alt": "Stainless Whey Storage"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download the specification file containing cooling jacket designs, insulation densities, and hygiene standards.",
+        "fileUrl": "/assets/documents/en/mixer-tanks-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "DAIRY FACILITY PROJECT",
+        "desc": "Storage line we installed for a national dairy processing facility with a daily capacity of 1,000 tons.",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "Need a Special Agitator?",
+        "desc": "Let's project our special agitator systems with Teflon scrapers for viscous foods like yogurt, cream, or honey.",
+        "whatsappMsg": "Hello, I would like to get technical information and pricing regarding your Milk and Food Tanks production.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

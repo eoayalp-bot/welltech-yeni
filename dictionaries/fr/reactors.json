@@ -1,0 +1,82 @@
+{
+  "reactorsPage": {
+    "metadata": {
+      "title": "Réacteurs Chimiques et Cuves de Process | Welltech®",
+      "description": "Réacteurs en acier inoxydable à usage intensif qui contrôlent en toute sécurité les réactions chimiques se produisant sous haute pression, sous vide et à des températures extrêmes."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "process": "Systèmes de Process",
+      "current": "Réacteurs Chimiques"
+    },
+    "hero": {
+      "title": "Réacteurs Chimiques",
+      "desc": "Systèmes à usage intensif qui contrôlent les réactions se produisant dans des conditions de processus sévères (haute pression, vide, chaleur extrême) avec une sécurité et une précision maximales."
+    },
+    "technology": {
+      "title": "Technologie de Réaction et de Contrôle",
+      "desc1": "Les réacteurs industriels sont des cuves de process spéciales, résistantes à la pression, conçues pour que les réactions chimiques (polymérisation, estérification, condensation, etc.) se déroulent à une vitesse optimale et en toute sécurité.",
+      "desc2": "<strong>Les Réacteurs Welltech®</strong> sont équipés de serpentins en demi-tube ou de doubles enveloppes pour maîtriser les réactions <strong>exothermiques (dégagement de chaleur)</strong> ou <strong>endothermiques (absorption de chaleur)</strong> selon le type de réaction. Une production sans risque est assurée grâce à des réducteurs spéciaux adaptés à la structure de la masse interne et des systèmes d'automatisation certifiés ATEX.",
+      "imgAlt": "Technologie de Process du Réacteur Chimique"
+    },
+    "features": {
+      "title": "Conception et Équipements de Sécurité",
+      "items": [
+        "Corps Haute Pression approuvé TÜV et ASME Section VIII",
+        "Étanchéité Totale grâce aux Garnitures Mécaniques et Magnétiques",
+        "Panneau Moteur et Automatisation Conforme Ex-Proof (ATEX)",
+        "Systèmes de Double Enveloppe à Haut Rendement pour Chauffage/Refroidissement",
+        "Capacité d'Abaissement du Point d'Ébullition Sous Vide",
+        "Soupape de Sécurité et Disque de Rupture pour les Gaz Dangereux"
+      ],
+      "imgAlt": "Coupe du Moteur et des Équipements du Réacteur"
+    },
+    "table": {
+      "title": "Capacités Standard des Réacteurs",
+      "note": "* Les dimensions et valeurs de pression fournies le sont à titre indicatif. Une production sur mesure peut être réalisée dans n'importe quelle capacité selon les besoins spécifiques de votre installation.",
+      "headers": [
+        "VOLUME DU RÉACTEUR",
+        "PRESSION DE SERVICE",
+        "TYPE CHAUFFAGE/REFROID.",
+        "TYPE DE PALE DU MÉLANGEUR"
+      ],
+      "imgAlt": "Dessin Technique du Réacteur",
+      "rows": [
+        { "volume": "500 Litres (Pilote)", "pressure": "-1 / +6 Bar", "heating": "Électrique / Vapeur", "mixer": "Hélice / Ancre", "highlight": "dark" },
+        { "volume": "2 000 Litres", "pressure": "-1 / +10 Bar", "heating": "Serpentin en Demi-tube", "mixer": "Ancre + Contre-pale", "highlight": "dark" },
+        { "volume": "5 000 Litres", "pressure": "-1 / +10 Bar", "heating": "Serpentin en Demi-tube", "mixer": "Pales Doubles Contrarotatives", "highlight": "dark" },
+        { "volume": "10 000 Litres", "pressure": "-1 / +16 Bar", "heating": "Serpentin en Demi-tube", "mixer": "Ancre avec Racleur", "highlight": "dark" },
+        { "volume": "20 000+ Litres", "pressure": "-1 / +16 Bar", "heating": "Conception Sur Mesure", "mixer": "Conception Sur Mesure", "highlight": "orange" }
+      ]
+    },
+    "gallery": {
+      "title": "Nos Applications de Réacteurs Industriels",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Réacteur de Polymérisation", "alt": "Réacteur Polymère" },
+        { "src": "galeri-2.webp", "label": "Mélange Cosmétique et Vide", "alt": "Réacteur Sous Vide" },
+        { "src": "galeri-3.webp", "label": "Réacteur de Peinture et Résine", "alt": "Réacteur à Résine" },
+        { "src": "galeri-4.webp", "label": "Réacteur de Synthèse Pharma", "alt": "Réacteur Pharmaceutique" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez le fichier technique contenant les valeurs de résistance à la pression, les alternatives d'enveloppe et les combinaisons moteur-réducteur.",
+        "fileUrl": "/assets/documents/fr/reacteurs-chimiques-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "USINE PÉTROCHIMIQUE",
+        "desc": "Réacteur de synthèse haute pression de 15 000 L avec panneau Ex-Proof, fabriqué pour une usine chimique internationale.",
+        "imgAlt": "Référence Réacteur",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Un Réacteur Sur Mesure",
+        "desc": "Partagez avec nous vos temps de réaction et valeurs de pression/température, et concevons ensemble le réacteur le plus sûr.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "reactorsPage": {
+    "metadata": {
+      "title": "Chemical Reactors and Process Tanks | Welltech®",
+      "description": "Heavy-duty stainless steel reactors that safely control chemical reactions occurring under high pressure, vacuum, and extreme temperature conditions."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "process": "Process Systems",
+      "current": "Chemical Reactors"
+    },
+    "hero": {
+      "title": "Chemical Reactors",
+      "desc": "Heavy-duty systems that control reactions occurring under severe process conditions (high pressure, vacuum, extreme heat) with maximum safety and precision."
+    },
+    "technology": {
+      "title": "Reaction and Control Technology",
+      "desc1": "Industrial reactors are pressure-resistant special process tanks designed to ensure that chemical reactions (polymerization, esterification, condensation, etc.) occur at an optimum speed and safely.",
+      "desc2": "<strong>Welltech® Reactors</strong> are equipped with half-pipe coil or jacket systems to keep <strong>exothermic (heat-releasing)</strong> or <strong>endothermic (heat-absorbing)</strong> reactions under control depending on the type of reaction. Zero-risk production is ensured with special gearboxes suitable for the structure of the internal mass and ATEX-approved automation systems.",
+      "imgAlt": "Chemical Reactor Process Technology"
+    },
+    "features": {
+      "title": "Design and Safety Equipment",
+      "items": [
+        "TÜV and ASME Section VIII Approved High-Pressure Vessel",
+        "Full Leak-Tightness with Mechanical and Magnetic Seals",
+        "Ex-Proof (ATEX) Compliant Automation and Motor Panel",
+        "High-Efficiency Jacket Systems for Heating/Cooling",
+        "Boiling Point Reduction Capability Under Vacuum",
+        "Safety Valve and Rupture Disk for Hazardous Gases"
+      ],
+      "imgAlt": "Reactor Motor and Hardware Cross-Section"
+    },
+    "table": {
+      "title": "Standard Reactor Capacities",
+      "note": "* The dimensions and pressure values given are for reference purposes. Custom production can be made in any capacity according to the special process needs of your facility.",
+      "headers": [
+        "REACTOR VOLUME",
+        "WORKING PRESSURE",
+        "HEATING/COOLING TYPE",
+        "MIXER BLADE TYPE"
+      ],
+      "imgAlt": "Reactor Technical Drawing",
+      "rows": [
+        { "volume": "500 Liters (Pilot)", "pressure": "-1 / +6 Bar", "heating": "Electric / Steam", "mixer": "Propeller / Anchor", "highlight": "dark" },
+        { "volume": "2,000 Liters", "pressure": "-1 / +10 Bar", "heating": "Half-Pipe Coil", "mixer": "Anchor + Baffle", "highlight": "dark" },
+        { "volume": "5,000 Liters", "pressure": "-1 / +10 Bar", "heating": "Half-Pipe Coil", "mixer": "Counter-Rotating Double Blade", "highlight": "dark" },
+        { "volume": "10,000 Liters", "pressure": "-1 / +16 Bar", "heating": "Half-Pipe Coil", "mixer": "Anchor with Scraper", "highlight": "dark" },
+        { "volume": "20,000+ Liters", "pressure": "-1 / +16 Bar", "heating": "Custom Design", "mixer": "Custom Design", "highlight": "orange" }
+      ]
+    },
+    "gallery": {
+      "title": "Our Industrial Reactor Applications",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Polymerization Reactor", "alt": "Polymer Reactor" },
+        { "src": "galeri-2.webp", "label": "Cosmetic Mixing and Vacuum", "alt": "Vacuum Reactor" },
+        { "src": "galeri-3.webp", "label": "Paint and Resin Reactor", "alt": "Resin Reactor" },
+        { "src": "galeri-4.webp", "label": "Pharma Synthesis Reactor", "alt": "Pharma Reactor" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download the technical file containing pressure resistance values, jacket alternatives, and motor-gearbox combinations.",
+        "fileUrl": "/assets/documents/en/chemical-reactors-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "PETROCHEMICAL FACILITY",
+        "desc": "15,000 L high-pressure synthesis reactor with Ex-Proof panel we produced for an international chemical facility.",
+        "imgAlt": "Reactor Reference",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "Process-Specific Reactor",
+        "desc": "Share your reaction times and pressure/temperature values with us, and let's create the safest reactor design together.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

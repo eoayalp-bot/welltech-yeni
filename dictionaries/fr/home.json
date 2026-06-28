@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "badge": "INGÉNIERIE DE PROCESS ET DE STOCKAGE INDUSTRIEL",
+    "title": "Le Cœur Solide de Votre Ligne de Production",
+    "desc": "Ingénierie d'installation clé en main pour cuves industrielles en acier inoxydable AISI 304/316L, systèmes de process entièrement automatisés et transfert hygiénique de fluides selon les normes EN et ASME.",
+    "bgImage": "/assets/images/ana-sayfa/hero-bg.webp",
+    "bgAlt": "Installation Industrielle Welltech et Fabrication de Réacteurs en Inox",
+    "btn1": "DEMANDE D'INGÉNIERIE",
+    "btn2": "TÉLÉCHARGER LE CATALOGUE TECHNIQUE"
+  },
+  "stats": [
+    { "n": "20+", "t": "ANNÉES D'EXPÉRIENCE EN PRODUCTION" },
+    { "n": "40+", "t": "RÉSEAU D'EXPORTATION MONDIAL" },
+    { "n": "1000+", "t": "SYSTÈMES MIS EN SERVICE" },
+    { "n": "100%", "t": "GARANTIE D'ÉTANCHÉITÉ ET DE QUALITÉ" }
+  ],
+  "services": {
+    "title": "Solutions de Fabrication et d'Ingénierie Clé en Main",
+    "desc": "Nous fabriquons des équipements de haute ingénierie assistés par mécanique des fluides numérique (CFD), conformes aux règles de conception hygiénique EHEDG pour les industries alimentaire (Laitier, Boissons), chimique, pharmaceutique et biotechnologique.",
+    "view_details": "VOIR LES DÉTAILS TECHNIQUES",
+    "items": [
+      {
+        "title": "Cuves de Stockage Industrielles",
+        "desc": "Unités de stockage de liquides en acier inoxydable AISI 316L de grande capacité, isolées thermiquement, avec agitateur et durables selon les normes EN 13445 et API 650.",
+        "image": "/assets/images/ana-sayfa/hizmet-depolama.webp",
+        "link": "paslanmaz-tanklar"
+      },
+      {
+        "title": "Systèmes de Process Automatisés",
+        "desc": "Pour les réactions critiques de votre ligne de production : réacteurs à double enveloppe contrôlés par PLC/SCADA, homogénéisateurs à haut cisaillement et mélangeurs intégrés NEP/SEP.",
+        "image": "/assets/images/ana-sayfa/hizmet-proses.webp",
+        "link": "proses-sistemleri"
+      },
+      {
+        "title": "Solutions de Flux et de Transfert Hygiénique",
+        "desc": "Technologies de pompes hygiéniques approuvées par la FDA pour le transfert de fluides à haute viscosité : pompes centrifuges, à lobes (volumétriques) et pneumatiques à membrane.",
+        "image": "/assets/images/pompalar/kategori-banner.webp",
+        "link": "hijyenik-pompalar"
+      }
+    ]
+  },
+  "why_us": {
+    "badge": "AUTORITÉ EN INGÉNIERIE : WELLTECH",
+    "title": "Puissance de Production Interne aux Normes Mondiales",
+    "desc": "Nous ne fabriquons pas seulement des équipements indépendants pour votre usine ; nous concevons des infrastructures de processus complètes, durables, résistantes aux hautes pressions et économes en énergie, avec des calculs thermiques avancés.",
+    "list": [
+      "Fabrication selon les normes ASME, CE (DESP 2014/68/UE), ISO et EHEDG",
+      "Conception de Process Thermodynamique assistée par CAD 3D et Analyse CFD",
+      "Contrôle Non Destructif (CND), Ressuage et Tests de Pression Hydrostatique",
+      "Réseau Mondial : Service Technique 24/7 et Pièces de Rechange d'Origine"
+    ],
+    "box1": {
+      "title": "AUTOMATISATION MONDIALE",
+      "desc": "Systèmes intégrés PLC fonctionnant activement dans plus de 40 pays"
+    },
+    "box2": {
+      "title": "RÉSISTANCE INDUSTRIE LOURDE",
+      "desc": "Garantie absolue de résistance à la corrosion et d'étanchéité sur tous nos réacteurs et cuves"
+    }
+  }
+}

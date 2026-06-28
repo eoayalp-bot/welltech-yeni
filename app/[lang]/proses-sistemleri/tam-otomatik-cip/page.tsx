@@ -6,7 +6,7 @@ import { getLocalizedUrl } from '../../../../dictionaries/routes';
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
-  const dict = await getDictionary(resolvedParams.lang);
+  const dict = await getDictionary(resolvedParams.lang, 'cipSystems');
   const t = dict.cipSystemsPage;
   return { title: t.metadata.title, description: t.metadata.description };
 }
@@ -14,13 +14,13 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 export default async function CIPSystemsPage({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+  const dict = await getDictionary(lang, 'cipSystems');
   const t = dict.cipSystemsPage;
 
   const jsonLd = {
     "@context": "https://schema.org", "@type": "Product",
     "name": t.hero.title,
-    "image": "https://www.welltech.com/assets/images/proses-sistemleri/kategori-cip.webp",
+    "image": "https://www.welltech.com.tr/assets/images/proses-sistemleri/kategori-cip.webp",
     "description": t.metadata.description,
     "brand": { "@type": "Brand", "name": "Welltech®" },
     "manufacturer": { "@type": "Organization", "name": "Welltech® International Engineering" },
@@ -150,14 +150,14 @@ export default async function CIPSystemsPage({ params }: { params: Promise<{ lan
               <h2 className="text-2xl md:text-3xl font-black text-gray-900 mb-8 tracking-tight border-b-2 border-gray-200 pb-4">{t.gallery.title}</h2>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
                 {t.gallery.items.map((item: { src: string; label: string; alt: string }, index: number) => (
-                  <div key={index} className="relative h-64 sm:h-80 w-full overflow-hidden rounded-xl shadow-md group cursor-pointer">
+                  <Link href={`/${lang}/referanslar`} key={index} className="block relative h-64 sm:h-80 w-full overflow-hidden rounded-xl shadow-md group cursor-pointer">
                     <Image src={`/assets/images/proses-sistemleri/cip/${item.src}`} alt={item.alt} fill className="object-cover transition-transform duration-700 group-hover:scale-110" sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 25vw" />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-80 group-hover:opacity-90 transition-opacity duration-300"></div>
                     <div className="absolute bottom-0 left-0 p-6 w-full">
                       <span className="block text-white text-lg font-black tracking-widest drop-shadow-lg transform translate-y-1 group-hover:-translate-y-1 transition-transform duration-300">{item.label}</span>
                       <div className="h-1 w-8 bg-[#E35205] mt-2 rounded-full transform scale-x-0 group-hover:scale-x-100 origin-left transition-transform duration-300"></div>
                     </div>
-                  </div>
+                  </Link>
                 ))}
               </div>
             </div>
@@ -191,7 +191,7 @@ export default async function CIPSystemsPage({ params }: { params: Promise<{ lan
                   <Image src="/assets/images/proses-sistemleri/cip/referans.webp" alt={t.sidebar.reference.imgAlt} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 33vw" />
                 </div>
                 <p className="text-xs text-gray-500 line-clamp-2 mt-2">{t.sidebar.reference.desc}</p>
-                <Link href={getLocalizedUrl('referanslar', lang)} className="text-[10px] font-bold tracking-widest text-[#005284] border-b-2 border-transparent hover:border-[#E35205] pb-0.5 transition-all inline-block mt-2">
+                <Link href={`/${lang}/referanslar`} className="text-[10px] font-bold tracking-widest text-[#005284] border-b-2 border-transparent hover:border-[#E35205] pb-0.5 transition-all inline-block mt-2">
                   {t.sidebar.reference.link}
                 </Link>
               </div>
@@ -202,7 +202,7 @@ export default async function CIPSystemsPage({ params }: { params: Promise<{ lan
                   {t.sidebar.cta.title}
                 </h4>
                 <p className="text-sm text-gray-400 mb-6 leading-relaxed">{t.sidebar.cta.desc}</p>
-                <Link href={getLocalizedUrl('iletisim', lang)} className="w-full flex items-center justify-center gap-2 bg-[#E35205] text-white px-4 py-3 rounded text-sm font-bold tracking-wider hover:bg-white hover:text-[#E35205] transition-colors shadow-md">
+                <Link href={`/${lang}/iletisim`} className="w-full flex items-center justify-center gap-2 bg-[#E35205] text-white px-4 py-3 rounded text-sm font-bold tracking-wider hover:bg-white hover:text-[#E35205] transition-colors shadow-md">
                   {t.sidebar.cta.btn}
                 </Link>
               </div>

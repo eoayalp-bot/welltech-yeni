@@ -1,0 +1,85 @@
+{
+  "documentsPage": {
+    "metadata": {
+      "title": "Kalite ve Sertifikasyonlar | Welltech®",
+      "description": "Uluslararası kalite standartları, sertifikalarımız ve tahribatsız muayene (NDT) süreçlerimiz."
+    },
+    "hero": {
+      "title": "Kalite ve Sertifikasyonlar",
+      "desc": "Uluslararası standartlarda, izlenebilir ve %100 güvenilir mühendislik süreçleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "corporate": "Kurumsal",
+      "current": "Kalite ve Sertifikasyonlar"
+    },
+    "globalStandards": {
+      "title": "Global Üretim Standartları",
+      "desc": "Tesisimizde üretilen her ekipman, hammadde girişinden son teste kadar uluslararası normlara (ISO, ASME, CE) uygun olarak denetlenir ve sertifikalandırılır."
+    },
+    "ndt": {
+      "title": "Tahribatsız Muayene (NDT) Kapasitemiz",
+      "items": {
+        "rt": "Radyografik Test (RT)",
+        "pt": "Penetrant Testi (PT)",
+        "ut": "Ultrasonik Test (UT)",
+        "vt": "Görsel Muayene (VT)",
+        "hydro": "Hidrostatik Basınç Testi",
+        "roughness": "Yüzey Pürüzlülük (Ra) Ölçümü"
+      }
+    },
+    "certifications": {
+      "title": "Geçerli Sertifikalarımız",
+      "note": "* İlgili belgelerin kopyalarını yandaki menüden veya kalite departmanımızdan talep edebilirsiniz.",
+      "tableHeaders": {
+        "standard": "STANDART / NORMLAR",
+        "scope": "KAPSAM",
+        "status": "DURUM"
+      },
+      "scopes": {
+        "iso9001": "Kalite Yönetim Sistemi",
+        "iso3834": "Kaynaklı İmalat Yeterlilik",
+        "ped": "Basınçlı Ekipmanlar Direktifi",
+        "asme": "Basınçlı Kaplar Üretim Standartları",
+        "ce": "Avrupa Uygunluk Beyanı"
+      },
+      "status": {
+        "active": "Aktif / Onaylı",
+        "compliant": "Uyumlu Üretim"
+      }
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Malzeme sertifikalarını ürünle birlikte veriyor musunuz?",
+          "a": "Evet, kullanılan tüm paslanmaz çelik malzemelerin EN 10204 3.1 sertifikaları ürün teslim dosyasında (Data Book) sunulmaktadır."
+        },
+        {
+          "q": "Kaynak prosedürleriniz onaylı mı?",
+          "a": "Tüm kaynaklı imalatlarımız WPS ve PQR prosedürlerine uygun olarak, sertifikalı ve onaylı kaynak operatörlerimiz tarafından yapılmaktadır."
+        }
+      ]
+    },
+    "sidebar": {
+      "iso": {
+        "title": "ISO & CE Belgeleri",
+        "subtitle": "RESMİ SERTİFİKALAR",
+        "desc": "Tesisimize ait kalite yönetim ve üretim yeterlilik belgelerini tek tıkla indirebilirsiniz.",
+        "fileUrl": "/assets/documents/tr/resmi-sertifikalar-iso-ce-belgeleri.pdf",
+        "btn": "SERTİFİKALARI İNDİR"
+      },
+      "catalog": {
+        "title": "Genel Katalog",
+        "subtitle": "2026 ÜRÜN BÜLTENİ",
+        "desc": "Tüm ürün yelpazemizi ve teknik kapasitemizi incelemek için güncel kataloğumuzu indirin.",
+        "fileUrl": "/assets/documents/tr/genel-urun-katalogu-2026.pdf",
+        "btn": "KATALOĞU İNDİR"
+      },
+      "department": {
+        "title": "Kalite Departmanı",
+        "desc": "Özel projelerinizdeki kalite gereksinimleri ve denetim (Third-party inspection) talepleriniz için bize ulaşın."
+      }
+    }
+  }
+}

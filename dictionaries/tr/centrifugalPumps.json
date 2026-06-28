@@ -1,0 +1,95 @@
+{
+  "centrifugalPumpsPage": {
+    "metadata": {
+      "title": "Santrifüj Pompalar | Welltech®",
+      "description": "Süt, meyve suyu ve su gibi düşük viskoziteli akışkanların yüksek debide, sürekli ve hijyenik transferi için paslanmaz santrifüj pompalar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Santrifüj Pompalar"
+    },
+    "hero": {
+      "title": "Santrifüj Pompalar",
+      "desc": "Düşük viskoziteli akışkanlarda yüksek debi ve kesintisiz transfer. Gıda ve içecek hatları için maksimum hijyen sağlayan paslanmaz tasarım."
+    },
+    "technology": {
+      "title": "Santrifüj (Merkezkaç) Teknolojisi",
+      "desc": "Santrifüj pompalar, gövde içindeki fanın (çarkın) yüksek devirde dönerek merkezkaç kuvveti oluşturması prensibiyle çalışır. Sıvı, fanın merkezinden emilir ve kanatçıklar aracılığıyla hızlandırılarak basma hattına iletilir. Süt, su, meyve suyu ve CIP yıkama sıvıları gibi akışkanların transferinde en verimli ve ekonomik çözümdür.",
+      "imgAlt": "Santrifüj Pompa Fan Teknolojisi"
+    },
+    "features": {
+      "title": "Tasarım ve Performans Üstünlükleri",
+      "items": [
+        "Yüksek Debide Kesintisiz ve Pürüzsüz Akış",
+        "Düşük Enerji Tüketimi ile Yüksek Verimlilik",
+        "Sıfır Ölü Nokta ile %100 Yıkanabilir (CIP) İç Yapı",
+        "AISI 304 veya 316L Paslanmaz Çelik Dövme Gövde",
+        "Açık, Yarı Açık veya Kapalı Fan (Çark) Seçenekleri",
+        "Bakımı Kolay, Uzun Ömürlü Mekanik Salmastra"
+      ],
+      "imgAlt": "Santrifüj Pompa Motor ve Gövde"
+    },
+    "table": {
+      "title": "Teknik Özellikler ve Kapasite",
+      "note": "* Debi ve basma yüksekliği değerleri, motor gücüne ve fan çapına göre prosesinizin ihtiyacına özel olarak konfigüre edilmektedir.",
+      "headers": [
+        "POMPA MODELİ",
+        "MAKS. DEBİ (m³/h)",
+        "BASMA YÜKSEKLİĞİ (m)",
+        "MOTOR GÜCÜ (kW)"
+      ],
+      "imgAlt": "Santrifüj Pompa Teknik Çizim",
+      "rows": [
+        { "model": "WCP-10", "flow": "10 m³/h", "head": "15 m", "power": "1.1 kW", "highlight": "dark" },
+        { "model": "WCP-20", "flow": "20 m³/h", "head": "25 m", "power": "2.2 kW", "highlight": "dark" },
+        { "model": "WCP-30", "flow": "30 m³/h", "head": "30 m", "power": "4.0 kW", "highlight": "dark" },
+        { "model": "WCP-50", "flow": "50 m³/h", "head": "35 m", "power": "5.5 kW", "highlight": "dark" },
+        { "model": "WCP-80", "flow": "80 m³/h", "head": "45 m", "power": "11.0 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Santrifüj pompalar yoğun sıvılarda kullanılabilir mi?",
+          "a": "Hayır. Santrifüj pompalar su, süt ve meyve suyu gibi viskozitesi düşük (akışkanlığı yüksek) sıvılar için tasarlanmıştır. Bal veya krema gibi yoğun sıvılar fanın (çarkın) kavitasyon yapmasına neden olur."
+        },
+        {
+          "q": "Açık ve kapalı fan arasındaki fark nedir?",
+          "a": "Kapalı fanlar saf sıvıların (su, süt) transferinde maksimum verim sağlarken; açık veya yarı açık fanlar içinde hafif tortu veya meyve parçacığı bulunan sıvıların tıkanmadan aktarılması için kullanılır."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Endüstriyel Uygulamalarımız",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Süt ve Ayran Transferi", "alt": "Süt Pompası" },
+        { "src": "galeri-2.webp", "label": "Meyve Suyu Hatları", "alt": "Meyve Suyu Pompası" },
+        { "src": "galeri-3.webp", "label": "CIP Yıkama Sistemleri", "alt": "CIP Pompası" },
+        { "src": "galeri-4.webp", "label": "Su ve İçecek Prosesleri", "alt": "İçecek Transfer Pompası" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Pompa performans eğrileri, motor güçleri ve mekanik salmastra tiplerini içeren kataloğumuzu indirin.",
+        "fileUrl": "/assets/documents/tr/santrifuj-pompalar-teknik-şartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "İÇECEK TESİSİ",
+        "desc": "Büyük kapasiteli bir meyve suyu üretim tesisine kurduğumuz hijyenik santrifüj pompa hattı.",
+        "imgAlt": "Santrifüj Pompa Referansı",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Doğru Debi ve Basınç",
+        "desc": "Hattınızdaki dirsek sayısını ve boru metrajını bize iletin, kavitasyon yaratmayacak en doğru fan çapını belirleyelim.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Merhaba,%20santrifuj%20pompalar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

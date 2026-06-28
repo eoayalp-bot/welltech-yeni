@@ -1,0 +1,92 @@
+{
+  "bioreactorsPage": {
+    "metadata": {
+      "title": "Fermantasyon ve Biyoreaktörler | Welltech®",
+      "description": "Bakteri, maya ve hücre kültürlerinin çoğaltılması için üst düzey steriliteye sahip paslanmaz çelik endüstriyel biyoreaktör ve fermentör sistemleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "Biyoreaktörler"
+    },
+    "hero": {
+      "title": "Fermantasyon ve Biyoreaktörler",
+      "desc": "Biyoteknoloji, ilaç ve gıda endüstrileri için mikroorganizmaların ideal koşullarda çoğaltılmasını sağlayan tam otomatik, steril (aseptik) reaktör sistemleri."
+    },
+    "technology": {
+      "title": "Hassas Biyoproses Teknolojisi",
+      "desc": "Fermantasyon sistemleri, canlı mikroorganizmaların veya hücre kültürlerinin büyüyebilmesi için kusursuz bir denge gerektirir. <strong>Welltech® Biyoreaktörleri</strong>, reaksiyon boyunca pH, çözünmüş oksijen (DO), sıcaklık, köpük ve karıştırma hızını (RPM) eşzamanlı olarak izler ve otomasyon panosu üzerinden anlık olarak kontrol eder. Sıfır ölü nokta prensibiyle tasarlanan iç yüzeyler (Ra < 0.4 µm) kontaminasyon riskini tamamen ortadan kaldırır.",
+      "imgAlt": "Biyoreaktör Proses Teknolojisi"
+    },
+    "features": {
+      "title": "Steril Tasarım ve Otomasyon",
+      "items": [
+        "Sıfır Kontaminasyon İçin %100 Aseptik (Steril) Tasarım",
+        "Hassas Sıcaklık Kontrolü İçin Çift Cidar / Ceketli Yapı",
+        "Otomatik pH, Çözünmüş Oksijen (DO) ve Köpük Kontrolü",
+        "Hücre Yapısını Bozmayan Özel Manyetik / Mekanik Karıştırıcılar",
+        "Buharla Yerinde Sterilizasyon (SIP) ve Yıkama (CIP) Uyumu",
+        "Kullanıcı Dostu HMI Dokunmatik Ekran ve SCADA Entegrasyonu"
+      ],
+      "imgAlt": "Biyoreaktör Otomasyon Kontrol Paneli"
+    },
+    "table": {
+      "title": "Kapasite ve Teknik Özellikler",
+      "note": "* Çalışma hacmi, toplam tank hacminin yaklaşık %70-80'i olarak hesaplanmaktadır. Daha yüksek kapasiteli endüstriyel üretimler için projelendirme yapılabilir.",
+      "headers": [
+        "SERİ / MODEL",
+        "ÇALIŞMA HACMİ",
+        "TASARIM BASINCI"
+      ],
+      "imgAlt": "Biyoreaktör Teknik Çizim",
+      "rows": [
+        { "series": "Lab/Pilot Seri (WBR-P)", "volume": "50 L - 500 L", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Üretim Serisi (WBR-1M)", "volume": "1.000 Litre", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Üretim Serisi (WBR-3M)", "volume": "3.000 Litre", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Endüstriyel Seri (WBR-5M)", "volume": "5.000 Litre", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Endüstriyel Seri (WBR-10M)", "volume": "10.000 Litre", "pressure": "-1 / +3 Bar", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "CIP ve SIP uyumluluğu ne demektir?",
+          "a": "CIP (Clean-in-Place) sistemin sökülmeden yıkanabilmesi, SIP (Sterilization-in-Place) ise yüksek sıcaklıktaki buharla içerideki tüm bakterilerin öldürülüp sistemin yeni kültüre steril şekilde hazırlanmasıdır."
+        },
+        {
+          "q": "Oksijen (DO) ve pH kontrolü neden önemlidir?",
+          "a": "Bakteri veya mayaların ölmeden üreyebilmesi ve hedeflenen enzimi/ürünü salgılayabilmesi için ortamdaki oksijen miktarının ve asitlik (pH) derecesinin sürekli ideal seviyede tutulması zorunludur."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Biyoreaktör Uygulamalarımız",
+      "items": [
+        { "src": "galeri-1.webp", "label": "İlaç ve Aşı Üretimi", "alt": "İlaç Biyoreaktörü" },
+        { "src": "galeri-2.webp", "label": "Maya ve Enzim Fermantasyonu", "alt": "Maya Fermentörü" },
+        { "src": "galeri-3.webp", "label": "Pilot Ölçekli Biyoproses", "alt": "Pilot Biyoreaktör" },
+        { "src": "galeri-4.webp", "label": "Süt ve Yoğurt Kültürleri", "alt": "Gıda Fermentasyon Tankı" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "fileUrl": "/assets/documents/tr/fermantasyon-ve-biyoreaktorler-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "BİYOTEKNOLOJİ",
+        "desc": "Uluslararası bir biyoteknoloji firması için kurduğumuz 5.000 L kapasiteli tam otomatik enzim fermentasyon hattı.",
+        "imgAlt": "Biyoreaktör Referansı",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Prosesinize Özel SCADA",
+        "desc": "Hücre kültürünüze en uygun karıştırma teknolojisini ve sensör altyapısını mühendislerimizle birlikte projelendirin.",
+        "btn": "BİZE ULAŞIN"
+      }
+    }
+  }
+}

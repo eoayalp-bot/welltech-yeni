@@ -1,0 +1,96 @@
+{
+  "chemicalTanksPage": {
+    "metadata": {
+      "title": "Cuves pour Produits Chimiques et Acides | Welltech®",
+      "description": "Cuves en acier inoxydable offrant une résistance maximale à la corrosion pour les produits chimiques agressifs, les acides et les process à haute pression."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "tanks": "Cuves en Inox",
+      "current": "Cuves Chimiques"
+    },
+    "hero": {
+      "title": "Cuves pour Produits Chimiques et Acides",
+      "desc": "Solutions en acier inoxydable ultra-résistantes à la corrosion, conformes ATEX, offrant une sécurité maximale pour les produits agressifs."
+    },
+    "corrosion": {
+      "title": "Résistance Maximale à la Corrosion",
+      "desc": "L'acier inoxydable standard peut être insuffisant pour le stockage de fluides hautement corrosifs comme les acides, solvants et produits caustiques. Selon le pH, la température et la pression, les ingénieurs de Welltech assurent la sécurité maximale de votre installation en proposant des cuves en alliage de Titane (316Ti), Super Duplex ou avec revêtement spécial (PTFE)."
+    },
+    "features": {
+      "title": "Équipements de Sécurité et Conception",
+      "items": {
+        "1": "Options en Alliage Spécial Duplex, 316Ti ou Hastelloy",
+        "2": "Intégration d'Équipements Certifiés ATEX (Antidéflagrant)",
+        "3": "Conception à Double Paroi (Double Enveloppe) Zéro Fuite",
+        "4": "Systèmes de Lavage de Gaz (Scrubber) et de Ventilation",
+        "5": "Joints Spéciaux Résistants aux Acides (PTFE/Viton)",
+        "6": "Automatisation du Dosage et Contrôle de Niveau"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacités de Production Intensives (Heavy-Duty)",
+      "note": "* Pour les produits chimiques agressifs, les épaisseurs des parois sont calculées statiquement selon la densité du fluide et la pression.",
+      "heavy": " (Heavy-Duty)",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIAMÈTRE (Ø mm)",
+        "height": "HAUTEUR (mm)",
+        "thickness": "ÉPAISSEUR MIN."
+      },
+      "customRow": "Pour les cuves de cette capacité et au-delà nécessitant une ingénierie spéciale, un calcul est réalisé sur projet."
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Pour quels produits chimiques les cuves en inox sont-elles adaptées ?",
+          "a": "Un stockage sûr est garanti par le choix du bon alliage (316L, 316Ti, Duplex) pour les substances corrosives telles que l'acide nitrique, l'acide sulfurique, la soude caustique, les solvants et la pétrochimie."
+        },
+        {
+          "q": "Existe-t-il une certification ATEX pour les inflammables ?",
+          "a": "Oui, pour les fluides inflammables comme les solvants, tous les moteurs, capteurs et vannes sont intégrés avec une certification ATEX (Ex-Proof)."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Exemples de Projets Chimiques",
+      "p1": {
+        "title": "Cuve d'Acide Sulfurique",
+        "alt": "Projet de Cuve d'Acide Sulfurique"
+      },
+      "p2": {
+        "title": "Stockage Caustique",
+        "alt": "Cuve de Stockage Caustique"
+      },
+      "p3": {
+        "title": "Cuve Solvant ATEX",
+        "alt": "Cuve à Solvant Certifiée ATEX"
+      },
+      "p4": {
+        "title": "Cuve à Double Paroi",
+        "alt": "Cuve Chimique à Double Paroi"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez le document contenant les tableaux de résistance chimique, les épaisseurs de parois et les normes de sécurité.",
+        "fileUrl": "/assets/documents/fr/reservoirs-chimiques-acides-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "PROJET ATEX",
+        "desc": "Ligne de stockage de solvants Ex-Proof fabriquée pour une usine pétrochimique internationale.",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Un Alliage Spécial est Requis ?",
+        "desc": "Envoyez-nous la fiche (FDS) du produit chimique utilisé dans votre projet, nous déterminerons l'alliage inox le plus adapté.",
+        "whatsappMsg": "Bonjour, je souhaite discuter du choix d'alliage et du tarif pour des cuves de stockage de produits chimiques.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

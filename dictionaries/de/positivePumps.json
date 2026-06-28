@@ -1,0 +1,95 @@
+{
+  "positivePumpsPage": {
+    "metadata": {
+      "title": "Drehkolbenpumpen (Verdrängerpumpen) | Welltech®",
+      "description": "Drehkolbenpumpen aus Edelstahl, die den Transfer hochviskoser Medien wie Sahne, Honig, Shampoo und Tomatenmark gewährleisten, ohne deren Partikelstruktur zu zerstören."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "pumps": "Pumpen",
+      "current": "Drehkolbenpumpen"
+    },
+    "hero": {
+      "title": "Drehkolbenpumpen (Positive Displacement)",
+      "desc": "Präziser und schonender Flüssigkeitstransfer für dichte (hochviskose) Produkte wie Honig, Shampoo, Sahne und Tomatenmark, ohne deren Zellstruktur zu zerstören."
+    },
+    "technology": {
+      "title": "Kolben-Technologie (Rotortechnologie)",
+      "desc": "Im Gegensatz zu Kreiselpumpen, die das Medium bei hoher Geschwindigkeit aufwirbeln und zerschlagen, schieben Drehkolbenpumpen (Positive Displacement Pumps) das Fluid sanft vorwärts, indem sie es zwischen speziell gegenläufig rotierenden Kolben (Rotoren) einschließen. Dank dieser Technologie werden Partikel im Produkt (Fruchtstücke, Fasern usw.) nicht zerkleinert; Qualität und Konsistenz der Flüssigkeit bleiben beim Transfer zur nächsten Station zu 100 % erhalten.",
+      "imgAlt": "Drehkolbenpumpe Rotortechnologie"
+    },
+    "features": {
+      "title": "Design- und Betriebsvorteile",
+      "items": [
+        "Quetschfreier Transfer empfindlicher (partikelhaltiger) Lebensmittel",
+        "Konstante (pulsationsfreie) und messbare hohe Fördermenge",
+        "Maximale Effizienz bei hochviskosen (dichten) Flüssigkeiten",
+        "FDA/3A-zugelassenes, 100% hygienisches Edelstahlgehäuse",
+        "Möglichkeit zum bidirektionalen (Rückwärts-) Betrieb",
+        "Beständigkeit gegen kurzzeitigen Trockenlauf"
+      ],
+      "imgAlt": "Drehkolbenpumpe Getriebe"
+    },
+    "table": {
+      "title": "Technische Spezifikationen und Kapazitätstabelle",
+      "note": "* Die Fördermengen und der Rotortyp (Schmetterling, Bi-Wing, Tri-Lobe) werden speziell nach der Viskosität (Dichte) des zu fördernden Produkts berechnet.",
+      "headers": [
+        "PUMPENMODELL",
+        "MAX. FÖRDERMENGE (m³/h)",
+        "MAX. DRUCK (Bar)",
+        "ANSCHLUSSGRÖSSE"
+      ],
+      "imgAlt": "Technische Zeichnung Drehkolbenpumpe",
+      "rows": [
+        { "model": "WLP-10", "flow": "3 m³/h", "pressure": "10 Bar", "connection": "1\"", "highlight": "dark" },
+        { "model": "WLP-20", "flow": "10 m³/h", "pressure": "12 Bar", "connection": "1 1/2\"", "highlight": "dark" },
+        { "model": "WLP-30", "flow": "25 m³/h", "pressure": "12 Bar", "connection": "2\"", "highlight": "dark" },
+        { "model": "WLP-40", "flow": "45 m³/h", "pressure": "15 Bar", "connection": "2 1/2\"", "highlight": "dark" },
+        { "model": "WLP-50", "flow": "70 m³/h", "pressure": "15 Bar", "connection": "3\"", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Was ist der Unterschied zwischen einer Drehkolbenpumpe und einer Kreiselpumpe?",
+          "a": "Kreiselpumpen fördern Wasser durch Schleudern (schnell) und verursachen bei dichten Produkten Kavitation. Drehkolbenpumpen arbeiten volumetrisch (positiv); egal wie zäh (viskos) die Flüssigkeit ist, sie schieben sie in gleichen Mengen und ohne das Produkt zu zerquetschen vorwärts."
+        },
+        {
+          "q": "Sind Drehkolbenpumpen waschbar (CIP)?",
+          "a": "Absolut. In der inneren Struktur von Drehkolbenpumpen gibt es kein Totvolumen. Sie können mit Hochdruck-Heißwasser und Chemikalien mittels CIP-Systemen (Clean-in-Place) zu 100 % sterilisiert werden, ohne dass sie aus der Anlage ausgebaut werden müssen."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Unsere industriellen Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Honig- und Melassetransfer", "alt": "Honig-Transferpumpe" },
+        { "src": "galeri-2.webp", "label": "Kosmetik- und Shampootransfer", "alt": "Kosmetikpumpe" },
+        { "src": "galeri-3.webp", "label": "Transfer von Pasten und Lebensmittelpasten", "alt": "Pastenpumpe" },
+        { "src": "galeri-4.webp", "label": "Creme- und Schokoladenlinien", "alt": "Drehkolbenpumpe für Schokolade" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie die Spezifikationsdatei mit Viskositätsdiagrammen, Rotor-/Kolbentypen (Tri-Lobe) und Anschlussabmessungen herunter.",
+        "fileUrl": "/assets/documents/de/verdraengerpumpen-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "LEBENSMITTELANLAGE",
+        "desc": "Doppelwandige Cremepumpenlinie, die wir für eine internationale Keks- und Schokoladenproduktionsanlage installiert haben.",
+        "imgAlt": "Lebensmittelfabrik Pumpe Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Der richtige Kolben für Ihr Produkt",
+        "desc": "Teilen Sie uns den Partikeldurchmesser und die Betriebstemperatur Ihrer Flüssigkeit mit, und wir entwerfen gemeinsam das richtige, quetschungsfreie (Bi-Wing oder Tri-Lobe) Rotordesign.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hallo,%20ich%20moechte%20technische%20Informationen%20und%20Preise%20zu%20Drehkolbenpumpen%20erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

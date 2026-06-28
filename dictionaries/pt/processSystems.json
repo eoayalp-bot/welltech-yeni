@@ -1,0 +1,52 @@
+{
+  "processSystemsPage": {
+    "metadata": {
+      "title": "Sistemas de Processo e Maquinário | Welltech®",
+      "description": "Tanques com agitador de aço inoxidável, reatores, homogeneizadores e sistemas CIP com padrões internacionais para as indústrias alimentícia, química e farmacêutica."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "current": "Sistemas de Processo"
+    },
+    "hero": {
+      "title": "Sistemas de Processo Industriais",
+      "desc": "Máquinas de processo de aço inoxidável nos padrões FDA e CE, com alta precisão e automação, que formam o coração de sua linha de produção."
+    },
+    "categories": [
+      {
+        "title": "Tanques com Agitador",
+        "desc": "Tanques misturadores de aço inoxidável de alta eficiência com estruturas de pá (agitador) especialmente projetadas para misturas líquido-líquido e líquido-sólido."
+      },
+      {
+        "title": "Reatores Químicos",
+        "desc": "Sistemas de trabalho pesado (heavy-duty) que controlam com segurança as reações químicas que ocorrem sob alta pressão, vácuo e condições extremas de temperatura."
+      },
+      {
+        "title": "Homogeneizadores",
+        "desc": "Misturadores de alta velocidade que garantem a obtenção de um produto suave e estável desintegrando fluidos de diferentes fases (emulsões) em nível de mícrons."
+      },
+      {
+        "title": "Unidades Móveis (Skids)",
+        "desc": "Unidades portáteis de mistura e transferência que podem ser facilmente movidas para diferentes estações dentro da instalação, equipadas com sua própria bomba e painel de automação."
+      },
+      {
+        "title": "Tanques Encamisados (Aquecimento/Resfriamento)",
+        "desc": "Sistemas com tecnologia de serpentina de meio tubo, roll-bond ou parede dupla para processos onde a temperatura do produto precisa ser controlada com precisão."
+      },
+      {
+        "title": "Fermentação e Biorreatores",
+        "desc": "Reatores biotecnológicos estéreis que permitem a multiplicação de bactérias, leveduras ou culturas de células em um ambiente ideal de temperatura, oxigênio e pH."
+      },
+      {
+        "title": "Sistemas CIP Totalmente Automáticos",
+        "desc": "Unidades de esterilização que permitem a lavagem e desinfecção automática de linhas de produção, tanques e bombas sem desmontagem (Limpeza no Local)."
+      }
+    ],
+    "viewModels": "VER SISTEMAS",
+    "cta": {
+      "title": "Engenharia Específica para o Seu Processo",
+      "desc": "Compartilhe sua receita de produção e capacidade desejada com nossos engenheiros especialistas, e permita-nos projetar o sistema mais adequado para o seu processo com simulações 3D.",
+      "btn": "CONSULTE NOSSA ENGENHARIA"
+    }
+  }
+}

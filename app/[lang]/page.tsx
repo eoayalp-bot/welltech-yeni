@@ -18,13 +18,13 @@ function getNestedLink(path: string, lang: string): string {
 export default async function Home({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+  const dict = await getDictionary(lang, 'home');
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": `${dict.home.hero.badge} | ${dict.home.hero.title}`,
-    "description": dict.home.hero.desc,
+    "name": `${dict.hero.badge} | ${dict.hero.title}`,
+    "description": dict.hero.desc,
     "publisher": {
       "@type": "Organization",
       "name": "Welltech® International Engineering"
@@ -40,8 +40,8 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       <section className="relative h-[85vh] min-h-[600px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <Image
-            src={dict.home.hero.bgImage}
-            alt={dict.home.hero.bgAlt}
+            src={dict.hero.bgImage}
+            alt={dict.hero.bgAlt}
             fill
             priority
             className="object-cover transition-transform duration-[2000ms] scale-105 hover:scale-100"
@@ -52,26 +52,26 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
 
         <div className="relative z-20 text-center px-4 sm:px-6 w-full max-w-5xl mx-auto mt-16">
           <span className="inline-block px-4 py-1.5 bg-[#E35205] text-white text-[10px] sm:text-xs font-bold tracking-[0.4em] mb-6 shadow-lg">
-            {dict.home.hero.badge}
+            {dict.hero.badge}
           </span>
           <h1 className="text-4xl sm:text-5xl md:text-7xl font-black text-white mb-6 tracking-tighter leading-[1.1] drop-shadow-2xl">
-            {dict.home.hero.title}
+            {dict.hero.title}
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl text-white max-w-3xl mx-auto mb-10 font-medium leading-relaxed drop-shadow-2xl">
-            {dict.home.hero.desc}
+            {dict.hero.desc}
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Link
               href={getLink('iletisim', lang)}
               className="w-full sm:w-auto inline-block bg-[#E35205] text-white px-8 sm:px-10 py-4 rounded-sm font-bold text-sm tracking-widest hover:bg-white hover:text-[#E35205] transition-all duration-300 shadow-2xl hover:shadow-[#E35205]/20 hover:-translate-y-1"
             >
-              {dict.home.hero.btn1}
+              {dict.hero.btn1}
             </Link>
             <Link
               href={getLink('dokumanlar', lang)}
               className="w-full sm:w-auto inline-block bg-white/10 backdrop-blur-md border border-white/20 text-white px-8 sm:px-10 py-4 rounded-sm font-bold text-sm tracking-widest hover:bg-white/20 transition-all duration-300 shadow-xl"
             >
-              {dict.home.hero.btn2}
+              {dict.hero.btn2}
             </Link>
           </div>
         </div>
@@ -79,7 +79,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
 
       <div className="relative z-30 -mt-12 sm:-mt-16 max-w-6xl mx-auto px-4 sm:px-6">
         <div className="grid grid-cols-2 md:grid-cols-4 bg-white shadow-2xl border border-gray-100 rounded-xl overflow-hidden divide-x divide-y md:divide-y-0 divide-gray-50">
-          {dict.home.stats.map((stat: { n: string; t: string }, i: number) => (
+          {dict.stats.map((stat: { n: string; t: string }, i: number) => (
             <div key={i} className="p-6 sm:p-8 text-center group hover:bg-gray-50 transition-colors duration-300 flex flex-col justify-center">
               <div className={`text-2xl sm:text-3xl font-black mb-2 transition-transform duration-300 group-hover:scale-110 ${i === 3 ? "text-[#E35205]" : "text-[#005284]"}`}>
                 {stat.n}
@@ -95,23 +95,23 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       <section className="max-w-7xl mx-auto py-24 sm:py-32 px-4 sm:px-6">
         <div className="text-center mb-16 sm:mb-20">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-black text-[#005284] tracking-tighter mb-6">
-            {dict.home.services.title}
+            {dict.services.title}
           </h2>
           <div className="w-20 h-1.5 bg-gradient-to-r from-[#005284] to-[#E35205] mx-auto rounded-full"></div>
           <p className="text-gray-500 max-w-2xl mx-auto text-lg font-light leading-relaxed mt-6">
-            {dict.home.services.desc}
+            {dict.services.desc}
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 sm:gap-12">
-          {dict.home.services.items.map((service: { title: string; desc: string; image: string; link: string }, index: number) => (
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 sm:gap-12">
+          {dict.services.items.map((service: { title: string; desc: string; image: string; link: string }, index: number) => (
             <Link href={getNestedLink(service.link, lang)} key={index} className="group flex flex-col h-full bg-white rounded-2xl shadow-lg border border-gray-100 hover:shadow-2xl hover:border-[#005284] transition-all duration-500 p-8 sm:p-10">
               <div className="relative h-64 sm:h-80 w-full overflow-hidden mb-8 rounded-xl bg-gray-100">
                 <Image
                   src={service.image}
                   alt={service.title}
                   fill
-                  sizes="(max-width: 768px) 100vw, 50vw"
+                  sizes="(max-width: 768px) 100vw, 33vw"
                   className="object-cover transition-transform duration-700 group-hover:scale-110"
                 />
                 <div className="absolute inset-0 bg-[#005284]/10 group-hover:bg-transparent transition-colors duration-500"></div>
@@ -124,7 +124,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
               </p>
               <div className="mt-auto inline-block">
                 <span className="text-xs font-black tracking-widest text-[#005284] flex items-center gap-2 group-hover:text-[#E35205] transition-all">
-                  {dict.home.services.view_details} <ChevronRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" />
+                  {dict.services.view_details} <ChevronRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" />
                 </span>
               </div>
             </Link>
@@ -139,17 +139,17 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           <div>
             <div className="flex items-center gap-3 mb-8">
               <Factory className="w-8 h-8 text-[#E35205]" />
-              <span className="text-xs font-bold tracking-widest text-blue-200">{dict.home.why_us.badge}</span>
+              <span className="text-xs font-bold tracking-widest text-blue-200">{dict.why_us.badge}</span>
             </div>
             <h2 className="text-3xl md:text-5xl font-black text-white tracking-tighter mb-8 leading-tight">
-              {dict.home.why_us.title}
+              {dict.why_us.title}
             </h2>
             <p className="text-lg text-blue-100 font-light leading-relaxed mb-10">
-              {dict.home.why_us.desc}
+              {dict.why_us.desc}
             </p>
 
             <div className="flex flex-col gap-6 mb-12">
-              {dict.home.why_us.list.map((item: string, idx: number) => (
+              {dict.why_us.list.map((item: string, idx: number) => (
                 <div key={idx} className="flex items-center gap-4">
                   <div className="w-8 h-8 rounded-full bg-[#E35205]/20 flex items-center justify-center shrink-0">
                     <CheckCircle className="w-5 h-5 text-[#E35205]" />
@@ -163,13 +163,13 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           <div className="grid grid-cols-2 gap-6">
             <div className="bg-white/10 backdrop-blur-md border border-white/20 p-8 rounded-2xl flex flex-col items-center justify-center text-center transform lg:translate-y-8">
               <Globe className="w-12 h-12 text-blue-200 mb-6" />
-              <h4 className="text-white font-bold tracking-widest mb-2">{dict.home.why_us.box1.title}</h4>
-              <p className="text-xs text-blue-200 leading-relaxed">{dict.home.why_us.box1.desc}</p>
+              <h4 className="text-white font-bold tracking-widest mb-2">{dict.why_us.box1.title}</h4>
+              <p className="text-xs text-blue-200 leading-relaxed">{dict.why_us.box1.desc}</p>
             </div>
             <div className="bg-[#E35205] p-8 rounded-2xl flex flex-col items-center justify-center text-center shadow-2xl">
               <ShieldCheck className="w-12 h-12 text-white mb-6" />
-              <h4 className="text-white font-bold tracking-widest mb-2">{dict.home.why_us.box2.title}</h4>
-              <p className="text-xs text-white/90 leading-relaxed">{dict.home.why_us.box2.desc}</p>
+              <h4 className="text-white font-bold tracking-widest mb-2">{dict.why_us.box2.title}</h4>
+              <p className="text-xs text-white/90 leading-relaxed">{dict.why_us.box2.desc}</p>
             </div>
           </div>
 

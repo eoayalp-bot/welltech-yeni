@@ -1,0 +1,93 @@
+{
+  "jacketedTanksPage": {
+    "metadata": {
+      "title": "Beheizte und gekühlte Doppelmanteltanks | Welltech®",
+      "description": "Edelstahltanks mit Mantel und Isolierung, die zur präzisen Temperaturregelung von Produkten in Chemie-, Lebensmittel- und Pharmaprozessen entwickelt wurden."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "Doppelmanteltanks"
+    },
+    "hero": {
+      "title": "Doppelmanteltanks (Heiz-/Kühltanks)",
+      "desc": "Reaktoren und Tanks mit Halbrohrschlange-, Dimple-Jacket- und Doppelwandtechnologie, die eine hohe Wärmeübertragungseffizienz bieten und die präzise Temperaturregelung gewährleisten, die Ihr Prozess benötigt."
+    },
+    "technology": {
+      "title": "Wärmeübertragungs- und Manteltechnologien",
+      "desc": "Doppelmanteltanks sind Systeme mit einem sekundären Hohlraum (Mantel), der in das Gehäuse integriert ist, um die darin befindliche Flüssigkeit zu erhitzen oder zu kühlen. Das <strong>Welltech® Engineering</strong> berechnet die optimale Oberfläche basierend auf der Heiz-/Kühlrate Ihres Prozesses und dem zu verwendenden Medium (Dampf, Thermoöl, Glykol, Eiswasser). Während die <strong>Halbrohrschlange</strong> ideal für Hochdruckdampf ist, bieten <strong>Dimple-Jackets (Lasergeschweißt)</strong> einen hervorragenden Wirkungsgrad bei homogenen Kühl- und Heizanwendungen."
+    },
+    "features": {
+      "title": "Design- und Isolationsvorteile",
+      "items": [
+        "Spezielle Manteldesigns für homogene Wärmeverteilung",
+        "Für Hochdruckdampf und Thermoöl geprüfte Schweißnähte",
+        "100 % energieeffiziente Isolierung mit Polyurethan oder Steinwolle",
+        "Vollverschweißte Edelstahl-Außenverkleidung über der Isolierung",
+        "Wärmebrückenfreie (Thermal Break) Verbindungen zur Vermeidung von Wärmeverlusten",
+        "Kompatibilität mit präzisen PT-100-Thermoelementen und Temperaturregelungsautomatik"
+      ],
+      "imgAlt": "Isolierung und Wärmeübertragung bei Doppelmanteltanks"
+    },
+    "table": {
+      "title": "Manteltypen und technische Anwendungen",
+      "note": "* Betriebsdruck und Mantelblechstärken werden statisch gemäß den Normen (ASME Section VIII oder EN 13445) berechnet.",
+      "headers": [
+        "MANTELTYP",
+        "VERWENDUNGSZWECK",
+        "WÄRMETRÄGERMEDIUM",
+        "MAXIMALER DRUCK"
+      ],
+      "imgAlt": "Technische Zeichnung Doppelmanteltank",
+      "rows": [
+        { "type": "Halbrohrschlange", "purpose": "Hochdruckbeheizung", "fluid": "Dampf / Thermoöl", "pressure": "25 Bar", "highlight": "orange" },
+        { "type": "Doppelwand", "purpose": "Atmosphärische Heizung/Kühlung", "fluid": "Heißwasser / Kaltwasser", "pressure": "3 Bar", "highlight": "dark" },
+        { "type": "Dimple-Jacket (Lasergeschweißt)", "purpose": "Homogene, schnelle Kühlung/Heizung", "fluid": "Eiswasser / Glykol / Dampf", "pressure": "15 Bar", "highlight": "dark" },
+        { "type": "Elektrisch (Heizstäbe)", "purpose": "Autonome (kessellose) Beheizung", "fluid": "Thermoöl / Wasser", "pressure": "Atmosphärisch", "highlight": "dark" }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Was ist der Unterschied zwischen einer Halbrohrschlange und einer Doppelwand?",
+          "a": "Ein Halbrohrmantel besteht aus Rohren, die um den Behälter gewickelt und verschweißt sind. Er bietet eine hervorragende Hochdruckbeständigkeit (z. B. 10 bar Dampf). Eine Doppelwand ist ein zweites Blech, das den Tank vollständig umschließt, und eignet sich besser für die Wasserzirkulation im Niederdruckbereich (atmosphärisch)."
+        },
+        {
+          "q": "Nach welchen Kriterien wird das Isolationsmaterial ausgewählt?",
+          "a": "Während Polyurethanschaum zur Vermeidung von Kondenswasser bei Kühlprozessen (Chiller) verwendet wird, wird bei Hochtemperatur-Heizprozessen (Dampf, Thermoöl) eine nicht brennbare Isolierung aus Stein- oder Keramikwolle bevorzugt."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Unsere industriellen Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Dampfbeheizter Reaktor", "alt": "Dampfmantelreaktor" },
+        { "src": "galeri-2.webp", "label": "Mit Eiswasser (Chiller) gekühlter Tank", "alt": "Kühlmanteltank" },
+        { "src": "galeri-3.webp", "label": "Schmelztank mit Thermoölmantel", "alt": "Schmelztank" },
+        { "src": "galeri-4.webp", "label": "Isolierter und elektrisch beheizter Mischer", "alt": "Elektrisch beheizter Tank" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie unseren Katalog mit Berechnungen der Wärmeübertragungsfläche, Manteldruckprüfungen und Isolationsdetails herunter.",
+        "fileUrl": "/assets/documents/de/manteltanks-heizen-kuehlen-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "CHEMIEANLAGE",
+        "desc": "Eine 20.000 L Polymerisationstank-Linie mit Glykolkühlung und Polyurethanisolierung.",
+        "imgAlt": "Doppelmanteltank Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Welcher Manteltyp?",
+        "desc": "Teilen Sie uns Ihre anvisierte Reaktionszeit und Ihr Heiz-/Kühlmedium mit, und wir wählen gemeinsam das sicherste Mantelsystem aus.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Hallo,%20ich%20moechte%20technische%20Informationen%20und%20Preise%20zu%20Doppelmanteltanks%20erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

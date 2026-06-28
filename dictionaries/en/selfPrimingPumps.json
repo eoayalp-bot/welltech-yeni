@@ -1,0 +1,95 @@
+{
+  "selfPrimingPumpsPage": {
+    "metadata": {
+      "title": "Self-Priming Pumps | Welltech®",
+      "description": "Stainless steel self-priming pumps that can evacuate foamy or gas-containing liquids and smoothly suck from tank bottoms."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "pumps": "Pumps",
+      "current": "Self-Priming Pumps"
+    },
+    "hero": {
+      "title": "Self-Priming Pumps",
+      "desc": "Cavitation-free operation in fluids containing air and gas mixtures. Flawless suction power for CIP return lines and tank evacuation from negative suction heads."
+    },
+    "technology": {
+      "title": "Vacuum and Self-Priming Technology",
+      "desc": "While standard centrifugal pumps lock up when there is air in the suction line, Self-Priming pumps create a vacuum by evacuating the air inside thanks to their special casing design. It is the most ideal and hygienic solution for drawing liquid from underground tanks or evacuating foamy washing water in CIP systems.",
+      "imgAlt": "Self-Priming Pump Impeller Technology"
+    },
+    "features": {
+      "title": "Performance and Design Advantages",
+      "items": [
+        "High Suction Capability from Negative Suction Heads (Deep)",
+        "Transfer of Fluids Containing Gas and Air (Foamy)",
+        "Full Compatibility with CIP (Clean-In-Place) Return Systems",
+        "Zero Dead Legs and Easily Washable (Hygienic) Inner Design",
+        "AISI 316L Forged or Precision Cast Stainless Steel",
+        "Wear-Resistant, Long-Lasting Mechanical Seal"
+      ],
+      "imgAlt": "Self-Priming Pump Inner Design"
+    },
+    "table": {
+      "title": "Technical Specifications and Capacity",
+      "note": "* Suction depth and flow values may vary depending on the fluid's viscosity (water = 1 cPs) and ambient temperature.",
+      "headers": [
+        "PUMP MODEL",
+        "MAX. FLOW (m³/h)",
+        "HEAD (m)",
+        "MOTOR POWER (kW)"
+      ],
+      "imgAlt": "Pump Technical Capacity Drawing",
+      "rows": [
+        { "model": "WSP-10", "flow": "10 m³/h", "head": "20 m", "power": "1.5 kW", "highlight": "dark" },
+        { "model": "WSP-20", "flow": "20 m³/h", "head": "25 m", "power": "2.2 kW", "highlight": "dark" },
+        { "model": "WSP-30", "flow": "30 m³/h", "head": "30 m", "power": "4.0 kW", "highlight": "dark" },
+        { "model": "WSP-40", "flow": "40 m³/h", "head": "35 m", "power": "5.5 kW", "highlight": "dark" },
+        { "model": "WSP-50", "flow": "50 m³/h", "head": "40 m", "power": "7.5 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What is the working logic of a self-priming pump?",
+          "a": "During the initial installation, a certain amount of liquid is filled into the casing. When it runs, it mixes this liquid with the air in the suction line and expels it, then draws the liquid up from the bottom thanks to the vacuum created in the line."
+        },
+        {
+          "q": "Why is this pump used in the CIP return line?",
+          "a": "During the tank washing (CIP) process, a lot of air and foam mixes with the liquid. Normal pumps spin uselessly in the foam (cavitation), while self-priming pumps tolerate the air and transfer the washing liquid without issues."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Industrial Applications",
+      "items": [
+        { "src": "galeri-1.webp", "label": "CIP Return System", "alt": "CIP Return Pump" },
+        { "src": "galeri-2.webp", "label": "Underground Tank Evacuation", "alt": "Underground Tank Suction Pump" },
+        { "src": "galeri-3.webp", "label": "Foamy Liquid Transfer", "alt": "Foamy Fluid Pump" },
+        { "src": "galeri-4.webp", "label": "Mobile Suction Station", "alt": "Mobile Self-Priming Pump" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download our catalog containing pump curves, suction depth calculations, and motor options.",
+        "fileUrl": "/assets/documents/en/self-priming-pumps-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "CIP SYSTEM",
+        "desc": "Fully automatic CIP washing return line we installed for a beverage factory with a daily capacity of 500 tons.",
+        "imgAlt": "CIP Return Reference",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "What is Your Suction Distance?",
+        "desc": "Send us the depth (negative head) of your underground tank and the pipe length, and let's choose the right pump that eliminates the risk of cavitation.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hello,%20I%20would%20like%20to%20get%20technical%20information%20and%20pricing%20about%20self-priming%20pumps.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "stainlessTanksPage": {
+    "metadata": {
+      "title": "Tanques em Inox | Welltech®",
+      "description": "Tanques de armazenamento e processo em aço inoxidável de alta qualidade, específicos para os setores industrial, de alimentos, de produtos químicos e de azeite."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "current": "Tanques em Inox"
+    },
+    "hero": {
+      "title": "Sistemas de Tanques em Aço Inoxidável",
+      "desc": "Soluções higiênicas e de longa duração em aço inoxidável, projetadas segundo padrões internacionais para diferentes processos industriais."
+    },
+    "categories": [
+      {
+        "title": "Tanques de Armazenamento Industrial",
+        "desc": "Sistemas de tanques de trabalho pesado concebidos para o armazenamento seguro de líquidos e matérias-primas de grande volume, resistentes à pressão e a condições exigentes."
+      },
+      {
+        "title": "Tanques de Armazenamento de Azeite",
+        "desc": "Tanques projetados especificamente para preservar o sabor autêntico do azeite premium, com sistema de inertização de nitrogênio, fundo cônico e garantia de oxidação zero."
+      },
+      {
+        "title": "Tanques de Leite e Alimentos",
+        "desc": "Tanques de processo em aço inoxidável ultra-higiênicos, isolados e com camisa de resfriamento, em total conformidade com as normas de segurança alimentar (FDA/GMP)."
+      },
+      {
+        "title": "Tanques Químicos e de Ácidos",
+        "desc": "Unidades de armazenamento totalmente resistentes a produtos químicos agressivos, a altas temperaturas e a pressões elevadas, de acordo com as normas de segurança internacionais."
+      }
+    ],
+    "viewModels": "VER MODELOS",
+    "cta": {
+      "title": "Produção Sob Medida para o Seu Projeto",
+      "desc": "Além dos modelos padronizados, solicite uma cotação para soluções de engenharia especiais que se adequam perfeitamente às restrições de espaço e capacidade de sua fábrica.",
+      "btn": "CONTATE-NOS"
+    }
+  }
+}

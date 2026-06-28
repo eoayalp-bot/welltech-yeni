@@ -1,0 +1,52 @@
+{
+  "processSystemsPage": {
+    "metadata": {
+      "title": "Systèmes de Process et Machines | Welltech®",
+      "description": "Cuves avec agitateur en acier inoxydable, réacteurs, homogénéisateurs et systèmes NEP aux normes internationales pour les industries alimentaire, chimique et pharmaceutique."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "current": "Systèmes de Process"
+    },
+    "hero": {
+      "title": "Systèmes de Process Industriels",
+      "desc": "Le cœur de votre ligne de production : des machines de process en acier inoxydable aux normes FDA et CE, dotées d'une haute précision et d'une automatisation avancée."
+    },
+    "categories": [
+      {
+        "title": "Cuves avec Agitateur",
+        "desc": "Cuves de mélange en inox à haut rendement, dotées de structures de pales (agitateurs) spécialement conçues pour les mélanges liquide-liquide et liquide-solide."
+      },
+      {
+        "title": "Réacteurs Chimiques",
+        "desc": "Systèmes à usage intensif (Heavy-Duty) qui contrôlent en toute sécurité les réactions chimiques se produisant sous haute pression, sous vide et à des températures extrêmes."
+      },
+      {
+        "title": "Homogénéisateurs",
+        "desc": "Mélangeurs à grande vitesse qui permettent d'obtenir un produit lisse et stable en réduisant les fluides de différentes phases (émulsion) au niveau du micron."
+      },
+      {
+        "title": "Unités Mobiles (Skids)",
+        "desc": "Unités de mélange et de transfert portables, facilement déplaçables vers différentes stations de l'usine, équipées de leur propre pompe et panneau d'automatisation."
+      },
+      {
+        "title": "Cuves à Double Enveloppe (Chauffage/Refroidissement)",
+        "desc": "Systèmes équipés de serpentins en demi-tube, de doubles enveloppes alvéolées (roll-bond) ou classiques pour les processus nécessitant un contrôle précis de la température."
+      },
+      {
+        "title": "Fermenteurs et Bioréacteurs",
+        "desc": "Réacteurs biotechnologiques stériles permettant la multiplication de bactéries, levures ou cultures cellulaires dans un environnement idéal de température, d'oxygène et de pH."
+      },
+      {
+        "title": "Systèmes NEP (CIP) Automatiques",
+        "desc": "Unités de stérilisation permettant le lavage et la désinfection automatiques des lignes de production, des cuves et des pompes sans démontage (Nettoyage En Place)."
+      }
+    ],
+    "viewModels": "VOIR LES SYSTÈMES",
+    "cta": {
+      "title": "Une Ingénierie Sur Mesure pour Votre Process",
+      "desc": "Partagez votre recette de production et la capacité visée avec nos ingénieurs experts, et concevons le système le plus adapté à votre process avec des simulations 3D.",
+      "btn": "CONSULTEZ NOTRE INGÉNIERIE"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "aboutPage": {
+    "metadata": {
+      "title": "Über uns | Welltech®",
+      "description": "Welltech International Engineering; Ihr globaler Engineering-Partner für Edelstahltanks, Reaktoren und Industrieanlagen."
+    },
+    "jsonLd": {
+      "description": "Welltech International Engineering; Ihr globaler Engineering-Partner für Edelstahltanks, Reaktoren und Industrieanlagen."
+    },
+    "hero": {
+      "titleStart": "Ingenieurskunst, die die",
+      "titleHighlight": "Zukunft gestaltet",
+      "desc": "Mit mehr als 20 Jahren Erfahrung sind wir stolz darauf, eine globale Marke für industrielle Prozess- und Lagersysteme aus Edelstahl zu sein."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "corporate": "Unternehmen",
+      "current": "Über uns"
+    },
+    "roots": {
+      "title": "Unsere Wurzeln und Vision",
+      "p1": "Welltech® ist ein internationales Unternehmen, das sich auf das Design, das Engineering und die Herstellung von Prozess- und Lagersystemen – dem Herzstück industrieller Anlagen – spezialisiert hat. Unser Werk in Kemalpasa, Izmir, fertigt mit Produktionslinien auf dem neuesten Stand der Technik.",
+      "p2": "Wir bieten schlüsselfertige Lösungen für Projekte mit strengen Hygienestandards und hohen Druckanforderungen, insbesondere für die Lebensmittel-, Pharma-, Chemie- und Kosmetikindustrie. Wir stellen nicht nur Tanks her; wir bauen Systeme, die von der Automatisierung bis zur Isolierung zu 100 % in Ihre Anlage integriert sind."
+    },
+    "global": {
+      "title": "6 Kontinente, über 50 Länder",
+      "desc": "Unsere von Izmir ausgehende Ingenieurskunst arbeitet heute reibungslos in riesigen Industrieanlagen auf der ganzen Welt, von Europa bis Asien, von Afrika bis Südamerika."
+    },
+    "cards": {
+      "mission": {
+        "title": "Unsere Mission",
+        "desc": "Langlebige und innovative Edelstahlsysteme zu bauen, die die Produktionsprozesse unserer Kunden so effizient, sicher und hygienisch wie möglich machen."
+      },
+      "vision": {
+        "title": "Unsere Vision",
+        "desc": "Ohne Kompromisse bei internationalen Qualitätsstandards einzugehen, eine der Top-3-Marken weltweit im Bereich der industriellen Produktionstechnologien zu werden."
+      },
+      "quality": {
+        "title": "Unser Qualitätsverständnis",
+        "desc": "Wir prüfen und zertifizieren jeden Schritt von der Materialauswahl bis zur finalen Schweißnaht nach (ASME, CE, ISO) Standards."
+      }
+    },
+    "cta": {
+      "title": "Perfektes Engineering für Ihr Projekt",
+      "desc": "Unabhängig von Ihrem Kapazitätsbedarf steht unser erfahrenes Ingenieurteam bereit, um das für Ihr Werk am besten geeignete System zu entwickeln.",
+      "btn": "KONTAKTIEREN SIE UNS"
+    }
+  }
+}

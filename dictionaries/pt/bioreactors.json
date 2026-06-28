@@ -1,0 +1,92 @@
+{
+  "bioreactorsPage": {
+    "metadata": {
+      "title": "Fermentadores e Biorreatores | Welltech®",
+      "description": "Sistemas de biorreatores e fermentadores industriais de aço inoxidável com alto nível de esterilidade para a multiplicação de bactérias, leveduras e culturas de células."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "process": "Sistemas de Processo",
+      "current": "Biorreatores"
+    },
+    "hero": {
+      "title": "Fermentadores e Biorreatores",
+      "desc": "Sistemas de reatores totalmente automáticos e estéreis (assépticos) que permitem a proliferação de microorganismos em condições ideais para as indústrias de biotecnologia, farmacêutica e de alimentos."
+    },
+    "technology": {
+      "title": "Tecnologia de Bioprocessos de Precisão",
+      "desc": "Os sistemas de fermentação requerem um equilíbrio perfeito para o crescimento de microorganismos vivos ou culturas de células. Os <strong>Biorreatores Welltech®</strong> monitoram simultaneamente o pH, o oxigênio dissolvido (OD), a temperatura, a espuma e a velocidade de agitação (RPM) durante a reação e os controlam instantaneamente através do painel de automação. Superfícies internas projetadas com o princípio de zero zonas mortas (Ra < 0,4 µm) eliminam completamente o risco de contaminação.",
+      "imgAlt": "Tecnologia de Processo do Biorreator"
+    },
+    "features": {
+      "title": "Projeto Estéril e Automação",
+      "items": [
+        "Projeto 100% Asséptico (Estéril) para Zero Contaminação",
+        "Estrutura de Parede Dupla / Camisa para Controle Preciso de Temperatura",
+        "Controle Automático de pH, Oxigênio Dissolvido (OD) e Espuma",
+        "Agitadores Magnéticos / Mecânicos Especiais que Não Alteram a Estrutura Celular",
+        "Compatibilidade com Esterilização no Local (SIP) e Limpeza no Local (CIP)",
+        "Tela Sensível ao Toque IHM Fácil de Usar e Integração SCADA"
+      ],
+      "imgAlt": "Painel de Controle de Automação do Biorreator"
+    },
+    "table": {
+      "title": "Capacidade e Especificações Técnicas",
+      "note": "* O volume de trabalho é calculado como aproximadamente 70-80% do volume total do tanque. O projeto de engenharia pode ser feito para produções industriais de maior capacidade.",
+      "headers": [
+        "SÉRIE / MODELO",
+        "VOLUME DE TRABALHO",
+        "PRESSÃO DE PROJETO"
+      ],
+      "imgAlt": "Desenho Técnico do Biorreator",
+      "rows": [
+        { "series": "Série Laboratório/Piloto (WBR-P)", "volume": "50 L - 500 L", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Série de Produção (WBR-1M)", "volume": "1.000 Litros", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Série de Produção (WBR-3M)", "volume": "3.000 Litros", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Série Industrial (WBR-5M)", "volume": "5.000 Litros", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Série Industrial (WBR-10M)", "volume": "10.000 Litros", "pressure": "-1 / +3 Bar", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "O que significa compatibilidade CIP e SIP?",
+          "a": "CIP (Clean-in-Place) significa que o sistema pode ser lavado sem ser desmontado, enquanto SIP (Sterilization-in-Place) envolve matar todas as bactérias no interior com vapor em alta temperatura, preparando o sistema de forma estéril para uma nova cultura."
+        },
+        {
+          "q": "Por que o controle do Oxigênio (OD) e do pH é importante?",
+          "a": "É absolutamente obrigatório manter continuamente a quantidade de oxigênio e o grau de acidez (pH) no ambiente em níveis ideais para que as bactérias ou leveduras possam se reproduzir sem morrer e secretar a enzima/produto alvo."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nossas Aplicações de Biorreatores",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Produção de Fármacos e Vacinas", "alt": "Biorreator Farmacêutico" },
+        { "src": "galeri-2.webp", "label": "Fermentação de Leveduras e Enzimas", "alt": "Fermentador de Levedura" },
+        { "src": "galeri-3.webp", "label": "Bioprocesso em Escala Piloto", "alt": "Biorreator Piloto" },
+        { "src": "galeri-4.webp", "label": "Culturas Lácteas e de Iogurte", "alt": "Tanque de Fermentação" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "fileUrl": "/assets/documents/pt/biorreatores-fermentacao-fichas-tec.pdf",
+        "btn": "BAIXAR ESPECIFICAÇÃO"
+      },
+      "reference": {
+        "badge": "BIOTECNOLOGIA",
+        "desc": "Linha de fermentação enzimática totalmente automática de 5.000 L de capacidade que instalamos para uma empresa internacional de biotecnologia.",
+        "imgAlt": "Referência de Biorreator",
+        "link": "IR PARA O PROJETO"
+      },
+      "cta": {
+        "title": "SCADA Específico para o seu Processo",
+        "desc": "Projete a tecnologia de mistura e a infraestrutura de sensores mais adequada para sua cultura de células junto com nossos engenheiros.",
+        "btn": "CONTATE-NOS"
+      }
+    }
+  }
+}

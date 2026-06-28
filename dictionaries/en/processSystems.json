@@ -1,0 +1,52 @@
+{
+  "processSystemsPage": {
+    "metadata": {
+      "title": "Process Systems and Machinery | Welltech®",
+      "description": "International standard stainless steel agitated tanks, reactors, homogenizers, and CIP systems for the food, chemical, and pharmaceutical industries."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Process Systems"
+    },
+    "hero": {
+      "title": "Industrial Process Systems",
+      "desc": "High-precision and automated stainless steel process machinery at FDA and CE standards, forming the heart of your production line."
+    },
+    "categories": [
+      {
+        "title": "Agitated Tanks",
+        "desc": "High-efficiency stainless mixer tanks with specially designed blade (agitator) structures for liquid-liquid and liquid-solid mixtures."
+      },
+      {
+        "title": "Chemical Reactors",
+        "desc": "Heavy-duty systems that safely control chemical reactions occurring under high pressure, vacuum, and extreme temperature conditions."
+      },
+      {
+        "title": "Homogenizers",
+        "desc": "High-speed mixers that ensure the production of smooth and stable products by breaking down fluids in different phases (emulsions) at the micron level."
+      },
+      {
+        "title": "Mobile Units",
+        "desc": "Portable mixing and transfer units equipped with their own pumps and automation panels that can be easily transported to different stations within the facility."
+      },
+      {
+        "title": "Heated/Cooled (Jacketed) Tanks",
+        "desc": "Systems with half-pipe coil, roll-bond, or double-wall technologies for processes where product temperature needs to be precisely controlled."
+      },
+      {
+        "title": "Fermentation and Bioreactors",
+        "desc": "Sterile biotechnological reactors that allow bacteria, yeast, or cell cultures to multiply in an ideal temperature, oxygen, and pH environment."
+      },
+      {
+        "title": "Fully Automatic CIP Systems",
+        "desc": "Sterilization units that allow automatic washing and disinfection of production lines, tanks, and pumps without dismantling (Clean-in-Place)."
+      }
+    ],
+    "viewModels": "VIEW SYSTEMS",
+    "cta": {
+      "title": "Process-Specific Engineering",
+      "desc": "Share your production recipe and targeted capacity with our expert engineers, and let us design the most suitable system for your process with 3D simulations.",
+      "btn": "CONSULT OUR ENGINEERS"
+    }
+  }
+}

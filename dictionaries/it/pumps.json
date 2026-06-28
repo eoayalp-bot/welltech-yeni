@@ -1,0 +1,48 @@
+{
+  "pumpsPage": {
+    "metadata": {
+      "title": "Pompe Igieniche Industriali | Welltech®",
+      "description": "Pompe centrifughe, a lobi, autoadescanti e pneumatiche a membrana in acciaio inox ad alta efficienza per le industrie alimentare, farmaceutica e chimica."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Pompe Industriali"
+    },
+    "hero": {
+      "title": "Pompe di Processo Industriali",
+      "desc": "Massima igiene (FDA/3A) e trasferimento senza perdite. Soluzioni ad alto contenuto ingegneristico progettate per latte, miele, cioccolato e prodotti chimici aggressivi."
+    },
+    "categories": [
+      {
+        "title": "Pompe Centrifughe",
+        "desc": "Sistemi standard o autoventilati progettati per il trasferimento continuo, igienico e ad alta portata di fluidi a bassa viscosità come latte, succhi di frutta e acqua."
+      },
+      {
+        "title": "Pompe a Spostamento Positivo",
+        "desc": "Pompe a lobi progettate per il trasferimento delicato e preciso di prodotti ad alta viscosità come creme, miele, shampoo e concentrati, preservandone la struttura delle particelle."
+      },
+      {
+        "title": "Pompe Autoadescanti",
+        "desc": "Unità compatte e ad alte prestazioni in grado di aspirare dal fondo dei serbatoi senza problemi di cavitazione, ideali per fluidi contenenti aria o schiuma."
+      },
+      {
+        "title": "Pompe per Fusti e Contenitori",
+        "desc": "Pompe portatili, leggere e ad elevata sicurezza per il trasferimento di acidi, solventi e additivi alimentari da fusti industriali e contenitori IBC."
+      },
+      {
+        "title": "Pompe Pneumatiche a Membrana",
+        "desc": "Pompe pneumatiche prive di alimentazione elettrica, idonee per ambienti esplosivi o infiammabili (ATEX) e per il trasferimento di fluidi contenenti particelle solide."
+      },
+      {
+        "title": "Pompe Monovite (a Cavità Progressiva)",
+        "desc": "Pompe a vite eccentrica progettate per il trasporto continuo di polpe di frutta, cagliata, fanghi di depurazione e impasti con elevato contenuto di solidi."
+      }
+    ],
+    "viewModels": "DETTAGLI PRODOTTO",
+    "cta": {
+      "title": "La Scelta della Pompa è una Decisione Ingegneristica Critica",
+      "desc": "Analizziamo insieme viscosità, temperatura e perdite di carico della vostra linea per selezionare la pompa più adatta al vostro processo, evitando fenomeni di cavitazione.",
+      "btn": "CONSULTATE I NOSTRI INGEGNERI"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "chemicalTanksPage": {
+    "metadata": {
+      "title": "Chemie- und Säuretanks | Welltech®",
+      "description": "Maximal korrosionsbeständige Edelstahltanks für aggressive Chemikalien, Säuren und Hochdruckprozesse."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "tanks": "Edelstahltanks",
+      "current": "Chemietanks"
+    },
+    "hero": {
+      "title": "Chemie- und Säuretanks",
+      "desc": "Hochkorrosionsbeständige, ATEX-konforme und maximal sichere Edelstahllösungen für aggressive Chemikalien und anspruchsvolle Prozesse."
+    },
+    "corrosion": {
+      "title": "Maximale Korrosionsbeständigkeit",
+      "desc": "Standard-Edelstähle können für die Lagerung hochkorrosiver Medien wie Säuren, Lösungsmittel und Laugen unzureichend sein. Abhängig vom pH-Wert, der Betriebstemperatur und dem Druck der Chemikalie gewährleisten die Ingenieure von Welltech maximale Arbeitssicherheit in Ihrer Anlage durch Behälterdesigns aus Titanlegierung (316Ti), Super-Duplex oder mit Spezialbeschichtungen (PTFE)."
+    },
+    "features": {
+      "title": "Design- und Sicherheitsausstattung",
+      "items": {
+        "1": "Duplex, 316Ti oder Hastelloy als Sonderlegierungsoptionen",
+        "2": "Integration von ATEX (Ex-Proof) zertifizierten Ausrüstungen",
+        "3": "Doppelwandige Ausführung für absolute Leckagesicherheit",
+        "4": "Gaswäscher (Scrubber) und Entlüftungssysteme",
+        "5": "Säure- und chemikalienbeständige Spezialdichtungen (PTFE/Viton)",
+        "6": "Automatisierte Dosier- und Füllstandskontrollsysteme"
+      }
+    },
+    "capacityTable": {
+      "title": "Heavy-Duty Produktionskapazitäten",
+      "note": "* Die Wandstärken für aggressive Chemikalien werden statisch anhand des spezifischen Gewichts der Flüssigkeit und des Drucks berechnet.",
+      "heavy": " (Heavy-Duty)",
+      "headers": {
+        "volume": "VOLUMEN",
+        "diameter": "DURCHMESSER (Ø mm)",
+        "height": "HÖHE (mm)",
+        "thickness": "MIN. WANDSTÄRKE"
+      },
+      "customRow": "Für Tanks dieser Kapazität und darüber, die ein spezielles Engineering erfordern, werden projektbezogene Berechnungen durchgeführt."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Für welche Chemikalien sind Edelstahltanks geeignet?",
+          "a": "Durch die Wahl der richtigen Legierung (316L, 316Ti, Duplex) wird eine sichere Lagerung vieler korrosiver Stoffe wie Salpetersäure, Schwefelsäure, Natriumhydroxid (Natronlauge), Lösungsmittel und petrochemischer Produkte gewährleistet."
+        },
+        {
+          "q": "Gibt es eine ATEX-Zulassung für entzündliche / explosive Chemikalien?",
+          "a": "Ja, für brennbare Lösungsmittel und ähnliche flüssige Medien werden alle Motoren, Sensoren und Ventile ATEX (Ex-Proof) zertifiziert integriert."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Unsere Chemie-Projektbeispiele",
+      "p1": {
+        "title": "Schwefelsäuretank",
+        "alt": "Schwefelsäuretank-Projekt"
+      },
+      "p2": {
+        "title": "Laugenlagerung",
+        "alt": "Natronlauge-Lagertank"
+      },
+      "p3": {
+        "title": "ATEX-Lösungsmitteltank",
+        "alt": "ATEX-geprüfter Lösungsmitteltank"
+      },
+      "p4": {
+        "title": "Doppelwandiger isolierter Tank",
+        "alt": "Doppelwandiger Chemietank"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie die Spezifikationsdatei mit Tabellen zur chemischen Beständigkeit, Wandstärken und Sicherheitsstandards herunter.",
+        "fileUrl": "/assets/documents/de/chemikalien-saeuretanks-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "ATEX-PROJEKT",
+        "desc": "Ex-Proof-Lösungsmittellagerlinie, die wir für ein internationales petrochemisches Werk hergestellt haben.",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Benötigen Sie eine Sonderlegierung?",
+        "desc": "Senden Sie uns das Sicherheitsdatenblatt (SDB) der in Ihrem Projekt verwendeten Chemikalie, und wir ermitteln gemeinsam die am besten geeignete Edelstahllegierung.",
+        "whatsappMsg": "Hallo, ich moechte die Auswahl der Legierung und die Preisgestaltung fuer chemische Lagertanks besprechen.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

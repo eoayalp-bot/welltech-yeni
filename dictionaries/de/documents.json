@@ -1,0 +1,85 @@
+{
+  "documentsPage": {
+    "metadata": {
+      "title": "Qualität und Zertifizierungen | Welltech®",
+      "description": "Unsere internationalen Qualitätsstandards, Zertifizierungen und Verfahren zur zerstörungsfreien Prüfung (ZfP)."
+    },
+    "hero": {
+      "title": "Qualität und Zertifizierungen",
+      "desc": "Rückverfolgbare und 100% zuverlässige Engineering-Prozesse nach internationalen Standards."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "corporate": "Unternehmen",
+      "current": "Qualität und Zertifizierungen"
+    },
+    "globalStandards": {
+      "title": "Globale Produktionsstandards",
+      "desc": "Jede in unserer Einrichtung hergestellte Anlage wird vom Rohstoffeingang bis zur Endprüfung gemäß den internationalen Normen (ISO, ASME, CE) geprüft und zertifiziert."
+    },
+    "ndt": {
+      "title": "Unsere Kapazitäten für Zerstörungsfreie Prüfung (ZfP / NDT)",
+      "items": {
+        "rt": "Durchstrahlungsprüfung (RT)",
+        "pt": "Eindringprüfung (PT)",
+        "ut": "Ultraschallprüfung (UT)",
+        "vt": "Sichtprüfung (VT)",
+        "hydro": "Hydrostatische Druckprüfung",
+        "roughness": "Oberflächenrauhigkeitsmessung (Ra)"
+      }
+    },
+    "certifications": {
+      "title": "Unsere gültigen Zertifikate",
+      "note": "* Kopien der entsprechenden Dokumente können Sie über das Seitenmenü oder bei unserer Qualitätsabteilung anfordern.",
+      "tableHeaders": {
+        "standard": "STANDARD / NORMEN",
+        "scope": "GELTUNGSBEREICH",
+        "status": "STATUS"
+      },
+      "scopes": {
+        "iso9001": "Qualitätsmanagementsystem",
+        "iso3834": "Schweißtechnische Qualitätsanforderungen",
+        "ped": "Druckgeräterichtlinie (DGRL)",
+        "asme": "Herstellungsstandards für Druckbehälter",
+        "ce": "EU-Konformitätserklärung"
+      },
+      "status": {
+        "active": "Aktiv / Genehmigt",
+        "compliant": "Konforme Produktion"
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Stellen Sie Materialzertifikate mit dem Produkt zur Verfügung?",
+          "a": "Ja, Abnahmeprüfzeugnisse (EN 10204 3.1) für alle verwendeten Edelstahlmaterialien werden im Lieferdokument (Data Book) zur Verfügung gestellt."
+        },
+        {
+          "q": "Sind Ihre Schweißverfahren zugelassen?",
+          "a": "Alle unsere Schweißarbeiten werden von zertifizierten und geprüften Schweißern in Übereinstimmung mit den WPS- und WPQR-Verfahren durchgeführt."
+        }
+      ]
+    },
+    "sidebar": {
+      "iso": {
+        "title": "ISO & CE-Zertifikate",
+        "subtitle": "OFFIZIELLE ZERTIFIKATE",
+        "desc": "Sie können die Qualitätsmanagement- und Produktionszertifikate unseres Werks mit einem Klick herunterladen.",
+        "fileUrl": "/assets/documents/de/offizielle-zertifikate-iso-ce.pdf",
+        "btn": "ZERTIFIKATE HERUNTERLADEN"
+      },
+      "catalog": {
+        "title": "Gesamtkatalog",
+        "subtitle": "PRODUKTBULLETIN 2026",
+        "desc": "Laden Sie unseren aktuellen Katalog herunter, um unsere gesamte Produktpalette und technische Kapazität einzusehen.",
+        "fileUrl": "/assets/documents/de/allgemeiner-produktkatalog-2026.pdf",
+        "btn": "KATALOG HERUNTERLADEN"
+      },
+      "department": {
+        "title": "Qualitätsabteilung",
+        "desc": "Kontaktieren Sie uns für Qualitätsanforderungen und Inspektionsanfragen durch Dritte (TPI) bei Ihren Sonderprojekten."
+      }
+    }
+  }
+}

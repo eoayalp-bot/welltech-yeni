@@ -1,0 +1,95 @@
+{
+  "monopompPumpsPage": {
+    "metadata": {
+      "title": "Monopomp (Burgulu) Pompalar | Welltech®",
+      "description": "Yüksek viskoziteli, yapışkan ve katı partikül içeren zorlu akışkanların (çamur, hamur, bal) kayıpsız transferi için paslanmaz çelik monopompalar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Monopomp Pompalar"
+    },
+    "hero": {
+      "title": "Monopomp (Burgulu) Pompalar",
+      "desc": "Arıtma çamuru, salça, meyve posası ve bal gibi zorlu, yapışkan ve yüksek viskoziteli akışkanların yapısını bozmadan pürüzsüz transfer."
+    },
+    "technology": {
+      "title": "Progressive Cavity (Burgu) Teknolojisi",
+      "desc": "Monopompalar (Progressive Cavity Pumps), paslanmaz çelik bir rotorun esnek bir stator içinde dönerek hacimsel odacıklar (kavite) oluşturması prensibiyle çalışır. Bu burgu hareketi, akışkanı ezmeden, köpürtmeden ve pulzasyon (dalgalanma) yaratmadan sürekli olarak ileri iter. En zorlu, katı parça içeren veya yapışkan sıvıların transferinde sektörün vazgeçilmez standardıdır.",
+      "imgAlt": "Monopomp Rotor ve Stator Kesiti"
+    },
+    "features": {
+      "title": "Tasarım ve Performans Üstünlükleri",
+      "items": [
+        "Pulzasyonsuz (Dalgalanmasız), Sürekli ve Hassas Akış",
+        "1.000.000 cPs Viskoziteye Kadar Akışkan Transferi",
+        "Katı Partikülleri ve Lifleri Parçalamadan İletme",
+        "Düşük Devirde Yüksek Basınç (Kademeli Stator Sistemi)",
+        "Gıda Normlarına Uygun NBR, EPDM veya Viton Stator Seçenekleri",
+        "Sessiz Çalışma ve Kolay Yedek Parça Değişimi"
+      ],
+      "imgAlt": "Monopomp İç Donanım Özellikleri"
+    },
+    "table": {
+      "title": "Teknik Özellikler ve Kapasite",
+      "note": "* Debi ve basınç değerleri, transfer edilecek akışkanın viskozitesine ve motor devrine (redüktör) göre projeye özel hesaplanır.",
+      "headers": [
+        "POMPA MODELİ",
+        "MAKS. DEBİ (m³/h)",
+        "MAKS. BASINÇ (Bar)",
+        "BAĞLANTI ÖLÇÜSÜ"
+      ],
+      "imgAlt": "Monopomp Teknik Kapasite Çizimi",
+      "rows": [
+        { "model": "WMP-01", "flow": "1 m³/h", "head": "6 Bar", "power": "1\"", "highlight": "dark" },
+        { "model": "WMP-05", "flow": "5 m³/h", "head": "12 Bar", "power": "1 1/2\"", "highlight": "dark" },
+        { "model": "WMP-10", "flow": "10 m³/h", "head": "12 Bar", "power": "2\"", "highlight": "dark" },
+        { "model": "WMP-25", "flow": "25 m³/h", "head": "24 Bar", "power": "3\"", "highlight": "dark" },
+        { "model": "WMP-50", "flow": "50 m³/h", "head": "24 Bar", "power": "4\"", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Monopomp hangi akışkanlar için tercih edilir?",
+          "a": "Krema, şampuan, arıtma çamuru, zeytin hamuru (prina), salça, balık yağı ve tutkal gibi normal pompaların basmakta zorlandığı veya kilitlendiği tüm yüksek viskoziteli ve yapışkan sıvılar için kullanılır."
+        },
+        {
+          "q": "Stator (Kauçuk) ömrü ne kadardır, bozulduğunda ne yapılır?",
+          "a": "Stator ömrü, akışkanın aşındırıcılığına ve çalışma sıcaklığına bağlıdır. Kuru (susuz) çalışma statoru hızla yakabilir. Bozulduğunda, pompayı hattan tamamen sökmeden sadece ön gövde açılarak stator değişimi (bakımı) kolayca yapılabilir."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Endüstriyel Uygulamalarımız",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Arıtma ve Çamur Transferi", "alt": "Çamur Monopompası" },
+        { "src": "galeri-2.webp", "label": "Gıda ve Salça Aktarımı", "alt": "Gıda Monopompası" },
+        { "src": "galeri-3.webp", "label": "Zeytin Hamuru (Prina) Pompası", "alt": "Prina Pompası" },
+        { "src": "galeri-4.webp", "label": "Şampuan ve Kozmetik Dolumu", "alt": "Kozmetik Monopomp" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Stator malzeme uyumlulukları, basınç/kavite hesaplamaları ve motor redüktör eğrilerini içeren kataloğu indirin.",
+        "fileUrl": "/assets/documents/tr/monopomp-burgulu-pompalar-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "ARITMA TESİSİ",
+        "desc": "Endüstriyel bir atıksu arıtma tesisine kurduğumuz 24 Bar basınca sahip çamur (sludge) besleme pompaları.",
+        "imgAlt": "Monopomp Arıtma Referansı",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Akışkanınız Ne Kadar Yoğun?",
+        "desc": "Transfer etmek istediğiniz sıvının yoğunluğunu (viskozitesini) ve saatlik hedefinizi bize iletin, doğru rotor-stator ikilisini seçelim.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Merhaba,%20monopomp%20(burgulu)%20pompalar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

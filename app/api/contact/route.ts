@@ -3,6 +3,10 @@ import nodemailer from 'nodemailer';
 
 export async function POST(request: Request) {
   try {
+    const forwardedFor = request.headers.get('x-forwarded-for');
+    const realIp = request.headers.get('x-real-ip');
+    const senderIp = forwardedFor ? forwardedFor.split(',')[0].trim() : (realIp || 'IP Tespit Edilemedi');
+
     const body = await request.json();
     const { name, company, email, phone, subject, message, file, captchaToken } = body;
 
@@ -20,8 +24,13 @@ export async function POST(request: Request) {
       );
     }
 
-    const recaptchaSecretKey = process.env.RECAPTCHA_SECRET_KEY || "6LfjAgctAAAAALojabzH0-M9T8u6x1OkZjRD7Rke";
+    const recaptchaSecretKey = process.env.RECAPTCHA_SECRET_KEY;
     
+    if (!recaptchaSecretKey) {
+      console.error('Sunucu Hatası: RECAPTCHA_SECRET_KEY .env dosyasında bulunamadı.');
+      return NextResponse.json({ error: 'Sunucu yapılandırma hatası.' }, { status: 500 });
+    }
+
     const verifyRes = await fetch('https://www.google.com/recaptcha/api/siteverify', {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
@@ -36,7 +45,6 @@ export async function POST(request: Request) {
       );
     }
 
-    // 3. E-POSTA SUNUCUSU (SMTP) AYARLARI
     const transporter = nodemailer.createTransport({
       host: process.env.SMTP_HOST,
       port: Number(process.env.SMTP_PORT),
@@ -85,7 +93,12 @@ export async function POST(request: Request) {
           
           ${file ? `<div style="margin-top: 20px; padding: 10px; background: #e8f5e9; color: #2e7d32; border-radius: 6px; font-size: 13px; font-weight: bold;">📎 Bu mesaja bir dosya (Görsel/PDF) eklendi. Ekler kısmından kontrol edebilirsiniz.</div>` : ''}
           
-          <p style="font-size: 11px; color: #999; margin-top: 25px; text-align: center;">Bu mail Welltech® İletişim Portalı üzerinden otomatik olarak oluşturulmuştur.</p>
+          <div style="margin-top: 30px; padding-top: 15px; border-top: 1px solid #eee; text-align: center;">
+            <p style="font-size: 11px; color: #999; margin: 0 0 5px 0;">Bu mail Welltech® İletişim Portalı üzerinden otomatik olarak oluşturulmuştur.</p>
+            <p style="font-size: 11px; margin: 0; color: #d32f2f; font-family: monospace;">
+              <strong>Güvenlik & Kayıt:</strong> Gönderen IP Adresi: <strong>${senderIp}</strong>
+            </p>
+          </div>
         </div>
       `,
     };

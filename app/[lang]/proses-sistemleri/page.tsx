@@ -6,7 +6,7 @@ import { getLocalizedUrl } from '../../../dictionaries/routes';
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
-  const dict = await getDictionary(resolvedParams.lang);
+  const dict = await getDictionary(resolvedParams.lang, 'processSystems');
   const t = dict.processSystemsPage;
   return { title: t.metadata.title, description: t.metadata.description };
 }
@@ -14,17 +14,17 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 export default async function ProcessMachinesPage({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+  const dict = await getDictionary(lang, 'processSystems');
   const t = dict.processSystemsPage;
 
   const icons = [
-    <Settings className="w-6 h-6" />,
-    <Beaker className="w-6 h-6" />,
-    <FlaskConical className="w-6 h-6" />,
-    <Truck className="w-6 h-6" />,
-    <ThermometerSun className="w-6 h-6" />,
-    <Microscope className="w-6 h-6" />,
-    <Sparkles className="w-6 h-6" />,
+    <Settings key="1" className="w-6 h-6" />,
+    <Beaker key="2" className="w-6 h-6" />,
+    <FlaskConical key="3" className="w-6 h-6" />,
+    <Truck key="4" className="w-6 h-6" />,
+    <ThermometerSun key="5" className="w-6 h-6" />,
+    <Microscope key="6" className="w-6 h-6" />,
+    <Sparkles key="7" className="w-6 h-6" />,
   ];
 
   const images = [

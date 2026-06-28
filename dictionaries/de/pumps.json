@@ -1,0 +1,48 @@
+{
+  "pumpsPage": {
+    "metadata": {
+      "title": "Industrielle Hygienepumpen | Welltech®",
+      "description": "Hocheffiziente Edelstahl-Kreisel-, Drehkolben-, selbstansaugende und Druckluft-Membranpumpen für die Lebensmittel-, Pharma- und chemische Industrie."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "current": "Industriepumpen"
+    },
+    "hero": {
+      "title": "Industrielle Prozesspumpen",
+      "desc": "Null Verlust und maximale Hygiene (FDA/3A) beim Flüssigkeitstransfer. Hochtechnologische Produkte für Milch, Honig, Schokolade und aggressive Chemikalien."
+    },
+    "categories": [
+      {
+        "title": "Kreiselpumpen",
+        "desc": "Standard- oder selbstkühlende Systeme für den verlustfreien, kontinuierlichen und hygienischen Transfer von niedrigviskosen Medien wie Milch, Saft und Wasser bei hohen Durchflussraten."
+      },
+      {
+        "title": "Drehkolbenpumpen (Verdrängerpumpen)",
+        "desc": "Drehkolbenpumpen, die den präzisen Transfer von dichten (hochviskosen) Produkten wie Sahne, Honig, Shampoo oder Tomatenmark ermöglichen, ohne deren Partikelstruktur zu zerstören."
+      },
+      {
+        "title": "Selbstansaugende Pumpen",
+        "desc": "Leistungsstarke und kompakte Flüssigkeitstransfereinheiten, die schäumende oder gashaltige Flüssigkeiten evakuieren und ohne Kavitationsprobleme vom Tankboden ansaugen können."
+      },
+      {
+        "title": "Fass- und Behälterpumpen",
+        "desc": "Tragbare, leichte und hochsichere Pumpen zum Entleeren von Säuren, Lösungsmitteln oder Lebensmittelzusätzen aus Industriefässern und IBC-Tanks."
+      },
+      {
+        "title": "Druckluft-Membranpumpen",
+        "desc": "Pneumatische Pumpen, die stromlos arbeiten und sicher in explosiven/brennbaren (ATEX) Umgebungen sowie beim Transfer von partikelhaltigen Flüssigkeiten eingesetzt werden können."
+      },
+      {
+        "title": "Exzenterschneckenpumpen (Monopumpen)",
+        "desc": "Schneckenpumpen für das kontinuierliche Fördern von Fruchtpulpe, Käsebruch, Klärschlamm oder Teigen mit hohem Feststoffanteil in Rohrleitungen."
+      }
+    ],
+    "viewModels": "PRODUKTDETAILS",
+    "cta": {
+      "title": "Die Wahl der richtigen Pumpe ist entscheidendes Engineering",
+      "desc": "Lassen Sie uns gemeinsam die exakteste (kavitationsfreie) Pumpe für Ihren Prozess auswählen, indem wir die Viskosität, die Temperatur Ihres Mediums und die Druckverluste Ihrer Leitung berechnen.",
+      "btn": "INGENIEUR KONSULTIEREN"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "seo": {
+    "defaultTitle": "Welltech® | Serbatoi Industriali e Sistemi di Processo",
+    "description": "Produttore di serbatoi industriali in acciaio inox, pompe igieniche e apparecchiature di processo conformi agli standard internazionali.",
+    "keywords": [
+      "serbatoio in acciaio inox",
+      "sistemi di processo",
+      "pompa igienica",
+      "welltech"
+    ]
+  },
+  "cookieBanner": {
+    "title": "Politica sui Cookie",
+    "description": "Utilizziamo i cookie per offrirvi un'esperienza migliore.",
+    "details": "Visualizza i Dettagli",
+    "accept": "Accetta",
+    "decline": "Rifiuta"
+  },
+  "navbar": {
+    "tanks": "Serbatoi in Acciaio Inox",
+    "machines": "Sistemi di Processo",
+    "pumps": "Pompe Igieniche",
+    "about": "Chi Siamo",
+    "blog": "Blog e Notizie",
+    "docs": "Documentazione",
+    "contact": "Contatti"
+  },
+  "footer": {
+    "description": "Soluzioni di ingegneria chiavi in mano personalizzate per il vostro impianto con serbatoi industriali in acciaio inox, sistemi di processo e pompe igieniche conformi agli standard internazionali.",
+    "inokstek": "UNA SOCIETÀ DEL GRUPPO INOKSTEK",
+    "products": "PRODOTTI E SOLUZIONI",
+    "tanks": "Serbatoi di Stoccaggio in Acciaio Inox",
+    "machines": "Sistemi di Processo",
+    "pumps": "Pompe di Trasferimento Igieniche",
+    "locations": "SEDI",
+    "hq_title": "Sede Centrale",
+    "factory_title": "Stabilimenti di Produzione",
+    "copyright": "Tutti i Diritti Riservati."
+  }
+}

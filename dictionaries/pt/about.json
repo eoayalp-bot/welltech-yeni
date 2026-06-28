@@ -1,0 +1,49 @@
+{
+  "aboutPage": {
+    "metadata": {
+      "title": "Sobre Nós | Welltech®",
+      "description": "Welltech International Engineering; seu parceiro global de engenharia em tanques de aço inoxidável, reatores e instalações de plantas industriais."
+    },
+    "jsonLd": {
+      "description": "Welltech International Engineering; seu parceiro global de engenharia em tanques de aço inoxidável, reatores e instalações de plantas industriais."
+    },
+    "hero": {
+      "titleStart": "A Engenharia que Constrói o",
+      "titleHighlight": "Futuro",
+      "desc": "Com mais de 20 anos de experiência, temos orgulho de ser uma marca global em sistemas industriais de processo e armazenamento de aço inoxidável."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "corporate": "Corporativo",
+      "current": "Sobre Nós"
+    },
+    "roots": {
+      "title": "Nossas Raízes e Visão",
+      "p1": "A Welltech® é uma empresa internacional especializada no projeto, engenharia e fabricação de sistemas de processo e armazenamento, o coração das instalações industriais. Nossa fábrica opera em Kemalpasa, Izmir, com linhas de produção equipadas com a tecnologia mais recente.",
+      "p2": "Oferecemos soluções 'turnkey' para projetos com padrões rigorosos de higiene e altos requisitos de pressão, especialmente nos setores alimentício, farmacêutico, químico e de cosméticos. Não fabricamos apenas tanques; construímos sistemas que operam 100% integrados em suas instalações, desde a automação até o isolamento."
+    },
+    "global": {
+      "title": "6 Continentes, Mais de 50 Países",
+      "desc": "Nossa engenharia, que começou em Izmir, opera hoje sem problemas em gigantescas plantas industriais em todo o mundo, da Europa à Ásia, da África à América do Sul."
+    },
+    "cards": {
+      "mission": {
+        "title": "Nossa Missão",
+        "desc": "Construir sistemas inoxidáveis duradouros e inovadores que tornem os processos de produção de nossos clientes o mais eficientes, seguros e higiênicos possível."
+      },
+      "vision": {
+        "title": "Nossa Visão",
+        "desc": "Ser uma das 3 marcas mais confiáveis em nível global em tecnologias de produção industrial, sem comprometer os padrões internacionais de qualidade."
+      },
+      "quality": {
+        "title": "Nossa Abordagem de Qualidade",
+        "desc": "Testamos e certificamos cada etapa, desde a seleção de matérias-primas até o ponto de soldagem final, de acordo com os padrões (ASME, CE, ISO)."
+      }
+    },
+    "cta": {
+      "title": "Engenharia Perfeita para o Seu Projeto",
+      "desc": "Seja qual for sua necessidade de capacidade, nossa equipe de engenheiros especialistas está pronta para projetar o sistema mais adequado para sua fábrica.",
+      "btn": "CONTATE-NOS"
+    }
+  }
+}

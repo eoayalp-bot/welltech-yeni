@@ -1,0 +1,28 @@
+{
+  "referencesPage": {
+    "metadata": {
+      "title": "Referanslarımız | Welltech®",
+      "description": "Welltech® International Engineering tarafından dünya çapında başarıyla tamamlanan endüstriyel tesis ve ekipman referansları."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "current": "Referanslarımız"
+    },
+    "hero": {
+      "title": "Referanslarımız",
+      "quote": "\"Mühendislik vizyonumuz, başarıyla teslim ettiğimiz her tesiste kendini kanıtlar.\""
+    },
+    "labels": {
+      "capacity": "KAPASİTE",
+      "material": "MALZEME",
+      "standard": "STANDART",
+      "features": "ÖZELLİKLER"
+    },
+    "ctaBtn": "BİZE ULAŞIN",
+    "cta": {
+      "title": "Sıradaki Başarı Hikayesi Sizin Tesisiniz Olsun",
+      "desc": "Yeni yatırım veya modernizasyon projelerinizde Welltech® mühendislik gücünü ve tecrübesini yanınıza alın.",
+      "btn": "PROJENİZİ ANLATIN"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "contactPage": {
+    "metadata": {
+      "title": "Contatti | Welltech®",
+      "description": "Contattateci per i vostri progetti. Sede centrale e stabilimento produttivo a Kemalpaşa, İzmir."
+    },
+    "hero": {
+      "title": "Contattaci",
+      "desc": "Mettetevi direttamente in contatto con il nostro team di esperti per i vostri progetti, richieste ingegneristiche e soluzioni produttive."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "corporate": "Azienda",
+      "current": "Contatti"
+    },
+    "sidebar": {
+      "title": "Informazioni di Contatto",
+      "hq": {
+        "title": "SEDE CENTRALE",
+        "address": "Zona Industriale Organizzata, Kemalpaşa OSB<br/>10ª Strada No:6, 35730<br/>Kemalpaşa / İzmir"
+      },
+      "factory": {
+        "title": "STABILIMENTO PRODUTTIVO",
+        "address": "Ulucak İstiklal, Viale Gazi<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
+      },
+      "phone": {
+        "title": "TELEFONO"
+      },
+      "whatsapp": {
+        "title": "LINEA WHATSAPP"
+      },
+      "email": {
+        "title": "E-MAIL"
+      },
+      "hours": {
+        "title": "ORARI DI LAVORO",
+        "desc1": "Lunedì - Venerdì: 08:30 - 18:30",
+        "desc2": "Chiuso nel fine settimana."
+      },
+      "social": {
+        "title": "SEGUICI"
+      }
+    },
+    "form": {
+      "title": "Pianifichiamo Insieme il Vostro Progetto",
+      "name": "NOME E COGNOME",
+      "company": "NOME AZIENDA (Opzionale)",
+      "email": "INDIRIZZO E-MAIL",
+      "phone": "NUMERO DI TELEFONO (Opzionale)",
+      "subject": {
+        "label": "PRODOTTO / SERVIZIO DI INTERESSE",
+        "placeholder": "Selezionare un argomento...",
+        "groups": {
+          "tanks": "Serbatoi di Stoccaggio in Acciaio Inox",
+          "process": "Sistemi di Processo",
+          "hygienic": "Pompe Igieniche",
+          "other": "Altre Richieste"
+        },
+        "options": {
+          "tanks_1": "Serbatoio di Stoccaggio Industriale",
+          "tanks_2": "Serbatoio per Olio d'Oliva",
+          "tanks_3": "Serbatoio di Processo per Latte e Alimentari",
+          "tanks_4": "Serbatoio per Prodotti Chimici / Acidi",
+          "process_1": "Serbatoio di Processo con Agitatore",
+          "process_2": "Reattore Chimico / Farmaceutico",
+          "process_3": "Omogeneizzatore High Shear",
+          "process_4": "Skid di Processo Mobile",
+          "process_5": "Serbatoio Camiciato per Riscaldamento/Raffreddamento",
+          "process_6": "Fermentatore e Bioreattore",
+          "process_7": "Sistema CIP Automatico",
+          "hygienic_1": "Pompa Centrifuga",
+          "hygienic_2": "Pompa Lobulare a Spostamento Positivo",
+          "hygienic_3": "Pompa Autoadescante",
+          "hygienic_4": "Pompa per Fusti",
+          "hygienic_5": "Pompa Pneumatica a Membrana",
+          "hygienic_6": "Pompa a Cavità Progressiva",
+          "other_1": "Installazione Chiavi in Mano di Impianti",
+          "other_2": "Produzione Speciale / Altro"
+        }
+      },
+      "message": {
+        "label": "DETTAGLI DEL PROGETTO",
+        "placeholder": "Indicate brevemente la capacità richiesta, la pressione di esercizio, la temperatura o altri requisiti tecnici del vostro progetto..."
+      },
+      "status": {
+        "errorFields": "Compilare correttamente i campi nome, e-mail e messaggio.",
+        "loading": "Invio del messaggio in corso...",
+        "success": "Il vostro messaggio è stato inviato con successo. Vi contatteremo al più presto.",
+        "errorServer": "Si è verificato un errore del server. Riprovare più tardi.",
+        "errorConnection": "Si è verificato un errore di connessione. Verificare la connessione Internet."
+      },
+      "submit": {
+        "loading": "INVIO IN CORSO...",
+        "idle": "INVIA MESSAGGIO"
+      }
+    }
+  }
+}

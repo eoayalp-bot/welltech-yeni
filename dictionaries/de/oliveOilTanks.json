@@ -1,0 +1,95 @@
+{
+  "oliveOilTanksPage": {
+    "metadata": {
+      "title": "Olivenöltanks | Welltech®",
+      "description": "Lagerbehälter aus Edelstahl mit konischem Boden, Stickstoffüberlagerungssystem und Null-Oxidations-Garantie, die den exquisiten Geschmack von Olivenöl bewahren."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "tanks": "Edelstahltanks",
+      "current": "Olivenöltanks"
+    },
+    "hero": {
+      "title": "Olivenöltanks",
+      "desc": "Hochwertige Edelstahllagerlösungen mit Null-Oxidations-Garantie, die Qualität, Säuregehalt und Aroma von Olivenöl wie am ersten Tag erhalten."
+    },
+    "engineering": {
+      "title": "Anti-Oxidations-Engineering",
+      "desc": "Olivenöl ist ein empfindliches Produkt, das bei Kontakt mit Luft (Sauerstoff) und Licht schnell abzubauen beginnt. Welltech® Olivenöltanks sind mit einem speziellen Stickstoffüberlagerungssystem (Nitrogen Blanketing) ausgestattet, das die Luft im Inneren verdrängt. Glatte Schweißarbeiten (Ra < 0,6) verhindern Sedimentablagerungen, während das spezielle, geneigte konische Bodendesign dafür sorgt, dass das Olivenöl in seiner reinsten Form (ohne Fruchtfleisch) gelagert und gefiltert wird."
+    },
+    "features": {
+      "title": "Design und Schutzausstattung",
+      "items": {
+        "1": "Hochwertiger Edelstahl AISI 304 oder 316L",
+        "2": "Integriertes Stickstoffüberlagerungssystem (Nitrogen Blanketing) für null Oxidation",
+        "3": "Speziell abgewinkelter konischer Boden zur Sedimententleerung",
+        "4": "Lichtundurchlässiges, absolut dichtes, argongeschweißtes Gehäuse",
+        "5": "Optionale Isolierung und Kühl-/Heizmantel (Rollbond)",
+        "6": "Füllstandsanzeige, Probenahmeventil und CIP-System"
+      }
+    },
+    "capacityTable": {
+      "title": "Standard-Produktionskapazitäten",
+      "note": "* Die Neigungen des konischen Bodens können speziell (15°, 30°, 45°) entsprechend der Sedimentstruktur des Öls und dem Filtrationsprozess des Betriebs berechnet werden.",
+      "headers": {
+        "volume": "VOLUMEN",
+        "diameter": "DURCHMESSER (Ø mm)",
+        "height": "HÖHE (mm)",
+        "thickness": "MANTELSTÄRKE"
+      },
+      "customRow": "Für integrierte Olivenölsilos mit höherer Kapazität erfolgt eine projektbezogene Sonderfertigung."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Was ist ein Stickstoffüberlagerungssystem und warum wird es benötigt?",
+          "a": "Stickstoffgas, das in den Kopfraum des Tanks gepumpt wird, verdrängt den Sauerstoff vollständig. Dadurch wird der Kontakt des Öls mit der Luft unterbrochen, ein Anstieg des Säuregehalts (Oxidation) wird verhindert und das Olivenöl behält über Monate die Frische des ersten Presstages."
+        },
+        {
+          "q": "Welchen Zweck erfüllt der konische Tankboden?",
+          "a": "Während das Olivenöl ruht, sammelt sich auf dem Boden natürliches Sediment (Fruchtfleisch). Das konische Bodendesign ermöglicht es, dass sich dieses Sediment am tiefsten Mittelpunkt sammelt und leicht über das Ablassventil vom Öl getrennt werden kann."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Unsere Olivenöl-Anwendungen",
+      "p1": {
+        "title": "Lagerung für Boutique-Produktion",
+        "alt": "Boutique-Olivenöltank"
+      },
+      "p2": {
+        "title": "Tank mit Stickstoffüberlagerung",
+        "alt": "Olivenöltank mit Stickstoffüberlagerung"
+      },
+      "p3": {
+        "title": "Ruhen mit konischem Boden",
+        "alt": "Ruhetank mit konischem Boden"
+      },
+      "p4": {
+        "title": "Integrierte Anlagensilos",
+        "alt": "Silos für Olivenölanlagen"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie die Spezifikationsdatei mit Details zum Stickstoffsystem, Bodenneigungsverhältnissen und Materialstandards herunter.",
+        "fileUrl": "/assets/documents/de/olivenoel-lagertanks-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "INTEGRIERTE ANLAGE",
+        "desc": "Schlüsselfertige Lagerlinie, die wir für eine moderne Olivenölfabrik in der Ägäis-Region installiert haben.",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Ist eine Klimatisierung erforderlich?",
+        "desc": "Lassen Sie uns gemeinsam Ihr spezielles Tankdesign mit Heizmantel entwerfen, um das Einfrieren des Öls in kalten Klimazonen zu verhindern.",
+        "whatsappMsg": "Hallo, ich moechte technische Informationen und Preise zu Olivenoeltanks (mit Stickstoffueberlagerung) erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

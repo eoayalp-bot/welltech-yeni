@@ -1,0 +1,92 @@
+{
+  "cipSystemsPage": {
+    "metadata": {
+      "title": "Systèmes NEP (Nettoyage En Place) Automatiques | Welltech®",
+      "description": "Systèmes de Nettoyage En Place (NEP/CIP) en acier inoxydable, entièrement automatiques et à haut rendement énergétique."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "process": "Systèmes de Process",
+      "current": "Systèmes NEP (CIP)"
+    },
+    "hero": {
+      "title": "Systèmes NEP (CIP) Automatiques",
+      "desc": "Unités intelligentes de Nettoyage En Place conçues pour garantir 100% d'hygiène dans vos usines, éliminant l'erreur humaine."
+    },
+    "technology": {
+      "title": "Technologie Nettoyage En Place (NEP/CIP)",
+      "desc": "Les systèmes NEP (Nettoyage en Place / CIP - Clean-in-Place) sont des unités automatiques qui nettoient les lignes de production, tuyaux, vannes et cuves sans avoir à les démonter. Ils garantissent que l'eau, les acides, la soude et les désinfectants circulent à la température, au débit et au temps corrects. Le système rend vos lignes complètement stériles pour le lot (batch) suivant.",
+      "imgAlt": "Technologie du Système NEP"
+    },
+    "features": {
+      "title": "Caractéristiques d'Automatisation et d'Hygiène",
+      "items": [
+        "Contrôle de Recette Entièrement Automatique via PLC/SCADA",
+        "Récupération Précise grâce aux Capteurs de Conductivité",
+        "Mélange Chimique Précis avec Pompes de Dosage Automatiques",
+        "Conception Inox Conforme aux Normes d'Hygiène FDA et 3A",
+        "Cuves Indépendantes pour Acide, Soude, Récupération et Eau Claire",
+        "Chauffage Rapide et Économe grâce à l'Échangeur de Chaleur Tubulaire"
+      ],
+      "imgAlt": "Panneau d'Automatisation du Système NEP"
+    },
+    "table": {
+      "title": "Configurations de Systèmes",
+      "note": "* Les systèmes NEP sont conçus sur mesure en fonction de la longueur de la ligne à nettoyer, du degré de salissure et de la capacité de votre usine.",
+      "headers": [
+        "CONFIGURATION DU SYSTÈME",
+        "CAPACITÉS DES CUVES",
+        "DOMAINE D'APPLICATION"
+      ],
+      "imgAlt": "Dessin Technique du Système NEP",
+      "rows": [
+        { "config": "NEP à 2 Cuves (Eau + Soude)", "tanks": "500 L - 3 000 L", "sector": "Laitier et Boissons", "highlight": "dark" },
+        { "config": "NEP à 3 Cuves (Eau + Soude + Acide)", "tanks": "1 000 L - 5 000 L", "sector": "Alimentation et Cosmétiques", "highlight": "dark" },
+        { "config": "NEP à 4 Cuves (Avec Récupération)", "tanks": "2 000 L - 10 000 L", "sector": "Pharmacie et Biotechnologie", "highlight": "orange" },
+        { "config": "Unité NEP Mobile (Portable)", "tanks": "300 L - 1 000 L", "sector": "Lignes Flexibles et Pilotes", "highlight": "dark" }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "À quoi sert un capteur de conductivité ?",
+          "a": "Il mesure la densité de l'acide ou de la soude de retour de la ligne. Lorsque la concentration chimique chute, il dose automatiquement de nouveaux produits chimiques. De plus, il termine le processus en toute sécurité lorsqu'il détecte qu'il n'y a plus aucun produit chimique dans la ligne après le rinçage."
+        },
+        {
+          "q": "Comment le système NEP économise-t-il l'eau ?",
+          "a": "Il stocke la dernière eau de rinçage (qui est partiellement propre) dans la « Cuve de Récupération » pour l'utiliser comme premier rinçage grossier lors du nettoyage suivant. Cela permet d'économiser beaucoup d'eau et d'énergie."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nos Applications Industrielles",
+      "items": [
+        { "src": "galeri-1.webp", "label": "NEP Automatique à 3 Cuves", "alt": "Système NEP 3 Cuves" },
+        { "src": "galeri-2.webp", "label": "Système Pharma à 4 Cuves", "alt": "Unité NEP Pharma" },
+        { "src": "galeri-3.webp", "label": "Chariot de Lavage NEP Mobile", "alt": "NEP Mobile" },
+        { "src": "galeri-4.webp", "label": "Contrôle SCADA Ligne Alim.", "alt": "Panneau de Contrôle NEP" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez le fichier de spécification contenant les configurations de cuves, les débits et les calculs de pression de pompe.",
+        "fileUrl": "/assets/documents/fr/systemes-cip-automatiques-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "USINE DE BOISSONS",
+        "desc": "Ligne NEP entièrement automatique à 4 cuves avec contrôle de conductivité, installée pour une usine de jus de fruits internationale.",
+        "imgAlt": "Référence de Système NEP",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Avez-vous une recette spéciale ?",
+        "desc": "Communiquez-nous la charge polluante de votre usine et la longueur des conduites à nettoyer, nous concevrons la capacité la plus efficace.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

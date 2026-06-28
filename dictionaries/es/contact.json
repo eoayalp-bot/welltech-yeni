@@ -1,0 +1,98 @@
+{
+  "contactPage": {
+    "metadata": {
+      "title": "Contacto | Welltech®",
+      "description": "Contáctenos para sus proyectos. Nuestra sede central y planta de producción en Kemalpasa, Izmir."
+    },
+    "hero": {
+      "title": "Contáctenos",
+      "desc": "Póngase en contacto directamente con nuestro equipo de expertos para sus proyectos, solicitudes de ingeniería y soluciones de producción."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "corporate": "Corporativo",
+      "current": "Contacto"
+    },
+    "sidebar": {
+      "title": "Información de Contacto",
+      "hq": {
+        "title": "SEDE CENTRAL",
+        "address": "Organize Sanayi Bolgesi, Kemalpasa OSB<br/>10. Sk. No:6, 35730<br/>Kemalpasa / Izmir / Turquía"
+      },
+      "factory": {
+        "title": "PLANTA DE PRODUCCIÓN",
+        "address": "Ulucak Istiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpasa / Izmir / Turquía"
+      },
+      "phone": {
+        "title": "TELÉFONO"
+      },
+      "whatsapp": {
+        "title": "LÍNEA DE WHATSAPP"
+      },
+      "email": {
+        "title": "CORREO ELECTRÓNICO"
+      },
+      "hours": {
+        "title": "HORARIO DE TRABAJO",
+        "desc1": "Lunes - Viernes: 08:30 - 18:30",
+        "desc2": "Cerrado los fines de semana."
+      },
+      "social": {
+        "title": "SÍGANOS"
+      }
+    },
+    "form": {
+      "title": "Planifiquemos su Proyecto Juntos",
+      "name": "NOMBRE Y APELLIDOS",
+      "company": "NOMBRE DE LA EMPRESA (Opcional)",
+      "email": "DIRECCIÓN DE CORREO",
+      "phone": "NÚMERO DE TELÉFONO (Opcional)",
+      "subject": {
+        "label": "PRODUCTO / SERVICIO DE INTERÉS",
+        "placeholder": "Por favor, seleccione un tema...",
+        "groups": {
+          "tanks": "Tanques de Almacenamiento Inoxidables",
+          "process": "Sistemas de Proceso",
+          "hygienic": "Bombas Higiénicas",
+          "other": "Otras Solicitudes"
+        },
+        "options": {
+          "tanks_1": "Tanque de Almacenamiento Industrial",
+          "tanks_2": "Tanque de Almacenamiento de Aceite de Oliva",
+          "tanks_3": "Tanque de Proceso de Lácteos y Alimentos",
+          "tanks_4": "Tanque de Químicos / Ácidos",
+          "process_1": "Tanque de Proceso con Agitador",
+          "process_2": "Reactor Químico / Farmacéutico",
+          "process_3": "Homogeneizador de Alto Cizallamiento (High Shear)",
+          "process_4": "Skid de Proceso Móvil",
+          "process_5": "Tanque con Camisa de Calentamiento/Enfriamiento",
+          "process_6": "Fermentación y Biorreactor",
+          "process_7": "Sistema CIP Automático",
+          "hygienic_1": "Bomba Centrífuga",
+          "hygienic_2": "Bomba Lobular de Desplazamiento Positivo",
+          "hygienic_3": "Bomba Autocebante",
+          "hygienic_4": "Bomba para Bidones",
+          "hygienic_5": "Bomba Neumática de Membrana",
+          "hygienic_6": "Bomba de Cavidad Progresiva",
+          "other_1": "Instalación de Planta Llave en Mano",
+          "other_2": "Producción a Medida / Otros"
+        }
+      },
+      "message": {
+        "label": "DETALLES DEL PROYECTO",
+        "placeholder": "Describa brevemente la capacidad del proyecto, presión de trabajo, temperatura u otros requisitos técnicos..."
+      },
+      "status": {
+        "errorFields": "Por favor, complete los campos de nombre, correo electrónico y mensaje.",
+        "loading": "Enviando su mensaje...",
+        "success": "Su mensaje ha sido enviado con éxito. Nos pondremos en contacto con usted lo antes posible.",
+        "errorServer": "Ocurrió un error en el servidor. Inténtelo de nuevo más tarde.",
+        "errorConnection": "Ocurrió un error de conexión. Por favor, compruebe su conexión a internet."
+      },
+      "submit": {
+        "loading": "ENVIANDO...",
+        "idle": "ENVIAR MENSAJE"
+      }
+    }
+  }
+}

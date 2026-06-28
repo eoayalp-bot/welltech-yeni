@@ -1,0 +1,95 @@
+{
+  "oliveOilTanksPage": {
+    "metadata": {
+      "title": "Serbatoi per Olio d'Oliva | Welltech®",
+      "description": "Serbatoi di stoccaggio in acciaio inox con fondo conico e sistema di inertizzazione con azoto, progettati per preservare le caratteristiche organolettiche dell'olio d'oliva e garantire una protezione totale dall'ossidazione."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "tanks": "Serbatoi in Acciaio Inox",
+      "current": "Serbatoi per Olio d'Oliva"
+    },
+    "hero": {
+      "title": "Serbatoi per Olio d'Oliva",
+      "desc": "Soluzioni di stoccaggio in acciaio inox di alta qualità che preservano inalterati qualità, acidità e aroma dell'olio d'oliva, garantendo una protezione totale contro l'ossidazione."
+    },
+    "engineering": {
+      "title": "Ingegneria Anti-Ossidazione",
+      "desc": "L'olio d'oliva è un prodotto estremamente sensibile che si degrada rapidamente a contatto con ossigeno e luce. I serbatoi Welltech® sono dotati di uno speciale sistema di inertizzazione con azoto (Nitrogen Blanketing) che elimina l'aria presente all'interno. Le superfici interne con finitura Ra < 0.6 impediscono l'accumulo di sedimenti, mentre il fondo conico inclinato consente lo stoccaggio e la filtrazione dell'olio nella sua forma più pura, separandolo naturalmente dalle impurità."
+    },
+    "features": {
+      "title": "Caratteristiche di Progettazione e Protezione",
+      "items": {
+        "1": "Acciaio Inox AISI 304 o AISI 316L di Alta Qualità",
+        "2": "Sistema Integrato di Inertizzazione con Azoto per Eliminare l'Ossidazione",
+        "3": "Fondo Conico Inclinato per lo Scarico dei Sedimenti",
+        "4": "Corpo Completamente Ermetico con Saldature in Argon",
+        "5": "Camicia Roll-Bond per Riscaldamento/Raffreddamento e Isolamento Opzionale",
+        "6": "Indicatore di Livello, Valvola di Campionamento e Sistema CIP"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacità Standard di Produzione",
+      "note": "* L'inclinazione del fondo conico può essere progettata su misura (15°, 30°, 45°) in funzione delle caratteristiche dei sedimenti e del processo di filtrazione dell'impianto.",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIAMETRO (Ø mm)",
+        "height": "ALTEZZA (mm)",
+        "thickness": "SPESSORE DEL MANTELLO"
+      },
+      "customRow": "Per impianti integrati con capacità superiori vengono realizzate soluzioni personalizzate su progetto."
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Che cos'è il sistema di inertizzazione con azoto e perché è necessario?",
+          "a": "L'azoto immesso nello spazio superiore del serbatoio sostituisce completamente l'ossigeno. In questo modo si impedisce il contatto dell'olio con l'aria, si previene l'aumento dell'acidità dovuto all'ossidazione e si preservano freschezza e caratteristiche organolettiche per lunghi periodi."
+        },
+        {
+          "q": "Qual è la funzione del fondo conico?",
+          "a": "Durante il periodo di riposo, l'olio d'oliva sviluppa naturalmente sedimenti che si accumulano sul fondo. La geometria conica convoglia questi residui verso il punto centrale inferiore, consentendone la facile eliminazione attraverso la valvola di scarico."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Le Nostre Applicazioni nel Settore Oleario",
+      "p1": {
+        "title": "Stoccaggio per Produzioni Artigianali",
+        "alt": "Serbatoio per Olio d'Oliva Artigianale"
+      },
+      "p2": {
+        "title": "Serbatoio con Inertizzazione ad Azoto",
+        "alt": "Serbatoio per Olio d'Oliva con Azoto"
+      },
+      "p3": {
+        "title": "Serbatoio di Decantazione a Fondo Conico",
+        "alt": "Serbatoio di Decantazione con Fondo Conico"
+      },
+      "p4": {
+        "title": "Silos per Impianti Integrati",
+        "alt": "Silos per Stabilimenti Oleari"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il documento contenente i dettagli del sistema ad azoto, gli angoli del fondo conico e gli standard dei materiali.",
+        "fileUrl": "/assets/documents/it/serbatoi-olio-oliva-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "IMPIANTO INTEGRATO",
+        "desc": "Linea di stoccaggio chiavi in mano realizzata per un moderno frantoio della regione dell'Egeo.",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "È Necessario il Controllo della Temperatura?",
+        "desc": "Progettiamo insieme il vostro serbatoio con camicia di riscaldamento per prevenire la cristallizzazione dell'olio nei climi freddi.",
+        "whatsappMsg": "Buongiorno, desidero ricevere informazioni tecniche e un'offerta sui serbatoi per olio d'oliva con inertizzazione ad azoto.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

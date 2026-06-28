@@ -1,0 +1,95 @@
+{
+  "selfPrimingPumpsPage": {
+    "metadata": {
+      "title": "Selbstansaugende Pumpen | Welltech®",
+      "description": "Selbstansaugende Edelstahlpumpen (Self-Priming), die schäumende oder gashaltige Flüssigkeiten evakuieren und problemlos vom Tankboden ansaugen können."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "pumps": "Pumpen",
+      "current": "Selbstansaugende Pumpen"
+    },
+    "hero": {
+      "title": "Selbstansaugende Pumpen",
+      "desc": "Kavitationsfreier Betrieb in Medien mit Luft- und Gasgemischen. Einwandfreie Saugkraft für CIP-Rücklaufleitungen und Tankentleerungen aus negativen Saughöhen."
+    },
+    "technology": {
+      "title": "Vakuum- und Ansaugtechnologie (Self-Priming)",
+      "desc": "Während Standard-Kreiselpumpen blockieren, wenn sich Luft in der Saugleitung befindet, erzeugen selbstansaugende Pumpen (Self-Priming) aufgrund ihres speziellen Gehäusedesigns ein Vakuum, indem sie die eingeschlossene Luft evakuieren. Es ist die idealste und hygienischste Lösung für das Ansaugen von Flüssigkeiten aus Erdtanks oder das Abpumpen von schaumigem Waschwasser in CIP-Anlagen.",
+      "imgAlt": "Selbstansaugende Pumpen Laufradtechnologie"
+    },
+    "features": {
+      "title": "Leistungs- und Designvorteile",
+      "items": [
+        "Hohe Saugfähigkeit aus negativen Förderhöhen (Tiefe)",
+        "Transfer von gas- und lufthaltigen (schäumenden) Flüssigkeiten",
+        "Volle Kompatibilität mit CIP-Rücklaufsystemen (Clean-In-Place)",
+        "Totraumfreies und leicht waschbares (hygienisches) Innendesign",
+        "Aus Edelstahl AISI 316L (geschmiedet oder Feinguss)",
+        "Verschleißfeste, langlebige Gleitringdichtung"
+      ],
+      "imgAlt": "Selbstansaugende Pumpe Innendesign"
+    },
+    "table": {
+      "title": "Technische Spezifikationen und Kapazität",
+      "note": "* Die Saughöhe und Fördermengen können je nach Viskosität des Fluids (Wasser = 1 cPs) und Umgebungstemperatur variieren.",
+      "headers": [
+        "PUMPENMODELL",
+        "MAX. FÖRDERMENGE (m³/h)",
+        "FÖRDERHÖHE (m)",
+        "MOTORLEISTUNG (kW)"
+      ],
+      "imgAlt": "Technische Kapazitätszeichnung der Pumpe",
+      "rows": [
+        { "model": "WSP-10", "flow": "10 m³/h", "head": "20 m", "power": "1,5 kW", "highlight": "dark" },
+        { "model": "WSP-20", "flow": "20 m³/h", "head": "25 m", "power": "2,2 kW", "highlight": "dark" },
+        { "model": "WSP-30", "flow": "30 m³/h", "head": "30 m", "power": "4,0 kW", "highlight": "dark" },
+        { "model": "WSP-40", "flow": "40 m³/h", "head": "35 m", "power": "5,5 kW", "highlight": "dark" },
+        { "model": "WSP-50", "flow": "50 m³/h", "head": "40 m", "power": "7,5 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Wie funktioniert eine selbstansaugende Pumpe?",
+          "a": "Bei der Erstinstallation wird eine kleine Menge Flüssigkeit in das Gehäuse gefüllt. Wenn sie läuft, mischt sie die Luft in der Saugleitung mit dieser Flüssigkeit und stößt sie aus; anschließend saugt sie die Flüssigkeit durch das in der Leitung entstehende Vakuum von unten an."
+        },
+        {
+          "q": "Warum wird diese Pumpe in der CIP-Rücklaufleitung (Return) verwendet?",
+          "a": "Während der Tankreinigung (CIP) mischt sich sehr viel Luft und Schaum in die Flüssigkeit. Normale Pumpen drehen im Schaum leer (Kavitation), während selbstansaugende Pumpen die Luft tolerieren und die Reinigungsflüssigkeit problemlos fördern."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Unsere industriellen Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "CIP-Rücklaufsystem", "alt": "CIP-Rücklaufpumpe" },
+        { "src": "galeri-2.webp", "label": "Erdtank-Entleerung", "alt": "Erdtank-Saugpumpe" },
+        { "src": "galeri-3.webp", "label": "Transfer schäumender Flüssigkeiten", "alt": "Pumpe für schäumende Fluide" },
+        { "src": "galeri-4.webp", "label": "Mobile Absaugstation", "alt": "Mobile selbstansaugende Pumpe" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie unseren Katalog mit Pumpenkennlinien, Saughöhenberechnungen und Motoroptionen herunter.",
+        "fileUrl": "/assets/documents/de/selbstansaugende-pumpen-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "CIP-ANLAGE",
+        "desc": "Vollautomatische CIP-Rücklaufleitung, die wir für eine Getränkefabrik mit einer Tageskapazität von 500 Tonnen installiert haben.",
+        "imgAlt": "CIP-Rücklauf Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Wie groß ist Ihr Saugabstand?",
+        "desc": "Teilen Sie uns die Tiefe (negative Saughöhe) Ihres Erdtanks und die Rohrleitungslänge mit, und wir wählen die richtige Pumpe aus, um das Kavitationsrisiko zu eliminieren.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hallo,%20ich%20moechte%20technische%20Informationen%20und%20Preise%20zu%20selbstansaugenden%20Pumpen%20erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

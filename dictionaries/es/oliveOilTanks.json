@@ -1,0 +1,95 @@
+{
+  "oliveOilTanksPage": {
+    "metadata": {
+      "title": "Tanques de Aceite de Oliva | Welltech®",
+      "description": "Tanques de almacenamiento de acero inoxidable con fondo cónico, sistema de recubrimiento de nitrógeno y garantía de cero oxidación que conservan el exquisito sabor del aceite de oliva."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "tanks": "Tanques de Inoxidable",
+      "current": "Tanques de Aceite de Oliva"
+    },
+    "hero": {
+      "title": "Tanques de Aceite de Oliva",
+      "desc": "Soluciones de almacenamiento en acero inoxidable de alta calidad, con garantía de cero oxidación, que preservan la calidad, acidez y aroma del aceite de oliva como el primer día."
+    },
+    "engineering": {
+      "title": "Ingeniería Antioxidación",
+      "desc": "El aceite de oliva es un producto delicado que comienza a degradarse rápidamente cuando entra en contacto con el aire (oxígeno) y la luz. Los tanques de aceite de oliva Welltech® están equipados con un sistema especial de Inertización por Nitrógeno (Nitrogen Blanketing) que evacúa el aire del interior. El pulido perfecto de las soldaduras (Ra < 0,6) evita la acumulación de sedimentos, mientras que el diseño especial de fondo cónico permite almacenar y filtrar el aceite de oliva en su forma más pura (sin pulpa ni posos)."
+    },
+    "features": {
+      "title": "Equipamiento de Diseño y Protección",
+      "items": {
+        "1": "Acero Inoxidable de Alta Calidad AISI 304 o 316L",
+        "2": "Sistema Integrado de Recubrimiento de Nitrógeno para Cero Oxidación",
+        "3": "Fondo Cónico Especialmente Inclinado para la Descarga de Sedimentos",
+        "4": "Cuerpo Soldado con Argón, Totalmente Estanco y Opaco a la Luz",
+        "5": "Aislamiento Opcional y Camisa de Calentamiento/Enfriamiento (Roll-bond)",
+        "6": "Indicador de Nivel, Válvula de Muestreo y Sistema CIP"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacidades de Producción Estándar",
+      "note": "* Las inclinaciones del fondo cónico se pueden calcular a medida (15°, 30°, 45°) según la estructura de los sedimentos del aceite y el proceso de filtración de la planta.",
+      "headers": {
+        "volume": "VOLUMEN",
+        "diameter": "DIÁMETRO (Ø mm)",
+        "height": "ALTURA (mm)",
+        "thickness": "ESPESOR DEL CUERPO"
+      },
+      "customRow": "Para silos de aceite de oliva integrados de mayor capacidad, se realiza producción a medida basada en proyectos."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Qué es el sistema de recubrimiento de nitrógeno y por qué es necesario?",
+          "a": "El gas nitrógeno bombeado al espacio de cabeza del tanque expulsa completamente el oxígeno. De este modo, se corta el contacto del aceite con el aire, se previene el aumento del nivel de acidez (oxidación) y el aceite de oliva mantiene durante meses la frescura del día en que se prensó."
+        },
+        {
+          "q": "¿Para qué sirve que el fondo del tanque sea cónico?",
+          "a": "A medida que el aceite de oliva reposa, se acumula un sedimento natural (poso) en el fondo. El diseño del fondo cónico asegura que estos sedimentos se recojan en el punto central más bajo, permitiendo que se separen fácilmente del aceite a través de la válvula de descarga."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nuestras Aplicaciones de Aceite de Oliva",
+      "p1": {
+        "title": "Almacenamiento de Producción Boutique",
+        "alt": "Tanque de Aceite de Oliva Boutique"
+      },
+      "p2": {
+        "title": "Tanque con Capa de Nitrógeno",
+        "alt": "Tanque de Aceite de Oliva con Nitrógeno"
+      },
+      "p3": {
+        "title": "Reposo con Fondo Cónico",
+        "alt": "Tanque de Reposo de Fondo Cónico"
+      },
+      "p4": {
+        "title": "Silos Integrados para Planta",
+        "alt": "Silos de Aceite de Oliva"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Descargue el archivo de especificaciones que contiene detalles del sistema de nitrógeno, relaciones de pendiente del fondo y estándares de materiales.",
+        "fileUrl": "/assets/documents/es/tanques-aceite-oliva-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "PLANTA INTEGRADA",
+        "desc": "Línea de almacenamiento llave en mano que instalamos para una moderna fábrica de aceite de oliva en la región del Egeo.",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "¿Se Necesita Climatización?",
+        "desc": "Diseñemos juntos su tanque especial con camisa calefactora para evitar que el aceite se congele en climas fríos.",
+        "whatsappMsg": "Hola, me gustaría obtener información técnica y precios sobre los Tanques de Aceite de Oliva (con sistema de nitrógeno).",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

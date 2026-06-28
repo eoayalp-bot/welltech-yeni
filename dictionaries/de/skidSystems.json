@@ -1,0 +1,93 @@
+{
+  "skidSystemsPage": {
+    "metadata": {
+      "title": "Mobile Einheiten und Skid-Systeme | Welltech®",
+      "description": "Plug-and-Play Edelstahl-Mobil-Skid-Einheiten, die leicht innerhalb der Anlage transportiert werden können und über eine eigene Pumpe, ein Automatisierungspanel und einen Tank verfügen."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "Mobile Einheiten"
+    },
+    "hero": {
+      "title": "Mobile Einheiten (Skids)",
+      "desc": "Kompakte 'Plug-and-Play'-Prozesssysteme mit vormontiertem Tank, Pumpe und Schaltschrank, die leicht an alle Stationen in Ihrer Anlage transportiert werden können."
+    },
+    "technology": {
+      "title": "Kompakte Skid-Technologie (Rahmentechnologie)",
+      "desc": "Mobile Einheiten (Skid Systems) sind tragbare Systeme, bei denen der gesamte Maschinenpark (Tank, Pumpe, Filter, Schaltschrank) auf einem einzigen Edelstahlrahmen (Skid) montiert ist, ohne dass eine feste Verrohrung oder Infrastruktur erforderlich ist. Sie lassen sich innerhalb der Anlage auf Rädern leicht von einer Linie zur anderen bewegen; durch einfaches Anschließen an Strom (oder Druckluft) kann die Produktion sofort gestartet werden. Es ist die flexibelste Form der modularen Produktion.",
+      "imgAlt": "Edelstahl-Rahmentechnologie (Skid)"
+    },
+    "features": {
+      "title": "Ausstattungs- und Mobilitätsmerkmale",
+      "items": [
+        "Spezieler Edelstahlrahmen für schwere Lasten",
+        "Polyamid-Räder für schnellen Wechsel zwischen Stationen",
+        "Plug & Play-Struktur ohne Installations- und Verrohrungsaufwand",
+        "Integrierte Transferpumpe (Drehkolben, Membran usw.)",
+        "Sichere Elektroinstallation und integrierter Schaltschrank",
+        "Flexible Schlauchverschraubungen (geklemmt) zum Anschluss an verschiedene Leitungen"
+      ],
+      "imgAlt": "Mobile Einheit Ausstattung"
+    },
+    "table": {
+      "title": "Systemtypen und Module",
+      "note": "* Mobile Einheiten werden speziell auf die gewünschte Kapazität (z.B. 500L oder 1000L) und die zu verwendende Ausrüstung ausgelegt.",
+      "headers": [
+        "ANWENDUNG / SYSTEM",
+        "INTEGRIERTE AUSRÜSTUNG",
+        "BETRIEBSART (AUFBAU)"
+      ],
+      "imgAlt": "Technische Zeichnung Mobilsystem",
+      "rows": [
+        { "application": "Mobile CIP-Einheit", "equipment": "Beheizter Tank + Kreiselpumpe", "setup": "Plug-and-Play (Schlauchanschluss)", "highlight": "dark" },
+        { "application": "Mobile Dosieranlage", "equipment": "Wiegesystem (Loadcell) + Rührwerk", "setup": "Plug-and-Play (Einstecken)", "highlight": "dark" },
+        { "application": "Mobiler Transfer", "equipment": "Ausgleichsbehälter + Drehkolben- / Exzenterschneckenpumpe", "setup": "Plug-and-Play (Schlauchanschluss)", "highlight": "dark" },
+        { "application": "Mobile Filtration", "equipment": "Beutelfiltergehäuse + Schaltschrank", "setup": "Plug-and-Play (Schlauchanschluss)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Kann ich die mobile Einheit in einer ATEX-Umgebung (brennbar) einsetzen?",
+          "a": "Ja. Wenn das zu fördernde Produkt entzündlich/brennbar ist, bestehen die Räder der mobilen Einheit aus antistatischem (leitfähigem) Material, und sie wird 100% ATEX-konform gemacht, indem anstelle eines Elektromotors eine Druckluft-Membranpumpe und ein pneumatisches Rührwerk eingebaut werden."
+        },
+        {
+          "q": "Was ist das maximale Tankvolumen auf einem Skid?",
+          "a": "Bei mobilen Einheiten werden in der Regel Tanks mit einem Volumen von maximal 1.000 Litern (1 Tonne) eingesetzt, unter Berücksichtigung der Tragfähigkeit der Räder und der Möglichkeit, sie von einem Bediener mit Muskelkraft zu schieben."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Unsere mobilen Skid-Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Mobile Transfereinheit", "alt": "Tragbare Pumpstation" },
+        { "src": "galeri-2.webp", "label": "Tragbarer CIP-Reinigungswagen", "alt": "Mobile CIP-Station" },
+        { "src": "galeri-3.webp", "label": "Mobiler Mischer und Dosierung", "alt": "Mischbehälter auf Rädern" },
+        { "src": "galeri-4.webp", "label": "Kosmetikabfüllungsvorbereitung", "alt": "Mobile Shampoo-Einheit" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie unseren Katalog mit Skid-Tragfähigkeiten, Radtypen und Schaltschrankanordnungen herunter.",
+        "fileUrl": "/assets/documents/de/mobile-einheiten-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "LEBENSMITTELANLAGE",
+        "desc": "Mehrstationen-Mobillmischer und Pumpenwagen, die wir für eine Großsaucenfabrik konzipiert haben.",
+        "imgAlt": "Mobile Einheit Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Was soll darauf montiert werden?",
+        "desc": "Lassen Sie uns Tank, Pumpe, Filter und Heizung auf einem einzigen Skid kombinieren. Nennen Sie uns die gewünschten Module, und wir erstellen die Zeichnung.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Hallo,%20ich%20moechte%20technische%20Informationen%20und%20Preise%20zu%20mobilen%20Skid-Einheiten%20erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

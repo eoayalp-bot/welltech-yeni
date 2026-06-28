@@ -1,0 +1,95 @@
+{
+  "diaphragmPumpsPage": {
+    "metadata": {
+      "title": "Bombas Neumáticas de Membrana | Welltech®",
+      "description": "Bombas neumáticas de membrana de acero inoxidable de alta succión, sin electricidad, para entornos explosivos e inflamables (ATEX)."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "pumps": "Bombas",
+      "current": "Bombas de Membrana"
+    },
+    "hero": {
+      "title": "Bombas Neumáticas de Membrana",
+      "desc": "Garantía de cero calado en fluidos con partículas sólidas y alta viscosidad, con aprobación ATEX gracias a su principio de funcionamiento neumático (sin electricidad)."
+    },
+    "safety": {
+      "title": "Máxima Seguridad (ATEX)",
+      "desc": "El principio de funcionamiento accionado por aire (neumático), que no incluye motor eléctrico, hace de estas bombas la opción única y más segura en la transferencia de disolventes inflamables y productos químicos explosivos. Puede tolerar el bombeo de líquidos con partículas sólidas o el funcionamiento en seco (sin líquido) sin averiarse. Proporciona una producción ininterrumpida y segura gracias a su sistema de válvula de aire anticalado (non-stalling).",
+      "imgAlt": "Sección Transversal de la Bomba Neumática Aprobada por ATEX"
+    },
+    "features": {
+      "title": "Ventajas de Diseño y Equipamiento",
+      "items": [
+        "Diseño Totalmente Seguro con Aprobación ATEX (Ex-Proof)",
+        "Resistencia Total al Funcionamiento en Seco",
+        "Capacidad de Transferir Partículas Sólidas Sin Atascarse",
+        "Sistema de Válvula Neumática Anticalado (Non-Stalling)",
+        "Bajo Coste Operativo Gracias al Funcionamiento Sin Electricidad",
+        "Fácil Instalación, Baja Necesidad de Repuestos y Mantenimiento"
+      ],
+      "imgAlt": "Mecanismo de Válvula de la Bomba de Membrana"
+    },
+    "table": {
+      "title": "Curva de Rendimiento y Tabla de Capacidades",
+      "note": "* Los valores de fluido proporcionados se calculan en base al agua (1 cPs). El tamaño de la bomba puede variar en líquidos de alta viscosidad y con partículas.",
+      "headers": [
+        "TAMAÑO DE CONEXIÓN",
+        "CAUDAL MÁX. (L/min)",
+        "PRESIÓN MÁX. DE TRABAJO",
+        "PASO DE PARTÍCULAS (mm)"
+      ],
+      "imgAlt": "Dibujo Técnico de la Bomba de Membrana",
+      "rows": [
+        { "size": "1/2\"", "flow": "55 L/min", "pressure": "8 Bar", "particle": "2.5 mm", "highlight": "dark" },
+        { "size": "1\"", "flow": "160 L/min", "pressure": "8 Bar", "particle": "3.5 mm", "highlight": "dark" },
+        { "size": "1 1/2\"", "flow": "350 L/min", "pressure": "8 Bar", "particle": "6.0 mm", "highlight": "dark" },
+        { "size": "2\"", "flow": "550 L/min", "pressure": "8 Bar", "particle": "6.5 mm", "highlight": "dark" },
+        { "size": "3\"", "flow": "900 L/min", "pressure": "8 Bar", "particle": "9.5 mm", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Cómo se elige el material de la membrana?",
+          "a": "Las membranas de Teflón (PTFE), Santoprene, NBR o Hytrel se seleccionan de acuerdo con el nivel de pH (acidez) y la temperatura del fluido que la bomba va a transferir."
+        },
+        {
+          "q": "¿Cuál es la ventaja de que la bomba funcione con aire?",
+          "a": "Al no necesitar de la red eléctrica, el riesgo de explosión es cero. Además, cuando se cierra la válvula, la bomba se detiene por sí sola y no requiere costosos equipos de protección adicionales como válvulas de derivación (by-pass)."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Aplicaciones de Bombas de Membrana",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Transferencia de Disolventes", "alt": "Bomba de Disolvente ATEX" },
+        { "src": "galeri-2.webp", "label": "Tratamiento y Lodos", "alt": "Bomba de Lodos" },
+        { "src": "galeri-3.webp", "label": "Bomba de Aditivos Alimentarios", "alt": "Bomba de Membrana Inoxidable" },
+        { "src": "galeri-4.webp", "label": "Transferencia de Pintura y Resina", "alt": "Bomba de Pintura" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Puede descargar las tablas de compatibilidad de materiales, gráficos de consumo de aire (SCFM) y certificados ATEX.",
+        "fileUrl": "/assets/documents/es/bombas-neumaticas-diafragma-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "PLANTA QUÍMICA",
+        "desc": "Una línea de bombas de membrana de 40 unidades que instalamos para una fábrica internacional de producción de pintura.",
+        "imgAlt": "Referencia de Bomba Neumática de Membrana",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "¿Qué Membrana es Adecuada?",
+        "desc": "¿PTFE, NBR o Santoprene? Envíenos la hoja de seguridad (FDS) de su fluido y seleccionaremos el material de membrana más duradero.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hola,%20me%20gustaria%20obtener%20informacion%20tecnica%20y%20precios%20sobre%20bombas%20neumaticas%20de%20membrana.",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

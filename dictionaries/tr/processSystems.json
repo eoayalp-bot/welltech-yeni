@@ -1,0 +1,52 @@
+{
+  "processSystemsPage": {
+    "metadata": {
+      "title": "Proses Sistemleri ve Makinaları | Welltech®",
+      "description": "Gıda, kimya ve ilaç endüstrileri için uluslararası standartlarda paslanmaz karıştırıcılı tanklar, reaktörler, homojenizatörler ve CIP sistemleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "current": "Proses Sistemleri"
+    },
+    "hero": {
+      "title": "Endüstriyel Proses Sistemleri",
+      "desc": "Üretim hattınızın kalbini oluşturan, yüksek hassasiyet ve otomasyona sahip, FDA ve CE standartlarında paslanmaz proses makinaları."
+    },
+    "categories": [
+      {
+        "title": "Karıştırıcılı Tanklar",
+        "desc": "Sıvı-sıvı ve sıvı-katı karışımları için özel tasarımlı kanat (ajitatör) yapılarına sahip, yüksek verimli paslanmaz mikser tankları."
+      },
+      {
+        "title": "Kimyasal Reaktörler",
+        "desc": "Yüksek basınç, vakum ve aşırı sıcaklık koşullarında gerçekleşen kimyasal tepkimeleri (reaksiyonları) güvenle kontrol eden ağır hizmet sistemleri."
+      },
+      {
+        "title": "Homojenizatörler",
+        "desc": "Farklı fazlardaki akışkanları (emülsiyon) mikron seviyesinde parçalayarak pürüzsüz ve stabil ürün elde edilmesini sağlayan yüksek devirli mikserler."
+      },
+      {
+        "title": "Mobil Üniteler",
+        "desc": "Tesis içinde farklı istasyonlara kolayca taşınabilen, üzerinde kendi pompası ve otomasyon panosu bulunan portatif karıştırma ve transfer üniteleri."
+      },
+      {
+        "title": "Isıtmalı/Soğutmalı (Ceketli) Tanklar",
+        "desc": "Ürün sıcaklığının hassas bir şekilde kontrol edilmesi gereken prosesler için yarım boru (serpantin), rollbond veya çift cidar teknolojili sistemler."
+      },
+      {
+        "title": "Fermantasyon ve Biyoreaktörler",
+        "desc": "Bakteri, maya veya hücre kültürlerinin ideal sıcaklık, oksijen ve pH ortamında çoğaltılmasını sağlayan steril biyoteknolojik reaktörler."
+      },
+      {
+        "title": "Tam Otomatik CIP Sistemleri",
+        "desc": "Üretim hatlarının, tankların ve pompaların sökülmeden (Clean-in-Place) otomatik olarak yıkanmasını ve dezenfekte edilmesini sağlayan sterilizasyon üniteleri."
+      }
+    ],
+    "viewModels": "SİSTEMLERİ İNCELE",
+    "cta": {
+      "title": "Prosesinize Özel Mühendislik",
+      "desc": "Üretim reçetenizi ve hedeflenen kapasiteyi uzman mühendislerimizle paylaşın, prosesinize en uygun sistemi 3D simülasyonlarla tasarlayalım.",
+      "btn": "MÜHENDİSLİĞİMİZE DANIŞIN"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "stainlessTanksPage": {
+    "metadata": {
+      "title": "Serbatoi in Acciaio Inox | Welltech®",
+      "description": "Serbatoi di stoccaggio e di processo in acciaio inox di alta qualità per i settori industriale, alimentare, chimico e oleario."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Serbatoi in Acciaio Inox"
+    },
+    "hero": {
+      "title": "Sistemi di Serbatoi in Acciaio Inox",
+      "desc": "Soluzioni in acciaio inox durevoli e igieniche, progettate secondo standard internazionali per differenti processi industriali."
+    },
+    "categories": [
+      {
+        "title": "Serbatoi di Stoccaggio Industriali",
+        "desc": "Sistemi di serbatoi heavy-duty progettati per lo stoccaggio sicuro di liquidi e materie prime ad alta capacità, resistenti alla pressione e alle condizioni operative più gravose."
+      },
+      {
+        "title": "Serbatoi per Olio d'Oliva",
+        "desc": "Serbatoi speciali con fondo conico e sistema di inertizzazione con azoto, progettati per preservare le caratteristiche organolettiche dell'olio extravergine d'oliva e garantire una protezione totale dall'ossidazione."
+      },
+      {
+        "title": "Serbatoi per Latte e Industria Alimentare",
+        "desc": "Serbatoi di processo in acciaio inox ultra igienici, coibentati e con camicia di raffreddamento, pienamente conformi agli standard di sicurezza alimentare FDA/GMP."
+      },
+      {
+        "title": "Serbatoi per Prodotti Chimici e Acidi",
+        "desc": "Unità di stoccaggio conformi agli standard internazionali di sicurezza, progettate per garantire la massima resistenza a prodotti chimici aggressivi, alte temperature e pressione."
+      }
+    ],
+    "viewModels": "SCOPRI I MODELLI",
+    "cta": {
+      "title": "Produzione Personalizzata per il Vostro Progetto",
+      "desc": "Richiedete una soluzione ingegneristica su misura, perfettamente adattata alla capacità produttiva e ai vincoli dimensionali del vostro impianto, oltre i modelli standard.",
+      "btn": "CONTATTACI"
+    }
+  }
+}

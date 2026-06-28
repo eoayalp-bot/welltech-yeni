@@ -1,0 +1,95 @@
+{
+  "mixingTanksPage": {
+    "metadata": {
+      "title": "Tanques de Mistura e Agitadores | Welltech®",
+      "description": "Tanques misturadores de aço inoxidável com agitador (hélice/pá), adequados para diferentes viscosidades para as indústrias alimentícia, farmacêutica e química."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "process": "Sistemas de Processo",
+      "current": "Tanques de Mistura"
+    },
+    "hero": {
+      "title": "Tanques com Agitador",
+      "desc": "Misturadores industriais projetados especificamente para o produto e o processo, combinando perfeitamente misturas líquido-líquido ou líquido-sólido de diferentes viscosidades."
+    },
+    "technology": {
+      "title": "Mecânica dos Fluidos e Tecnologia de Agitação",
+      "desc": "A eficiência dos tanques de mistura depende do projeto do <strong>Agitador (Pá)</strong> selecionado de acordo com a viscosidade e densidade do produto a ser misturado. Enquanto as pás do tipo Hélice (Propeller) criam rápida circulação em líquidos de baixa viscosidade; as <strong>pás do tipo Âncora e com Raspador</strong> evitam que produtos altamente viscosos e pegajosos grudem na parede do tanque, garantindo uma mistura homogênea. Quando necessário, quebra-ondas (baffles/chicanas) são integrados no tanque para evitar a formação de vórtices, minimizando o tempo de mistura.",
+      "imgAlt": "Tecnologia da Pá do Agitador"
+    },
+    "features": {
+      "title": "Vantagens de Projeto e Desempenho",
+      "items": [
+        "Design da Pá do Agitador Escolhido Especificamente para o Líquido e a Viscosidade",
+        "Sistema de Quebra-ondas (Baffle) para Prevenir a Formação de Vórtices",
+        "Prevenção de Queima do Produto e Adesão à Parede com Raspadores de Teflon",
+        "Possibilidade de Operar em Diferentes Velocidades com Inversor (Inverter)",
+        "Configuração Especial do Motor e Redutor que não Altera a Forma do Produto",
+        "Bolas de Lavagem CIP (Clean-in-Place) Integradas para Fácil Limpeza"
+      ],
+      "imgAlt": "Motor e Automação do Tanque Misturador"
+    },
+    "table": {
+      "title": "Tipos de Pás e Áreas de Aplicação",
+      "note": "* As velocidades de rotação e os valores de viscosidade listados são uma referência geral; a combinação motor/redutor é calculada especificamente para o seu projeto.",
+      "headers": [
+        "TIPO DE PÁ (AGITADOR)",
+        "FAIXA DE VISCOSIDADE",
+        "ÁREA DE USO",
+        "VELOCIDADE DE OPERAÇÃO (RPM)"
+      ],
+      "imgAlt": "Desenho Técnico de Tanque de Mistura",
+      "rows": [
+        { "type": "Hélice (Propeller)", "viscosity": "Baixa (Água, Suco)", "usage": "Mistura Rápida / Dissolução", "speed": "Alta (1000 - 1500 RPM)", "highlight": "dark" },
+        { "type": "Turbina (Turbine)", "viscosity": "Baixa / Média", "usage": "Emulsão / Dispersão", "speed": "Média - Alta (300 - 1000 RPM)", "highlight": "dark" },
+        { "type": "Âncora (Anchor)", "viscosity": "Alta (Creme, Xampu)", "usage": "Transferência de Calor Homogênea", "speed": "Baixa (10 - 60 RPM)", "highlight": "dark" },
+        { "type": "Com Raspador de Teflon (Scraper)", "viscosity": "Muito Alta (Massa, Pasta)", "usage": "Processos Aquecidos (Antiqueima)", "speed": "Baixa (10 - 40 RPM)", "highlight": "dark" },
+        { "type": "Pá Dupla Contra-Rotativa", "viscosity": "Variável", "usage": "Reações Químicas Complexas", "speed": "Variável (Com Inversor)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "Para que serve um Quebra-ondas (Baffle/Chicana)?",
+          "a": "Em processos de mistura rápida, ele evita que o líquido gire no tanque e crie um vórtice (redemoinho). O baffle interrompe a direção do fluxo do líquido, garantindo que ele se misture verticalmente e encurtando o tempo de processamento em até 40%."
+        },
+        {
+          "q": "Por que se prefere um agitador com raspador?",
+          "a": "Especialmente em tanques encamisados aquecidos, as pás com raspador de teflon são obrigatórias para evitar que fluidos densos (por exemplo, pasta de tomate ou cremes cosméticos) grudem na parede quente e queimem ou caramelizem."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nossas Aplicações Industriais",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Preparação de Soluções Químicas", "alt": "Misturador Químico" },
+        { "src": "galeri-2.webp", "label": "Misturador de Xampu e Detergente", "alt": "Tanque Agitador de Cosméticos" },
+        { "src": "galeri-3.webp", "label": "Tanque de Processo de Leite e Ayran", "alt": "Tanque Misturador de Alimentos" },
+        { "src": "galeri-4.webp", "label": "Misturador de Molhos e Pastas", "alt": "Tanque com Agitador Raspador" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Baixe o arquivo de especificações que contém tabelas de seleção de pás, cálculos de RPM do motor e diagramas de layout de quebra-ondas.",
+        "fileUrl": "/assets/documents/pt/tanques-misturadores-fichas-tec.pdf",
+        "btn": "BAIXAR ESPECIFICAÇÃO"
+      },
+      "reference": {
+        "badge": "FÁBRICA DE COSMÉTICOS",
+        "desc": "Linha de mistura de sabonete líquido com raspadores de teflon e camisa de aquecimento que instalamos para uma marca global de cosméticos.",
+        "imgAlt": "Referência de Misturador de Cosméticos",
+        "link": "IR PARA O PROJETO"
+      },
+      "cta": {
+        "title": "Qual é a Viscosidade do Seu Produto?",
+        "desc": "Informe-nos a densidade do seu fluido e sua capacidade, e projetaremos juntos a combinação de motor-redutor e design de pá (agitador) correta que não crie vórtices.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Ola,%20gostaria%20de%20obter%20informacoes%20tecnicas%20e%20precos%20sobre%20tanques%20de%20mistura%20com%20agitador.",
+        "btn": "CONSULTAR UM ENGENHEIRO"
+      }
+    }
+  }
+}

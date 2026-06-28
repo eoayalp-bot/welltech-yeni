@@ -1,0 +1,96 @@
+{
+  "chemicalTanksPage": {
+    "metadata": {
+      "title": "Tanques Químicos y de Ácidos | Welltech®",
+      "description": "Tanques de acero inoxidable de máxima resistencia a la corrosión para productos químicos agresivos, ácidos y procesos de alta presión."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "tanks": "Tanques de Inoxidable",
+      "current": "Tanques Químicos"
+    },
+    "hero": {
+      "title": "Tanques Químicos y de Ácidos",
+      "desc": "Soluciones de acero inoxidable de alta resistencia a la corrosión, compatibles con ATEX y de máxima seguridad para productos químicos agresivos y procesos exigentes."
+    },
+    "corrosion": {
+      "title": "Máxima Resistencia a la Corrosión",
+      "desc": "Los aceros inoxidables estándar pueden ser insuficientes para almacenar fluidos altamente corrosivos como ácidos, disolventes y cáusticos. Dependiendo del valor de pH del producto químico, la temperatura de funcionamiento y la presión, los ingenieros de Welltech garantizan la máxima seguridad en su instalación ofreciendo diseños de tanques de aleación de titanio (316Ti), Super Dúplex o con revestimientos especiales (PTFE)."
+    },
+    "features": {
+      "title": "Equipamiento de Diseño y Seguridad",
+      "items": {
+        "1": "Opciones de Aleación Especial Dúplex, 316Ti o Hastelloy",
+        "2": "Integración de Equipos con Certificación ATEX (Antideflagrante)",
+        "3": "Diseño de Doble Pared (Double Wall) para Cero Fugas",
+        "4": "Sistemas de Lavado de Gases (Scrubber) y Ventilación",
+        "5": "Sellado Especial Resistente a Ácidos y Químicos (PTFE/Viton)",
+        "6": "Automatización de Dosificación y Control de Nivel"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacidades de Producción para Trabajo Pesado (Heavy-Duty)",
+      "note": "* Para productos químicos agresivos, los espesores de pared se calculan estáticamente según la gravedad específica del fluido y la presión.",
+      "heavy": " (Trabajo Pesado)",
+      "headers": {
+        "volume": "VOLUMEN",
+        "diameter": "DIÁMETRO (Ø mm)",
+        "height": "ALTURA (mm)",
+        "thickness": "ESPESOR MÍN."
+      },
+      "customRow": "Para tanques de esta capacidad o superior que requieran ingeniería especial, se realizan cálculos basados en el proyecto."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Para qué productos químicos es adecuado el tanque de acero inoxidable?",
+          "a": "Se garantiza un almacenamiento seguro eligiendo la aleación correcta (316L, 316Ti, Dúplex) para muchas sustancias corrosivas como ácido nítrico, ácido sulfúrico, hidróxido de sodio (soda cáustica), disolventes y productos petroquímicos."
+        },
+        {
+          "q": "¿Tienen aprobación ATEX para productos químicos inflamables/explosivos?",
+          "a": "Sí, para fluidos con propiedades inflamables como los disolventes, todos los motores, sensores y válvulas se integran con certificación ATEX (Ex-Proof)."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nuestros Ejemplos de Proyectos Químicos",
+      "p1": {
+        "title": "Tanque de Ácido Sulfúrico",
+        "alt": "Proyecto de Tanque de Ácido Sulfúrico"
+      },
+      "p2": {
+        "title": "Almacenamiento Cáustico",
+        "alt": "Tanque de Almacenamiento de Cáustico"
+      },
+      "p3": {
+        "title": "Tanque de Disolvente ATEX",
+        "alt": "Tanque de Disolvente Aprobado por ATEX"
+      },
+      "p4": {
+        "title": "Tanque Aislado de Doble Pared",
+        "alt": "Tanque Químico de Doble Pared"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Descargue el archivo de especificaciones que contiene tablas de resistencia química, espesores de pared y estándares de seguridad.",
+        "fileUrl": "/assets/documents/es/tanques-quimicos-acidos-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "PROYECTO ATEX",
+        "desc": "Línea de almacenamiento de disolventes Ex-Proof que fabricamos para una instalación petroquímica internacional.",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "¿Se Necesita una Aleación Especial?",
+        "desc": "Envíenos la Hoja de Datos de Seguridad (FDS/MSDS) del químico que utilizará y determinaremos juntos la aleación de acero inoxidable más adecuada.",
+        "whatsappMsg": "Hola, me gustaría hablar sobre la selección de aleaciones y los precios para Tanques de Almacenamiento Químico.",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

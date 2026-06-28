@@ -1,0 +1,92 @@
+{
+  "cipSystemsPage": {
+    "metadata": {
+      "title": "Vollautomatische CIP-Anlagen (Clean-In-Place) | Welltech®",
+      "description": "Leitfähigkeitsgesteuerte, hoch energieeffiziente vollautomatische Edelstahl-CIP-Anlagen zur Reinigung von Lebensmittel-, Pharma- und Chemielinien ohne Demontage."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "CIP-Anlagen"
+    },
+    "hero": {
+      "title": "Vollautomatische CIP-Anlagen",
+      "desc": "Intelligente Clean-In-Place Einheiten, die menschliche Fehler ausschließen und 100%ige Hygiene in Ihren Industrieanlagen gewährleisten."
+    },
+    "technology": {
+      "title": "Clean-In-Place Technologie",
+      "desc": "CIP-Anlagen (Clean-in-Place) sind vollautomatische Systeme, die Produktionslinien, Rohre, Ventile und Prozesstanks reinigen, ohne sie demontieren zu müssen. Sie eliminieren menschliche Fehler, indem sie sicherstellen, dass Wasser, Säure, Lauge und Desinfektionsmittel bei der richtigen Temperatur, Durchflussrate und Dauer zirkulieren. Das System macht Ihre Produktionslinien für die nächste Charge vollständig steril und sicher.",
+      "imgAlt": "CIP-Anlage Prozesstechnologie"
+    },
+    "features": {
+      "title": "Automatisierungs- und Hygienemerkmale",
+      "items": [
+        "Vollautomatische Rezeptursteuerung über PLC/SCADA",
+        "Präzise Rückgewinnung durch Leitfähigkeitssensoren",
+        "Korrekte Chemikaliendosierung durch automatische Dosierpumpen",
+        "Edelstahlausführung nach FDA- und 3A-Hygienestandards",
+        "Unabhängige Tanks für Säure, Lauge, Rückgewinnung und Frischwasser",
+        "Schnelle und energieeffiziente Erwärmung durch Rohrbündelwärmetauscher"
+      ],
+      "imgAlt": "Automatisierungsschaltschrank der CIP-Anlage"
+    },
+    "table": {
+      "title": "Anlagenkonfigurationen",
+      "note": "* CIP-Anlagen werden speziell nach der Länge der zu reinigenden Leitung, dem Verschmutzungsgrad und der Kapazität Ihrer Anlage projektiert.",
+      "headers": [
+        "ANLAGENKONFIGURATION",
+        "TANKKAPAZITÄTEN",
+        "ANWENDUNGSBEREICH"
+      ],
+      "imgAlt": "Technische Zeichnung der CIP-Anlage",
+      "rows": [
+        { "config": "2-Tank-CIP (Wasser + Lauge)", "tanks": "500 L - 3.000 L", "sector": "Molkerei und Getränke", "highlight": "dark" },
+        { "config": "3-Tank-CIP (Wasser + Lauge + Säure)", "tanks": "1.000 L - 5.000 L", "sector": "Lebensmittel und Kosmetik", "highlight": "dark" },
+        { "config": "4-Tank-CIP (Mit Rückgewinnung)", "tanks": "2.000 L - 10.000 L", "sector": "Pharma und Biotech", "highlight": "orange" },
+        { "config": "Mobile CIP-Einheit (Portabel)", "tanks": "300 L - 1.000 L", "sector": "Flexible- und Pilotanlagen", "highlight": "dark" }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Welche Funktion hat der Leitfähigkeitssensor?",
+          "a": "Er misst die Dichte der aus der Leitung zurückkehrenden Säure oder Lauge. Wenn die Chemikalienkonzentration abnimmt, dosiert das System automatisch frische Chemikalien nach. Außerdem beendet er den Vorgang sicher, indem er erkennt, wenn die Leitung nach Abschluss der Reinigung vollständig frei von Chemikalien ist."
+        },
+        {
+          "q": "Wie spart die CIP-Anlage Wasser?",
+          "a": "Sie speichert das letzte Spülwasser (das teilweise sauber ist) im sogenannten Rückgewinnungstank (Recovery Tank), um es als Vorspülwasser für die nächste Reinigung zu verwenden. Auf diese Weise wird erheblich Wasser und Energie gespart."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Unsere industriellen Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Vollautomatische 3-Tank-CIP", "alt": "3-Tank-CIP-Anlage" },
+        { "src": "galeri-2.webp", "label": "4-Tank-Anlage für Pharmazie", "alt": "Pharma-CIP-Einheit" },
+        { "src": "galeri-3.webp", "label": "Mobiler CIP-Reinigungs-Trolley", "alt": "Mobile CIP" },
+        { "src": "galeri-4.webp", "label": "Lebensmittellinie SCADA-Steuerung", "alt": "CIP-Bedienfeld" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie die Spezifikationsdatei mit Tankkonfigurationen, Durchflussraten und Pumpendruckberechnungen herunter.",
+        "fileUrl": "/assets/documents/de/vollautomatische-cip-systeme-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "GETRÄNKEANLAGE",
+        "desc": "Eine vollautomatische, leitfähigkeitsgesteuerte 4-Tank-CIP-Linie, die wir für eine internationale Fruchtsaftfabrik installiert haben.",
+        "imgAlt": "CIP-Anlage Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Haben Sie ein spezielles Rezept?",
+        "desc": "Teilen Sie uns die Schmutzbelastung in Ihrer Anlage und die Länge der zu reinigenden Leitungen mit, und wir planen die effizienteste Kapazität.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

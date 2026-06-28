@@ -1,0 +1,98 @@
+{
+  "contactPage": {
+    "metadata": {
+      "title": "Contact | Welltech®",
+      "description": "Contactez-nous pour vos projets. Notre siège et usine de production à Kemalpasa, Izmir."
+    },
+    "hero": {
+      "title": "Contactez-Nous",
+      "desc": "Contactez directement notre équipe d'experts pour vos projets, demandes d'ingénierie et solutions de production."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "corporate": "Entreprise",
+      "current": "Contact"
+    },
+    "sidebar": {
+      "title": "Coordonnées",
+      "hq": {
+        "title": "SIÈGE SOCIAL",
+        "address": "Organize Sanayi Bolgesi, Kemalpasa OSB<br/>10. Sk. No:6, 35730<br/>Kemalpasa / Izmir / Turquie"
+      },
+      "factory": {
+        "title": "USINE DE PRODUCTION",
+        "address": "Ulucak Istiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpasa / Izmir / Turquie"
+      },
+      "phone": {
+        "title": "TÉLÉPHONE"
+      },
+      "whatsapp": {
+        "title": "LIGNE WHATSAPP"
+      },
+      "email": {
+        "title": "E-MAIL"
+      },
+      "hours": {
+        "title": "HEURES D'OUVERTURE",
+        "desc1": "Lundi - Vendredi : 08h30 - 18h30",
+        "desc2": "Fermé le week-end."
+      },
+      "social": {
+        "title": "SUIVEZ-NOUS"
+      }
+    },
+    "form": {
+      "title": "Planifions Votre Projet Ensemble",
+      "name": "NOM ET PRÉNOM",
+      "company": "NOM DE L'ENTREPRISE (Optionnel)",
+      "email": "ADRESSE E-MAIL",
+      "phone": "NUMÉRO DE TÉLÉPHONE (Optionnel)",
+      "subject": {
+        "label": "PRODUIT / SERVICE D'INTÉRÊT",
+        "placeholder": "Veuillez sélectionner un sujet...",
+        "groups": {
+          "tanks": "Cuves de Stockage en Inox",
+          "process": "Systèmes de Process",
+          "hygienic": "Pompes Hygiéniques",
+          "other": "Autres Demandes"
+        },
+        "options": {
+          "tanks_1": "Cuve de Stockage Industrielle",
+          "tanks_2": "Cuve de Stockage d'Huile d'Olive",
+          "tanks_3": "Cuve de Process Laitier et Alimentaire",
+          "tanks_4": "Cuve pour Produits Chimiques / Acides",
+          "process_1": "Cuve de Process avec Agitateur",
+          "process_2": "Réacteur Chimique / Pharmaceutique",
+          "process_3": "Homogénéisateur à Haut Cisaillement",
+          "process_4": "Skid de Process Mobile",
+          "process_5": "Cuve à Double Enveloppe (Chauffage/Refroidissement)",
+          "process_6": "Fermenteur et Bioréacteur",
+          "process_7": "Système NEP (CIP) Automatique",
+          "hygienic_1": "Pompe Centrifuge",
+          "hygienic_2": "Pompe Volumétrique à Lobes",
+          "hygienic_3": "Pompe Auto-amorçante",
+          "hygienic_4": "Pompe Vide-Fût",
+          "hygienic_5": "Pompe Pneumatique à Membrane",
+          "hygienic_6": "Pompe à Cavité Progressive (Moineau)",
+          "other_1": "Installation d'Usine Clé en Main",
+          "other_2": "Fabrication Sur Mesure / Autre"
+        }
+      },
+      "message": {
+        "label": "DÉTAILS DU PROJET",
+        "placeholder": "Veuillez indiquer brièvement la capacité de votre projet, la pression de service, la température ou d'autres exigences techniques..."
+      },
+      "status": {
+        "errorFields": "Veuillez remplir correctement les champs nom, e-mail et message.",
+        "loading": "Envoi de votre message...",
+        "success": "Votre message a été envoyé avec succès. Nous vous répondrons dans les plus brefs délais.",
+        "errorServer": "Une erreur de serveur s'est produite. Veuillez réessayer plus tard.",
+        "errorConnection": "Une erreur de connexion s'est produite. Veuillez vérifier votre connexion internet."
+      },
+      "submit": {
+        "loading": "ENVOI...",
+        "idle": "ENVOYER LE MESSAGE"
+      }
+    }
+  }
+}

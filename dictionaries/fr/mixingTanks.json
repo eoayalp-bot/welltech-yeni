@@ -1,0 +1,95 @@
+{
+  "mixingTanksPage": {
+    "metadata": {
+      "title": "Cuves de Mélange et Agitateurs | Welltech®",
+      "description": "Cuves de mélange en acier inoxydable avec agitateurs adaptées à différentes viscosités pour les industries alimentaire, pharmaceutique et chimique."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "process": "Systèmes de Process",
+      "current": "Cuves de Mélange"
+    },
+    "hero": {
+      "title": "Cuves avec Agitateurs",
+      "desc": "Mélangeurs industriels conçus sur mesure pour le produit et le processus, fusionnant parfaitement les mélanges liquide-liquide ou liquide-solide de différentes viscosités."
+    },
+    "technology": {
+      "title": "Mécanique des Fluides et Technologie d'Agitation",
+      "desc": "L'efficacité des cuves de mélange dépend de la conception de <strong>l'Agitateur (Pale)</strong>, choisie en fonction de la viscosité et de la densité du produit. Alors que les pales de type Hélice (Propeller) créent une circulation rapide dans les fluides à faible viscosité ; les <strong>pales type Ancre et à Racleur</strong> assurent un mélange homogène en empêchant les produits hautement visqueux et collants d'adhérer aux parois de la cuve. Si nécessaire, la formation de vortex (tourbillon) est empêchée par des contre-pales (baffles) intégrées, minimisant ainsi le temps de mélange.",
+      "imgAlt": "Technologie de Pale d'Agitateur"
+    },
+    "features": {
+      "title": "Avantages de Conception et Performance",
+      "items": [
+        "Conception de Pale d'Agitateur Spécifique au Fluide et à la Viscosité",
+        "Système de Contre-pales (Baffle) Empêchant la Formation de Vortex",
+        "Prévention de la Carbonisation et de l'Adhérence avec Racleurs en Téflon",
+        "Fonctionnement à Vitesses Variables via Variateur de Fréquence",
+        "Configuration Spéciale du Moteur et Réducteur Préservant la Structure du Produit",
+        "Boules de Lavage NEP (CIP) Intégrées pour un Nettoyage Facile"
+      ],
+      "imgAlt": "Motorisation et Automatisation de la Cuve de Mélange"
+    },
+    "table": {
+      "title": "Types de Pales et Domaines d'Application",
+      "note": "* Les vitesses de rotation et valeurs de viscosité indiquées sont des références générales, la combinaison moteur/réducteur est calculée spécifiquement pour votre projet.",
+      "headers": [
+        "TYPE DE PALE (AGITATEUR)",
+        "PLAGE DE VISCOSITÉ",
+        "DOMAINE D'APPLICATION",
+        "VITESSE DE ROTATION (Tr/min)"
+      ],
+      "imgAlt": "Dessin Technique de la Cuve de Mélange",
+      "rows": [
+        { "type": "Hélice (Propeller)", "viscosity": "Faible (Eau, Jus)", "usage": "Mélange Rapide / Dissolution", "speed": "Haute (1000 - 1500 Tr/min)", "highlight": "dark" },
+        { "type": "Turbine", "viscosity": "Faible / Moyenne", "usage": "Émulsion / Dispersion", "speed": "Moyenne - Haute (300 - 1000 Tr/min)", "highlight": "dark" },
+        { "type": "Ancre", "viscosity": "Élevée (Crème, Shampoing)", "usage": "Transfert de Chaleur Homogène", "speed": "Basse (10 - 60 Tr/min)", "highlight": "dark" },
+        { "type": "Racleur en Téflon (Scraper)", "viscosity": "Très Élevée (Pâte, Purée)", "usage": "Processus Chauffés (Anti-brûlure)", "speed": "Basse (10 - 40 Tr/min)", "highlight": "dark" },
+        { "type": "Pales Doubles Contrarotatives", "viscosity": "Variable", "usage": "Réactions Chimiques Complexes", "speed": "Variable (Variateur)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "À quoi sert une contre-pale (Baffle) ?",
+          "a": "Dans les processus de mélange rapide, elle empêche le liquide de tourner et de créer un vortex (tourbillon) à l'intérieur de la cuve. La contre-pale brise le flux, assurant un mélange vertical et réduisant le temps de traitement jusqu'à 40 %."
+        },
+        {
+          "q": "Pourquoi privilégier un agitateur avec racleur ?",
+          "a": "Particulièrement dans les cuves chauffantes à double enveloppe, les pales avec racleur en téflon sont obligatoires pour empêcher les fluides denses (comme la purée de tomate ou les crèmes cosmétiques) de coller et de brûler ou caraméliser sur la paroi chaude."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nos Applications Industrielles",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Préparation de Solutions Chimiques", "alt": "Mélangeur Chimique" },
+        { "src": "galeri-2.webp", "label": "Mélangeur Shampoing et Détergent", "alt": "Cuve Agitée Cosmétique" },
+        { "src": "galeri-3.webp", "label": "Cuve de Process Lait et Ayran", "alt": "Cuve de Mélange Alimentaire" },
+        { "src": "galeri-4.webp", "label": "Mélangeur Sauces et Pâtes", "alt": "Cuve avec Racleur" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez le fichier de spécification contenant les tableaux de sélection des pales, les calculs de vitesse et les schémas des contre-pales.",
+        "fileUrl": "/assets/documents/fr/reservoirs-melangeurs-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "USINE COSMÉTIQUE",
+        "desc": "Ligne de mélange de savon liquide avec racleurs en téflon et enveloppe chauffante installée pour une marque cosmétique mondiale.",
+        "imgAlt": "Référence Mélangeur Cosmétique",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Quelle est la Viscosité de Votre Produit ?",
+        "desc": "Indiquez-nous la densité de votre fluide et votre capacité, et concevons ensemble la bonne combinaison moteur-réducteur et agitateur sans vortex.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Bonjour,%20je%20souhaite%20obtenir%20des%20informations%20techniques%20et%20des%20prix%20sur%20les%20cuves%20de%20melange.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "jacketedTanksPage": {
+    "metadata": {
+      "title": "Tanques Encamisados (Aquecimento e Resfriamento) | Welltech®",
+      "description": "Tanques de aço inoxidável encamisados e isolados, projetados para controlar com precisão a temperatura do produto em processos químicos, alimentícios e farmacêuticos."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "process": "Sistemas de Processo",
+      "current": "Tanques Encamisados"
+    },
+    "hero": {
+      "title": "Tanques Encamisados (Aquecimento/Resfriamento)",
+      "desc": "Reatores e tanques com tecnologias de meio tubo, roll-bond (camisa alveolar) e parede dupla que oferecem alta eficiência de transferência de calor para fornecer o controle preciso de temperatura que o seu processo exige."
+    },
+    "technology": {
+      "title": "Tecnologias de Transferência de Calor e Camisas",
+      "desc": "Tanques encamisados são sistemas que possuem uma cavidade secundária (camisa) integrada em seu corpo para aquecer ou resfriar o fluido em seu interior. A <strong>Engenharia Welltech®</strong> calcula a área de superfície ideal de acordo com a taxa de aquecimento/resfriamento do seu processo e o fluido a ser utilizado (vapor, óleo térmico, glicol, água gelada). Enquanto o <strong>Meio tubo (Serpentina)</strong> é ideal para vapor de alta pressão, as camisas <strong>Roll-bond (Dimple Jacket)</strong> fornecem excelente eficiência em aplicações de resfriamento e aquecimento homogêneos."
+    },
+    "features": {
+      "title": "Vantagens de Projeto e Isolamento",
+      "items": [
+        "Projetos Especiais de Camisa Proporcionando Distribuição Homogênea de Calor",
+        "Soldas Testadas para Vapor de Alta Pressão e Óleo Térmico",
+        "Isolamento 100% Eficiente Energeticamente com Poliuretano ou Lã de Rocha",
+        "Revestimento Externo Inoxidável Totalmente Soldado sobre o Isolamento",
+        "Conexões de Quebra Térmica (Thermal Break) para Evitar Perda de Calor",
+        "Compatibilidade com Termopares Precisos PT-100 e Automação de Controle Térmico"
+      ],
+      "imgAlt": "Isolamento de Tanque Encamisado e Transferência de Calor"
+    },
+    "table": {
+      "title": "Tipos de Camisas e Aplicações Técnicas",
+      "note": "* A pressão de operação e as espessuras da chapa da camisa são calculadas estaticamente de acordo com as normas (ASME Seção VIII ou EN 13445).",
+      "headers": [
+        "TIPO DE CAMISA",
+        "FINALIDADE DE USO",
+        "FLUIDO DE TRANSFERÊNCIA DE CALOR",
+        "PRESSÃO MÁXIMA"
+      ],
+      "imgAlt": "Desenho Técnico de Tanque Encamisado",
+      "rows": [
+        { "type": "Meio Tubo (Serpentina)", "purpose": "Aquecimento em Alta Pressão", "fluid": "Vapor / Óleo Térmico", "pressure": "25 Bar", "highlight": "orange" },
+        { "type": "Parede Dupla (Double Wall)", "purpose": "Aquecimento/Resfriamento Atmosférico", "fluid": "Água Quente / Água Fria", "pressure": "3 Bar", "highlight": "dark" },
+        { "type": "Alveolar (Dimple / Roll-Bond)", "purpose": "Resfriamento/Aquecimento Rápido e Homogêneo", "fluid": "Água Gelada / Glicol / Vapor", "pressure": "15 Bar", "highlight": "dark" },
+        { "type": "Elétrica (Resistência)", "purpose": "Aquecimento Autônomo (Sem Caldeira)", "fluid": "Óleo Térmico / Água", "pressure": "Atmosférico", "highlight": "dark" }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "Qual é a diferença entre uma camisa de Meio Tubo e uma Parede Dupla?",
+          "a": "Uma camisa de meio tubo consiste em tubos enrolados e soldados ao redor do corpo. Sua resistência a alta pressão (por exemplo, 10 bar de vapor) é excelente. A parede dupla é uma segunda chapa que envolve completamente o tanque, mais adequada para a circulação de água a baixa pressão (atmosférica)."
+        },
+        {
+          "q": "Como o material de isolamento é escolhido?",
+          "a": "Enquanto a espuma de poliuretano é usada para evitar a condensação em processos de resfriamento (chiller), em processos de aquecimento de alta temperatura (vapor, óleo térmico), prefere-se o isolamento incombustível de Lã de Rocha ou Lã Cerâmica."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nossas Aplicações Industriais",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Reator Aquecido a Vapor", "alt": "Reator com Camisa de Vapor" },
+        { "src": "galeri-2.webp", "label": "Tanque Resfriado a Água Gelada (Chiller)", "alt": "Tanque com Camisa de Resfriamento" },
+        { "src": "galeri-3.webp", "label": "Tanque de Fusão com Óleo Térmico", "alt": "Tanque de Fusão" },
+        { "src": "galeri-4.webp", "label": "Misturador Isolado e com Resistência", "alt": "Tanque Aquecido Eletricamente" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Baixe nosso catálogo que inclui cálculos da área de transferência de calor, testes de pressão da camisa e detalhes de isolamento.",
+        "fileUrl": "/assets/documents/pt/tanques-camisa-climatizacao-fichas-tec.pdf",
+        "btn": "BAIXAR ESPECIFICAÇÃO"
+      },
+      "reference": {
+        "badge": "INDÚSTRIA QUÍMICA",
+        "desc": "Linha de tanques de polimerização de 20.000 L de capacidade com resfriamento a glicol e isolamento de poliuretano.",
+        "imgAlt": "Referência de Tanque Encamisado",
+        "link": "IR PARA O PROJETO"
+      },
+      "cta": {
+        "title": "Qual Tipo de Camisa?",
+        "desc": "Informe-nos sobre o seu tempo de reação alvo e o seu fluido de aquecimento/resfriamento, e escolheremos juntos o sistema de camisa mais seguro.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Ola,%20gostaria%20de%20obter%20informacoes%20tecnicas%20e%20precos%20sobre%20tanques%20encamisados%20(aquecimento/resfriamento).",
+        "btn": "CONSULTAR UM ENGENHEIRO"
+      }
+    }
+  }
+}

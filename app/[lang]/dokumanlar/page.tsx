@@ -6,7 +6,7 @@ import { getLocalizedUrl } from '../../../dictionaries/routes';
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
-  const dict = await getDictionary(resolvedParams.lang);
+  const dict = await getDictionary(resolvedParams.lang, 'documents');
 
   return {
     title: dict.documentsPage.metadata.title,
@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 export default async function DocumentsPage({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+  const dict = await getDictionary(lang, 'documents');
 
   const jsonLd = {
     "@context": "https://schema.org",

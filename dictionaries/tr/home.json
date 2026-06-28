@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "badge": "ENDÜSTRİYEL PROSES VE DEPOLAMA MÜHENDİSLİĞİ",
+    "title": "Üretim Hattınızın Güçlü Kalbi",
+    "desc": "EN ve ASME standartlarında; AISI 304/316L paslanmaz çelik endüstriyel tanklar, tam otomatize proses sistemleri ve hijyenik akışkan transferi için anahtar teslim tesis mühendisliği.",
+    "bgImage": "/assets/images/ana-sayfa/hero-bg.webp",
+    "bgAlt": "Welltech Endüstriyel Tesis ve Paslanmaz Reaktör Üretimi",
+    "btn1": "MÜHENDİSLİK TALEBİ",
+    "btn2": "TEKNİK KATALOG İNDİR"
+  },
+  "stats": [
+    { "n": "20+", "t": "YILLIK ÜRETİM TECRÜBESİ" },
+    { "n": "40+", "t": "GLOBAL İHRACAT AĞI" },
+    { "n": "1000+", "t": "DEVREYE ALINAN SİSTEM" },
+    { "n": "%100", "t": "SIZDIRMAZLIK & KALİTE ONAYI" }
+  ],
+  "services": {
+    "title": "Anahtar Teslim Mühendislik ve Üretim Çözümleri",
+    "desc": "Gıda (Dairy, Beverage), kimya, ilaç ve biyoteknoloji endüstrileri için EHEDG hijyenik tasarım kurallarına uygun, CFD destekli yüksek mühendislik ekipmanları üretiyoruz.",
+    "view_details": "TEKNİK DETAYLARI İNCELE",
+    "items": [
+      {
+        "title": "Endüstriyel Depolama Tankları",
+        "desc": "EN 13445 ve API 650 standartlarında; yüksek kapasiteli, ısı yalıtımlı, karıştırıcılı ve uzun ömürlü AISI 316L paslanmaz çelik likit depolama üniteleri.",
+        "image": "/assets/images/ana-sayfa/hizmet-depolama.webp",
+        "link": "paslanmaz-tanklar"
+      },
+      {
+        "title": "Otomatize Proses Sistemleri",
+        "desc": "Üretim hattınızın kritik reaksiyonları için; PLC/SCADA kontrollü ceketli reaktörler, high-shear homojenizatörler ve CIP/SIP entegre mikserler.",
+        "image": "/assets/images/ana-sayfa/hizmet-proses.webp",
+        "link": "proses-sistemleri"
+      },
+      {
+        "title": "Hijyenik Transfer ve Akış Çözümleri",
+        "desc": "Yüksek viskoziteli akışkan transferi için FDA onaylı; santrifüj, lob (positive displacement) ve havalı diyaframlı hijyenik pompa teknolojileri.",
+        "image": "/assets/images/pompalar/kategori-banner.webp",
+        "link": "hijyenik-pompalar"
+      }
+    ]
+  },
+  "why_us": {
+    "badge": "MÜHENDİSLİK OTORİTESİ: WELLTECH",
+    "title": "Küresel Standartlarda Yerli Üretim Gücü",
+    "desc": "Tesisiniz için sadece bağımsız ekipman üretmiyor; termal hesaplamaları yapılmış, sürdürülebilir, yüksek basınç dayanımlı ve enerji verimli komple proses altyapıları kuruyoruz.",
+    "list": [
+      "ASME, CE (PED 2014/68/EU), ISO ve EHEDG Standartlarında Üretim",
+      "3D CAD ve CFD Analiz Destekli Termodinamik Proses Tasarımı",
+      "NDT (Tahribatsız Muayene), Penetrant ve Hidrostatik Basınç Testleri",
+      "Global Ağ: Satış Sonrası 7/24 Teknik Servis ve Orijinal Yedek Parça"
+    ],
+    "box1": {
+      "title": "KÜRESEL OTOMASYON",
+      "desc": "40'tan fazla ülkede aktif çalışan PLC entegre sistemler"
+    },
+    "box2": {
+      "title": "AĞIR SANAYİ DAYANIMI",
+      "desc": "Tüm reaktör ve tanklarımızda mutlak korozyon ve sızdırmazlık garantisi"
+    }
+  }
+}

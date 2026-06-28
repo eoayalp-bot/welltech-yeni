@@ -1,0 +1,95 @@
+{
+  "selfPrimingPumpsPage": {
+    "metadata": {
+      "title": "Bombas Autoescorvantes | Welltech®",
+      "description": "Bombas autoescorvantes (self-priming) de aço inoxidável que podem evacuar líquidos espumosos ou contendo gás e extrair do fundo de tanques sem problemas."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "pumps": "Bombas",
+      "current": "Bombas Autoescorvantes"
+    },
+    "hero": {
+      "title": "Bombas Autoescorvantes",
+      "desc": "Operação livre de cavitação em fluidos contendo misturas de ar e gás. Poder de sucção perfeito para linhas de retorno CIP e esvaziamento de tanques de altura de sucção negativa."
+    },
+    "technology": {
+      "title": "Tecnologia de Vácuo e Autoescorvamento",
+      "desc": "Embora as bombas centrífugas padrão travem quando há ar na linha de sucção, as bombas autoescorvantes (Self-Priming) criam um vácuo evacuando o ar dentro delas graças ao design especial de sua carcaça. É a solução mais ideal e higiênica para retirar líquidos de tanques subterrâneos ou evacuar água de lavagem espumosa em sistemas CIP.",
+      "imgAlt": "Tecnologia de Rotor de Bomba Autoescorvante"
+    },
+    "features": {
+      "title": "Vantagens de Desempenho e Projeto",
+      "items": [
+        "Alta Capacidade de Sucção em Altura Negativa (Profundidade)",
+        "Transferência de Fluidos Contendo Gás e Ar (Espumosos)",
+        "Compatibilidade Total com Sistemas de Retorno CIP (Limpeza no Local)",
+        "Design Interno Sem Zonas Mortas e Facilmente Lavável (Higiênico)",
+        "Aço Inoxidável AISI 316L Forjado ou de Fundição de Precisão",
+        "Selo Mecânico Resistente ao Desgaste e de Longa Duração"
+      ],
+      "imgAlt": "Design Interno da Bomba Autoescorvante"
+    },
+    "table": {
+      "title": "Especificações Técnicas e Capacidade",
+      "note": "* A profundidade de sucção e os valores de vazão podem variar dependendo da viscosidade do fluido (água = 1 cPs) e da temperatura ambiente.",
+      "headers": [
+        "MODELO DA BOMBA",
+        "VAZÃO MÁX. (m³/h)",
+        "ALTURA MANOMÉTRICA (m)",
+        "POTÊNCIA DO MOTOR (kW)"
+      ],
+      "imgAlt": "Desenho Técnico de Capacidade da Bomba",
+      "rows": [
+        { "model": "WSP-10", "flow": "10 m³/h", "head": "20 m", "power": "1.5 kW", "highlight": "dark" },
+        { "model": "WSP-20", "flow": "20 m³/h", "head": "25 m", "power": "2.2 kW", "highlight": "dark" },
+        { "model": "WSP-30", "flow": "30 m³/h", "head": "30 m", "power": "4.0 kW", "highlight": "dark" },
+        { "model": "WSP-40", "flow": "40 m³/h", "head": "35 m", "power": "5.5 kW", "highlight": "dark" },
+        { "model": "WSP-50", "flow": "50 m³/h", "head": "40 m", "power": "7.5 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "Qual é a lógica de operação de uma bomba autoescorvante?",
+          "a": "Durante a instalação inicial, uma certa quantidade de líquido é adicionada à carcaça. Quando ligada, ela mistura a carga de ar na linha de sucção com este líquido e a expulsa; depois extrai o líquido do fundo graças ao vácuo criado na linha."
+        },
+        {
+          "q": "Por que esta bomba é usada na linha de retorno (Return) CIP?",
+          "a": "Durante o processo de lavagem de tanques (CIP), muito ar e espuma se misturam ao líquido. As bombas normais giram no vazio na espuma (cavitação), enquanto as bombas autoescorvantes toleram o ar e transferem o líquido de lavagem sem problemas."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nossas Aplicações Industriais",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Sistema de Retorno CIP", "alt": "Bomba de Retorno CIP" },
+        { "src": "galeri-2.webp", "label": "Esvaziamento de Tanque Subterrâneo", "alt": "Bomba de Sucção Subterrânea" },
+        { "src": "galeri-3.webp", "label": "Transferência de Líquido Espumoso", "alt": "Bomba de Fluido Espumoso" },
+        { "src": "galeri-4.webp", "label": "Estação de Sucção Móvel", "alt": "Bomba Autoescorvante Móvel" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Baixe nosso catálogo contendo curvas de bombeamento, cálculos de profundidade de sucção e opções de motores.",
+        "fileUrl": "/assets/documents/pt/bombas-autoescorvantes-fichas-tec.pdf",
+        "btn": "BAIXAR ESPECIFICAÇÃO"
+      },
+      "reference": {
+        "badge": "SISTEMA CIP",
+        "desc": "Linha de retorno de lavagem CIP totalmente automática que instalamos para uma fábrica de bebidas com capacidade diária de 500 toneladas.",
+        "imgAlt": "Referência de Retorno CIP",
+        "link": "IR PARA O PROJETO"
+      },
+      "cta": {
+        "title": "Qual é a Sua Distância de Sucção?",
+        "desc": "Informe-nos a profundidade (cota negativa) do seu tanque subterrâneo e a metragem da tubulação, e vamos escolher a bomba correta que elimine o risco de cavitação.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Ola,%20gostaria%20de%20obter%20informacoes%20tecnicas%20e%20precos%20sobre%20bombas%20autoescorvantes.",
+        "btn": "CONSULTAR UM ENGENHEIRO"
+      }
+    }
+  }
+}

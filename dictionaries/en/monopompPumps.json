@@ -1,0 +1,95 @@
+{
+  "monopompPumpsPage": {
+    "metadata": {
+      "title": "Progressive Cavity (Monopump) Pumps | Welltech®",
+      "description": "Stainless steel progressive cavity pumps for the lossless transfer of demanding fluids (sludge, dough, honey) with high viscosity, stickiness, and solid particles."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "pumps": "Pumps",
+      "current": "Progressive Cavity Pumps"
+    },
+    "hero": {
+      "title": "Progressive Cavity Pumps",
+      "desc": "Smooth transfer without disrupting the structure of demanding, sticky, and highly viscous fluids like treatment sludge, tomato paste, fruit pulp, and honey."
+    },
+    "technology": {
+      "title": "Progressive Cavity Technology",
+      "desc": "Progressive Cavity Pumps operate on the principle of a stainless steel rotor turning inside a flexible stator to create volumetric chambers (cavities). This helical motion continuously pushes the fluid forward without crushing, foaming, or creating pulsation. It is the indispensable standard of the industry in transferring the most demanding, solid particle-containing, or sticky liquids.",
+      "imgAlt": "Progressive Cavity Rotor and Stator Cross-Section"
+    },
+    "features": {
+      "title": "Design and Performance Advantages",
+      "items": [
+        "Pulsation-Free, Continuous, and Precise Flow",
+        "Fluid Transfer up to 1,000,000 cPs Viscosity",
+        "Conveying Solid Particles and Fibers Without Shearing",
+        "High Pressure at Low Speed (Multi-Stage Stator System)",
+        "Food-Grade NBR, EPDM, or Viton Stator Options",
+        "Quiet Operation and Easy Spare Part Replacement"
+      ],
+      "imgAlt": "Progressive Cavity Internal Hardware Features"
+    },
+    "table": {
+      "title": "Technical Specifications and Capacity",
+      "note": "* Flow rate and pressure values are calculated project-specifically based on the viscosity of the fluid to be transferred and the motor (gearbox) speed.",
+      "headers": [
+        "PUMP MODEL",
+        "MAX. FLOW (m³/h)",
+        "MAX. PRESSURE (Bar)",
+        "CONNECTION SIZE"
+      ],
+      "imgAlt": "Progressive Cavity Technical Capacity Drawing",
+      "rows": [
+        { "model": "WMP-01", "flow": "1 m³/h", "head": "6 Bar", "power": "1\"", "highlight": "dark" },
+        { "model": "WMP-05", "flow": "5 m³/h", "head": "12 Bar", "power": "1 1/2\"", "highlight": "dark" },
+        { "model": "WMP-10", "flow": "10 m³/h", "head": "12 Bar", "power": "2\"", "highlight": "dark" },
+        { "model": "WMP-25", "flow": "25 m³/h", "head": "24 Bar", "power": "3\"", "highlight": "dark" },
+        { "model": "WMP-50", "flow": "50 m³/h", "head": "24 Bar", "power": "4\"", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "For which fluids is a progressive cavity pump preferred?",
+          "a": "It is used for all highly viscous and sticky liquids like cream, shampoo, treatment sludge, olive pomace, tomato paste, fish oil, and glue where normal pumps struggle or stall."
+        },
+        {
+          "q": "What is the lifespan of the Stator (Rubber), and what is done when it degrades?",
+          "a": "Stator life depends on the abrasiveness of the fluid and the operating temperature. Dry running can quickly burn the stator. When it degrades, the stator replacement (maintenance) can be easily done by just opening the front casing without completely removing the pump from the line."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Industrial Applications",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Treatment and Sludge Transfer", "alt": "Sludge Pump" },
+        { "src": "galeri-2.webp", "label": "Food and Paste Transfer", "alt": "Food Progressive Cavity Pump" },
+        { "src": "galeri-3.webp", "label": "Olive Pomace Pump", "alt": "Pomace Pump" },
+        { "src": "galeri-4.webp", "label": "Shampoo and Cosmetic Filling", "alt": "Cosmetic Pump" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download the catalog containing stator material compatibilities, pressure/cavity calculations, and motor gearbox curves.",
+        "fileUrl": "/assets/documents/en/progressive-cavity-pumps-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "TREATMENT FACILITY",
+        "desc": "Sludge feed pumps with 24 Bar pressure we installed for an industrial wastewater treatment facility.",
+        "imgAlt": "Progressive Cavity Treatment Reference",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "How Dense is Your Fluid?",
+        "desc": "Send us the density (viscosity) of the liquid you want to transfer and your hourly target, and let's choose the right rotor-stator pair.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hello,%20I%20would%20like%20to%20get%20technical%20information%20and%20pricing%20about%20progressive%20cavity%20pumps.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

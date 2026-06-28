@@ -1,0 +1,52 @@
+{
+  "processSystemsPage": {
+    "metadata": {
+      "title": "Sistemi e Macchine di Processo | Welltech®",
+      "description": "Serbatoi con agitatore, reattori, omogeneizzatori e sistemi CIP in acciaio inox conformi agli standard internazionali per le industrie alimentare, chimica e farmaceutica."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Sistemi di Processo"
+    },
+    "hero": {
+      "title": "Sistemi di Processo Industriali",
+      "desc": "Macchine di processo in acciaio inox conformi agli standard FDA e CE, caratterizzate da elevata precisione e automazione, che costituiscono il cuore della vostra linea produttiva."
+    },
+    "categories": [
+      {
+        "title": "Serbatoi con Agitatore",
+        "desc": "Serbatoi miscelatori in acciaio inox ad alta efficienza con configurazioni delle giranti (agitatori) progettate su misura per miscele liquido-liquido e liquido-solido."
+      },
+      {
+        "title": "Reattori Chimici",
+        "desc": "Sistemi heavy-duty progettati per controllare in sicurezza reazioni chimiche in condizioni di alta pressione, vuoto e temperature estreme."
+      },
+      {
+        "title": "Omogeneizzatori",
+        "desc": "Miscelatori ad alta velocità che riducono le diverse fasi dei fluidi (emulsioni) a livello micronico, garantendo prodotti omogenei e stabili."
+      },
+      {
+        "title": "Unità Mobili",
+        "desc": "Unità portatili di miscelazione e trasferimento, dotate di pompa e quadro di automazione integrati, facilmente movimentabili tra le diverse stazioni dell'impianto."
+      },
+      {
+        "title": "Serbatoi Riscaldati/Raffreddati (Camiciati)",
+        "desc": "Sistemi con tecnologia a semitubo (serpentino), roll-bond o doppia parete, progettati per processi che richiedono un controllo preciso della temperatura."
+      },
+      {
+        "title": "Fermentatori e Bioreattori",
+        "desc": "Reattori biotecnologici sterili che consentono la crescita di batteri, lieviti e colture cellulari nelle condizioni ottimali di temperatura, ossigeno e pH."
+      },
+      {
+        "title": "Sistemi CIP Completamente Automatici",
+        "desc": "Unità di sterilizzazione che consentono il lavaggio e la disinfezione automatica (Clean-In-Place) di linee di produzione, serbatoi e pompe senza necessità di smontaggio."
+      }
+    ],
+    "viewModels": "SCOPRI I SISTEMI",
+    "cta": {
+      "title": "Ingegneria Su Misura per il Vostro Processo",
+      "desc": "Condividete con i nostri ingegneri la vostra ricetta produttiva e la capacità desiderata: progetteremo il sistema più adatto al vostro processo mediante simulazioni 3D.",
+      "btn": "CONSULTATE I NOSTRI INGEGNERI"
+    }
+  }
+}

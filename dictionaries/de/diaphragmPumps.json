@@ -1,0 +1,95 @@
+{
+  "diaphragmPumpsPage": {
+    "metadata": {
+      "title": "Druckluft-Membranpumpen | Welltech®",
+      "description": "Stromlose Druckluft-Membranpumpen aus Edelstahl mit hoher Saugkraft für explosionsgefährdete und brennbare Umgebungen (ATEX)."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "pumps": "Pumpen",
+      "current": "Druckluft-Membranpumpen"
+    },
+    "hero": {
+      "title": "Druckluft-Membranpumpen",
+      "desc": "Garantierte Blockierfreiheit bei partikelhaltigen und hochviskosen Medien, mit ATEX-Zulassung durch stromloses (pneumatisches) Funktionsprinzip."
+    },
+    "safety": {
+      "title": "Maximale Sicherheit (ATEX)",
+      "desc": "Das druckluftbetriebene (pneumatische) Funktionsprinzip ohne Elektromotor macht diese Pumpen zur einzigen und sichersten Option für die Förderung von brennbaren Lösungsmitteln und explosiven Chemikalien. Sie tolerieren die Förderung feststoffhaltiger Medien oder Trockenlauf ohne Störungen. Blockierfreies (Non-Stalling) Pneumatikventilsystem sorgt für einen störungsfreien und sicheren Produktionsablauf.",
+      "imgAlt": "ATEX-geprüfter Druckluftpumpe Querschnitt"
+    },
+    "features": {
+      "title": "Design- und Ausstattungsvorteile",
+      "items": [
+        "ATEX (Ex-Proof) geprüftes, absolut sicheres Design",
+        "Vollständige Trockenlaufbeständigkeit",
+        "Verklemmungsfreier Transfer von Feststoffpartikeln",
+        "Blockierfreies (Non-Stalling) pneumatisches Ventilsystem",
+        "Niedrige Betriebskosten durch stromlosen Betrieb",
+        "Einfache Montage, geringer Ersatzteil- und Wartungsbedarf"
+      ],
+      "imgAlt": "Ventilmechanismus der Membranpumpe"
+    },
+    "table": {
+      "title": "Leistungskurve und Kapazitätstabelle",
+      "note": "* Die angegebenen Werte basieren auf Wasser (1 cPs). Bei hochviskosen und partikelhaltigen Medien kann die Pumpengröße variieren.",
+      "headers": [
+        "ANSCHLUSSGRÖSSE",
+        "MAX. FÖRDERMENGE (L/min)",
+        "MAX. BETRIEBSDRUCK",
+        "PARTIKELDURCHGANG (mm)"
+      ],
+      "imgAlt": "Technische Zeichnung Membranpumpe",
+      "rows": [
+        { "size": "1/2\"", "flow": "55 L/min", "pressure": "8 Bar", "particle": "2,5 mm", "highlight": "dark" },
+        { "size": "1\"", "flow": "160 L/min", "pressure": "8 Bar", "particle": "3,5 mm", "highlight": "dark" },
+        { "size": "1 1/2\"", "flow": "350 L/min", "pressure": "8 Bar", "particle": "6,0 mm", "highlight": "dark" },
+        { "size": "2\"", "flow": "550 L/min", "pressure": "8 Bar", "particle": "6,5 mm", "highlight": "dark" },
+        { "size": "3\"", "flow": "900 L/min", "pressure": "8 Bar", "particle": "9,5 mm", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Nach welchen Kriterien wird das Membranmaterial ausgewählt?",
+          "a": "Abhängig vom pH-Wert (Säuregrad) und der Temperatur des zu fördernden Mediums werden Membranen aus Teflon (PTFE), Santoprene, NBR oder Hytrel ausgewählt."
+        },
+        {
+          "q": "Was ist der Vorteil des pneumatischen Antriebs?",
+          "a": "Da kein Stromnetz benötigt wird, ist das Explosionsrisiko gleich null. Außerdem stoppt die Pumpe beim Schließen des Ventils automatisch und erfordert keine kostenintensiven zusätzlichen Schutzausrüstungen wie Bypass-Ventile."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Membranpumpen-Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Lösungsmittel- und Verdünnertransfer", "alt": "ATEX-Lösungsmittelpumpe" },
+        { "src": "galeri-2.webp", "label": "Klärschlamm- und Schlammtransfer", "alt": "Schlammpumpe" },
+        { "src": "galeri-3.webp", "label": "Pumpe für Lebensmittelzusätze", "alt": "Edelstahl-Membranpumpe" },
+        { "src": "galeri-4.webp", "label": "Farb- und Harztransfer", "alt": "Farbtransferpumpe" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Sie können Kompatibilitätstabellen für Membranmaterialien, Luftverbrauchsdiagramme (SCFM) und ATEX-Zertifikate herunterladen.",
+        "fileUrl": "/assets/documents/de/druckluft-membranpumpen-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "CHEMIEANLAGE",
+        "desc": "Eine Membranpumpenlinie mit 40 Einheiten, die wir für eine internationale Lackfabrik installiert haben.",
+        "imgAlt": "Druckluft-Membranpumpe Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Welche Membran ist geeignet?",
+        "desc": "PTFE, NBR oder Santoprene? Senden Sie uns das Sicherheitsdatenblatt (SDB/MSDS) Ihrer Flüssigkeit, und wir bestimmen das sicherste Membranmaterial.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hallo,%20ich%20moechte%20technische%20Informationen%20und%20Preise%20zu%20Druckluft-Membranpumpen%20erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

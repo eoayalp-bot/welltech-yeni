@@ -1,0 +1,95 @@
+{
+  "monopompPumpsPage": {
+    "metadata": {
+      "title": "Pompes à Vis Excentrée (Moineau) | Welltech®",
+      "description": "Pompes à cavité progressive en acier inoxydable pour le transfert sans perte de fluides exigeants (boues, pâtes, miel) hautement visqueux, collants et chargés en particules."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "pumps": "Pompes",
+      "current": "Pompes à Vis Excentrée"
+    },
+    "hero": {
+      "title": "Pompes à Vis Excentrée (Cavité Progressive)",
+      "desc": "Transfert fluide et sans altération de la structure pour les liquides exigeants, collants et très visqueux comme les boues d'épuration, le concentré de tomate et le miel."
+    },
+    "technology": {
+      "title": "Technologie à Cavité Progressive",
+      "desc": "Les pompes à vis excentrée (Progressive Cavity Pumps) fonctionnent sur le principe d'un rotor en acier inoxydable tournant à l'intérieur d'un stator flexible pour créer des cavités volumétriques. Ce mouvement hélicoïdal pousse continuellement le fluide vers l'avant sans l'écraser, le faire mousser ou créer de pulsations. C'est le standard incontournable de l'industrie pour le transfert des liquides les plus difficiles, collants ou contenant des solides.",
+      "imgAlt": "Coupe Rotor et Stator de Pompe à Vis Excentrée"
+    },
+    "features": {
+      "title": "Avantages de Conception et Performance",
+      "items": [
+        "Flux Continu, Précis et Sans Pulsation",
+        "Transfert de Fluide jusqu'à 1 000 000 cPs de Viscosité",
+        "Convoyage de Particules Solides et Fibres Sans Dégradation",
+        "Haute Pression à Basse Vitesse (Système de Stator Multi-étagé)",
+        "Options de Stator NBR, EPDM ou Viton Conformes aux Normes Alimentaires",
+        "Fonctionnement Silencieux et Remplacement Facile des Pièces"
+      ],
+      "imgAlt": "Caractéristiques Internes de la Pompe à Vis Excentrée"
+    },
+    "table": {
+      "title": "Spécifications Techniques et Capacité",
+      "note": "* Les valeurs de débit et de pression sont calculées spécifiquement pour chaque projet en fonction de la viscosité du fluide et de la vitesse du motoréducteur.",
+      "headers": [
+        "MODÈLE DE POMPE",
+        "DÉBIT MAX. (m³/h)",
+        "PRESSION MAX. (Bar)",
+        "TAILLE DE RACCORDEMENT"
+      ],
+      "imgAlt": "Dessin de Capacité Technique de la Pompe",
+      "rows": [
+        { "model": "WMP-01", "flow": "1 m³/h", "head": "6 Bar", "power": "1\"", "highlight": "dark" },
+        { "model": "WMP-05", "flow": "5 m³/h", "head": "12 Bar", "power": "1 1/2\"", "highlight": "dark" },
+        { "model": "WMP-10", "flow": "10 m³/h", "head": "12 Bar", "power": "2\"", "highlight": "dark" },
+        { "model": "WMP-25", "flow": "25 m³/h", "head": "24 Bar", "power": "3\"", "highlight": "dark" },
+        { "model": "WMP-50", "flow": "50 m³/h", "head": "24 Bar", "power": "4\"", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Pour quels fluides la pompe à vis excentrée est-elle privilégiée ?",
+          "a": "Elle est utilisée pour tous les liquides hautement visqueux et collants comme la crème, le shampoing, les boues d'épuration, le grignon d'olive, la pâte de tomate, l'huile de poisson et la colle, là où les pompes normales peinent ou se bloquent."
+        },
+        {
+          "q": "Quelle est la durée de vie du Stator (Caoutchouc) et que faire en cas d'usure ?",
+          "a": "La durée de vie du stator dépend de l'abrasivité du fluide et de la température de fonctionnement. La marche à sec peut brûler rapidement le stator. En cas d'usure, le remplacement du stator s'effectue facilement en ouvrant simplement le corps avant, sans avoir à démonter toute la pompe de la ligne."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nos Applications Industrielles",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Transfert de Boues et Épuration", "alt": "Pompe à Boues" },
+        { "src": "galeri-2.webp", "label": "Transfert Alimentaire et Pâtes", "alt": "Pompe Alimentaire à Vis" },
+        { "src": "galeri-3.webp", "label": "Pompe à Grignons d'Olive", "alt": "Pompe à Grignons" },
+        { "src": "galeri-4.webp", "label": "Remplissage Shampoing et Cosmétique", "alt": "Pompe Cosmétique" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez le catalogue contenant les compatibilités de matériaux de stator, les calculs de pression et les courbes du motoréducteur.",
+        "fileUrl": "/assets/documents/fr/pompes-cavite-progressive-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "STATION D'ÉPURATION",
+        "desc": "Pompes d'alimentation de boues à 24 Bar de pression installées pour une station d'épuration des eaux usées industrielles.",
+        "imgAlt": "Référence Traitement des Eaux",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Quelle est la Densité de Votre Fluide ?",
+        "desc": "Indiquez-nous la viscosité du liquide que vous souhaitez transférer et votre objectif horaire, et nous choisirons le bon couple rotor-stator.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Bonjour,%20je%20souhaite%20obtenir%20des%20informations%20techniques%20et%20des%20prix%20sur%20les%20pompes%20a%20vis%20excentree.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

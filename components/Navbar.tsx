@@ -46,7 +46,6 @@ export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
   const switchLanguage = (newLang: string) => {
     if (!pathname || pathname === '/') return `/${newLang}`;
     
-    // Basit URL temizleyici (Çift dil kodlarını engeller)
     let cleanPathname = pathname;
     allLanguages.forEach(l => {
       if (cleanPathname.includes(`/${l.code}/${l.code}/`)) {
@@ -91,12 +90,14 @@ export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
       </div>
 
       <div className="hidden lg:flex items-center gap-8">
-        <Link href={getLink('paslanmaz-tanklar')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.nav?.tanks || 'Paslanmaz Tanklar'}</Link>
-        <Link href={getLink('proses-sistemleri')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.nav?.machines || 'Proses Sistemleri'}</Link>
-        <Link href={getLink('pompalar')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.nav?.pumps || 'Hijyenik Pompalar'}</Link>
-        <Link href={getLink('hakkimizda')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.nav?.about || 'Kurumsal'}</Link>
-        <Link href={getLink('dokumanlar')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.nav?.docs || 'Dokümanlar'}</Link>
-        <Link href={getLink('iletisim')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.nav?.contact || 'İletişim'}</Link>
+        <Link href={getLink('paslanmaz-tanklar')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.tanks || 'Tanks'}</Link>
+        <Link href={getLink('proses-sistemleri')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.machines || 'Process Systems'}</Link>
+        <Link href={getLink('pompalar')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.pumps || 'Pumps'}</Link>
+        <Link href={getLink('hakkimizda')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.about || 'About Us'}</Link>
+        <Link href={getLink('blog')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.blog || 'Blog'}</Link>
+        <Link href={getLink('akademi')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.academy || 'Academy'}</Link>
+        <Link href={getLink('dokumanlar')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.docs || 'Documents'}</Link>
+        <Link href={getLink('iletisim')} className="text-[14px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] transition-colors">{dict?.contact || 'Contact'}</Link>
       </div>
 
       <div className="flex items-center gap-4 lg:gap-3">
@@ -142,12 +143,14 @@ export default function Navbar({ lang, dict }: { lang: string; dict: any }) {
 
       {isOpen && (
         <div className="absolute top-full left-0 w-full bg-white border-b border-gray-100 shadow-2xl lg:hidden flex flex-col py-2 px-6 pb-6 z-[99] animate-in slide-in-from-top-2 duration-200">
-          <Link onClick={() => setIsOpen(false)} href={getLink('paslanmaz-tanklar')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.nav?.tanks || 'Paslanmaz Tanklar'}</Link>
-          <Link onClick={() => setIsOpen(false)} href={getLink('proses-sistemleri')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.nav?.machines || 'Proses Sistemleri'}</Link>
-          <Link onClick={() => setIsOpen(false)} href={getLink('pompalar')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.nav?.pumps || 'Hijyenik Pompalar'}</Link>
-          <Link onClick={() => setIsOpen(false)} href={getLink('hakkimizda')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.nav?.about || 'Kurumsal'}</Link>
-          <Link onClick={() => setIsOpen(false)} href={getLink('dokumanlar')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.nav?.docs || 'Dokümanlar'}</Link>
-          <Link onClick={() => setIsOpen(false)} href={getLink('iletisim')} className="block text-[15px] font-semibold tracking-wide text-[#E35205] py-4 border-b border-gray-50">{dict?.nav?.contact || 'İletişim'}</Link>
+          <Link onClick={() => setIsOpen(false)} href={getLink('paslanmaz-tanklar')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.tanks || 'Tanks'}</Link>
+          <Link onClick={() => setIsOpen(false)} href={getLink('proses-sistemleri')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.machines || 'Process Systems'}</Link>
+          <Link onClick={() => setIsOpen(false)} href={getLink('pompalar')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.pumps || 'Pumps'}</Link>
+          <Link onClick={() => setIsOpen(false)} href={getLink('hakkimizda')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.about || 'About Us'}</Link>
+          <Link onClick={() => setIsOpen(false)} href={getLink('blog')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.blog || 'Blog'}</Link>
+          <Link onClick={() => setIsOpen(false)} href={getLink('akademi')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.academy || 'Academy'}</Link>
+          <Link onClick={() => setIsOpen(false)} href={getLink('dokumanlar')} className="block text-[15px] font-semibold tracking-wide text-gray-700 hover:text-[#E35205] py-4 border-b border-gray-50">{dict?.docs || 'Documents'}</Link>
+          <Link onClick={() => setIsOpen(false)} href={getLink('iletisim')} className="block text-[15px] font-semibold tracking-wide text-[#E35205] py-4 border-b border-gray-50">{dict?.contact || 'Contact'}</Link>
 
           <div className="pt-4 grid grid-cols-3 gap-2">
             {allLanguages.map((l) => (

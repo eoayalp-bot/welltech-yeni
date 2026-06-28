@@ -2,11 +2,11 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Download, CheckCircle, ChevronRight, FileText, ShieldCheck, Snowflake, Wind, Maximize, Droplets, Activity, Thermometer } from 'lucide-react';
 import { getDictionary } from '../../../../dictionaries/getDictionary';
-import { getLocalizedUrl, getDocumentPath } from '../../../../dictionaries/routes';
+import { getLocalizedUrl } from '../../../../dictionaries/routes';
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
-  const resolvedParams = await params;
-  const dict = await getDictionary(resolvedParams.lang);
+  const { lang } = await params;
+  const dict = await getDictionary(lang, 'milkTanks');
   return {
     title: dict.milkTanksPage.metadata.title,
     description: dict.milkTanksPage.metadata.description,
@@ -14,9 +14,8 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 }
 
 export default async function MilkTanksPage({ params }: { params: Promise<{ lang: string }> }) {
-  const resolvedParams = await params;
-  const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+  const { lang } = await params;
+  const dict = await getDictionary(lang, 'milkTanks');
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -53,8 +52,6 @@ export default async function MilkTanksPage({ params }: { params: Promise<{ lang
     { src: "galeri-3.webp", title: dict.milkTanksPage.projects.p3.title, alt: dict.milkTanksPage.projects.p3.alt },
     { src: "galeri-4.webp", title: dict.milkTanksPage.projects.p4.title, alt: dict.milkTanksPage.projects.p4.alt }
   ];
-
-  const specPdfUrl = getDocumentPath(lang, 'DOK-03-sut-tanklari-tr.pdf', 'DOC-03-milk-tanks.pdf');
 
   return (
     <div className="bg-gray-50 pb-24 selection:bg-[#E35205] selection:text-white">
@@ -187,14 +184,14 @@ export default async function MilkTanksPage({ params }: { params: Promise<{ lang
               </h2>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
                 {projectsList.map((item, index) => (
-                  <div key={index} className="relative h-64 sm:h-80 w-full overflow-hidden rounded-xl shadow-md group cursor-pointer">
+                  <Link href={`/${lang}/referanslar`} key={index} className="block relative h-64 sm:h-80 w-full overflow-hidden rounded-xl shadow-md group cursor-pointer">
                     <Image src={`/assets/images/paslanmaz-tanklar/sut/${item.src}`} alt={item.alt} fill className="object-cover transition-transform duration-700 group-hover:scale-110" sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 25vw" />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-80 group-hover:opacity-90 transition-opacity duration-300"></div>
                     <div className="absolute bottom-0 left-0 p-6 w-full">
                       <span className="block text-white text-lg font-black tracking-widest drop-shadow-lg transform translate-y-1 group-hover:-translate-y-1 transition-transform duration-300">{item.title}</span>
                       <div className="h-1 w-8 bg-[#E35205] mt-2 rounded-full transform scale-x-0 group-hover:scale-x-100 origin-left transition-transform duration-300"></div>
                     </div>
-                  </div>
+                  </Link>
                 ))}
               </div>
             </div>
@@ -215,7 +212,7 @@ export default async function MilkTanksPage({ params }: { params: Promise<{ lang
                   </div>
                 </div>
                 <p className="text-sm text-gray-600 mb-6 leading-relaxed">{dict.milkTanksPage.sidebar.spec.desc}</p>
-                <a href={specPdfUrl} download className="w-full flex items-center justify-center gap-2 bg-[#005284] text-white px-4 py-3 rounded text-sm font-bold tracking-wider hover:bg-[#E35205] transition-colors shadow-md">
+                <a href={dict.milkTanksPage.sidebar.spec.fileUrl} download className="w-full flex items-center justify-center gap-2 bg-[#005284] text-white px-4 py-3 rounded text-sm font-bold tracking-wider hover:bg-[#E35205] transition-colors shadow-md">
                   <Download className="w-4 h-4" />
                   {dict.milkTanksPage.sidebar.spec.btn}
                 </a>
@@ -230,7 +227,8 @@ export default async function MilkTanksPage({ params }: { params: Promise<{ lang
                   <Image src="/assets/images/paslanmaz-tanklar/sut/referans.webp" alt={dict.milkTanksPage.sidebar.reference.badge} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 33vw" />
                 </div>
                 <p className="text-xs text-gray-500 line-clamp-2 mt-2">{dict.milkTanksPage.sidebar.reference.desc}</p>
-                <Link href={getLocalizedUrl('referanslar', lang)} className="text-[10px] font-bold tracking-widest text-[#005284] border-b-2 border-transparent hover:border-[#E35205] pb-0.5 transition-all inline-block mt-2">
+                
+                <Link href={`/${lang}/referanslar`} className="text-[10px] font-bold tracking-widest text-[#005284] border-b-2 border-transparent hover:border-[#E35205] pb-0.5 transition-all inline-block mt-2">
                   {dict.milkTanksPage.sidebar.reference.link}
                 </Link>
               </div>

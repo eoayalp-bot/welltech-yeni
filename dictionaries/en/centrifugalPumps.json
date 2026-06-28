@@ -1,0 +1,95 @@
+{
+  "centrifugalPumpsPage": {
+    "metadata": {
+      "title": "Centrifugal Pumps | Welltech®",
+      "description": "Stainless steel centrifugal pumps for high-flow, continuous, and hygienic transfer of low-viscosity fluids like milk, juice, and water."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "pumps": "Pumps",
+      "current": "Centrifugal Pumps"
+    },
+    "hero": {
+      "title": "Centrifugal Pumps",
+      "desc": "High flow and continuous transfer for low-viscosity fluids. Stainless design providing maximum hygiene for food and beverage lines."
+    },
+    "technology": {
+      "title": "Centrifugal Technology",
+      "desc": "Centrifugal pumps operate on the principle of generating centrifugal force by rotating the impeller inside the casing at high speeds. The fluid is drawn from the center of the impeller and accelerated through the vanes to the discharge line. It is the most efficient and economical solution for transferring fluids such as milk, water, juice, and CIP washing liquids.",
+      "imgAlt": "Centrifugal Pump Impeller Technology"
+    },
+    "features": {
+      "title": "Design and Performance Advantages",
+      "items": [
+        "Continuous and Smooth Flow at High Capacities",
+        "High Efficiency with Low Energy Consumption",
+        "100% Washable (CIP) Internal Structure with Zero Dead Legs",
+        "AISI 304 or 316L Stainless Steel Forged Casing",
+        "Open, Semi-Open, or Closed Impeller Options",
+        "Easy-to-Maintain, Long-Lasting Mechanical Seal"
+      ],
+      "imgAlt": "Centrifugal Pump Motor and Casing"
+    },
+    "table": {
+      "title": "Technical Specifications and Capacity",
+      "note": "* Flow rate and head values are custom configured according to your process needs based on motor power and impeller diameter.",
+      "headers": [
+        "PUMP MODEL",
+        "MAX. FLOW (m³/h)",
+        "HEAD (m)",
+        "MOTOR POWER (kW)"
+      ],
+      "imgAlt": "Centrifugal Pump Technical Drawing",
+      "rows": [
+        { "model": "WCP-10", "flow": "10 m³/h", "head": "15 m", "power": "1.1 kW", "highlight": "dark" },
+        { "model": "WCP-20", "flow": "20 m³/h", "head": "25 m", "power": "2.2 kW", "highlight": "dark" },
+        { "model": "WCP-30", "flow": "30 m³/h", "head": "30 m", "power": "4.0 kW", "highlight": "dark" },
+        { "model": "WCP-50", "flow": "50 m³/h", "head": "35 m", "power": "5.5 kW", "highlight": "dark" },
+        { "model": "WCP-80", "flow": "80 m³/h", "head": "45 m", "power": "11.0 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Can centrifugal pumps be used for highly viscous liquids?",
+          "a": "No. Centrifugal pumps are designed for low-viscosity fluids like water, milk, and fruit juice. Highly viscous liquids like honey or cream will cause the impeller to cavitate."
+        },
+        {
+          "q": "What is the difference between open and closed impellers?",
+          "a": "Closed impellers provide maximum efficiency in transferring pure liquids (water, milk), while open or semi-open impellers are used to transfer liquids containing light sediments or fruit particles without clogging."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Industrial Applications",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Milk and Dairy Transfer", "alt": "Milk Pump" },
+        { "src": "galeri-2.webp", "label": "Fruit Juice Lines", "alt": "Fruit Juice Pump" },
+        { "src": "galeri-3.webp", "label": "CIP Washing Systems", "alt": "CIP Pump" },
+        { "src": "galeri-4.webp", "label": "Water and Beverage Processes", "alt": "Beverage Transfer Pump" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download our catalog including pump performance curves, motor powers, and mechanical seal types.",
+        "fileUrl": "/assets/documents/en/centrifugal-pumps-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "BEVERAGE FACILITY",
+        "desc": "Hygienic centrifugal pump line we installed for a large capacity fruit juice production facility.",
+        "imgAlt": "Centrifugal Pump Reference",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "Accurate Flow and Pressure",
+        "desc": "Let us know the number of elbows and pipe length in your line, and we will determine the right impeller diameter that won't cause cavitation.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hello,%20I%20would%20like%20to%20get%20technical%20information%20and%20pricing%20about%20centrifugal%20pumps.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

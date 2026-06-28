@@ -1,0 +1,40 @@
+{
+  "seo": {
+    "defaultTitle": "Welltech® | Cuves Industrielles et Systèmes de Process",
+    "description": "Fabricant de cuves industrielles en acier inoxydable, de pompes hygiéniques et d'équipements de process aux normes internationales.",
+    "keywords": [
+      "cuve inox",
+      "systèmes de process",
+      "pompe hygiénique",
+      "welltech"
+    ]
+  },
+  "cookieBanner": {
+    "title": "Politique de Cookies",
+    "description": "Nous utilisons des cookies pour vous offrir une meilleure expérience.",
+    "details": "Voir les détails",
+    "accept": "Accepter",
+    "decline": "Refuser"
+  },
+  "navbar": {
+    "tanks": "Cuves en Inox",
+    "machines": "Systèmes de Process",
+    "pumps": "Pompes Hygiéniques",
+    "about": "À Propos",
+    "blog": "Blog & Actualités",
+    "docs": "Documents",
+    "contact": "Contact"
+  },
+  "footer": {
+    "description": "Ingénierie clé en main sur mesure pour votre installation avec des cuves industrielles en acier inoxydable, des systèmes de process et des pompes hygiéniques aux normes internationales.",
+    "inokstek": "UNE ENTREPRISE DU GROUPE INOKSTEK",
+    "products": "PRODUITS & SOLUTIONS",
+    "tanks": "Cuves de Stockage en Inox",
+    "machines": "Systèmes de Process",
+    "pumps": "Pompes de Transfert Hygiéniques",
+    "locations": "EMPLACEMENTS",
+    "hq_title": "Siège Social",
+    "factory_title": "Usine de Production",
+    "copyright": "Tous droits réservés."
+  }
+}

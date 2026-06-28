@@ -1,0 +1,95 @@
+{
+  "monopompPumpsPage": {
+    "metadata": {
+      "title": "Exzenterschneckenpumpen (Monopumpen) | Welltech®",
+      "description": "Exzenterschneckenpumpen aus Edelstahl für den verlustfreien Transfer von anspruchsvollen, hochviskosen, klebrigen und feststoffhaltigen Medien (Schlamm, Teig, Honig)."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "pumps": "Pumpen",
+      "current": "Exzenterschneckenpumpen"
+    },
+    "hero": {
+      "title": "Exzenterschneckenpumpen",
+      "desc": "Reibungsloser Transfer ohne die Struktur von anspruchsvollen, klebrigen und hochviskosen Flüssigkeiten wie Klärschlamm, Tomatenmark, Fruchtpulpe und Honig zu zerstören."
+    },
+    "technology": {
+      "title": "Progressive Cavity (Exzenterschnecken-) Technologie",
+      "desc": "Exzenterschneckenpumpen (Progressive Cavity Pumps) arbeiten nach dem Prinzip, dass ein Edelstahlrotor in einem flexiblen Stator rotiert, wodurch sich geschlossene Hohlräume (Kavitäten) bilden. Durch diese schraubenförmige Bewegung wird die Flüssigkeit kontinuierlich vorwärts gedrückt, ohne sie zu zerquetschen, aufzuschäumen oder Pulsationen zu erzeugen. Sie ist der unverzichtbare Branchenstandard für den Transfer der anspruchsvollsten, feststoffhaltigen oder klebrigen Flüssigkeiten.",
+      "imgAlt": "Rotor- und Statorquerschnitt der Exzenterschneckenpumpe"
+    },
+    "features": {
+      "title": "Design- und Leistungsvorteile",
+      "items": [
+        "Pulsationsfreier, kontinuierlicher und präziser Durchfluss",
+        "Flüssigkeitstransfer bis zu einer Viskosität von 1.000.000 cPs",
+        "Fördert Feststoffpartikel und Fasern ohne Scherung",
+        "Hoher Druck bei niedriger Drehzahl (mehrstufiges Statorsystem)",
+        "Lebensmittelkonforme Statoroptionen aus NBR, EPDM oder Viton",
+        "Leiser Betrieb und einfacher Austausch von Ersatzteilen"
+      ],
+      "imgAlt": "Innere Ausstattungsmerkmale der Exzenterschneckenpumpe"
+    },
+    "table": {
+      "title": "Technische Spezifikationen und Kapazität",
+      "note": "* Fördermenge und Druckwerte werden projektspezifisch auf Basis der Viskosität des Fördermediums und der Motordrehzahl (Getriebe) berechnet.",
+      "headers": [
+        "PUMPENMODELL",
+        "MAX. FÖRDERMENGE (m³/h)",
+        "MAX. DRUCK (Bar)",
+        "ANSCHLUSSGRÖSSE"
+      ],
+      "imgAlt": "Technische Kapazitätszeichnung der Exzenterschneckenpumpe",
+      "rows": [
+        { "model": "WMP-01", "flow": "1 m³/h", "head": "6 Bar", "power": "1\"", "highlight": "dark" },
+        { "model": "WMP-05", "flow": "5 m³/h", "head": "12 Bar", "power": "1 1/2\"", "highlight": "dark" },
+        { "model": "WMP-10", "flow": "10 m³/h", "head": "12 Bar", "power": "2\"", "highlight": "dark" },
+        { "model": "WMP-25", "flow": "25 m³/h", "head": "24 Bar", "power": "3\"", "highlight": "dark" },
+        { "model": "WMP-50", "flow": "50 m³/h", "head": "24 Bar", "power": "4\"", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Für welche Medien wird eine Exzenterschneckenpumpe bevorzugt?",
+          "a": "Sie wird für alle hochviskosen und klebrigen Medien wie Creme, Shampoo, Klärschlamm, Olivensterz (Trester), Tomatenmark, Fischöl und Leim eingesetzt, bei denen normale Pumpen Schwierigkeiten haben oder blockieren."
+        },
+        {
+          "q": "Wie hoch ist die Lebensdauer des Stators (Gummi) und was ist im Schadensfall zu tun?",
+          "a": "Die Lebensdauer des Stators hängt von der Abrasivität des Mediums und der Betriebstemperatur ab. Trockenlauf kann den Stator schnell zerstören. Im Schadensfall kann der Stator durch einfaches Öffnen des Frontgehäuses problemlos ausgetauscht werden, ohne die Pumpe komplett aus der Leitung ausbauen zu müssen."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Unsere industriellen Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Klärschlamm- und Schlammtransfer", "alt": "Schlamm-Exzenterschneckenpumpe" },
+        { "src": "galeri-2.webp", "label": "Lebensmittel- und Pastentransfer", "alt": "Lebensmittel-Exzenterschneckenpumpe" },
+        { "src": "galeri-3.webp", "label": "Oliventresterpumpe", "alt": "Tresterpumpe" },
+        { "src": "galeri-4.webp", "label": "Shampoo- und Kosmetikabfüllung", "alt": "Kosmetik-Exzenterschneckenpumpe" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie den Katalog herunter, der Kompatibilitäten für Statormaterialien, Druck-/Kavitätsberechnungen und Motor-Getriebe-Kurven enthält.",
+        "fileUrl": "/assets/documents/de/exzenterschneckenpumpen-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "KLÄRANLAGE",
+        "desc": "Schlammförderpumpen mit 24 Bar Druck, die wir für eine industrielle Abwasserbehandlungsanlage installiert haben.",
+        "imgAlt": "Exzenterschneckenpumpe Kläranlagen-Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Wie dicht ist Ihre Flüssigkeit?",
+        "desc": "Nennen Sie uns die Dichte (Viskosität) der zu fördernden Flüssigkeit und Ihr Stundenziel, und wir wählen die richtige Rotor-Stator-Kombination aus.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hallo,%20ich%20moechte%20technische%20Informationen%20und%20Preise%20zu%20Exzenterschneckenpumpen%20erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "cipSystemsPage": {
+    "metadata": {
+      "title": "Sistemas CIP (Limpieza In Situ) Totalmente Automáticos | Welltech®",
+      "description": "Sistemas CIP de acero inoxidable totalmente automáticos, controlados por conductividad y de alta eficiencia energética, que limpian líneas alimentarias, farmacéuticas y químicas sin desmontaje."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "process": "Sistemas de Proceso",
+      "current": "Sistemas CIP"
+    },
+    "hero": {
+      "title": "Sistemas CIP Totalmente Automáticos",
+      "desc": "Unidades inteligentes de Limpieza In Situ (Clean-In-Place) diseñadas para proporcionar 100% de higiene en sus instalaciones industriales, eliminando el error humano."
+    },
+    "technology": {
+      "title": "Tecnología Clean-In-Place (CIP)",
+      "desc": "Los sistemas CIP son sistemas totalmente automáticos que limpian líneas de producción, tuberías, válvulas y tanques de proceso sin tener que desmontarlos. Eliminan los errores humanos asegurando que el agua, los ácidos, la soda cáustica y los desinfectantes circulen a la temperatura, caudal y duración correctos. El sistema hace que sus líneas de producción estén completamente estériles y seguras para el siguiente lote (batch).",
+      "imgAlt": "Tecnología de Proceso del Sistema CIP"
+    },
+    "features": {
+      "title": "Características de Automatización e Higiene",
+      "items": [
+        "Control de Recetas Totalmente Automático a través de PLC/SCADA",
+        "Recuperación Precisa con Sensores de Conductividad",
+        "Mezcla Química Precisa con Bombas Dosificadoras Automáticas",
+        "Diseño Inoxidable Conforme a los Estándares de Higiene FDA y 3A",
+        "Tanques Independientes para Ácido, Cáustico, Recuperación y Agua Limpia",
+        "Calentamiento Rápido y Eficiente con Intercambiador de Calor Tubular"
+      ],
+      "imgAlt": "Panel de Automatización del Sistema CIP"
+    },
+    "table": {
+      "title": "Configuraciones del Sistema",
+      "note": "* Los sistemas CIP se diseñan a medida según la longitud de la línea a lavar, el grado de contaminación y la capacidad de su instalación.",
+      "headers": [
+        "CONFIGURACIÓN DEL SISTEMA",
+        "CAPACIDADES DE TANQUES",
+        "ÁREA DE APLICACIÓN"
+      ],
+      "imgAlt": "Dibujo Técnico del Sistema CIP",
+      "rows": [
+        { "config": "CIP de 2 Tanques (Agua + Cáustico)", "tanks": "500 L - 3.000 L", "sector": "Lácteos y Bebidas", "highlight": "dark" },
+        { "config": "CIP de 3 Tanques (Agua + Cáustico + Ácido)", "tanks": "1.000 L - 5.000 L", "sector": "Alimentos y Cosméticos", "highlight": "dark" },
+        { "config": "CIP de 4 Tanques (Con Recuperación)", "tanks": "2.000 L - 10.000 L", "sector": "Farmacia y Biotecnología", "highlight": "orange" },
+        { "config": "Unidad CIP Móvil (Portátil)", "tanks": "300 L - 1.000 L", "sector": "Líneas Flexibles y Piloto", "highlight": "dark" }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Para qué sirve un sensor de conductividad?",
+          "a": "Mide la densidad del ácido o cáustico que regresa de la línea. Cuando la concentración química baja, dosifica automáticamente productos químicos frescos en el sistema. Además, termina de manera segura el proceso al detectar que la línea está completamente libre de químicos cuando finaliza el lavado."
+        },
+        {
+          "q": "¿Cómo ahorra agua el sistema CIP?",
+          "a": "Almacena el agua del último enjuague (que está parcialmente limpia) en el 'Tanque de Recuperación' para utilizarla como la primera agua de enjuague grueso del siguiente lavado. De esta manera, se evita un gran consumo de agua y energía."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nuestras Aplicaciones Industriales",
+      "items": [
+        { "src": "galeri-1.webp", "label": "CIP Totalmente Automático de 3 Tanques", "alt": "Sistema CIP de 3 Tanques" },
+        { "src": "galeri-2.webp", "label": "Sistema de Grado Farmacéutico de 4 Tanques", "alt": "Unidad CIP Farmacéutica" },
+        { "src": "galeri-3.webp", "label": "Carro de Lavado CIP Móvil", "alt": "CIP Móvil" },
+        { "src": "galeri-4.webp", "label": "Control SCADA de Línea Alimentaria", "alt": "Panel de Control CIP" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Descargue el archivo de especificaciones que contiene las configuraciones de tanques, caudales y cálculos de presión de bombas.",
+        "fileUrl": "/assets/documents/es/sistemas-cip-automaticos-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "FÁBRICA DE BEBIDAS",
+        "desc": "Línea CIP de 4 tanques, totalmente automática y controlada por conductividad, que instalamos para una fábrica internacional de jugos.",
+        "imgAlt": "Referencia de Sistema CIP",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "¿Tiene una Receta Especial?",
+        "desc": "Infórmenos sobre la carga de contaminación en sus instalaciones y la longitud de la línea a lavar, y diseñaremos la capacidad más eficiente.",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "jacketedTanksPage": {
+    "metadata": {
+      "title": "Cuves à Double Enveloppe Chauffantes/Refroidissantes | Welltech®",
+      "description": "Cuves isolées et à double enveloppe en acier inoxydable conçues pour contrôler précisément la température des produits dans les processus chimiques, alimentaires et pharmaceutiques."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "process": "Systèmes de Process",
+      "current": "Cuves à Double Enveloppe"
+    },
+    "hero": {
+      "title": "Cuves à Double Enveloppe (Chauffage/Refroidissement)",
+      "desc": "Réacteurs et cuves équipés des technologies demi-tube, roll-bond et double paroi offrant une haute efficacité de transfert de chaleur pour garantir le contrôle précis de la température requis par votre process."
+    },
+    "technology": {
+      "title": "Technologies de Transfert de Chaleur et d'Enveloppe",
+      "desc": "Les cuves à double enveloppe sont des systèmes comportant une cavité secondaire (enveloppe) intégrée à leur corps pour chauffer ou refroidir le fluide à l'intérieur. <strong>L'Ingénierie Welltech®</strong> calcule la surface optimale en fonction de la vitesse de chauffage/refroidissement de votre process et du fluide caloporteur utilisé (vapeur, huile thermique, glycol, eau glacée). Alors que le <strong>Serpentin en demi-tube</strong> est idéal pour la vapeur haute pression, les <strong>Enveloppes alvéolées (Dimple / Roll-bond)</strong> offrent un excellent rendement dans les applications de refroidissement et de chauffage homogènes."
+    },
+    "features": {
+      "title": "Avantages de Conception et d'Isolation",
+      "items": [
+        "Conceptions Spéciales d'Enveloppe Assurant une Répartition Homogène de la Chaleur",
+        "Soudures Testées pour la Vapeur Haute Pression et l'Huile Thermique",
+        "Isolation 100 % Économe en Énergie en Polyuréthane ou Laine de Roche",
+        "Revêtement Extérieur en Inox Entièrement Soudé sur l'Isolation",
+        "Connexions à Rupture de Pont Thermique (Thermal Break) Empêchant les Pertes de Chaleur",
+        "Compatibilité avec Thermocouple PT-100 Précis et Automatisation Thermique"
+      ],
+      "imgAlt": "Isolation de Cuve à Double Enveloppe et Transfert de Chaleur"
+    },
+    "table": {
+      "title": "Types d'Enveloppes et Applications Techniques",
+      "note": "* La pression de service et l'épaisseur de la tôle de l'enveloppe sont calculées statiquement selon les normes (ASME Section VIII ou EN 13445).",
+      "headers": [
+        "TYPE D'ENVELOPPE",
+        "OBJECTIF D'UTILISATION",
+        "FLUIDE CALOPORTEUR",
+        "PRESSION MAXIMALE"
+      ],
+      "imgAlt": "Dessin Technique de la Cuve à Double Enveloppe",
+      "rows": [
+        { "type": "Serpentin en Demi-Tube", "purpose": "Chauffage Haute Pression", "fluid": "Vapeur / Huile Thermique", "pressure": "25 Bar", "highlight": "orange" },
+        { "type": "Double Paroi (Double Wall)", "purpose": "Chauffage/Refroidissement Atmosphérique", "fluid": "Eau Chaude / Eau Froide", "pressure": "3 Bar", "highlight": "dark" },
+        { "type": "Alvéolée (Dimple / Roll-bond)", "purpose": "Chauffage/Refroidissement Rapide Homogène", "fluid": "Eau Glacée / Glycol / Vapeur", "pressure": "15 Bar", "highlight": "dark" },
+        { "type": "Électrique (À Résistance)", "purpose": "Chauffage Autonome (Sans Chaudière)", "fluid": "Huile Thermique / Eau", "pressure": "Atmosphérique", "highlight": "dark" }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Quelle est la différence entre un Serpentin en Demi-Tube et une Double Paroi ?",
+          "a": "L'enveloppe en demi-tube est constituée de tuyaux enroulés et soudés autour du corps. Sa résistance à la haute pression (par exemple, 10 bars de vapeur) est excellente. La double paroi est une seconde tôle qui entoure complètement la cuve, plus appropriée pour la circulation d'eau à basse pression (atmosphérique)."
+        },
+        {
+          "q": "Comment choisir le matériau d'isolation ?",
+          "a": "Alors que la mousse de Polyuréthane est utilisée pour éviter la condensation dans les processus de refroidissement (chiller), l'isolation ignifuge en Laine de Roche ou Laine Céramique est privilégiée dans les processus de chauffage à haute température (vapeur, huile thermique)."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nos Applications Industrielles",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Réacteur Chauffé à la Vapeur", "alt": "Réacteur Enveloppe Vapeur" },
+        { "src": "galeri-2.webp", "label": "Cuve Refroidie à l'Eau Glacée", "alt": "Cuve Enveloppe de Refroidissement" },
+        { "src": "galeri-3.webp", "label": "Cuve de Fusion avec Huile Thermique", "alt": "Cuve de Fusion" },
+        { "src": "galeri-4.webp", "label": "Mélangeur Isolé et à Résistance", "alt": "Cuve à Chauffage Électrique" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez notre catalogue contenant les calculs de surface d'échange thermique, les tests de pression de l'enveloppe et les détails d'isolation.",
+        "fileUrl": "/assets/documents/fr/reservoirs-double-enveloppe-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "USINE CHIMIQUE",
+        "desc": "Ligne de cuves de polymérisation de 20 000 L avec refroidissement au glycol et isolation en polyuréthane.",
+        "imgAlt": "Référence Cuve à Double Enveloppe",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Quel Type d'Enveloppe ?",
+        "desc": "Faites-nous part du temps de réaction ciblé et de votre fluide caloporteur, et choisissons ensemble le système d'enveloppe le plus sûr.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Bonjour,%20je%20souhaite%20obtenir%20des%20informations%20techniques%20et%20des%20prix%20sur%20les%20cuves%20a%20double%20enveloppe.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

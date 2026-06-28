@@ -1,0 +1,92 @@
+{
+  "homogenizersPage": {
+    "metadata": {
+      "title": "Homojenizatörler ve High Shear Mikserler | Welltech®",
+      "description": "Farklı fazlardaki akışkanları (su ve yağ gibi) mikron seviyesinde parçalayarak pürüzsüz ve stabil ürün elde edilmesini sağlayan yüksek devirli endüstriyel mikserler."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "Homojenizatörler"
+    },
+    "hero": {
+      "title": "Homojenizatörler",
+      "desc": "Sıvı-sıvı veya sıvı-katı karışımları mikron seviyesinde parçalayarak tamamen homojen, pürüzsüz ve ayrışmayan (stabil) emülsiyonlar elde edin."
+    },
+    "technology": {
+      "title": "Rotor-Stator Parçalama Teknolojisi",
+      "desc": "Homojenizatörler, birbiri içinde çözünmeyen akışkanları mikron düzeyine kadar parçalayan yüksek devirli (3.000 RPM) sistemlerdir. Özel tasarımlı <strong>Rotor-Stator</strong> dişli yapısı, akışkanı çok dar bir aralıktan yüksek kesme (High Shear) kuvvetiyle geçirerek partikül boyutunu küçültür ve karışımın zamanla ayrışmasını (faz ayrımını) kesin olarak engeller."
+    },
+    "features": {
+      "title": "Tasarım ve Performans Üstünlükleri",
+      "items": [
+        "Mikron Seviyesinde Yüksek Kesme (High Shear) Kuvveti",
+        "3.000 RPM'e Varan Yüksek Devir Kapasitesi",
+        "Ürün Yapısına Özel (İnce/Kalın) Dişli Stator Seçenekleri",
+        "Tank İçi (Daldırma) veya Hat Tipi (In-Line) Modeller",
+        "FDA ve 3A Standartlarında Hijyenik Paslanmaz Çelik",
+        "Mekanik Salmastra ile Yüksek Sızdırmazlık ve Uzun Ömür"
+      ],
+      "imgAlt": "Homojenizatör Motor ve Rotor Stator Yapısı"
+    },
+    "table": {
+      "title": "Model Tipleri ve Uygulama Alanları",
+      "note": "* Rotor-stator dişli yapısı (ince, orta, kalın partikül geçişi) ürününüzün viskozitesine ve istenen son mikron boyutuna göre özel seçilmektedir.",
+      "headers": [
+        "MODEL TİPİ",
+        "ÇALIŞMA PRENSİBİ",
+        "KULLANIM ALANI"
+      ],
+      "imgAlt": "Homojenizatör Teknik Çizimi",
+      "rows": [
+        { "type": "Hat Tipi (In-Line)", "principle": "Boru hattı üzerinde sürekli sirkülasyon ve parçalama", "usage": "İlaç ve Kimya", "highlight": "dark" },
+        { "type": "Daldırma (Batch)", "principle": "Tank içinde sıvıya daldırılarak doğrudan homojenizasyon", "usage": "Kozmetik ve Gıda", "highlight": "dark" },
+        { "type": "Dipten Girmeli (Bottom Entry)", "principle": "Tank tabanına entegre edilen yüksek kesme (Shear) ünitesi", "usage": "Sos, Salça ve Krema", "highlight": "dark" },
+        { "type": "Çok Kademeli (Multi-Stage)", "principle": "Üçlü rotor-stator ile ultra ince mikron emülsiyonu", "usage": "Nano-teknoloji (İlaç)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Homojenizatör ile normal mikser arasındaki fark nedir?",
+          "a": "Normal mikserler (karıştırıcılar) sıvıyı sadece çevirir, yağ ve su gibi fazlar bekleyince tekrar ayrışır. Homojenizatör ise partikülleri mikron düzeyine kadar keserek (parçalayarak) kalıcı ve ayrışmayan bir emülsiyon sağlar."
+        },
+        {
+          "q": "Hat tipi (In-Line) mi yoksa Daldırma (Batch) tipi mi seçmeliyim?",
+          "a": "Eğer mevcut bir tankınız varsa ve sirkülasyon yaptırarak homojenize edecekseniz In-Line; doğrudan tankın içinde karıştırma ve parçalama yapacaksanız Batch (Daldırma) tipi seçilmelidir."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Endüstriyel Uygulamalarımız",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Kozmetik Krem ve Losyon", "alt": "Kozmetik Homojenizatörü" },
+        { "src": "galeri-2.webp", "label": "Mayonez ve Ketçap Üretimi", "alt": "Gıda Homojenizatörü" },
+        { "src": "galeri-3.webp", "label": "Hat Tipi (In-Line) Sirkülasyon", "alt": "In-Line Homojenizatör" },
+        { "src": "galeri-4.webp", "label": "İlaç ve Şurup Emülsiyonu", "alt": "İlaç Sektörü Mikseri" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Rotor-stator tipleri, motor devir hızları ve debi kapasite tablolarını içeren teknik dosyayı indirin.",
+        "fileUrl": "/assets/documents/tr/homojenizatorler-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "KOZMETİK TESİSİ",
+        "desc": "Dünyaca ünlü bir kozmetik markası için ürettiğimiz çift ceketli krema homojenizasyon ünitesi.",
+        "imgAlt": "Kozmetik Mikser Referansı",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Doğru Rotor-Stator Seçimi",
+        "desc": "Üreteceğiniz ürünün (örneğin ketçap veya losyon) yapısını bize iletin, en uygun parçalama kafasını birlikte seçelim.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20homojenizatorler%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "reactorsPage": {
+    "metadata": {
+      "title": "Reactores Químicos y Tanques de Proceso | Welltech®",
+      "description": "Reactores de acero inoxidable de trabajo pesado (heavy-duty) que controlan de manera segura las reacciones químicas que ocurren bajo condiciones de alta presión, vacío y temperaturas extremas."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "process": "Sistemas de Proceso",
+      "current": "Reactores Químicos"
+    },
+    "hero": {
+      "title": "Reactores Químicos",
+      "desc": "Sistemas de trabajo pesado que controlan las reacciones químicas en condiciones de proceso severas (alta presión, vacío, calor extremo) con máxima seguridad y precisión."
+    },
+    "technology": {
+      "title": "Tecnología de Reacción y Control",
+      "desc1": "Los reactores industriales son tanques de proceso especiales, resistentes a la presión, diseñados para garantizar que las reacciones químicas (polimerización, esterificación, condensación, etc.) se produzcan a una velocidad óptima y de forma segura.",
+      "desc2": "<strong>Los Reactores Welltech®</strong> están equipados con sistemas de medio tubo o camisas para mantener bajo control las reacciones <strong>exotérmicas (que liberan calor)</strong> o <strong>endotérmicas (que absorben calor)</strong> dependiendo del tipo de reacción. Se proporciona una producción sin riesgos gracias a reductores especiales adecuados a la estructura de la masa interna y sistemas de automatización con aprobación ATEX.",
+      "imgAlt": "Tecnología de Proceso del Reactor Químico"
+    },
+    "features": {
+      "title": "Diseño y Equipamiento de Seguridad",
+      "items": [
+        "Cuerpo de Alta Presión Aprobado por TÜV y ASME Sección VIII",
+        "Estanqueidad Total con Sello Mecánico y Magnético",
+        "Automatización y Panel de Motor Conformes a Ex-Proof (ATEX)",
+        "Sistemas de Camisa de Alta Eficiencia para Calentamiento/Enfriamiento",
+        "Capacidad de Reducción del Punto de Ebullición Bajo Vacío",
+        "Válvula de Seguridad y Disco de Ruptura (Rupture Disk) para Gases Peligrosos"
+      ],
+      "imgAlt": "Sección Transversal del Motor y Equipo del Reactor"
+    },
+    "table": {
+      "title": "Capacidades Estándar del Reactor",
+      "note": "* Las dimensiones y valores de presión proporcionados son de referencia. Se puede realizar una producción a medida en cualquier capacidad según las necesidades de proceso específicas de su planta.",
+      "headers": [
+        "VOLUMEN DEL REACTOR",
+        "PRESIÓN DE TRABAJO",
+        "TIPO DE CALENTAMIENTO/ENFRIAMIENTO",
+        "TIPO DE PALA DEL MEZCLADOR"
+      ],
+      "imgAlt": "Dibujo Técnico de Reactor",
+      "rows": [
+        { "volume": "500 Litros (Piloto)", "pressure": "-1 / +6 Bar", "heating": "Eléctrico / Vapor", "mixer": "Hélice / Ancla", "highlight": "dark" },
+        { "volume": "2.000 Litros", "pressure": "-1 / +10 Bar", "heating": "Serpentín de Medio Tubo", "mixer": "Ancla + Rompeolas (Baffle)", "highlight": "dark" },
+        { "volume": "5.000 Litros", "pressure": "-1 / +10 Bar", "heating": "Serpentín de Medio Tubo", "mixer": "Doble Pala Contrarrotativa", "highlight": "dark" },
+        { "volume": "10.000 Litros", "pressure": "-1 / +16 Bar", "heating": "Serpentín de Medio Tubo", "mixer": "Ancla con Rascador", "highlight": "dark" },
+        { "volume": "20.000+ Litros", "pressure": "-1 / +16 Bar", "heating": "Diseño a Medida", "mixer": "Diseño a Medida", "highlight": "orange" }
+      ]
+    },
+    "gallery": {
+      "title": "Nuestras Aplicaciones de Reactores Industriales",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Reactor de Polimerización", "alt": "Reactor de Polímeros" },
+        { "src": "galeri-2.webp", "label": "Mezcla Cosmética y Vacío", "alt": "Reactor de Vacío" },
+        { "src": "galeri-3.webp", "label": "Reactor de Pintura y Resina", "alt": "Reactor de Resina" },
+        { "src": "galeri-4.webp", "label": "Reactor de Síntesis Farmacéutica", "alt": "Reactor Farmacéutico" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Descargue el archivo técnico que incluye los valores de resistencia a la presión, alternativas de camisas y combinaciones motor-reductor.",
+        "fileUrl": "/assets/documents/es/reactores-quimicos-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "PLANTA PETROQUÍMICA",
+        "desc": "Reactor de síntesis de alta presión de 15.000 L con panel Ex-Proof que produjimos para una planta química internacional.",
+        "imgAlt": "Referencia de Reactor",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "Reactor Específico para su Proceso",
+        "desc": "Comparta con nosotros sus tiempos de reacción y valores de presión/temperatura, y crearemos juntos el diseño de reactor más seguro.",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

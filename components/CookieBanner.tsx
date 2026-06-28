@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { ShieldCheck, X } from 'lucide-react';
 
-export default function CookieBanner({ lang }: { lang: string }) {
+export default function CookieBanner({ lang, dict }: { lang: string; dict: any }) {
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
@@ -41,11 +41,11 @@ export default function CookieBanner({ lang }: { lang: string }) {
             <ShieldCheck className="w-6 h-6 text-[#E35205]" />
           </div>
           <div>
-            <h4 className="text-white font-bold mb-1 tracking-tight text-sm">KVKK & Çerez Tercihleri</h4>
+            <h4 className="text-white font-bold mb-1 tracking-tight text-sm">{dict?.title}</h4>
             <p className="text-xs text-gray-400 leading-relaxed max-w-3xl">
-              Size daha iyi bir deneyim sunabilmek ve site trafiğimizi analiz etmek için çerezleri (cookies) kullanıyoruz. 
+              {dict?.description}
               <Link href={`/${lang}/gizlilik-politikasi`} className="text-[#E35205] hover:text-white ml-1 transition-colors font-bold underline decoration-[#E35205]/30">
-                Detaylı Bilgi
+                {dict?.details}
               </Link>
             </p>
           </div>
@@ -56,13 +56,13 @@ export default function CookieBanner({ lang }: { lang: string }) {
             onClick={declineCookies}
             className="flex-1 lg:flex-none bg-gray-800 text-gray-300 px-6 py-3 rounded-xl text-xs font-bold tracking-widest border border-gray-700 hover:bg-white hover:text-gray-900 transition-colors whitespace-nowrap"
           >
-            Sadece Zorunlu
+            {dict?.decline}
           </button>
           <button 
             onClick={acceptCookies}
             className="flex-1 lg:flex-none bg-[#E35205] text-white px-6 py-3 rounded-xl text-xs font-bold tracking-widest hover:bg-[#005284] transition-colors shadow-lg whitespace-nowrap"
           >
-            Kabul Et
+            {dict?.accept}
           </button>
           <button 
             onClick={declineCookies}

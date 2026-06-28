@@ -1,0 +1,95 @@
+{
+  "diaphragmPumpsPage": {
+    "metadata": {
+      "title": "Havalı Diyafram Pompalar | Welltech®",
+      "description": "Patlayıcı ve yanıcı ortamlar (ATEX) için elektriksiz çalışan, yüksek emiş gücüne sahip paslanmaz çelik havalı diyafram pompalar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Havalı Diyafram Pompalar"
+    },
+    "hero": {
+      "title": "Havalı Diyafram Pompalar",
+      "desc": "Elektriksiz (pnömatik) çalışma prensibi sayesinde ATEX onaylı, katı partiküllü ve yüksek viskoziteli akışkanlarda sıfır kilitlenme garantisi."
+    },
+    "safety": {
+      "title": "Maksimum Güvenlik (ATEX)",
+      "desc": "Elektrik motoru barındırmayan havalı (pnömatik) çalışma prensibi, bu pompaları yanıcı solventler ve patlayıcı kimyasalların transferinde tek ve en güvenli seçenek haline getirir. Katı partiküllü sıvıları veya kuru kuru (susuz) çalışma durumlarını arıza yapmadan tolere edebilir. Kilitlenmeyen hava valfi sistemi ile duruşsuz ve güvenli üretim sağlar.",
+      "imgAlt": "ATEX Onaylı Havalı Pompa Kesiti"
+    },
+    "features": {
+      "title": "Tasarım ve Donanım Avantajları",
+      "items": [
+        "ATEX (Ex-Proof) Onaylı Tam Güvenlikli Tasarım",
+        "Kuru (Susuz) Çalışmaya Tam Dayanıklılık",
+        "Katı Partikülleri Sıkışmadan Transfer Edebilme",
+        "Kilitlenmeyen (Non-Stalling) Pnömatik Valf Sistemi",
+        "Elektriksiz Çalışma Sayesinde Düşük İşletme Maliyeti",
+        "Kolay Montaj, Düşük Yedek Parça ve Bakım İhtiyacı"
+      ],
+      "imgAlt": "Havalı Diyafram Pompa Valf Mekanizması"
+    },
+    "table": {
+      "title": "Performans Eğrisi ve Kapasite Tablosu",
+      "note": "* Verilen akışkan değerleri suya (1 cPs) göre hesaplanmıştır. Yüksek viskoziteli ve partiküllü sıvılarda pompa ölçüsü değişebilir.",
+      "headers": [
+        "BAĞLANTI ÖLÇÜSÜ",
+        "MAKS. DEBİ (L/dk)",
+        "MAKS. ÇALIŞMA BASINCI",
+        "PARTİKÜL GEÇİŞİ (mm)"
+      ],
+      "imgAlt": "Havalı Diyafram Pompa Teknik Çizim",
+      "rows": [
+        { "size": "1/2\"", "flow": "55 L/dk", "pressure": "8 Bar", "particle": "2.5 mm", "highlight": "dark" },
+        { "size": "1\"", "flow": "160 L/dk", "pressure": "8 Bar", "particle": "3.5 mm", "highlight": "dark" },
+        { "size": "1 1/2\"", "flow": "350 L/dk", "pressure": "8 Bar", "particle": "6.0 mm", "highlight": "dark" },
+        { "size": "2\"", "flow": "550 L/dk", "pressure": "8 Bar", "particle": "6.5 mm", "highlight": "dark" },
+        { "size": "3\"", "flow": "900 L/dk", "pressure": "8 Bar", "particle": "9.5 mm", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Diyafram malzemesi neye göre seçilir?",
+          "a": "Pompanın transfer edeceği akışkanın pH (asitlik) derecesi ve sıcaklığına göre Teflon (PTFE), Santoprene, NBR veya Hytrel diyaframlar seçilir."
+        },
+        {
+          "q": "Pompanın havayla çalışmasının avantajı nedir?",
+          "a": "Elektrik şebekesine ihtiyaç duymadığı için patlama riski sıfırdır. Ayrıca vana kapatıldığında pompa kendi kendine durur ve basınç valfi (by-pass) gibi ek maliyetli koruma ekipmanları gerektirmez."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Diyafram Pompa Uygulamaları",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Solvent ve Tiner Transferi", "alt": "ATEX Solvent Pompası" },
+        { "src": "galeri-2.webp", "label": "Arıtma ve Çamur Transferi", "alt": "Çamur Pompası" },
+        { "src": "galeri-3.webp", "label": "Gıda Katkı Maddesi Pompası", "alt": "Paslanmaz Diyafram Pompa" },
+        { "src": "galeri-4.webp", "label": "Boya ve Reçine Aktarımı", "alt": "Boya Transfer Pompası" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Diyafram malzeme uyumluluk tabloları, hava sarfiyat (SCFM) grafikleri ve ATEX belgelerini indirebilirsiniz.",
+        "fileUrl": "/assets/documents/tr/havali-diyafram-pompalar-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "KİMYA TESİSİ",
+        "desc": "Uluslararası bir boya üretim fabrikasına kurduğumuz 40 adetlik diyafram pompa hattı.",
+        "imgAlt": "Havalı Diyafram Pompa Referansı",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Hangi Diyafram Uygun?",
+        "desc": "PTFE, NBR veya Santoprene? Akışkanınızın (MSDS) raporuna göre en uzun ömürlü diyafram malzemesini biz seçelim.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Merhaba,%20havali%20diyafram%20pompalar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

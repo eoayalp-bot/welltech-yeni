@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "badge": "INDUSTRIELLE PROZESS- UND LAGERTECHNIK",
+    "title": "Das starke Herz Ihrer Produktionslinie",
+    "desc": "Schlüsselfertiges Anlagen-Engineering für industrielle Edelstahltanks aus AISI 304/316L, vollautomatische Prozesssysteme und hygienischen Medientransfer nach EN- und ASME-Standards.",
+    "bgImage": "/assets/images/ana-sayfa/hero-bg.webp",
+    "bgAlt": "Welltech Industrieanlagen und Edelstahlreaktor-Produktion",
+    "btn1": "ENGINEERING-ANFRAGE",
+    "btn2": "TECHNISCHEN KATALOG HERUNTERLADEN"
+  },
+  "stats": [
+    { "n": "20+", "t": "JAHRE PRODUKTIONSERFAHRUNG" },
+    { "n": "40+", "t": "GLOBALES EXPORTNETZWERK" },
+    { "n": "1000+", "t": "IN BETRIEB GENOMMENE SYSTEME" },
+    { "n": "100%", "t": "DICHTHEITS- & QUALITÄTSFREIGABE" }
+  ],
+  "services": {
+    "title": "Schlüsselfertige Engineering- und Fertigungslösungen",
+    "desc": "Wir produzieren CFD-gestützte High-End-Engineering-Ausrüstung gemäß den EHEDG-Hygiene-Designrichtlinien für die Lebensmittel- (Molkerei, Getränke), Chemie-, Pharma- und Biotechnologieindustrie.",
+    "view_details": "TECHNISCHE DETAILS ANSEHEN",
+    "items": [
+      {
+        "title": "Industrielle Lagerbehälter",
+        "desc": "Hochkapazitive, wärmeisolierte, rührwerksbetriebene und langlebige Flüssigkeitslagereinheiten aus Edelstahl AISI 316L nach EN 13445 und API 650 Standards.",
+        "image": "/assets/images/ana-sayfa/hizmet-depolama.webp",
+        "link": "paslanmaz-tanklar"
+      },
+      {
+        "title": "Automatisierte Prozesssysteme",
+        "desc": "Für die kritischen Reaktionen Ihrer Produktionslinie: SPS/SCADA-gesteuerte Mantelreaktoren, High-Shear-Homogenisatoren und CIP/SIP-integrierte Mischer.",
+        "image": "/assets/images/ana-sayfa/hizmet-proses.webp",
+        "link": "proses-sistemleri"
+      },
+      {
+        "title": "Hygienische Transfer- und Strömungslösungen",
+        "desc": "FDA-zugelassene hygienische Pumpentechnologien wie Kreiselpumpen, Drehkolbenpumpen und Druckluft-Membranpumpen für den Transfer hochviskoser Medien.",
+        "image": "/assets/images/pompalar/kategori-banner.webp",
+        "link": "hijyenik-pompalar"
+      }
+    ]
+  },
+  "why_us": {
+    "badge": "ENGINEERING-AUTORITÄT: WELLTECH",
+    "title": "Inhouse-Produktionsstärke auf Weltniveau",
+    "desc": "Wir produzieren nicht nur unabhängige Ausrüstung für Ihre Anlage, sondern bauen komplette, nachhaltige, hochdruckbeständige und energieeffiziente Prozessinfrastrukturen mit berechneter Thermodynamik.",
+    "list": [
+      "Fertigung nach ASME, CE (DGRL 2014/68/EU), ISO und EHEDG Standards",
+      "3D-CAD und CFD-Analyse gestütztes thermodynamisches Prozessdesign",
+      "ZfP (Zerstörungsfreie Prüfung), Eindringprüfung und hydrostatische Druckprüfungen",
+      "Globales Netzwerk: 24/7 Technischer Kundendienst und Original-Ersatzteile"
+    ],
+    "box1": {
+      "title": "GLOBALE AUTOMATISIERUNG",
+      "desc": "SPS-integrierte Systeme, die in mehr als 40 Ländern aktiv im Einsatz sind"
+    },
+    "box2": {
+      "title": "SCHWERINDUSTRIE-BESTÄNDIGKEIT",
+      "desc": "Absolute Korrosions- und Dichtheitsgarantie für alle unsere Reaktoren und Tanks"
+    }
+  }
+}

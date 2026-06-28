@@ -6,7 +6,7 @@ import { getLocalizedUrl } from '../../../../dictionaries/routes';
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
-  const dict = await getDictionary(resolvedParams.lang);
+  const dict = await getDictionary(resolvedParams.lang, 'oliveOilTanks');
 
   return {
     title: dict.oliveOilTanksPage.metadata.title,
@@ -17,13 +17,13 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 export default async function OliveOilTanksPage({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+  const dict = await getDictionary(lang, 'oliveOilTanks');
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Product",
     "name": dict.oliveOilTanksPage.metadata.title,
-    "image": "https://www.welltech.com/assets/images/paslanmaz-tanklar/zeytinyagi/banner.webp",
+    "image": "https://www.welltech.com.tr/assets/images/paslanmaz-tanklar/zeytinyagi/banner.webp",
     "description": dict.oliveOilTanksPage.metadata.description,
     "brand": {
       "@type": "Brand",
@@ -76,7 +76,7 @@ export default async function OliveOilTanksPage({ params }: { params: Promise<{ 
             alt={dict.oliveOilTanksPage.hero.title} 
             fill 
             priority 
-            className="object-cover" 
+            className="object-cover transition-transform duration-[3000ms] scale-105" 
             sizes="100vw" 
           />
           <div className="absolute inset-0 bg-[#005284]/80"></div>
@@ -226,7 +226,7 @@ export default async function OliveOilTanksPage({ params }: { params: Promise<{ 
               
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
                 {projectsList.map((item, index) => (
-                  <div key={index} className="relative h-64 sm:h-80 w-full overflow-hidden rounded-xl shadow-md group cursor-pointer">
+                  <Link href={`/${lang}/referanslar`} key={index} className="block relative h-64 sm:h-80 w-full overflow-hidden rounded-xl shadow-md group cursor-pointer">
                     <Image 
                       src={`/assets/images/paslanmaz-tanklar/zeytinyagi/${item.src}`} 
                       alt={item.alt} 
@@ -242,7 +242,7 @@ export default async function OliveOilTanksPage({ params }: { params: Promise<{ 
                       </span>
                       <div className="h-1 w-8 bg-[#E35205] mt-2 rounded-full transform scale-x-0 group-hover:scale-x-100 origin-left transition-transform duration-300"></div>
                     </div>
-                  </div>
+                  </Link>
                 ))}
               </div>
             </div>
@@ -263,7 +263,6 @@ export default async function OliveOilTanksPage({ params }: { params: Promise<{ 
                   </div>
                 </div>
                 <p className="text-sm text-gray-600 mb-6 leading-relaxed">{dict.oliveOilTanksPage.sidebar.spec.desc}</p>
-                {/* DİNAMİK URL BURADA EKLENDİ */}
                 <a 
                   href={dict.oliveOilTanksPage.sidebar.spec.fileUrl} 
                   download
@@ -289,7 +288,8 @@ export default async function OliveOilTanksPage({ params }: { params: Promise<{ 
                   />
                 </div>
                 <p className="text-xs text-gray-500 line-clamp-2 mt-2">{dict.oliveOilTanksPage.sidebar.reference.desc}</p>
-                <Link href={getLocalizedUrl('referanslar', lang)} className="text-[10px] font-bold tracking-widest text-[#005284] border-b-2 border-transparent hover:border-[#E35205] pb-0.5 transition-all inline-block mt-2">
+                
+                <Link href={`/${lang}/referanslar`} className="text-[10px] font-bold tracking-widest text-[#005284] border-b-2 border-transparent hover:border-[#E35205] pb-0.5 transition-all inline-block mt-2">
                   {dict.oliveOilTanksPage.sidebar.reference.link}
                 </Link>
               </div>

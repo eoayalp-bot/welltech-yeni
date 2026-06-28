@@ -3,10 +3,11 @@ import Image from 'next/image';
 import { Download, CheckCircle, ChevronRight, FileText, ShieldCheck, Database, Maximize, Anchor, Shield, BookOpenCheck } from 'lucide-react';
 import { getDictionary } from '../../../../dictionaries/getDictionary';
 import { getLocalizedUrl } from '../../../../dictionaries/routes';
+import { referanslar } from '../../../../lib/referanslar';
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
-  const resolvedParams = await params;
-  const dict = await getDictionary(resolvedParams.lang);
+  const { lang } = await params;
+  const dict = await getDictionary(lang, 'storageTanks');
   return {
     title: dict.storageTanksPage.metadata.title,
     description: dict.storageTanksPage.metadata.description,
@@ -14,9 +15,12 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 }
 
 export default async function StorageTanksPage({ params }: { params: Promise<{ lang: string }> }) {
-  const resolvedParams = await params;
-  const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+  const { lang } = await params;
+  const dict = await getDictionary(lang, 'storageTanks');
+
+  const ilgiliProje = referanslar.find(p => p.translations['tr']?.category === "Paslanmaz Tanklar");
+  
+  const translatedProje = ilgiliProje ? (ilgiliProje.translations[lang] || ilgiliProje.translations['en'] || ilgiliProje.translations['tr']) : null;
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -214,26 +218,35 @@ export default async function StorageTanksPage({ params }: { params: Promise<{ l
                   </div>
                 </div>
                 <p className="text-sm text-gray-600 mb-6 leading-relaxed">{dict.storageTanksPage.sidebar.spec.desc}</p>
-                {/* DİNAMİK URL JSON'DAN ÇEKİLİYOR */}
                 <a href={dict.storageTanksPage.sidebar.spec.fileUrl} download className="w-full flex items-center justify-center gap-2 bg-[#005284] text-white px-4 py-3 rounded-xl text-sm font-bold tracking-wider hover:bg-[#E35205] transition-colors shadow-md">
                   <Download className="w-4 h-4" />
                   {dict.storageTanksPage.sidebar.spec.btn}
                 </a>
               </div>
 
-              <div className="bg-white p-6 rounded-xl shadow-lg border border-gray-100 space-y-3">
-                <div className="flex items-center gap-2 mb-2">
-                  <ShieldCheck className="w-4 h-4 text-[#E35205]" />
-                  <span className="text-[10px] font-bold tracking-widest text-gray-400">{dict.storageTanksPage.sidebar.reference.badge}</span>
+              {ilgiliProje && translatedProje && (
+                <div className="bg-white p-6 rounded-xl shadow-lg border border-gray-100 space-y-3">
+                  <div className="flex items-center gap-2 mb-2">
+                    <ShieldCheck className="w-4 h-4 text-[#E35205]" />
+                    <span className="text-[10px] font-bold tracking-widest text-gray-400">
+                      {dict.storageTanksPage.sidebar.reference.badge}
+                    </span>
+                  </div>
+                  <div className="relative h-40 w-full overflow-hidden border border-gray-100 rounded-lg shadow-inner group">
+                    <Image src={ilgiliProje.image} alt={translatedProje.title} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 33vw" />
+                  </div>
+                  <h4 className="font-bold text-gray-900 text-sm mt-3 leading-tight">
+                    {translatedProje.title}
+                  </h4>
+                  <p className="text-xs text-gray-500 line-clamp-2 mt-1">
+                    {translatedProje.excerpt}
+                  </p>
+                  
+                  <Link href={`/${lang}/referanslar`} className="text-[10px] font-bold tracking-widest text-[#005284] border-b-2 border-transparent hover:border-[#E35205] pb-0.5 transition-all inline-block mt-2">
+                    {dict.storageTanksPage.sidebar.reference.link}
+                  </Link>
                 </div>
-                <div className="relative h-40 w-full overflow-hidden border border-gray-100 rounded-lg shadow-inner group">
-                  <Image src="/assets/images/paslanmaz-tanklar/depolama/referans.webp" alt={dict.storageTanksPage.sidebar.reference.badge} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 33vw" />
-                </div>
-                <p className="text-xs text-gray-500 line-clamp-2 mt-2">{dict.storageTanksPage.sidebar.reference.desc}</p>
-                <Link href={getLocalizedUrl('referanslar', lang)} className="text-[10px] font-bold tracking-widest text-[#005284] border-b-2 border-transparent hover:border-[#E35205] pb-0.5 transition-all inline-block mt-2">
-                  {dict.storageTanksPage.sidebar.reference.link}
-                </Link>
-              </div>
+              )}
 
               <div className="bg-gray-900 p-6 rounded-xl shadow-lg text-white">
                 <h4 className="font-bold text-lg mb-2 flex items-center gap-2">

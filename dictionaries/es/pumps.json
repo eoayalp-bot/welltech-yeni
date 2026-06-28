@@ -1,0 +1,48 @@
+{
+  "pumpsPage": {
+    "metadata": {
+      "title": "Bombas Higiénicas Industriales | Welltech®",
+      "description": "Modelos de bombas de acero inoxidable de alta eficiencia: centrífugas, lobulares, autocebantes y neumáticas de membrana para las industrias alimentaria, farmacéutica y química."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "current": "Bombas Industriales"
+    },
+    "hero": {
+      "title": "Bombas de Proceso Industriales",
+      "desc": "Cero pérdidas y máxima higiene (FDA/3A) en la transferencia de fluidos. Productos de alta ingeniería diseñados para leche, miel, chocolate y químicos agresivos."
+    },
+    "categories": [
+      {
+        "title": "Bombas Centrífugas",
+        "desc": "Sistemas estándar o con autoenfriamiento diseñados para la transferencia higiénica, continua y de alto caudal de fluidos de baja viscosidad como leche, jugos y agua."
+      },
+      {
+        "title": "Bombas de Desplazamiento Positivo",
+        "desc": "Bombas lobulares que proporcionan una transferencia precisa de productos densos (de alta viscosidad) como crema, miel, champú o pasta de tomate, sin alterar su estructura de partículas."
+      },
+      {
+        "title": "Bombas Autocebantes",
+        "desc": "Unidades de transferencia de líquidos potentes y compactas que pueden evacuar fluidos espumosos o que contienen gas y succionar desde el fondo del tanque sin problemas de bloqueo por aire."
+      },
+      {
+        "title": "Bombas para Bidones y Contenedores",
+        "desc": "Bombas portátiles, ligeras y de alta seguridad para la extracción de ácidos, disolventes o aditivos alimentarios de bidones industriales y tanques IBC."
+      },
+      {
+        "title": "Bombas Neumáticas de Membrana",
+        "desc": "Bombas neumáticas que funcionan sin electricidad, que se pueden utilizar de manera segura en entornos explosivos/inflamables (ATEX) y en la transferencia de fluidos que contienen partículas sólidas."
+      },
+      {
+        "title": "Bombas de Cavidad Progresiva (Monobombas)",
+        "desc": "Bombas de tornillo helicoidal utilizadas para el empuje continuo de pulpa de fruta, cuajada de queso, lodos de depuradora o masas con alto contenido de sólidos en las tuberías."
+      }
+    ],
+    "viewModels": "DETALLE DEL PRODUCTO",
+    "cta": {
+      "title": "Elegir la Bomba Correcta es una Ingeniería Crítica",
+      "desc": "Calculando la viscosidad, la temperatura de su fluido y las pérdidas de carga de su línea, elijamos juntos la bomba más precisa (sin cavitación) para su proceso.",
+      "btn": "CONSULTE A NUESTRA INGENIERÍA"
+    }
+  }
+}

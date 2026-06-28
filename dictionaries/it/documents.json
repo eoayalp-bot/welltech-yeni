@@ -1,0 +1,85 @@
+{
+  "documentsPage": {
+    "metadata": {
+      "title": "Qualità e Certificazioni | Welltech®",
+      "description": "Standard qualitativi internazionali, certificazioni e processi di Controllo Non Distruttivo (NDT)."
+    },
+    "hero": {
+      "title": "Qualità e Certificazioni",
+      "desc": "Processi ingegneristici conformi agli standard internazionali, tracciabili e affidabili al 100%."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "corporate": "Azienda",
+      "current": "Qualità e Certificazioni"
+    },
+    "globalStandards": {
+      "title": "Standard Globali di Produzione",
+      "desc": "Ogni apparecchiatura prodotta nel nostro stabilimento viene ispezionata e certificata in conformità agli standard internazionali (ISO, ASME, CE), dall'ingresso delle materie prime fino ai collaudi finali."
+    },
+    "ndt": {
+      "title": "Capacità di Controlli Non Distruttivi (NDT)",
+      "items": {
+        "rt": "Controllo Radiografico (RT)",
+        "pt": "Controllo con Liquidi Penetranti (PT)",
+        "ut": "Controllo Ultrasonoro (UT)",
+        "vt": "Esame Visivo (VT)",
+        "hydro": "Prova Idrostatica di Pressione",
+        "roughness": "Misurazione della Rugosità Superficiale (Ra)"
+      }
+    },
+    "certifications": {
+      "title": "Le Nostre Certificazioni",
+      "note": "* È possibile richiedere copie dei documenti dal menu laterale o direttamente al nostro reparto qualità.",
+      "tableHeaders": {
+        "standard": "STANDARD / NORME",
+        "scope": "CAMPO DI APPLICAZIONE",
+        "status": "STATO"
+      },
+      "scopes": {
+        "iso9001": "Sistema di Gestione della Qualità",
+        "iso3834": "Qualifica della Produzione Saldada",
+        "ped": "Direttiva Attrezzature a Pressione",
+        "asme": "Standard di Produzione per Recipienti a Pressione",
+        "ce": "Dichiarazione di Conformità Europea"
+      },
+      "status": {
+        "active": "Attivo / Approvato",
+        "compliant": "Produzione Conforme"
+      }
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Fornite i certificati dei materiali insieme al prodotto?",
+          "a": "Sì, i certificati EN 10204 3.1 di tutti i materiali in acciaio inox utilizzati vengono inclusi nel dossier di consegna del prodotto (Data Book)."
+        },
+        {
+          "q": "Le vostre procedure di saldatura sono qualificate?",
+          "a": "Tutte le nostre produzioni saldate vengono realizzate in conformità alle procedure WPS e PQR da operatori di saldatura certificati e qualificati."
+        }
+      ]
+    },
+    "sidebar": {
+      "iso": {
+        "title": "Certificazioni ISO e CE",
+        "subtitle": "CERTIFICAZIONI UFFICIALI",
+        "desc": "Scaricate con un solo clic i documenti relativi ai sistemi di qualità e alle qualifiche produttive del nostro stabilimento.",
+        "fileUrl": "/assets/documents/it/certificati-ufficiali-iso-ce.pdf",
+        "btn": "SCARICA LE CERTIFICAZIONI"
+      },
+      "catalog": {
+        "title": "Catalogo Generale",
+        "subtitle": "CATALOGO PRODOTTI 2026",
+        "desc": "Scaricate il nostro catalogo aggiornato per consultare l'intera gamma di prodotti e le nostre capacità tecniche.",
+        "fileUrl": "/assets/documents/it/catalogo-generale-prodotti-2026.pdf",
+        "btn": "SCARICA IL CATALOGO"
+      },
+      "department": {
+        "title": "Reparto Qualità",
+        "desc": "Contattateci per requisiti qualitativi specifici e richieste di ispezione da parte di enti terzi (Third-Party Inspection) per i vostri progetti."
+      }
+    }
+  }
+}

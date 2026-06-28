@@ -1,0 +1,28 @@
+{
+  "referencesPage": {
+    "metadata": {
+      "title": "Our References | Welltech®",
+      "description": "Industrial facility and equipment references successfully completed worldwide by Welltech® International Engineering."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Our References"
+    },
+    "hero": {
+      "title": "Our References",
+      "quote": "\"Our engineering vision proves itself in every facility we successfully deliver.\""
+    },
+    "labels": {
+      "capacity": "CAPACITY",
+      "material": "MATERIAL",
+      "standard": "STANDARD",
+      "features": "FEATURES"
+    },
+    "ctaBtn": "CONTACT US",
+    "cta": {
+      "title": "Let the Next Success Story Be Your Facility",
+      "desc": "Take the engineering power and experience of Welltech® with you in your new investment or modernization projects.",
+      "btn": "TELL US ABOUT YOUR PROJECT"
+    }
+  }
+}

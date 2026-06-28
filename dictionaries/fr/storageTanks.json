@@ -1,0 +1,83 @@
+{
+  "storageTanksPage": {
+    "metadata": {
+      "title": "Cuves de Stockage Industrielles | Welltech®",
+      "description": "Fabrication de cuves à usage intensif en acier inoxydable pour le stockage de grand volume de produits chimiques et alimentaires aux normes ASME et CE."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "tanks": "Cuves en Inox",
+      "current": "Cuves de Stockage"
+    },
+    "hero": {
+      "title": "Cuves de Stockage Industrielles",
+      "desc": "Solutions en acier inoxydable durables pour le cœur de votre usine, aux normes internationales (ASME, EN 14015, API 650), avec une haute étanchéité et une garantie zéro oxydation."
+    },
+    "engineering": {
+      "title": "Ingénierie à Usage Intensif (Heavy-Duty)",
+      "desc": "Le stockage sécurisé de grands volumes de liquides, de matières premières ou de produits semi-finis est d'une importance vitale pour la pérennité de votre usine. Les Cuves de Stockage Welltech® sont dimensionnées grâce à des tests de simulation 3D avancés face au poids spécifique (viscosité) du fluide contenu et aux charges de vent/sismiques. Chaque point de soudure est certifié par des méthodes de Contrôle Non Destructif (CND) assurant une résistance maximale."
+    },
+    "features": {
+      "title": "Avantages de Conception et d'Équipement",
+      "items": {
+        "1": "Fabrication en Acier AISI 304L, 316L, 316Ti ou Duplex",
+        "2": "Technologie de Soudage Robotique TIG et Plasma adaptée à la Capacité",
+        "3": "Conformité totale aux normes API 650 et EN 14015",
+        "4": "Options de fond spécial conique, bombé ou incliné plat",
+        "5": "Haute résistance à la pression, au vent et aux charges sismiques",
+        "6": "Intégration du contrôle de niveau, ventilation et boules de lavage NEP"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacités de Production Standard",
+      "note": "* Les dimensions fournies (Diamètre x Hauteur) sont approximatives. Des révisions millimétriques peuvent être effectuées en fonction des contraintes d'espace de votre usine.",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIAMÈTRE (Ø mm)",
+        "height": "HAUTEUR (mm)",
+        "material": "MATÉRIAU"
+      },
+      "onSite": "Pour les cuves de cette capacité et au-delà, un service d'installation sur site (On-Site) est proposé."
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Comment livrez-vous des cuves plus grandes que les portes de notre usine ?",
+          "a": "Les cuves de grand diamètre et de grand volume (plus de 100 000 L) sont préparées de manière modulaire dans notre usine et assemblées sur site (On-site) par nos ingénieurs soudeurs experts."
+        },
+        {
+          "q": "Quelle est la différence entre le stockage Alimentaire et Chimique ?",
+          "a": "Dans les cuves alimentaires, la qualité de surface lisse (Ra < 0.6) et les lignes de lavage NEP sont essentielles ; dans les cuves chimiques comme l'acide ou les solvants, on privilégie les aciers Duplex à haute résistance à la corrosion et les équipements ATEX."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nos Applications de Stockage",
+      "p1": "Cuve de Stockage Acide et Caustique",
+      "p2": "Stockage Inox de Qualité Alimentaire",
+      "p3": "Cuve de Stockage Pétrochimique",
+      "p4": "Silos Industriels à Grand Volume"
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Vous pouvez télécharger le fichier de spécification technique contenant les épaisseurs de matériaux, les procédures de soudage et les normes de qualité.",
+        "fileUrl": "/assets/documents/fr/reservoirs-stockage-industriels-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "INSTALLATION SUR SITE",
+        "desc": "Découvrez notre méga projet de stockage de 500 000 Litres achevé l'année dernière.",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Besoin de Dimensions Spéciales ?",
+        "desc": "Calculons ensemble avec nos ingénieurs la capacité maximale la plus adaptée à l'espace vide (hauteur/largeur) de votre usine.",
+        "whatsappMsg": "Bonjour, je souhaite obtenir des informations sur le calcul des dimensions et capacites sur mesure pour les Cuves de Stockage Industrielles.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

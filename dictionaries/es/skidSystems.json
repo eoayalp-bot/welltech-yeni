@@ -1,0 +1,93 @@
+{
+  "skidSystemsPage": {
+    "metadata": {
+      "title": "Unidades Móviles y Sistemas Skid | Welltech®",
+      "description": "Unidades skid móviles de acero inoxidable 'Plug-and-play', fáciles de transportar en las instalaciones, con bomba, panel de automatización y tanque propios."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "process": "Sistemas de Proceso",
+      "current": "Unidades Móviles"
+    },
+    "hero": {
+      "title": "Unidades Móviles (Skids)",
+      "desc": "Sistemas de proceso compactos 'Plug-and-Play' que pueden transportarse fácilmente a todas las estaciones de su planta, equipados con tanque, bomba y panel listo."
+    },
+    "technology": {
+      "title": "Tecnología Skid Compacto (Estructura/Chasis)",
+      "desc": "Las unidades móviles (Sistemas Skid) son sistemas portátiles donde todo el conjunto de la máquina (tanque, bomba, filtro, panel) está montado sobre una sola base (skid) de acero inoxidable, sin requerir tuberías fijas ni construcción de infraestructuras. Se desplaza fácilmente de una línea a otra dentro de las instalaciones mediante ruedas; la producción comienza instantáneamente con solo conectarlo a la electricidad (o aire). Es la forma más flexible de producción modular.",
+      "imgAlt": "Tecnología de Chasis de Acero Inoxidable (Skid)"
+    },
+    "features": {
+      "title": "Características de Equipamiento y Portabilidad",
+      "items": [
+        "Chasis Especial de Acero Inoxidable Resistente a Cargas Pesadas",
+        "Ruedas de Poliamida para Transición Rápida Entre Estaciones",
+        "Estructura Plug & Play que No Requiere Instalación ni Tuberías",
+        "Bomba de Transferencia Integrada (Lobular, de Membrana, etc.)",
+        "Instalación Eléctrica Segura y Panel de Control Integrado",
+        "Acoplamientos de Mangueras Flexibles (Abrazadera) para Diferentes Líneas"
+      ],
+      "imgAlt": "Equipos de Unidad Móvil"
+    },
+    "table": {
+      "title": "Tipos de Sistemas y Módulos",
+      "note": "* Las unidades móviles se dimensionan a medida de acuerdo a la capacidad solicitada (por ejemplo, 500L o 1000L) y los equipos a utilizar.",
+      "headers": [
+        "APLICACIÓN / SISTEMA",
+        "EQUIPOS INTEGRADOS",
+        "MÉTODO DE FUNCIONAMIENTO"
+      ],
+      "imgAlt": "Dibujo Técnico de Sistema Móvil",
+      "rows": [
+        { "application": "Unidad CIP Móvil", "equipment": "Tanque Calentado + Bomba Centrífuga", "setup": "Plug-and-Play (Conexión de Manguera)", "highlight": "dark" },
+        { "application": "Unidad de Dosificación Móvil", "equipment": "Sistema de Pesaje (Célula de Carga) + Agitador", "setup": "Plug-and-Play (Enchufar)", "highlight": "dark" },
+        { "application": "Transferencia Móvil", "equipment": "Tanque de Compensación + Lobular/Monobomba", "setup": "Plug-and-Play (Conexión de Manguera)", "highlight": "dark" },
+        { "application": "Filtración Móvil", "equipment": "Carcasa de Filtro de Bolsa + Panel", "setup": "Plug-and-Play (Conexión de Manguera)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Puedo usar la unidad móvil en un entorno ATEX (Inflamable)?",
+          "a": "Sí. Si el producto a transferir es inflamable o combustible, las ruedas de la unidad móvil se fabrican con material antiestático (conductor), y se hace 100% compatible con ATEX añadiendo una bomba de membrana neumática y un mezclador neumático en lugar de un motor eléctrico."
+        },
+        {
+          "q": "¿Cuál es el volumen máximo del tanque en el skid?",
+          "a": "En las unidades móviles, calculando la capacidad de carga de las ruedas y la capacidad de empuje del operador con fuerza humana, se utilizan generalmente tanques con un volumen máximo de 1.000 Litros (1 Tonelada)."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nuestras Aplicaciones Móviles Skid",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Unidad de Transferencia Móvil", "alt": "Estación de Bombeo Portátil" },
+        { "src": "galeri-2.webp", "label": "Carro Portátil de Lavado CIP", "alt": "Estación CIP Móvil" },
+        { "src": "galeri-3.webp", "label": "Mezclador y Dosificación Móvil", "alt": "Tanque Mezclador con Ruedas" },
+        { "src": "galeri-4.webp", "label": "Preparación Llenado Cosmético", "alt": "Unidad de Champú Móvil" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Descargue nuestro catálogo que incluye las capacidades de carga de los chasis skid, los tipos de ruedas y las disposiciones de los paneles.",
+        "fileUrl": "/assets/documents/es/unidades-moviles-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "PLANTA DE ALIMENTOS",
+        "desc": "Carros móviles de mezclado y bombeo multiestación que diseñamos para una fábrica de salsas de gran capacidad.",
+        "imgAlt": "Referencia de Unidad Móvil",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "¿Qué Debemos Integrar?",
+        "desc": "Combinemos un tanque, bomba, filtro y calentador en un solo skid. Envíenos los módulos que desee y realizaremos el diseño.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Hola,%20me%20gustaria%20obtener%20informacion%20tecnica%20y%20precios%20sobre%20unidades%20skid%20moviles.",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

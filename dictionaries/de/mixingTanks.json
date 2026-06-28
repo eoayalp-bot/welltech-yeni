@@ -1,0 +1,95 @@
+{
+  "mixingTanksPage": {
+    "metadata": {
+      "title": "Rührwerksbehälter und Mischer | Welltech®",
+      "description": "Mischbehälter (Rührwerkstanks) aus Edelstahl für verschiedene Viskositäten, konzipiert für die Lebensmittel-, Pharma- und chemische Industrie."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "Rührwerksbehälter"
+    },
+    "hero": {
+      "title": "Rührwerksbehälter",
+      "desc": "Produkt- und prozessspezifische Industriemischer zur perfekten Homogenisierung von flüssig-flüssig- oder flüssig-fest-Gemischen unterschiedlicher Viskosität."
+    },
+    "technology": {
+      "title": "Strömungsmechanik und Rührwerkstechnologie",
+      "desc": "Die Effizienz von Rührwerksbehältern hängt vom Design des <strong>Rührwerks (Agitator/Propeller)</strong> ab, das entsprechend der Viskosität und Dichte des zu mischenden Produkts ausgewählt wird. Während Propellerrührer eine schnelle Zirkulation in niedrigviskosen Flüssigkeiten erzeugen, sorgen <strong>Ankerrührer und Abstreifer</strong> für eine homogene Mischung, indem sie verhindern, dass hochviskose und klebrige Produkte an der Tankwand haften bleiben. Bei Bedarf werden Strömungsstörer (Baffles) in den Tank integriert, um Wirbelbildung zu verhindern und die Mischzeit zu minimieren.",
+      "imgAlt": "Rührflügel-Technologie (Agitator)"
+    },
+    "features": {
+      "title": "Design- und Leistungsvorteile",
+      "items": [
+        "Speziell auf Medium und Viskosität abgestimmtes Rührwerk-Design",
+        "Strömungsstörer-System (Baffle) zur Vermeidung von Wirbelbildung (Vortex)",
+        "Teflon-Abstreifer verhindern das Anbrennen und Anhaften des Produkts",
+        "Drehzahlregelung durch Frequenzumrichter (Inverter) möglich",
+        "Spezielle Getriebe- und Motorkonfiguration zur Schonung der Produktstruktur",
+        "Integrierte CIP-Sprühkugeln (Clean-in-Place) für eine einfache Reinigung"
+      ],
+      "imgAlt": "Rührwerksbehälter Motor und Automatisierung"
+    },
+    "table": {
+      "title": "Rührertypen und Anwendungsbereiche",
+      "note": "* Die aufgeführten Drehzahlen und Viskositätswerte dienen als allgemeine Referenz; die Motor/Getriebe-Kombination wird projektspezifisch berechnet.",
+      "headers": [
+        "RÜHRERTYP",
+        "VISKOSITÄTSBEREICH",
+        "ANWENDUNGSBEREICH",
+        "BETRIEBSDREHZAHL (U/min)"
+      ],
+      "imgAlt": "Technische Zeichnung Rührwerksbehälter",
+      "rows": [
+        { "type": "Propellerrührer", "viscosity": "Niedrig (Wasser, Saft)", "usage": "Schnelles Mischen / Auflösen", "speed": "Hoch (1000 - 1500 U/min)", "highlight": "dark" },
+        { "type": "Turbinenrührer", "viscosity": "Niedrig / Mittel", "usage": "Emulsion / Dispersion", "speed": "Mittel - Hoch (300 - 1000 U/min)", "highlight": "dark" },
+        { "type": "Ankerrührer", "viscosity": "Hoch (Creme, Shampoo)", "usage": "Homogener Wärmetransfer", "speed": "Niedrig (10 - 60 U/min)", "highlight": "dark" },
+        { "type": "Abstreiferrührer (Teflon)", "viscosity": "Sehr hoch (Pasten, Kitt)", "usage": "Beheizte Prozesse (Anti-Burn)", "speed": "Niedrig (10 - 40 U/min)", "highlight": "dark" },
+        { "type": "Gegenläufiger Doppelrührer", "viscosity": "Variabel", "usage": "Komplexe chemische Reaktionen", "speed": "Variabel (Inverter)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Wofür ist ein Strömungsstörer (Baffle) gut?",
+          "a": "Bei schnellen Mischvorgängen verhindert er, dass die Flüssigkeit im Tank zirkuliert und einen Wirbel (Vortex) bildet. Der Strömungsstörer bricht die Fließrichtung, ermöglicht eine vertikale Durchmischung und verkürzt die Prozesszeit um bis zu 40 %."
+        },
+        {
+          "q": "Warum wird ein Abstreifrührwerk bevorzugt?",
+          "a": "Insbesondere in beheizten Doppelmanteltanks sind Teflon-Abstreifer zwingend erforderlich, um zu verhindern, dass dichte Flüssigkeiten (wie Tomatenmark oder kosmetische Cremes) an der heißen Wand haften bleiben und anbrennen oder karamellisieren."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Unsere industriellen Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Chemische Lösungszubereitung", "alt": "Chemischer Mischer" },
+        { "src": "galeri-2.webp", "label": "Shampoo- und Waschmittelmischer", "alt": "Kosmetik-Rührwerksbehälter" },
+        { "src": "galeri-3.webp", "label": "Milch- und Ayran-Prozesstank", "alt": "Lebensmittelmischbehälter" },
+        { "src": "galeri-4.webp", "label": "Saucen- und Pastenmischer", "alt": "Mischbehälter mit Abstreifer" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie die Spezifikationsdatei mit Tabellen zur Auswahl der Rührflügel, Berechnungen der Motordrehzahl und Diagrammen zur Anordnung der Strömungsstörer herunter.",
+        "fileUrl": "/assets/documents/de/mischertanks-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "KOSMETIKANLAGE",
+        "desc": "Flüssigseifen-Mischerlinie mit Teflonabstreifern und Heizmantel, die wir für einen globalen Kosmetikkonzern installiert haben.",
+        "imgAlt": "Kosmetikmischer Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Wie hoch ist die Viskosität Ihres Produkts?",
+        "desc": "Teilen Sie uns die Dichte (Viskosität) Ihres Mediums und Ihre Kapazität mit, und wir entwerfen gemeinsam das richtige, wirbelfreie Motor-Getriebe- und Rührwerkskonzept.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Hallo,%20ich%20moechte%20technische%20Informationen%20und%20Preise%20zu%20Ruehrwerksbehaeltern%20erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

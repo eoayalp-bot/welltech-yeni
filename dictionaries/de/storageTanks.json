@@ -1,0 +1,83 @@
+{
+  "storageTanksPage": {
+    "metadata": {
+      "title": "Industrielle Lagerbehälter | Welltech®",
+      "description": "Herstellung von Heavy-Duty-Edelstahltanks für die großvolumige Chemie- und Lebensmittellagerung nach ASME- und CE-Standards."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "tanks": "Edelstahltanks",
+      "current": "Lagerbehälter"
+    },
+    "hero": {
+      "title": "Industrielle Lagerbehälter",
+      "desc": "Langlebige Edelstahllösungen mit hoher Dichtheits- und Null-Oxidations-Garantie nach internationalen Standards (ASME, EN 14015, API 650) für das Herzstück Ihrer Anlage."
+    },
+    "engineering": {
+      "title": "Heavy-Duty Engineering",
+      "desc": "Die sichere Lagerung großer Mengen an Flüssigkeiten, Rohstoffen oder Halbfabrikaten ist für die Nachhaltigkeit Ihres Werks von entscheidender Bedeutung. Welltech® Lagertanks werden durch fortschrittliche 3D-Simulationstests gegen das spezifische Gewicht (Viskosität) der enthaltenen Flüssigkeit und Wind-/Erdbebenlasten dimensioniert. Jeder Schweißpunkt wird durch Zerstörungsfreie Prüfverfahren (ZfP / NDT) zertifiziert, um maximale Festigkeit zu gewährleisten."
+    },
+    "features": {
+      "title": "Design- und Ausstattungsvorteile",
+      "items": {
+        "1": "Produktion aus AISI 304L, 316L, 316Ti oder Duplex-Stahl",
+        "2": "Kapazitätsspezifische WIG- und Plasma-Roboter-Schweißtechnologie",
+        "3": "Volle Konformität mit den Normen API 650 und EN 14015",
+        "4": "Spezielle Bodenoptionen: Konischer, gewölbter oder geneigter flacher Boden",
+        "5": "Hohe Beständigkeit gegen Druck, Wind- und seismische Lasten",
+        "6": "Integration von Füllstandskontrolle, Belüftung und CIP-Waschkugeln"
+      }
+    },
+    "capacityTable": {
+      "title": "Standard-Produktionskapazitäten",
+      "note": "* Die angegebenen Abmessungen (Durchmesser x Höhe) sind Richtwerte. Millimetrische Anpassungen können je nach den Platzverhältnissen in Ihrer Anlage vorgenommen werden.",
+      "headers": {
+        "volume": "VOLUMEN",
+        "diameter": "DURCHMESSER (Ø mm)",
+        "height": "HÖHE (mm)",
+        "material": "MATERIAL"
+      },
+      "onSite": "Für Tanks dieser Kapazität und darüber wird ein Montageservice vor Ort (On-Site) angeboten."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Wie liefern Sie Tanks, die größer sind als unser Werkstor?",
+          "a": "Tanks mit großem Durchmesser und hohem Volumen (über 100.000 L) werden in unserem Werk modular vorgefertigt und vor Ort (On-site) von unseren erfahrenen Schweißingenieuren montiert."
+        },
+        {
+          "q": "Was ist der Unterschied zwischen Lebensmittel- und Chemielagerung?",
+          "a": "Bei Lebensmitteltanks sind eine glatte Oberflächenqualität (Ra < 0,6) und CIP-Reinigungsleitungen entscheidend; bei Chemietanks für Säuren oder Lösungsmittel werden Duplex-Stähle mit hoher Korrosionsbeständigkeit und ATEX-Ausrüstung bevorzugt."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Unsere Lageranwendungen",
+      "p1": "Säure- und Laugenlagertank",
+      "p2": "Lebensmitteltaugliche Edelstahllagerung",
+      "p3": "Petrochemischer Vorratstank",
+      "p4": "Großvolumige Industriesilos"
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Sie können die technische Spezifikationsdatei mit Materialstärken, Schweißverfahren und Qualitätsstandards herunterladen.",
+        "fileUrl": "/assets/documents/de/industrielle-lagertanks-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "MONTAGE VOR ORT",
+        "desc": "Sehen Sie sich unser im vergangenen Jahr abgeschlossenes 500.000-Liter-Mega-Lagerprojekt an.",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Sind Sonderabmessungen erforderlich?",
+        "desc": "Lassen Sie uns gemeinsam mit unseren Ingenieuren die optimale maximale Kapazität für den verfügbaren Platz (Höhe/Breite) in Ihrer Anlage berechnen.",
+        "whatsappMsg": "Hallo, ich moechte Informationen zur Berechnung von Sonderabmessungen und Kapazitaeten fuer industrielle Lagerbehaelter erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

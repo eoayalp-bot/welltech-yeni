@@ -1,0 +1,95 @@
+{
+  "positivePumpsPage": {
+    "metadata": {
+      "title": "Pompes Volumétriques (à Lobes) | Welltech®",
+      "description": "Pompes à lobes en acier inoxydable assurant le transfert de fluides à haute viscosité comme la crème, le miel, le shampoing sans altérer leur structure particulaire."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "pumps": "Pompes",
+      "current": "Pompes Volumétriques"
+    },
+    "hero": {
+      "title": "Pompes Volumétriques (à Lobes)",
+      "desc": "Transfert fluide et précis des produits denses (haute viscosité) comme le miel, le shampoing, la crème et la pâte de tomate sans perturber leur structure cellulaire."
+    },
+    "technology": {
+      "title": "Technologie à Lobes (Rotor)",
+      "desc": "Contrairement aux pompes centrifuges qui agitent et écrasent le fluide à grande vitesse, les pompes volumétriques à lobes (Positive Displacement Pumps) poussent doucement le fluide en l'emprisonnant entre des lobes spéciaux (rotors) tournant en sens inverse. Grâce à cette technologie, les particules du produit (morceaux de fruits, fibres, etc.) ne sont pas écrasées ; la qualité et la consistance du fluide sont préservées à 100 % lors du transfert vers la station suivante.",
+      "imgAlt": "Technologie de Rotor de Pompe à Lobes"
+    },
+    "features": {
+      "title": "Avantages Opérationnels et de Conception",
+      "items": [
+        "Transfert Sans Écrasement des Aliments Sensibles (à Particules)",
+        "Débit Constant (Sans Pulsation) et Mesurable",
+        "Rendement Maximal pour les Fluides Très Visqueux (Denses)",
+        "Corps en Acier Inoxydable 100 % Hygiénique Approuvé FDA/3A",
+        "Capacité de Fonctionnement Bidirectionnel (Réversible)",
+        "Résistance au Fonctionnement à Sec de Courte Durée"
+      ],
+      "imgAlt": "Réducteur de Pompe Volumétrique"
+    },
+    "table": {
+      "title": "Spécifications Techniques et Tableau de Capacité",
+      "note": "* Les valeurs de débit et le type de rotor (Papillon, Bi-Lobe, Tri-Lobe) sont calculés sur mesure en fonction de la viscosité (densité) du produit à transférer.",
+      "headers": [
+        "MODÈLE DE POMPE",
+        "DÉBIT MAX. (m³/h)",
+        "PRESSION MAX. (Bar)",
+        "TAILLE DE RACCORDEMENT"
+      ],
+      "imgAlt": "Dessin Technique de Pompe à Lobes",
+      "rows": [
+        { "model": "WLP-10", "flow": "3 m³/h", "pressure": "10 Bar", "connection": "1\"", "highlight": "dark" },
+        { "model": "WLP-20", "flow": "10 m³/h", "pressure": "12 Bar", "connection": "1 1/2\"", "highlight": "dark" },
+        { "model": "WLP-30", "flow": "25 m³/h", "pressure": "12 Bar", "connection": "2\"", "highlight": "dark" },
+        { "model": "WLP-40", "flow": "45 m³/h", "pressure": "15 Bar", "connection": "2 1/2\"", "highlight": "dark" },
+        { "model": "WLP-50", "flow": "70 m³/h", "pressure": "15 Bar", "connection": "3\"", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Quelle est la différence entre une pompe à Lobes et une pompe Centrifuge ?",
+          "a": "Les pompes centrifuges transfèrent l'eau en la projetant (rapidement) et provoquent de la cavitation avec les produits denses. Les pompes à lobes fonctionnent de manière volumétrique ; peu importe la densité (viscosité) du liquide, elles le poussent vers l'avant en quantités égales et sans l'écraser."
+        },
+        {
+          "q": "Les pompes à lobes sont-elles lavables en place (NEP/CIP) ?",
+          "a": "Absolument. Il n'y a aucun volume mort dans la structure interne des pompes à lobes. Elles peuvent être rendues 100 % stériles avec de l'eau chaude sous haute pression et des produits chimiques via les systèmes NEP sans avoir à les démonter de l'installation."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nos Applications Industrielles",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Transfert de Miel et Mélasse", "alt": "Pompe à Miel" },
+        { "src": "galeri-2.webp", "label": "Transfert de Cosmétiques et Shampoing", "alt": "Pompe Cosmétique" },
+        { "src": "galeri-3.webp", "label": "Transfert de Purée et Pâte Alimentaire", "alt": "Pompe à Purée" },
+        { "src": "galeri-4.webp", "label": "Lignes de Crème et Chocolat", "alt": "Pompe à Lobes Chocolat" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez le fichier de spécification contenant les graphiques de viscosité, les types de rotors (Tri-Lobe) et les dimensions de raccordement.",
+        "fileUrl": "/assets/documents/fr/pompes-volumetriques-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "USINE ALIMENTAIRE",
+        "desc": "Ligne de pompes à crème à double enveloppe installée pour une usine internationale de production de biscuits et de chocolat.",
+        "imgAlt": "Référence Pompe Alimentaire",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Le Bon Lobe Pour Votre Produit",
+        "desc": "Partagez avec nous le diamètre des particules de votre fluide et la température de fonctionnement, et concevons ensemble le rotor adéquat (Bi-Lobe ou Tri-Lobe) pour éviter tout écrasement.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Bonjour,%20je%20souhaite%20obtenir%20des%20informations%20techniques%20et%20des%20prix%20sur%20les%20pompes%20volumetriques%20a%20lobes.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

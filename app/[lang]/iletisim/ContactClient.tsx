@@ -55,9 +55,10 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
         };
         finalFile = await imageCompression(file, options);
       } else {
-        if (file.size > 10 * 1024 * 1024) {
-          setStatus({ type: 'error', message: 'Doküman boyutu maksimum 10MB olmalıdır.' });
+        if (file.size > 3 * 1024 * 1024) {
+          setStatus({ type: 'error', message: 'Doküman boyutu maksimum 3MB olmalıdır.' });
           setIsCompressing(false);
+          if (fileInputRef.current) fileInputRef.current.value = '';
           return;
         }
       }
@@ -192,15 +193,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-5">
-                    <div className="p-4 bg-gray-50 rounded-xl shrink-0 border border-gray-100 group hover:border-[#005284] transition-colors">
-                      <Factory className="w-6 h-6 text-[#E35205] group-hover:text-[#005284] transition-colors" />
-                    </div>
-                    <div className="flex flex-col pt-1">
-                      <span className="text-xs font-bold tracking-widest text-gray-400 mb-1">{dict.contactPage.sidebar.factory.title}</span>
-                      <span className="text-sm text-gray-700 leading-relaxed font-medium" dangerouslySetInnerHTML={{ __html: dict.contactPage.sidebar.factory.address }}></span>
-                    </div>
-                  </div>
+                  {/* İMALATHANE / FABRİKA ALANI BURADAN TAMAMEN SİLİNDİ */}
 
                   <div className="flex items-start gap-5">
                     <div className="p-4 bg-gray-50 rounded-xl shrink-0 border border-gray-100 group hover:border-[#E35205] transition-colors">
@@ -276,38 +269,38 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
           </div>
 
           <div className="lg:col-span-7 space-y-8">
-            <div className="bg-white p-10 md:p-14 rounded-2xl shadow-xl border border-gray-100 h-full">
+            <div className="bg-white p-6 md:p-14 rounded-2xl shadow-xl border border-gray-100 h-full">
               <div className="flex items-center justify-between mb-10">
                 <h2 className="text-2xl lg:text-3xl font-black text-gray-900 tracking-tight">{dict.contactPage.form.title}</h2>
                 <Globe className="w-10 h-10 text-gray-100" />
               </div>
               
-              <form onSubmit={handleSubmit} className="flex flex-col gap-8">
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+              <form onSubmit={handleSubmit} className="flex flex-col gap-6 md:gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
                   <div className="flex flex-col gap-2">
                     <label htmlFor="name" className="text-xs font-bold tracking-widest text-gray-500">{dict.contactPage.form.name}</label>
-                    <input type="text" id="name" value={formData.name} onChange={handleChange} required className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
+                    <input type="text" id="name" value={formData.name} onChange={handleChange} required className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-3 md:py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
                   </div>
                   <div className="flex flex-col gap-2">
                     <label htmlFor="company" className="text-xs font-bold tracking-widest text-gray-500">{dict.contactPage.form.company}</label>
-                    <input type="text" id="company" value={formData.company} onChange={handleChange} className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
+                    <input type="text" id="company" value={formData.company} onChange={handleChange} className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-3 md:py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
                   </div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
                   <div className="flex flex-col gap-2">
                     <label htmlFor="email" className="text-xs font-bold tracking-widest text-gray-500">{dict.contactPage.form.email}</label>
-                    <input type="email" id="email" value={formData.email} onChange={handleChange} required className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
+                    <input type="email" id="email" value={formData.email} onChange={handleChange} required className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-3 md:py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
                   </div>
                   <div className="flex flex-col gap-2">
                     <label htmlFor="phone" className="text-xs font-bold tracking-widest text-gray-500">{dict.contactPage.form.phone}</label>
-                    <input type="tel" id="phone" value={formData.phone} onChange={handleChange} className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
+                    <input type="tel" id="phone" value={formData.phone} onChange={handleChange} className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-3 md:py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all" />
                   </div>
                 </div>
 
-                <div className="flex flex-col gap-2">
+                <div className="flex flex-col gap-2 min-w-0 w-full">
                   <label htmlFor="subject" className="text-xs font-bold tracking-widest text-gray-500">{dict.contactPage.form.subject.label}</label>
-                  <select id="subject" value={formData.subject} onChange={handleChange} className="w-full bg-gray-50 border border-gray-200 rounded-xl px-4 py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all cursor-pointer">
+                  <select id="subject" value={formData.subject} onChange={handleChange} className="w-full min-w-0 bg-gray-50 border border-gray-200 rounded-xl px-3 py-3 md:px-4 md:py-4 text-sm text-gray-900 focus:outline-none focus:border-[#005284] focus:ring-1 focus:ring-[#005284] transition-all cursor-pointer text-ellipsis overflow-hidden whitespace-nowrap">
                     <option value="">{dict.contactPage.form.subject.placeholder}</option>
                     
                     <optgroup label={dict.contactPage.form.subject.groups.tanks}>
@@ -352,11 +345,11 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                   <label className="text-xs font-bold tracking-widest text-gray-500">PROJE DOSYASI VEYA GÖRSEL EKLEYİN</label>
                   
                   {!fileData && !isCompressing ? (
-                    <label className="flex flex-col items-center justify-center w-full h-32 border-2 border-gray-200 border-dashed rounded-xl cursor-pointer bg-gray-50 hover:bg-gray-100 hover:border-[#005284] transition-colors">
-                      <div className="flex flex-col items-center justify-center pt-5 pb-6">
+                    <label className="flex flex-col items-center justify-center w-full min-h-[128px] border-2 border-gray-200 border-dashed rounded-xl cursor-pointer bg-gray-50 hover:bg-gray-100 hover:border-[#005284] transition-colors p-4">
+                      <div className="flex flex-col items-center justify-center text-center">
                         <UploadCloud className="w-8 h-8 text-gray-400 mb-2" />
                         <p className="text-sm text-gray-500 font-medium">Dosya seçmek için tıklayın</p>
-                        <p className="text-xs text-gray-400 mt-1">PDF, JPG, DWG, STEP, SLDPRT vb. (Max. 10MB)</p>
+                        <p className="text-xs text-gray-400 mt-1">PDF, JPG, CAD (Max. 3MB)<br/><span className="text-[10px]">Büyük montaj dosyaları için mesajınıza WeTransfer/Drive linki ekleyebilirsiniz.</span></p>
                       </div>
                       <input 
                         type="file" 
@@ -391,14 +384,16 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                   )}
                 </div>
 
-                <div className="flex flex-col gap-2 mt-2">
+                <div className="flex flex-col gap-2 mt-2 w-full">
                   <label className="text-xs font-bold tracking-widest text-gray-500">GÜVENLİK DOĞRULAMASI</label>
-                  <ReCAPTCHA
-                    ref={recaptchaRef}
-                    sitekey={process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || "6LdWSgstAAAAAJef6eyVy5XDmjewHl26EaiqUYCi"}
-                    onChange={handleCaptchaChange}
-                    hl={lang}
-                  />
+                  <div className="transform scale-[0.85] origin-left sm:scale-100">
+                    <ReCAPTCHA
+                      ref={recaptchaRef}
+                      sitekey={process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || "6LdWSgstAAAAAJef6eyVy5XDmjewHl26EaiqUYCi"}
+                      onChange={handleCaptchaChange}
+                      hl={lang}
+                    />
+                  </div>
                 </div>
 
                 {status.type !== 'idle' && (
@@ -416,7 +411,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                   <button 
                     type="submit" 
                     disabled={status.type === 'loading' || isCompressing}
-                    className="group w-full md:w-auto inline-flex items-center justify-center gap-3 bg-[#E35205] text-white px-8 py-5 rounded-xl text-sm font-bold tracking-widest hover:bg-[#005284] transition-colors shadow-lg disabled:bg-gray-400 disabled:cursor-not-allowed"
+                    className="group w-full md:w-auto inline-flex items-center justify-center gap-3 bg-[#E35205] text-white px-8 py-4 md:py-5 rounded-xl text-sm font-bold tracking-widest hover:bg-[#005284] transition-colors shadow-lg disabled:bg-gray-400 disabled:cursor-not-allowed"
                   >
                     {status.type === 'loading' ? dict.contactPage.form.submit.loading : dict.contactPage.form.submit.idle}
                     {status.type !== 'loading' && <Send className="w-4 h-4 transform group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />}
@@ -428,26 +423,13 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
 
         </div>
 
-        <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div className="mt-12">
           <div className="bg-white p-2 rounded-2xl shadow-xl border border-gray-100 overflow-hidden h-[400px] relative group">
             <div className="absolute top-6 left-6 z-10 bg-white/95 backdrop-blur px-4 py-2 rounded-lg shadow-sm border border-gray-100 pointer-events-none">
               <span className="text-xs font-black text-[#005284] tracking-widest uppercase">{dict.contactPage.sidebar.hq.title}</span>
             </div>
             <iframe 
               src="https://maps.google.com/maps?q=Inokstek,+Organize+Sanayi+B%C3%B6lgesi,+Kemalpa%C5%9Fa+OSB,+10.+Sk.+No:6,+35730+Kemalpa%C5%9Fa/%C4%B0zmir&t=m&z=15&output=embed&iwloc=near" 
-              className="w-full h-full rounded-xl border-0 filter grayscale contrast-110 opacity-80 group-hover:filter-none group-hover:opacity-100 transition-all duration-700" 
-              allowFullScreen={false} 
-              loading="lazy" 
-              referrerPolicy="no-referrer-when-downgrade"
-            ></iframe>
-          </div>
-
-          <div className="bg-white p-2 rounded-2xl shadow-xl border border-gray-100 overflow-hidden h-[400px] relative group">
-            <div className="absolute top-6 left-6 z-10 bg-white/95 backdrop-blur px-4 py-2 rounded-lg shadow-sm border border-gray-100 pointer-events-none">
-              <span className="text-xs font-black text-[#E35205] tracking-widest uppercase">{dict.contactPage.sidebar.factory.title}</span>
-            </div>
-            <iframe 
-              src="https://maps.google.com/maps?q=Ulucak+%C4%B0stiklal,+Gazi+Blv.+No:169,+35735+Kemalpa%C5%9Fa/%C4%B0zmir&t=m&z=15&output=embed&iwloc=near" 
               className="w-full h-full rounded-xl border-0 filter grayscale contrast-110 opacity-80 group-hover:filter-none group-hover:opacity-100 transition-all duration-700" 
               allowFullScreen={false} 
               loading="lazy" 

@@ -1,0 +1,101 @@
+{
+  "milkTanksPage": {
+    "metadata": {
+      "title": "Milch- und Lebensmitteltanks | Welltech®",
+      "description": "Ultra-hygienische Milchkühltanks, Lagertanks und Prozesstanks aus Edelstahl, die vollständig den Standards für Lebensmittelsicherheit (FDA/GMP) entsprechen."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "tanks": "Edelstahltanks",
+      "current": "Milchtanks"
+    },
+    "hero": {
+      "title": "Milch- und Lebensmitteltanks",
+      "desc": "Edelstahl-Engineering für Lebensmittelsicherheit mit totraumfreien Oberflächen zur Verhinderung von Bakterienwachstum und hochisolierender Polyurethandämmung."
+    },
+    "engineering": {
+      "title": "Ultra-Hygienisches Engineering (FDA/GMP)",
+      "desc": "Die Lagerung von Milch, Fruchtsäften und empfindlichen Lebensmitteln erfordert höchste Hygiene. Welltech® Milchtanks sind totraumfrei (ohne tote Winkel) konstruiert. Schweißnähte werden auf eine Glätte von Ra < 0,6 Mikrometer geschliffen. Dadurch bleiben keine Oberflächen zurück, an denen Bakterien haften könnten, und dank integrierter CIP-Sprühkugeln (Clean-In-Place) wird eine perfekte Reinigung gewährleistet."
+    },
+    "features": {
+      "title": "Design und Kühlausstattung",
+      "items": {
+        "1": "Lebensmittelechter Edelstahl AISI 304 oder 316L",
+        "2": "Totraumfreies, zu 100 % waschbares (CIP) Innendesign",
+        "3": "Hochverdichtete, FCKW-freie Polyurethanisolierung",
+        "4": "Rollbond- (lasergeschweißt) oder Halbrohr-Kühl-/Heizmantel",
+        "5": "Abstreifrührwerke mit niedriger Drehzahl für empfindliche Produkte",
+        "6": "Lebensmittelkonforme (EPDM/Silikon) Dichtungsprofile"
+      }
+    },
+    "capacityTable": {
+      "title": "Standard-Produktionskapazitäten",
+      "note": "* Polyurethan-Isolationsdicken (zwischen 50 mm und 100 mm) können entsprechend der Umgebungstemperatur und der Verweilzeit des Produkts optimiert werden.",
+      "headers": {
+        "volume": "VOLUMEN",
+        "diameter": "DURCHMESSER (Ø mm)",
+        "insulation": "ISOLIERUNG",
+        "material": "MATERIAL"
+      },
+      "insulationTypes": {
+        "50": "50 mm Polyurethan",
+        "60": "60 mm Polyurethan",
+        "80": "80 mm Polyurethan",
+        "100": "100 mm Polyurethan"
+      },
+      "customRow": "Für diese Kapazitäten und größere Milchsilos erfolgt die Montage vor Ort (On-Site)."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Wie gut hält die Isolierung in den Milchtanks die Temperatur?",
+          "a": "Dank der verwendeten hochdichten Polyurethan-Isolierung (40-42 kg/m³) steigt die Produkttemperatur im Tank innerhalb von 24 Stunden um maximal 1 °C, selbst bei einer Außentemperatur von 30 °C."
+        },
+        {
+          "q": "Wie wird die Reinigung (CIP) der Tanks sichergestellt?",
+          "a": "Dank der 360°-CIP-Rotationssprühkugeln, die im oberen Bereich der Tanks angebracht sind, erreicht die unter Druck stehende Reinigungsflüssigkeit homogen alle Innenflächen des Tanks und bietet eine Null-Bakterien-Garantie."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Unsere Projekte in der Milchindustrie",
+      "p1": {
+        "title": "Rohmilchsilo",
+        "alt": "Großvolumiges Rohmilch-Lagersilo"
+      },
+      "p2": {
+        "title": "Tank für pasteurisierte Milch",
+        "alt": "Isolierter Lagertank für pasteurisierte Milch"
+      },
+      "p3": {
+        "title": "Ayran- / Kefir-Prozess",
+        "alt": "Ayran- und Kefir-Prozesstank mit Spezialrührwerk"
+      },
+      "p4": {
+        "title": "Molkentank",
+        "alt": "Edelstahllagerung für Molke (Whey)"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie die Spezifikationsdatei mit Kühlmanteldesigns, Isolationsdichten und Hygienestandards herunter.",
+        "fileUrl": "/assets/documents/de/milch-lebensmitteltanks-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "MOLKEREIPROJEKT",
+        "desc": "Lagerlinie, die wir für einen nationalen Milchverarbeitungsbetrieb mit einer Tageskapazität von 1.000 Tonnen installiert haben.",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Wird ein Spezialrührwerk benötigt?",
+        "desc": "Lassen Sie uns unsere speziellen Rührwerksysteme mit Teflon-Abstreifern für viskose Lebensmittel wie Joghurt, Sahne oder Honig planen.",
+        "whatsappMsg": "Hallo, ich moechte technische Informationen und Preise zur Produktion von Milch- und Lebensmitteltanks erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

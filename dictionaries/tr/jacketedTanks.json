@@ -1,0 +1,93 @@
+{
+  "jacketedTanksPage": {
+    "metadata": {
+      "title": "Isıtmalı ve Soğutmalı Ceketli Tanklar | Welltech®",
+      "description": "Kimya, gıda ve ilaç proseslerinde ürün sıcaklığını hassas bir şekilde kontrol etmek için tasarlanmış paslanmaz çelik ceketli ve izolasyonlu tanklar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "Ceketli Tanklar"
+    },
+    "hero": {
+      "title": "Ceketli (Isıtmalı/Soğutmalı) Tanklar",
+      "desc": "Prosesinizin ihtiyaç duyduğu hassas sıcaklık kontrolünü sağlayan, yüksek ısı transfer verimliliğine sahip yarım boru, roll-bond ve çift cidar teknolojili reaktör ve tanklar."
+    },
+    "technology": {
+      "title": "Isı Transfer ve Ceket Teknolojileri",
+      "desc": "Ceketli tanklar, içindeki akışkanı ısıtmak veya soğutmak amacıyla gövdesine entegre edilmiş ikincil bir boşluk (ceket) bulunduran sistemlerdir. <strong>Welltech® Mühendisliği</strong>, prosesinizin ısıtma/soğutma hızına ve kullanılacak akışkana (buhar, kızgın yağ, glikol, buzlu su) göre en uygun yüzey alanını hesaplar. <strong>Yarım boru (serpantin)</strong> yüksek basınçlı buhar için ideal iken, <strong>Roll-bond (Dimple)</strong> ceketler homojen soğutma ve ısıtma uygulamalarında mükemmel verim sağlar."
+    },
+    "features": {
+      "title": "Tasarım ve İzolasyon Üstünlükleri",
+      "items": [
+        "Homojen Isı Dağılımı Sağlayan Özel Ceket Tasarımları",
+        "Yüksek Basınçlı Buhar ve Kızgın Yağ Testlerinden Geçmiş Kaynaklar",
+        "Poliüretan veya Taş Yünü ile %100 Enerji Verimli İzolasyon",
+        "İzolasyon Üzeri Tamamen Kaynaklı Paslanmaz Dış Sac (Kaplama)",
+        "Isı Kaybını Önleyen Termal Köprüsüz (Thermal Break) Bağlantılar",
+        "Hassas PT-100 Termokupl ve Isı Kontrol Otomasyonu Uyumu"
+      ],
+      "imgAlt": "Ceketli Tank İzolasyon ve Isı Transferi"
+    },
+    "table": {
+      "title": "Ceket Tipleri ve Teknik Uygulamalar",
+      "note": "* Çalışma basıncı ve ceket sacı kalınlıkları (ASME Bölüm VIII veya EN 13445) standartlarına göre statik olarak hesaplanır.",
+      "headers": [
+        "CEKET TİPİ",
+        "KULLANIM AMACI",
+        "ISI TRANSFER AKIŞKANI",
+        "MAKSİMUM BASINÇ"
+      ],
+      "imgAlt": "Ceketli Tank Teknik Çizimi",
+      "rows": [
+        { "type": "Yarım Boru (Serpantin)", "purpose": "Yüksek Basınçlı Isıtma", "fluid": "Buhar / Kızgın Yağ", "pressure": "25 Bar", "highlight": "orange" },
+        { "type": "Çift Cidar (Double Wall)", "purpose": "Atmosferik Isıtma/Soğutma", "fluid": "Sıcak Su / Soğuk Su", "pressure": "3 Bar", "highlight": "dark" },
+        { "type": "Roll-Bond (Dimple Ceket)", "purpose": "Homojen Hızlı Soğutma/Isıtma", "fluid": "Buzlu Su / Glikol / Buhar", "pressure": "15 Bar", "highlight": "dark" },
+        { "type": "Elektrikli (Rezistanslı)", "purpose": "Otonom (Kazansız) Isıtma", "fluid": "Termal Yağ / Su", "pressure": "Atmosferik", "highlight": "dark" }
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Yarım Boru (Serpantin) ceket ile Çift Cidar arasındaki fark nedir?",
+          "a": "Yarım boru ceket, gövde etrafına sarılmış ve kaynatılmış borulardan oluşur. Yüksek basınç (örneğin 10 bar buhar) dayanımı mükemmeldir. Çift cidar ise tankın etrafını tamamen saran ikinci bir sacdır, düşük basınçlı (atmosferik) su sirkülasyonu için daha uygundur."
+        },
+        {
+          "q": "İzolasyon malzemesi neye göre seçilir?",
+          "a": "Soğutma (chiller) proseslerinde terlemeyi önlemek için Poliüretan köpük kullanılırken, yüksek sıcaklıklı (buhar, kızgın yağ) ısıtma proseslerinde yanmaz özellikteki Taş Yünü veya Seramik Yünü izolasyon tercih edilir."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Endüstriyel Uygulamalarımız",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Buhar Isıtmalı Reaktör", "alt": "Buhar Ceketli Reaktör" },
+        { "src": "galeri-2.webp", "label": "Buzlu Su (Chiller) Soğutmalı Tank", "alt": "Soğutma Ceketli Tank" },
+        { "src": "galeri-3.webp", "label": "Kızgın Yağ Ceketli Eritme Tankı", "alt": "Eritme Tankı" },
+        { "src": "galeri-4.webp", "label": "İzolasyonlu ve Rezistanslı Mikser", "alt": "Elektrik Isıtmalı Tank" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Isı transfer yüzeyi hesaplamaları, ceket basınç testleri ve izolasyon detaylarını içeren kataloğumuzu indirin.",
+        "fileUrl": "/assets/documents/tr/isitmali-sogutmali-ceketli-tanklar-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "KİMYA TESİSİ",
+        "desc": "Glikol soğutmalı ve poliüretan izolasyonlu 20.000 L kapasiteli polimerizasyon tankı hattı.",
+        "imgAlt": "Ceketli Tank Referansı",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Hangi Ceket Tipi?",
+        "desc": "Hedeflediğiniz reaksiyon süresini ve ısıtıcı/soğutucu akışkanınızı bize iletin, en güvenli ceket sistemini birlikte seçelim.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20isitnali%20ve%20sogutmali%20(ceketli)%20tanklar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

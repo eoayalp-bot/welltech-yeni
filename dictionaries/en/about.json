@@ -1,0 +1,49 @@
+{
+  "aboutPage": {
+    "metadata": {
+      "title": "About Us | Welltech®",
+      "description": "Welltech International Engineering; your global engineering partner in stainless steel tanks, reactors, and industrial facility installations."
+    },
+    "jsonLd": {
+      "description": "Welltech International Engineering; your global engineering partner in stainless steel tanks, reactors, and industrial facility installations."
+    },
+    "hero": {
+      "titleStart": "Engineering that Builds",
+      "titleHighlight": "the Future",
+      "desc": "With over 20 years of experience, we take pride in being a global brand in stainless steel industrial process and storage systems."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "corporate": "Corporate",
+      "current": "About Us"
+    },
+    "roots": {
+      "title": "Our Roots and Vision",
+      "p1": "Welltech® is an international company specialized in the design, engineering, and manufacturing of process and storage systems, the heart of industrial facilities. Our facility serves in Kemalpasa, Izmir, with production lines equipped with the latest technology.",
+      "p2": "We offer turnkey solutions for all projects with strict hygiene standards and high-pressure requirements, especially in the food, pharmaceutical, chemical, and cosmetics sectors. We don't just manufacture tanks; we build systems that work 100% integrated into your facility, from automation to insulation."
+    },
+    "global": {
+      "title": "6 Continents, Over 50 Countries",
+      "desc": "Our engineering, which set out from Izmir, currently operates flawlessly in massive industrial facilities around the world, from Europe to Asia, from Africa to South America."
+    },
+    "cards": {
+      "mission": {
+        "title": "Our Mission",
+        "desc": "To build long-lasting and innovative stainless systems that will make our customers' production processes the most efficient, safe, and hygienic."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "desc": "To be one of the top 3 most trusted brands worldwide in industrial production technologies without compromising international quality standards."
+      },
+      "quality": {
+        "title": "Our Quality Approach",
+        "desc": "We test and certify every step from raw material selection to the final welding point according to (ASME, CE, ISO) standards."
+      }
+    },
+    "cta": {
+      "title": "Flawless Engineering for Your Project",
+      "desc": "Whatever your capacity needs, our expert engineering team is ready to design the most suitable system for your factory.",
+      "btn": "CONTACT US"
+    }
+  }
+}

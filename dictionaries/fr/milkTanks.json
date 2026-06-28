@@ -1,0 +1,101 @@
+{
+  "milkTanksPage": {
+    "metadata": {
+      "title": "Cuves Laitières et Alimentaires | Welltech®",
+      "description": "Cuves de refroidissement, de stockage et de process en acier inoxydable ultra-hygiéniques, entièrement conformes aux normes de sécurité alimentaire (FDA/GMP)."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "tanks": "Cuves en Inox",
+      "current": "Cuves Laitières"
+    },
+    "hero": {
+      "title": "Cuves Laitières et Alimentaires",
+      "desc": "Ingénierie en acier inoxydable garantissant la sécurité alimentaire, avec des surfaces lisses empêchant la prolifération bactérienne et une isolation en polyuréthane haute densité."
+    },
+    "engineering": {
+      "title": "Ingénierie Ultra-Hygiénique (FDA/GMP)",
+      "desc": "Le stockage du lait, des jus de fruits et des produits alimentaires sensibles nécessite une hygiène maximale. Les cuves laitières Welltech® sont conçues sans aucun point mort (zone de rétention) à l'intérieur. Les soudures sont meulées pour atteindre une rugosité Ra < 0,6 micron. Ainsi, aucune surface ne permet aux bactéries de s'accrocher, et un nettoyage parfait est assuré grâce aux boules NEP (Nettoyage En Place) intégrées."
+    },
+    "features": {
+      "title": "Conception et Équipements de Refroidissement",
+      "items": {
+        "1": "Acier Inoxydable AISI 304 ou 316L de Qualité Alimentaire",
+        "2": "Conception Interne sans Point Mort, 100 % Lavable (NEP)",
+        "3": "Isolation en Polyuréthane Haute Densité Sans CFC",
+        "4": "Double Enveloppe de Refroidissement/Chauffage Rollbond ou Demi-tube",
+        "5": "Agitateurs à Racleur Basse Vitesse pour Produits Sensibles",
+        "6": "Joints d'Étanchéité Conformes aux Normes Alimentaires (EPDM/Silicone)"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacités de Production Standard",
+      "note": "* Les épaisseurs d'isolation en polyuréthane (de 50 mm à 100 mm) peuvent être optimisées selon la température ambiante et le temps de maintien du produit.",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIAMÈTRE (Ø mm)",
+        "insulation": "ISOLATION",
+        "material": "MATÉRIAU"
+      },
+      "insulationTypes": {
+        "50": "Polyuréthane 50 mm",
+        "60": "Polyuréthane 60 mm",
+        "80": "Polyuréthane 80 mm",
+        "100": "Polyuréthane 100 mm"
+      },
+      "customRow": "Pour cette capacité et les grands silos laitiers, une installation sur site (On-Site) est réalisée."
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Quelle est l'efficacité de l'isolation thermique de ces cuves ?",
+          "a": "Grâce à l'isolation en polyuréthane haute densité (40-42 kg/m³) que nous utilisons, même avec une température extérieure de 30°C, la température du produit dans la cuve n'augmente que de 1°C maximum en 24 heures."
+        },
+        {
+          "q": "Comment le nettoyage (NEP/CIP) des cuves est-il assuré ?",
+          "a": "Grâce aux boules de lavage NEP rotatives à 360° placées au sommet des cuves, le liquide de lavage sous pression atteint de manière homogène toutes les surfaces internes, offrant une garantie zéro bactérie."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nos Projets dans l'Industrie Laitière",
+      "p1": {
+        "title": "Silo à Lait Cru",
+        "alt": "Silo de Stockage de Lait Cru Grand Volume"
+      },
+      "p2": {
+        "title": "Cuve à Lait Pasteurisé",
+        "alt": "Cuve Isolé pour Lait Pasteurisé"
+      },
+      "p3": {
+        "title": "Processus Ayran / Kéfir",
+        "alt": "Cuve de Process avec Agitateur Spécial"
+      },
+      "p4": {
+        "title": "Cuve à Lactosérum",
+        "alt": "Stockage Inox pour Lactosérum (Whey)"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez le fichier de spécification contenant les conceptions d'enveloppe de refroidissement, les densités d'isolation et les normes d'hygiène.",
+        "fileUrl": "/assets/documents/fr/reservoirs-laitiers-alimentaires-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "PROJET LAITIER",
+        "desc": "Ligne de stockage installée pour une usine nationale de transformation laitière d'une capacité quotidienne de 1 000 tonnes.",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Besoin d'un Agitateur Spécial ?",
+        "desc": "Concevons ensemble nos systèmes d'agitation spéciaux avec racleurs en téflon pour les aliments visqueux comme le yaourt, la crème ou le miel.",
+        "whatsappMsg": "Bonjour, je souhaite obtenir des informations techniques et des prix concernant la production de Cuves Laitieres et Alimentaires.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

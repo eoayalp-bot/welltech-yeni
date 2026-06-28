@@ -1,0 +1,95 @@
+{
+  "drumPumpsPage": {
+    "metadata": {
+      "title": "Pompes Vide-fûts et IBC | Welltech®",
+      "description": "Pompes plongeantes portatives en acier inoxydable pour transférer en toute sécurité les acides, solvants, bases et produits chimiques à haute viscosité."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "pumps": "Pompes",
+      "current": "Pompes Vide-fûts"
+    },
+    "hero": {
+      "title": "Pompes Vide-fûts et Conteneurs",
+      "desc": "Le moyen le plus rapide et le plus sûr d'extraire des fluides de fûts industriels et de cuves IBC. Conception portative, légère et ergonomique éliminant les risques de déversement."
+    },
+    "technology": {
+      "title": "Technologie à Tube Plongeur Vertical",
+      "desc": "Grâce à leurs corps verticaux minces et longs, les pompes vide-fûts sont conçues pour atteindre le fond des IBC, fûts et conteneurs à col étroit. Alors que le moteur de la pompe se trouve dans la partie supérieure (à l'extérieur), le rotor poussant le fluide est situé à l'extrémité la plus basse (immergée). Cela permet un transfert de liquide en toute sécurité sans avoir besoin d'incliner ou de basculer des fûts lourds.",
+      "imgAlt": "Coupe Transversale du Tube Plongeur"
+    },
+    "features": {
+      "title": "Avantages Matériels et Sécurité au Travail",
+      "items": [
+        "Élimine le besoin de soulever/incliner des fûts lourds",
+        "Minimise le risque d'éclaboussures chimiques et d'accidents",
+        "Options de moteur électrique ou pneumatique selon la viscosité",
+        "Tubes plongeurs en PP, PVDF, Aluminium ou Acier Inoxydable AISI 316L",
+        "Conformité ATEX (Antidéflagrante) pour solvants et inflammables",
+        "Nettoyage et entretien rapides grâce à une conception facilement démontable"
+      ],
+      "imgAlt": "Raccordement Moteur et Corps de la Pompe"
+    },
+    "table": {
+      "title": "Sélection des Matériaux et des Capacités",
+      "note": "* La longueur du plongeur doit être choisie entre 700 mm et 1200 mm selon la profondeur du contenant (Fût de 200L, IBC de 1000L, etc.).",
+      "headers": [
+        "APPLICATION / CHIMIE",
+        "MATÉRIAU DU TUBE",
+        "LONGUEUR DE PLONGÉE",
+        "VISCOSITÉ MAX."
+      ],
+      "imgAlt": "Dessin Technique de la Pompe Vide-fût",
+      "rows": [
+        { "application": "Acides et Bases", "material": "PP (Polypropylène)", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Produits Chimiques Corrosifs", "material": "PVDF", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Série Alimentaire et Boissons", "material": "Inox AISI 316L", "length": "1000 mm / 1200 mm", "viscosity": "1 000 cPs", "highlight": "dark" },
+        { "application": "Solvants Inflammables (ATEX)", "material": "Inox + Ex-Proof", "length": "1000 mm / 1200 mm", "viscosity": "800 cPs", "highlight": "dark" },
+        { "application": "Fluides Visqueux (Shampoing)", "material": "AISI 316L (Vis Excentrée)", "length": "1000 mm / 1200 mm", "viscosity": "100 000 cPs", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Jusqu'à quelle viscosité une pompe vide-fût peut-elle pomper ?",
+          "a": "Les pompes vide-fûts centrifuges standard fonctionnent de la consistance de l'eau jusqu'aux huiles légères (max. 1000 cPs). Pour les liquides très visqueux comme la crème, le miel ou les pâtes, il faut privilégier les pompes à cavité progressive (vis excentrée)."
+        },
+        {
+          "q": "Un moteur certifié ATEX est-il obligatoire ?",
+          "a": "Si le liquide transféré est du diluant, de l'alcool, de l'acétone ou un produit pétrochimique inflammable, un moteur pneumatique ou électrique certifié ATEX doit absolument être utilisé pour éviter les explosions dues à l'électricité statique ou aux étincelles."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nos Applications Industrielles",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Transfert d'Acide Chimique", "alt": "Pompe Vide-fût Acide" },
+        { "src": "galeri-2.webp", "label": "Évacuation de Cuve IBC", "alt": "Pompe de Transfert IBC" },
+        { "src": "galeri-3.webp", "label": "Transfert Qualité Alimentaire", "alt": "Pompe Alimentaire Inox" },
+        { "src": "galeri-4.webp", "label": "Aspiration de Solvant ATEX", "alt": "Pompe Vide-fût Ex-Proof" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez notre catalogue contenant les tableaux de résistance chimique, les options de moteurs et les courbes de débit.",
+        "fileUrl": "/assets/documents/fr/pompes-futs-conteneurs-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "USINE CHIMIQUE",
+        "desc": "Pompes vide-fûts ATEX fournies pour la ligne de réception des matières premières d'une usine chimique internationale.",
+        "imgAlt": "Référence Pompe Vide-fût",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Quel Matériau Choisir ?",
+        "desc": "PP, PVDF ou Inox... Envoyez-nous la fiche de données de sécurité (FDS/MSDS) de votre produit chimique, et nous déterminerons le matériau le plus adapté.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Bonjour,%20je%20souhaite%20obtenir%20des%20informations%20techniques%20sur%20les%20pompes%20vide-futs%20et%20IBC.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

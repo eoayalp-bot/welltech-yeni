@@ -1,0 +1,95 @@
+{
+  "centrifugalPumpsPage": {
+    "metadata": {
+      "title": "Pompes Centrifuges | Welltech®",
+      "description": "Pompes centrifuges en acier inoxydable pour le transfert hygiénique, continu et à haut débit de fluides à faible viscosité (lait, jus, eau)."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "pumps": "Pompes",
+      "current": "Pompes Centrifuges"
+    },
+    "hero": {
+      "title": "Pompes Centrifuges",
+      "desc": "Débit élevé et transfert continu pour les fluides à faible viscosité. Conception en acier inoxydable assurant une hygiène maximale pour l'agroalimentaire."
+    },
+    "technology": {
+      "title": "Technologie Centrifuge",
+      "desc": "Les pompes centrifuges fonctionnent en générant une force centrifuge grâce à la rotation à grande vitesse d'une turbine (roue) à l'intérieur d'un carter. Le fluide est aspiré par le centre de la turbine et accéléré à travers les aubes vers la ligne de refoulement. C'est la solution la plus efficace et économique pour transférer le lait, l'eau, les jus de fruits et les liquides de nettoyage NEP.",
+      "imgAlt": "Technologie de Turbine de Pompe Centrifuge"
+    },
+    "features": {
+      "title": "Avantages de Conception et Performance",
+      "items": [
+        "Débit continu et fluide à haute capacité",
+        "Haut rendement avec faible consommation d'énergie",
+        "Structure interne sans point mort et 100 % lavable (NEP)",
+        "Corps forgé en Acier Inoxydable AISI 304 ou 316L",
+        "Options de turbine ouverte, semi-ouverte ou fermée",
+        "Garniture mécanique longue durée et facile à entretenir"
+      ],
+      "imgAlt": "Moteur et Corps de la Pompe Centrifuge"
+    },
+    "table": {
+      "title": "Spécifications Techniques et Capacité",
+      "note": "* Les valeurs de débit et de hauteur manométrique sont configurées sur mesure selon vos besoins de processus, la puissance du moteur et le diamètre de la turbine.",
+      "headers": [
+        "MODÈLE DE POMPE",
+        "DÉBIT MAX. (m³/h)",
+        "HAUTEUR MANO. (m)",
+        "PUISSANCE (kW)"
+      ],
+      "imgAlt": "Dessin Technique de la Pompe Centrifuge",
+      "rows": [
+        { "model": "WCP-10", "flow": "10 m³/h", "head": "15 m", "power": "1,1 kW", "highlight": "dark" },
+        { "model": "WCP-20", "flow": "20 m³/h", "head": "25 m", "power": "2,2 kW", "highlight": "dark" },
+        { "model": "WCP-30", "flow": "30 m³/h", "head": "30 m", "power": "4,0 kW", "highlight": "dark" },
+        { "model": "WCP-50", "flow": "50 m³/h", "head": "35 m", "power": "5,5 kW", "highlight": "dark" },
+        { "model": "WCP-80", "flow": "80 m³/h", "head": "45 m", "power": "11,0 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Les pompes centrifuges peuvent-elles traiter des fluides denses ?",
+          "a": "Non. Les pompes centrifuges sont conçues pour des fluides à faible viscosité comme l'eau ou le lait. Les liquides visqueux comme le miel ou la crème provoqueraient la cavitation de la turbine."
+        },
+        {
+          "q": "Quelle est la différence entre une turbine ouverte et fermée ?",
+          "a": "Les turbines fermées offrent un rendement maximal pour les liquides purs (eau, lait) ; tandis que les turbines ouvertes ou semi-ouvertes sont utilisées pour les liquides contenant de légers sédiments ou des particules de fruits sans créer de blocage."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nos Applications Industrielles",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Transfert de Lait et Produits Laitiers", "alt": "Pompe à Lait" },
+        { "src": "galeri-2.webp", "label": "Lignes de Jus de Fruits", "alt": "Pompe à Jus de Fruits" },
+        { "src": "galeri-3.webp", "label": "Systèmes de Lavage NEP", "alt": "Pompe NEP (CIP)" },
+        { "src": "galeri-4.webp", "label": "Processus d'Eau et de Boissons", "alt": "Pompe pour Boissons" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez notre catalogue contenant les courbes de performance, les puissances de moteur et les types de garnitures mécaniques.",
+        "fileUrl": "/assets/documents/fr/pompes-centrifuges-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "USINE DE BOISSONS",
+        "desc": "Ligne de pompes centrifuges hygiéniques installée pour une usine de jus de fruits de grande capacité.",
+        "imgAlt": "Référence Pompe Centrifuge",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Un Débit et une Pression Précis",
+        "desc": "Communiquez-nous le nombre de coudes et la longueur de vos tuyaux, et nous déterminerons le diamètre de turbine idéal sans risque de cavitation.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Bonjour,%20je%20souhaite%20obtenir%20des%20informations%20techniques%20et%20des%20prix%20sur%20les%20pompes%20centrifuges.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

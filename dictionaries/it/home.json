@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "badge": "INGEGNERIA INDUSTRIALE DI PROCESSO E STOCCAGGIO",
+    "title": "Il Cuore Pulsante della Vostra Linea di Produzione",
+    "desc": "In conformità agli standard EN e ASME; serbatoi industriali in acciaio inox AISI 304/316L, sistemi di processo completamente automatizzati e ingegneria chiavi in mano per il trasferimento igienico dei fluidi.",
+    "bgImage": "/assets/images/ana-sayfa/hero-bg.webp",
+    "bgAlt": "Welltech Produzione di Impianti Industriali e Reattori in Acciaio Inox",
+    "btn1": "RICHIEDI UNA CONSULENZA INGEGNERISTICA",
+    "btn2": "SCARICA IL CATALOGO TECNICO"
+  },
+  "stats": [
+    { "n": "20+", "t": "ANNI DI ESPERIENZA PRODUTTIVA" },
+    { "n": "40+", "t": "RETE GLOBALE DI ESPORTAZIONE" },
+    { "n": "1000+", "t": "SISTEMI MESSI IN SERVIZIO" },
+    { "n": "%100", "t": "GARANZIA DI TENUTA E QUALITÀ" }
+  ],
+  "services": {
+    "title": "Soluzioni di Ingegneria e Produzione Chiavi in Mano",
+    "desc": "Produciamo apparecchiature ad alto contenuto ingegneristico con supporto CFD, conformi alle linee guida EHEDG per i settori alimentare (Dairy, Beverage), chimico, farmaceutico e biotecnologico.",
+    "view_details": "SCOPRI I DETTAGLI TECNICI",
+    "items": [
+      {
+        "title": "Serbatoi Industriali di Stoccaggio",
+        "desc": "Unità di stoccaggio per liquidi in acciaio inox AISI 316L, ad alta capacità, isolate termicamente, con agitazione e lunga durata, conformi agli standard EN 13445 e API 650.",
+        "image": "/assets/images/ana-sayfa/hizmet-depolama.webp",
+        "link": "paslanmaz-tanklar"
+      },
+      {
+        "title": "Sistemi di Processo Automatizzati",
+        "desc": "Reattori camiciati controllati tramite PLC/SCADA, omogeneizzatori High-Shear e miscelatori integrati CIP/SIP per le reazioni critiche delle vostre linee produttive.",
+        "image": "/assets/images/ana-sayfa/hizmet-proses.webp",
+        "link": "proses-sistemleri"
+      },
+      {
+        "title": "Soluzioni Igieniche di Trasferimento e Flusso",
+        "desc": "Tecnologie di pompe igieniche certificate FDA per fluidi ad alta viscosità: pompe centrifughe, lobulari a spostamento positivo e pneumatiche a membrana.",
+        "image": "/assets/images/pompalar/kategori-banner.webp",
+        "link": "hijyenik-pompalar"
+      }
+    ]
+  },
+  "why_us": {
+    "badge": "AUTORITÀ INGEGNERISTICA: WELLTECH",
+    "title": "Forza Produttiva Locale secondo Standard Globali",
+    "desc": "Non realizziamo soltanto apparecchiature indipendenti per il vostro impianto, ma progettiamo infrastrutture di processo complete, sostenibili, ad alta resistenza alla pressione ed energeticamente efficienti, supportate da calcoli termici.",
+    "list": [
+      "Produzione Conforme agli Standard ASME, CE (PED 2014/68/EU), ISO ed EHEDG",
+      "Progettazione Termodinamica di Processo con Supporto 3D CAD e Analisi CFD",
+      "Controlli Non Distruttivi (NDT), Esami con Liquidi Penetranti e Prove Idrostatiche",
+      "Rete Globale: Assistenza Tecnica 24/7 e Ricambi Originali"
+    ],
+    "box1": {
+      "title": "AUTOMAZIONE GLOBALE",
+      "desc": "Sistemi integrati PLC operativi in oltre 40 paesi"
+    },
+    "box2": {
+      "title": "ROBUSTEZZA PER L'INDUSTRIA PESANTE",
+      "desc": "Garanzia assoluta di resistenza alla corrosione e perfetta tenuta per tutti i nostri reattori e serbatoi"
+    }
+  }
+}

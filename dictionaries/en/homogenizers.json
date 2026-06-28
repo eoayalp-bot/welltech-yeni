@@ -1,0 +1,92 @@
+{
+  "homogenizersPage": {
+    "metadata": {
+      "title": "Homogenizers and High Shear Mixers | Welltech®",
+      "description": "High-speed industrial mixers that ensure the production of smooth and stable products by breaking down fluids in different phases (like water and oil) at the micron level."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "process": "Process Systems",
+      "current": "Homogenizers"
+    },
+    "hero": {
+      "title": "Homogenizers",
+      "desc": "Obtain completely homogeneous, smooth, and non-separating (stable) emulsions by breaking down liquid-liquid or liquid-solid mixtures at the micron level."
+    },
+    "technology": {
+      "title": "Rotor-Stator Shearing Technology",
+      "desc": "Homogenizers are high-speed (3,000 RPM) systems that break down mutually insoluble fluids down to the micron level. The specially designed <strong>Rotor-Stator</strong> toothed structure reduces the particle size by passing the fluid through a very narrow gap with High Shear force and strictly prevents the mixture from separating over time (phase separation)."
+    },
+    "features": {
+      "title": "Design and Performance Advantages",
+      "items": [
+        "Micron-Level High Shear Force",
+        "High-Speed Capacity up to 3,000 RPM",
+        "Product-Specific (Fine/Coarse) Toothed Stator Options",
+        "In-Tank (Batch) or In-Line Models",
+        "Hygienic Stainless Steel at FDA and 3A Standards",
+        "High Sealing and Long Life with Mechanical Seal"
+      ],
+      "imgAlt": "Homogenizer Motor and Rotor Stator Structure"
+    },
+    "table": {
+      "title": "Model Types and Application Areas",
+      "note": "* The rotor-stator tooth structure (fine, medium, coarse particle passage) is specifically selected according to your product's viscosity and the desired final micron size.",
+      "headers": [
+        "MODEL TYPE",
+        "WORKING PRINCIPLE",
+        "APPLICATION AREA"
+      ],
+      "imgAlt": "Homogenizer Technical Drawing",
+      "rows": [
+        { "type": "In-Line", "principle": "Continuous circulation and shearing on the pipeline", "usage": "Pharma and Chemical", "highlight": "dark" },
+        { "type": "Batch (Immersion)", "principle": "Direct homogenization by immersing into the liquid in the tank", "usage": "Cosmetics and Food", "highlight": "dark" },
+        { "type": "Bottom Entry", "principle": "High shear unit integrated into the tank bottom", "usage": "Sauces, Paste, and Cream", "highlight": "dark" },
+        { "type": "Multi-Stage", "principle": "Ultra-fine micron emulsion with triple rotor-stator", "usage": "Nano-technology (Pharma)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What is the difference between a homogenizer and a normal mixer?",
+          "a": "Normal mixers (agitators) only swirl the liquid; phases like oil and water will separate again when left to stand. A homogenizer, however, provides a permanent and non-separating emulsion by cutting (shearing) the particles down to the micron level."
+        },
+        {
+          "q": "Should I choose In-Line or Batch type?",
+          "a": "If you have an existing tank and want to homogenize by circulating, choose In-Line; if you are going to mix and shear directly inside the tank, the Batch (Immersion) type should be selected."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Industrial Applications",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Cosmetic Cream and Lotion", "alt": "Cosmetic Homogenizer" },
+        { "src": "galeri-2.webp", "label": "Mayonnaise and Ketchup Production", "alt": "Food Homogenizer" },
+        { "src": "galeri-3.webp", "label": "In-Line Circulation", "alt": "In-Line Homogenizer" },
+        { "src": "galeri-4.webp", "label": "Pharma and Syrup Emulsion", "alt": "Pharma Sector Mixer" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download the technical file containing rotor-stator types, motor RPMs, and flow capacity charts.",
+        "fileUrl": "/assets/documents/en/homogenizers-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "COSMETICS FACILITY",
+        "desc": "Double-jacketed cream homogenization unit we produced for a world-renowned cosmetics brand.",
+        "imgAlt": "Cosmetic Mixer Reference",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "Correct Rotor-Stator Selection",
+        "desc": "Send us the structure of the product you will produce (e.g., ketchup or lotion), and let's choose the most suitable shearing head together.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Hello,%20I%20would%20like%20to%20get%20technical%20information%20and%20pricing%20about%20homogenizers.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

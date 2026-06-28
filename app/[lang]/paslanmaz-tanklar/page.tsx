@@ -1,12 +1,13 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { ChevronRight, Droplets, Factory, TestTube, FlaskConical, ShieldCheck } from 'lucide-react';
+
 import { getDictionary } from '../../../dictionaries/getDictionary';
 import { getLocalizedUrl } from '../../../dictionaries/routes';
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
-  const dict = await getDictionary(resolvedParams.lang);
+  const dict = await getDictionary(resolvedParams.lang, 'stainlessTanks');
   return {
     title: dict.stainlessTanksPage.metadata.title,
     description: dict.stainlessTanksPage.metadata.description,
@@ -16,7 +17,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 export default async function TankCategoriesPage({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+  const dict = await getDictionary(lang, 'stainlessTanks');
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -33,10 +34,10 @@ export default async function TankCategoriesPage({ params }: { params: Promise<{
   };
 
   const icons = [
-    <Factory className="w-6 h-6" />,
-    <Droplets className="w-6 h-6" />,
-    <FlaskConical className="w-6 h-6" />,
-    <TestTube className="w-6 h-6" />
+    <Factory key="1" className="w-6 h-6" />,
+    <Droplets key="2" className="w-6 h-6" />,
+    <FlaskConical key="3" className="w-6 h-6" />,
+    <TestTube key="4" className="w-6 h-6" />
   ];
 
   const links = [

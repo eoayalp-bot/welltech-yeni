@@ -1,0 +1,95 @@
+{
+  "drumPumpsPage": {
+    "metadata": {
+      "title": "Pompe per Fusti e IBC | Welltech®",
+      "description": "Pompe sommerse portatili in acciaio inox per il trasferimento sicuro di acidi, solventi, basi e prodotti chimici ad alta viscosità da fusti e contenitori."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "pumps": "Pompe",
+      "current": "Pompe per Fusti"
+    },
+    "hero": {
+      "title": "Pompe per Fusti e Contenitori",
+      "desc": "La soluzione più rapida e sicura per trasferire fluidi da fusti industriali e serbatoi IBC. Design ergonomico, leggero e portatile per eliminare il rischio di fuoriuscite."
+    },
+    "technology": {
+      "title": "Tecnologia a Immersione Verticale (Tube)",
+      "desc": "Le pompe per fusti sono progettate con un corpo verticale lungo e sottile che consente di raggiungere il fondo di IBC, fusti e contenitori con aperture ridotte. Il motore è posizionato nella parte superiore esterna, mentre il rotore che movimenta il fluido è collocato all'estremità immersa della pompa. Ciò permette un trasferimento sicuro dei liquidi senza dover inclinare o ribaltare fusti pesanti.",
+      "imgAlt": "Sezione del Tubo di Immersione della Pompa per Fusti"
+    },
+    "features": {
+      "title": "Caratteristiche di Sicurezza e Dotazioni",
+      "items": [
+        "Elimina la Necessità di Sollevare o Inclinare Fusti Pesanti",
+        "Riduce al Minimo il Rischio di Schizzi Chimici e Infortuni",
+        "Motori Elettrici o Pneumatici per Diverse Viscosità",
+        "Versioni con Tubo in PP, PVDF, Alluminio o Acciaio Inox AISI 316L",
+        "Conformità ATEX (Ex-Proof) per Acidi, Solventi e Prodotti Chimici Infiammabili",
+        "Pulizia e Manutenzione Rapide Grazie al Design Smontabile"
+      ],
+      "imgAlt": "Connessione Motore e Corpo della Pompa per Fusti"
+    },
+    "table": {
+      "title": "Selezione dei Materiali e delle Capacità",
+      "note": "* La lunghezza di immersione deve essere selezionata tra 700 mm e 1200 mm in funzione della profondità del contenitore utilizzato (fusto da 200 L, IBC da 1000 L, ecc.).",
+      "headers": [
+        "APPLICAZIONE / PRODOTTO CHIMICO",
+        "MATERIALE DEL CORPO",
+        "LUNGHEZZA DI IMMERSIONE",
+        "VISCOSITÀ MAX"
+      ],
+      "imgAlt": "Disegno Tecnico della Capacità della Pompa per Fusti",
+      "rows": [
+        { "application": "Acidi e Basi", "material": "PP (Polipropilene)", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Prodotti Chimici Corrosivi", "material": "PVDF", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Serie Alimentare e Beverage", "material": "Acciaio Inox AISI 316L", "length": "1000 mm / 1200 mm", "viscosity": "1.000 cPs", "highlight": "dark" },
+        { "application": "Solventi Infiammabili (ATEX)", "material": "Acciaio Inox + Ex-Proof", "length": "1000 mm / 1200 mm", "viscosity": "800 cPs", "highlight": "dark" },
+        { "application": "Fluidi ad Alta Viscosità (Shampoo)", "material": "AISI 316L (Versione a Cavità Progressiva)", "length": "1000 mm / 1200 mm", "viscosity": "100.000 cPs", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Quali viscosità possono essere gestite con una pompa per fusti?",
+          "a": "Le pompe centrifughe standard per fusti sono adatte a fluidi con viscosità da quella dell'acqua fino a oli leggeri (max. 1000 cPs). Per prodotti più viscosi come panna, miele o paste, sono consigliate le pompe verticali a cavità progressiva (monopompa)."
+        },
+        {
+          "q": "È obbligatorio utilizzare un motore certificato ATEX (Ex-Proof)?",
+          "a": "Se il fluido da trasferire è un solvente, alcool, acetone o un prodotto petrolchimico infiammabile, è indispensabile utilizzare motori pneumatici o elettrici certificati ATEX per prevenire esplosioni causate da elettricità statica o scintille."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Le Nostre Applicazioni Industriali",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Trasferimento di Acidi Chimici", "alt": "Pompa per Fusti di Acidi" },
+        { "src": "galeri-2.webp", "label": "Svuotamento Serbatoi IBC", "alt": "Pompa di Trasferimento IBC" },
+        { "src": "galeri-3.webp", "label": "Trasferimento per Applicazioni Alimentari", "alt": "Pompa Alimentare in Acciaio Inox" },
+        { "src": "galeri-4.webp", "label": "Aspirazione Solventi ATEX", "alt": "Pompa per Fusti Ex-Proof" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il nostro catalogo contenente tabelle di compatibilità chimica, opzioni motore (elettrico/pneumatico) e curve di portata.",
+        "fileUrl": "/assets/documents/it/pompe-fusti-cisterne-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "IMPIANTO CHIMICO",
+        "desc": "Pompe per fusti ATEX fornite per la linea di ricevimento materie prime di uno stabilimento chimico internazionale.",
+        "imgAlt": "Riferimento Pompa per Fusti",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "Quale Materiale del Corpo è Più Adatto?",
+        "desc": "PP, PVDF o acciaio inox? Inviateci la scheda MSDS del vostro prodotto chimico e individueremo il materiale più sicuro e durevole.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Merhaba,%20varil%20ve%20IBC%20pompalar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

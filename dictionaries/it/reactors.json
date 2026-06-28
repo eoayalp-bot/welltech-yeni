@@ -1,0 +1,128 @@
+{
+  "reactorsPage": {
+    "metadata": {
+      "title": "Reattori Chimici e Serbatoi di Processo | Welltech®",
+      "description": "Reattori in acciaio inox heavy-duty progettati per controllare in sicurezza reazioni chimiche in condizioni di alta pressione, vuoto e temperature estreme."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "process": "Sistemi di Processo",
+      "current": "Reattori Chimici"
+    },
+    "hero": {
+      "title": "Reattori Chimici",
+      "desc": "Sistemi heavy-duty che garantiscono il massimo livello di sicurezza e precisione nel controllo delle reazioni che avvengono in condizioni di processo gravose, quali alta pressione, vuoto e temperature elevate."
+    },
+    "technology": {
+      "title": "Tecnologia di Reazione e Controllo",
+      "desc1": "I reattori industriali sono recipienti di processo progettati per consentire lo svolgimento sicuro ed efficiente di reazioni chimiche quali polimerizzazione, esterificazione e condensazione, alle condizioni operative ottimali.",
+      "desc2": "<strong>I Reattori Welltech®</strong> sono equipaggiati con sistemi a camicia o a semitubo (serpentino) per il controllo delle reazioni <strong>esotermiche</strong> o <strong>endotermiche</strong>. Riduttori dimensionati in funzione delle caratteristiche del prodotto e sistemi di automazione certificati ATEX garantiscono una produzione affidabile e sicura.",
+      "imgAlt": "Tecnologia di Processo del Reattore Chimico"
+    },
+    "features": {
+      "title": "Dotazioni di Sicurezza e Caratteristiche Costruttive",
+      "items": [
+        "Corpo ad Alta Pressione Certificato TÜV e Conforme ASME Sezione VIII",
+        "Tenuta Totale mediante Tenute Meccaniche e Magnetiche",
+        "Quadri Elettrici e Automazione Certificati Ex-Proof (ATEX)",
+        "Sistemi di Camicia ad Alta Efficienza per Riscaldamento e Raffreddamento",
+        "Possibilità di Abbassare il Punto di Ebollizione in Condizioni di Vuoto",
+        "Valvole di Sicurezza e Dischi di Rottura per Gas Pericolosi"
+      ],
+      "imgAlt": "Sezione Motore e Componenti del Reattore"
+    },
+    "table": {
+      "title": "Capacità Standard dei Reattori",
+      "note": "* Le dimensioni e i valori di pressione indicati sono da considerarsi di riferimento. È possibile realizzare soluzioni personalizzate per qualsiasi capacità in funzione delle esigenze specifiche del processo.",
+      "headers": [
+        "VOLUME DEL REATTORE",
+        "PRESSIONE DI ESERCIZIO",
+        "TIPO DI RISCALDAMENTO/RAFFREDDAMENTO",
+        "TIPO DI AGITATORE"
+      ],
+      "imgAlt": "Disegno Tecnico del Reattore",
+      "rows": [
+        {
+          "volume": "500 Litri (Pilota)",
+          "pressure": "-1 / +6 Bar",
+          "heating": "Elettrico / Vapore",
+          "mixer": "Elica / Ancora",
+          "highlight": "dark"
+        },
+        {
+          "volume": "2.000 Litri",
+          "pressure": "-1 / +10 Bar",
+          "heating": "Semitubo (Serpentino)",
+          "mixer": "Ancora + Baffle",
+          "highlight": "dark"
+        },
+        {
+          "volume": "5.000 Litri",
+          "pressure": "-1 / +10 Bar",
+          "heating": "Semitubo (Serpentino)",
+          "mixer": "Doppio Agitatore Controrotante",
+          "highlight": "dark"
+        },
+        {
+          "volume": "10.000 Litri",
+          "pressure": "-1 / +16 Bar",
+          "heating": "Semitubo (Serpentino)",
+          "mixer": "Ancora con Raschiatori",
+          "highlight": "dark"
+        },
+        {
+          "volume": "20.000+ Litri",
+          "pressure": "-1 / +16 Bar",
+          "heating": "Progettazione Speciale",
+          "mixer": "Progettazione Speciale",
+          "highlight": "orange"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Le Nostre Applicazioni con Reattori Industriali",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "Reattore di Polimerizzazione",
+          "alt": "Reattore per Polimeri"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "Miscelazione Cosmetica e Vuoto",
+          "alt": "Reattore Sotto Vuoto"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "Reattore per Vernici e Resine",
+          "alt": "Reattore per Resine"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "Reattore per Sintesi Farmaceutica",
+          "alt": "Reattore Farmaceutico"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il documento tecnico contenente valori di resistenza alla pressione, tipologie di camicia e configurazioni motore-riduttore.",
+        "fileUrl": "/assets/documents/it/reattori-chimici-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "IMPIANTO PETROLCHIMICO",
+        "desc": "Reattore di sintesi ad alta pressione da 15.000 L con quadro Ex-Proof, realizzato per un impianto chimico internazionale.",
+        "imgAlt": "Riferimento Reattore",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "Un Reattore Progettato per il Vostro Processo",
+        "desc": "Condividete con noi i tempi di reazione e i parametri di pressione e temperatura: progetteremo insieme la soluzione più sicura ed efficiente.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

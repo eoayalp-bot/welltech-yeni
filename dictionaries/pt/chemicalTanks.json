@@ -1,0 +1,96 @@
+{
+  "chemicalTanksPage": {
+    "metadata": {
+      "title": "Tanques Químicos e de Ácidos | Welltech®",
+      "description": "Tanques de aço inoxidável com máxima resistência à corrosão para produtos químicos agressivos, ácidos e processos de alta pressão."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "tanks": "Tanques em Inox",
+      "current": "Tanques Químicos"
+    },
+    "hero": {
+      "title": "Tanques Químicos e de Ácidos",
+      "desc": "Soluções em aço inoxidável com alta resistência à corrosão, compatíveis com ATEX e com máxima segurança para produtos químicos agressivos e processos exigentes."
+    },
+    "corrosion": {
+      "title": "Máxima Resistência à Corrosão",
+      "desc": "Os aços inoxidáveis padrão podem ser insuficientes para o armazenamento de fluidos altamente corrosivos, como ácidos, solventes e cáusticos. Dependendo do valor de pH do produto químico, da temperatura de operação e da pressão, os engenheiros da Welltech garantem a máxima segurança em sua instalação oferecendo projetos de tanques de liga de titânio (316Ti), Super Duplex ou com revestimentos especiais (PTFE)."
+    },
+    "features": {
+      "title": "Equipamentos de Projeto e Segurança",
+      "items": {
+        "1": "Opções de Liga Especial Duplex, 316Ti ou Hastelloy",
+        "2": "Integração de Equipamentos com Certificação ATEX (À prova de explosão)",
+        "3": "Projeto de Parede Dupla (Double Wall) para Vazamento Zero",
+        "4": "Sistemas de Lavagem de Gases (Scrubber) e Ventilação",
+        "5": "Vedação Especial Resistente a Ácidos e Produtos Químicos (PTFE/Viton)",
+        "6": "Automação de Dosagem e Controle de Nível"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacidades de Produção para Trabalho Pesado (Heavy-Duty)",
+      "note": "* Para produtos químicos agressivos, as espessuras de parede são calculadas estaticamente de acordo com a gravidade específica do fluido e a pressão.",
+      "heavy": " (Trabalho Pesado)",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIÂMETRO (Ø mm)",
+        "height": "ALTURA (mm)",
+        "thickness": "ESPESSURA MÍN."
+      },
+      "customRow": "Para tanques desta capacidade ou superior que requerem engenharia especial, os cálculos são feitos com base no projeto."
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "Para quais produtos químicos o tanque de aço inoxidável é adequado?",
+          "a": "O armazenamento seguro é garantido escolhendo a liga correta (316L, 316Ti, Duplex) para muitas substâncias corrosivas, como ácido nítrico, ácido sulfúrico, hidróxido de sódio (soda cáustica), solventes e produtos petroquímicos."
+        },
+        {
+          "q": "Existe aprovação ATEX para produtos químicos inflamáveis/explosivos?",
+          "a": "Sim, para fluidos com propriedades inflamáveis, como solventes, todos os motores, sensores e válvulas são integrados com certificação ATEX (Ex-Proof)."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nossos Exemplos de Projetos Químicos",
+      "p1": {
+        "title": "Tanque de Ácido Sulfúrico",
+        "alt": "Projeto de Tanque de Ácido Sulfúrico"
+      },
+      "p2": {
+        "title": "Armazenamento Cáustico",
+        "alt": "Tanque de Armazenamento Cáustico"
+      },
+      "p3": {
+        "title": "Tanque de Solvente ATEX",
+        "alt": "Tanque de Solvente Aprovado pela ATEX"
+      },
+      "p4": {
+        "title": "Tanque Isolado de Parede Dupla",
+        "alt": "Tanque Químico de Parede Dupla"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Baixe o arquivo de especificações que contém tabelas de resistência química, espessuras de parede e padrões de segurança.",
+        "fileUrl": "/assets/documents/pt/tanques-quimicos-acidos-fichas-tec.pdf",
+        "btn": "BAIXAR ESPECIFICAÇÃO"
+      },
+      "reference": {
+        "badge": "PROJETO ATEX",
+        "desc": "Linha de armazenamento de solventes Ex-Proof que fabricamos para uma instalação petroquímica internacional.",
+        "link": "IR PARA O PROJETO"
+      },
+      "cta": {
+        "title": "É Necessária uma Liga Especial?",
+        "desc": "Envie-nos a Ficha de Dados de Segurança (FISPQ/MSDS) do produto químico a ser usado em seu projeto e determinaremos juntos a liga de aço inoxidável mais adequada.",
+        "whatsappMsg": "Ola, gostaria de discutir a selecao de ligas e precos para Tanques de Armazenamento Quimico.",
+        "btn": "CONSULTAR UM ENGENHEIRO"
+      }
+    }
+  }
+}

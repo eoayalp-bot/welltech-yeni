@@ -1,0 +1,98 @@
+{
+  "contactPage": {
+    "metadata": {
+      "title": "Kontakt | Welltech®",
+      "description": "Kontaktieren Sie uns für Ihre Projekte. Unser Hauptsitz und unsere Produktionsstätte in Kemalpasa, Izmir."
+    },
+    "hero": {
+      "title": "Kontaktieren Sie uns",
+      "desc": "Kontaktieren Sie unser Expertenteam direkt für Ihre Projekte, Technik-Anfragen und Produktionslösungen."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "corporate": "Unternehmen",
+      "current": "Kontakt"
+    },
+    "sidebar": {
+      "title": "Kontaktinformationen",
+      "hq": {
+        "title": "HAUPTSITZ",
+        "address": "Organize Sanayi Bolgesi, Kemalpasa OSB<br/>10. Sk. No:6, 35730<br/>Kemalpasa / Izmir / Türkei"
+      },
+      "factory": {
+        "title": "PRODUKTIONSSTÄTTE",
+        "address": "Ulucak Istiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpasa / Izmir / Türkei"
+      },
+      "phone": {
+        "title": "TELEFON"
+      },
+      "whatsapp": {
+        "title": "WHATSAPP-SUPPORT"
+      },
+      "email": {
+        "title": "E-MAIL"
+      },
+      "hours": {
+        "title": "ÖFFNUNGSZEITEN",
+        "desc1": "Montag - Freitag: 08:30 - 18:30",
+        "desc2": "Am Wochenende geschlossen."
+      },
+      "social": {
+        "title": "FOLGEN SIE UNS"
+      }
+    },
+    "form": {
+      "title": "Lassen Sie uns Ihr Projekt gemeinsam planen",
+      "name": "VOR- UND NACHNAME",
+      "company": "FIRMENNAME (Optional)",
+      "email": "E-MAIL-ADRESSE",
+      "phone": "TELEFONNUMMER (Optional)",
+      "subject": {
+        "label": "PRODUKT / DIENSTLEISTUNG",
+        "placeholder": "Bitte wählen Sie ein Thema aus...",
+        "groups": {
+          "tanks": "Lagerbehälter aus Edelstahl",
+          "process": "Prozesssysteme",
+          "hygienic": "Hygienepumpen",
+          "other": "Sonstige Anfragen"
+        },
+        "options": {
+          "tanks_1": "Industrieller Lagerbehälter",
+          "tanks_2": "Olivenöl-Lagertank",
+          "tanks_3": "Milch- und Lebensmittel-Prozesstank",
+          "tanks_4": "Chemie- / Säuretank",
+          "process_1": "Rührwerksbehälter",
+          "process_2": "Chemischer / Pharmazeutischer Reaktor",
+          "process_3": "High-Shear Homogenisator",
+          "process_4": "Mobiles Prozess-Skid",
+          "process_5": "Doppelmantel-Heiz-/Kühltank",
+          "process_6": "Fermenter und Bioreaktor",
+          "process_7": "Automatische CIP-Anlage",
+          "hygienic_1": "Kreiselpumpe",
+          "hygienic_2": "Drehkolbenpumpe (Verdrängerpumpe)",
+          "hygienic_3": "Selbstansaugende Pumpe",
+          "hygienic_4": "Fasspumpe",
+          "hygienic_5": "Druckluft-Membranpumpe",
+          "hygienic_6": "Exzenterschneckenpumpe",
+          "other_1": "Schlüsselfertige Anlageninstallation",
+          "other_2": "Sonderanfertigung / Sonstiges"
+        }
+      },
+      "message": {
+        "label": "PROJEKTDETAILS",
+        "placeholder": "Bitte geben Sie kurz Ihre Projektkapazität, Betriebsdruck, Temperatur oder andere technische Anforderungen an..."
+      },
+      "status": {
+        "errorFields": "Bitte füllen Sie Name, E-Mail und Nachricht vollständig aus.",
+        "loading": "Ihre Nachricht wird gesendet...",
+        "success": "Ihre Nachricht wurde erfolgreich gesendet. Wir werden uns so schnell wie möglich bei Ihnen melden.",
+        "errorServer": "Es ist ein Serverfehler aufgetreten. Bitte versuchen Sie es später noch einmal.",
+        "errorConnection": "Es ist ein Verbindungsfehler aufgetreten. Bitte überprüfen Sie Ihre Internetverbindung."
+      },
+      "submit": {
+        "loading": "SENDEN...",
+        "idle": "NACHRICHT SENDEN"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "seo": {
+    "defaultTitle": "Welltech® | Industrial Tanks and Process Systems",
+    "description": "Manufacturer of stainless steel industrial tanks, hygienic pumps, and process equipment at international standards.",
+    "keywords": [
+      "stainless tank",
+      "process systems",
+      "hygienic pump",
+      "welltech"
+    ]
+  },
+  "cookieBanner": {
+    "title": "Cookie Policy",
+    "description": "We use cookies to offer you a better experience.",
+    "details": "View Details",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "navbar": {
+    "tanks": "Stainless Tanks",
+    "machines": "Process Systems",
+    "pumps": "Hygienic Pumps",
+    "about": "About Us",
+    "blog": "Blog & News",
+    "docs": "Documents",
+    "contact": "Contact"
+  },
+  "footer": {
+    "description": "Custom turnkey engineering for your facility with international standard stainless steel industrial tanks, process systems, and hygienic pump solutions.",
+    "inokstek": "AN INOKSTEK COMPANY",
+    "products": "PRODUCTS & SOLUTIONS",
+    "tanks": "Stainless Storage Tanks",
+    "machines": "Process Systems",
+    "pumps": "Hygienic Transfer Pumps",
+    "locations": "LOCATIONS",
+    "hq_title": "Headquarters",
+    "factory_title": "Production Facilities",
+    "copyright": "All Rights Reserved."
+  }
+}

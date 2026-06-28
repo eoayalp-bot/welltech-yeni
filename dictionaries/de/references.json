@@ -1,0 +1,28 @@
+{
+  "referencesPage": {
+    "metadata": {
+      "title": "Unsere Referenzen | Welltech®",
+      "description": "Referenzen für Industrieanlagen und Ausrüstungen, die von Welltech® International Engineering weltweit erfolgreich abgeschlossen wurden."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "current": "Unsere Referenzen"
+    },
+    "hero": {
+      "title": "Unsere Referenzen",
+      "quote": "\"Unsere Ingenieursvision beweist sich in jeder Anlage, die wir erfolgreich übergeben.\""
+    },
+    "labels": {
+      "capacity": "KAPAZITÄT",
+      "material": "MATERIAL",
+      "standard": "STANDARD",
+      "features": "EIGENSCHAFTEN"
+    },
+    "ctaBtn": "KONTAKTIEREN SIE UNS",
+    "cta": {
+      "title": "Lassen Sie die nächste Erfolgsgeschichte Ihre Anlage sein",
+      "desc": "Nutzen Sie bei Ihren neuen Investitions- oder Modernisierungsprojekten die Ingenieurskraft und Erfahrung von Welltech®.",
+      "btn": "BESCHREIBEN SIE IHR PROJEKT"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "oliveOilTanksPage": {
+    "metadata": {
+      "title": "Cuves d'Huile d'Olive | Welltech®",
+      "description": "Cuves de stockage en acier inoxydable à fond conique, avec système d'inertage à l'azote et garantie zéro oxydation, préservant la saveur de l'huile d'olive."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "tanks": "Cuves en Inox",
+      "current": "Cuves d'Huile d'Olive"
+    },
+    "hero": {
+      "title": "Cuves d'Huile d'Olive",
+      "desc": "Solutions de stockage en inox de haute qualité avec garantie zéro oxydation, préservant la qualité, l'acidité et l'arôme de l'huile d'olive comme au premier jour."
+    },
+    "engineering": {
+      "title": "Ingénierie Anti-Oxydation",
+      "desc": "L'huile d'olive est un produit délicat qui commence à se dégrader rapidement au contact de l'air (oxygène) et de la lumière. Les cuves d'huile d'olive Welltech® sont équipées d'un système spécial d'Inertage à l'Azote (Nitrogen Blanketing) qui évacue l'air intérieur. Une soudure lisse (Ra < 0,6) empêche l'accumulation de sédiments, tandis que la conception spéciale du fond conique permet de stocker et de filtrer l'huile d'olive dans sa forme la plus pure (sans pulpe)."
+    },
+    "features": {
+      "title": "Conception et Équipements de Protection",
+      "items": {
+        "1": "Acier Inoxydable Haute Qualité AISI 304 ou 316L",
+        "2": "Système d'Inertage à l'Azote Intégré pour Zéro Oxydation",
+        "3": "Fond Conique Spécialement Incliné pour l'Évacuation des Dépôts",
+        "4": "Corps Soudé à l'Argon, Totalement Étanche et Opaque",
+        "5": "Isolation Optionnelle et Enveloppe de Refroidissement (Rollbond)",
+        "6": "Indicateur de Niveau, Vanne d'Échantillonnage et Système NEP"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacités de Production Standard",
+      "note": "* Les inclinaisons du fond conique peuvent être calculées sur mesure (15°, 30°, 45°) selon la structure des sédiments de l'huile et le processus de filtration.",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIAMÈTRE (Ø mm)",
+        "height": "HAUTEUR (mm)",
+        "thickness": "ÉPAISSEUR DU CORPS"
+      },
+      "customRow": "Une fabrication sur mesure est réalisée pour les silos intégrés d'huile d'olive de plus grande capacité."
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Qu'est-ce que le système d'inertage à l'azote et pourquoi est-il nécessaire ?",
+          "a": "Le gaz azote injecté dans l'espace supérieur de la cuve repousse complètement l'oxygène. Ainsi, le contact de l'huile avec l'air est rompu, l'augmentation du taux d'acidité (oxydation) est évitée, et l'huile d'olive conserve sa fraîcheur du premier jour pendant des mois."
+        },
+        {
+          "q": "À quoi sert le fond conique de la cuve ?",
+          "a": "À mesure que l'huile d'olive repose, un sédiment naturel (pulpe) s'accumule au fond. La conception du fond conique permet à ces dépôts de se rassembler au point central le plus bas, facilitant ainsi leur séparation de l'huile via la vanne de vidange."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nos Applications pour l'Huile d'Olive",
+      "p1": {
+        "title": "Stockage Production Boutique",
+        "alt": "Cuve Huile d'Olive Boutique"
+      },
+      "p2": {
+        "title": "Cuve avec Inertage à l'Azote",
+        "alt": "Cuve Huile d'Olive Azote"
+      },
+      "p3": {
+        "title": "Décantation à Fond Conique",
+        "alt": "Cuve de Décantation Conique"
+      },
+      "p4": {
+        "title": "Silos d'Usine Intégrés",
+        "alt": "Silos Huile d'Olive"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez le fichier de spécification contenant les détails du système à azote, les angles du fond et les normes de matériaux.",
+        "fileUrl": "/assets/documents/fr/reservoirs-huile-olive-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "USINE INTÉGRÉE",
+        "desc": "Ligne de stockage clé en main installée pour une usine moderne d'huile d'olive dans la région égéenne.",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Un Contrôle Climatique est-il Nécessaire ?",
+        "desc": "Concevons ensemble votre cuve avec une enveloppe chauffante pour éviter que l'huile ne gèle dans les climats froids.",
+        "whatsappMsg": "Bonjour, je souhaite obtenir des informations techniques et des prix concernant les Cuves d'Huile d'Olive.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "storageTanksPage": {
+    "metadata": {
+      "title": "Endüstriyel Depolama Tankları | Welltech®",
+      "description": "ASME ve CE standartlarında, yüksek hacimli kimyasal ve gıda depolama için ağır hizmet tipi paslanmaz çelik tank imalatı."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "tanks": "Paslanmaz Tanklar",
+      "current": "Depolama Tankları"
+    },
+    "hero": {
+      "title": "Endüstriyel Depolama Tankları",
+      "desc": "Tesisinizin kalbi için uluslararası standartlarda (ASME, EN 14015, API 650), yüksek sızdırmazlık ve sıfır oksidasyon garantili, uzun ömürlü paslanmaz çözümler."
+    },
+    "engineering": {
+      "title": "Ağır Hizmet (Heavy-Duty) Mühendisliği",
+      "desc": "Yüksek hacimli sıvı, hammadde veya yarı mamullerin güvenle depolanabilmesi, fabrikanızın sürdürülebilirliği açısından hayati önem taşır. Welltech® Depolama Tankları, içindeki akışkanın özgül ağırlığına (viskozitesine) ve rüzgar/deprem yüklerine karşı gelişmiş 3D simülasyon testleriyle boyutlandırılır. Her bir kaynak noktası, Tahribatsız Muayene (NDT) yöntemleri ile sertifikalandırılarak maksimum mukavemet sağlanır."
+    },
+    "features": {
+      "title": "Tasarım ve Donanım Üstünlükleri",
+      "items": {
+        "1": "AISI 304L, 316L, 316Ti veya Dubleks Çelik Üretimi",
+        "2": "Kapasiteye Özel TIG ve Plazma Robotik Kaynak Teknolojisi",
+        "3": "API 650 ve EN 14015 Standartlarına Tam Uyum",
+        "4": "Konik, Bombe veya Düz Eğilimli Özel Taban Seçenekleri",
+        "5": "Yüksek Basınç, Rüzgar ve Sismik Yük Dayanımı",
+        "6": "Seviye Kontrol, Havalandırma ve CIP Yıkama Topu Entegrasyonu"
+      }
+    },
+    "capacityTable": {
+      "title": "Standart Üretim Kapasiteleri",
+      "note": "* Verilen ölçüler (Çap x Yükseklik) yaklaşık değerlerdir. Tesisinizin yer kısıtlamalarına göre milimetrik revizyonlar yapılabilir.",
+      "headers": {
+        "volume": "HACİM",
+        "diameter": "ÇAP (Ø mm)",
+        "height": "YÜKSEKLİK (mm)",
+        "material": "MALZEME"
+      },
+      "onSite": "Bu kapasite ve üzeri tanklar için tesis içi (On-Site) kurulum hizmeti verilmektedir."
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Fabrika kapımızdan büyük tankları nasıl teslim ediyorsunuz?",
+          "a": "Geniş çaplı ve yüksek hacimli (100.000 L üzeri) tanklar tesisimizde modüler olarak hazırlanır, sahada (On-site) uzman kaynak mühendislerimiz tarafından birleştirilir."
+        },
+        {
+          "q": "Gıda ve Kimya depolaması arasındaki fark nedir?",
+          "a": "Gıda tanklarında pürüzsüz yüzey kalitesi (Ra < 0.6) ve CIP yıkama hatları kritikken; asit veya solvent gibi kimyasal tanklarda korozyon dayanımı yüksek Dubleks çelikler ve ATEX donanımlar tercih edilir."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Depolama Uygulamalarımız",
+      "p1": "Asit ve Kostik Depolama Tankı",
+      "p2": "Gıdaya Uygun Paslanmaz Depolama",
+      "p3": "Petrokimya Stoklama Tankı",
+      "p4": "Yüksek Hacimli Endüstriyel Silolar"
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Malzeme kalınlıkları, kaynak prosedürleri ve kalite standartlarını içeren teknik spesifikasyon dosyasını indirebilirsiniz.",
+        "fileUrl": "/assets/documents/tr/endustriyel-depolama-tanklari-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "SAHA KURULUMU",
+        "desc": "Geçtiğimiz yıl tamamlanan 500.000 Litrelik Mega Depolama projemizi inceleyin.",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Özel Ölçü Gerekli Mi?",
+        "desc": "Tesisinizdeki boş alana (yükseklik/genişlik) en uygun maksimum kapasiteyi mühendislerimizle birlikte hesaplayalım.",
+        "whatsappMsg": "Merhaba, Endüstriyel Depolama Tankları için özel ölçü ve kapasite hesaplaması hakkında bilgi almak istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

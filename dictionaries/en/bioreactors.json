@@ -1,0 +1,92 @@
+{
+  "bioreactorsPage": {
+    "metadata": {
+      "title": "Fermentation and Bioreactors | Welltech®",
+      "description": "Stainless steel industrial bioreactor and fermenter systems with high-level sterility for the multiplication of bacteria, yeast, and cell cultures."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "process": "Process Systems",
+      "current": "Bioreactors"
+    },
+    "hero": {
+      "title": "Fermentation and Bioreactors",
+      "desc": "Fully automatic, sterile (aseptic) reactor systems that allow microorganisms to multiply under ideal conditions for the biotechnology, pharmaceutical, and food industries."
+    },
+    "technology": {
+      "title": "Precise Bioprocess Technology",
+      "desc": "Fermentation systems require a perfect balance for live microorganisms or cell cultures to grow. <strong>Welltech® Bioreactors</strong> simultaneously monitor pH, dissolved oxygen (DO), temperature, foam, and agitation speed (RPM) throughout the reaction and control them instantly via the automation panel. Internal surfaces designed with the zero dead leg principle (Ra < 0.4 µm) completely eliminate the risk of contamination.",
+      "imgAlt": "Bioreactor Process Technology"
+    },
+    "features": {
+      "title": "Sterile Design and Automation",
+      "items": [
+        "100% Aseptic (Sterile) Design for Zero Contamination",
+        "Double Wall / Jacketed Structure for Precise Temperature Control",
+        "Automatic pH, Dissolved Oxygen (DO), and Foam Control",
+        "Special Magnetic / Mechanical Agitators that Do Not Disrupt Cell Structure",
+        "Compatibility with Sterilization-in-Place (SIP) and Clean-In-Place (CIP)",
+        "User-Friendly HMI Touch Screen and SCADA Integration"
+      ],
+      "imgAlt": "Bioreactor Automation Control Panel"
+    },
+    "table": {
+      "title": "Capacity and Technical Specifications",
+      "note": "* The working volume is calculated as approximately 70-80% of the total tank volume. Projecting can be done for higher capacity industrial productions.",
+      "headers": [
+        "SERIES / MODEL",
+        "WORKING VOLUME",
+        "DESIGN PRESSURE"
+      ],
+      "imgAlt": "Bioreactor Technical Drawing",
+      "rows": [
+        { "series": "Lab/Pilot Series (WBR-P)", "volume": "50 L - 500 L", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Production Series (WBR-1M)", "volume": "1,000 Liters", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Production Series (WBR-3M)", "volume": "3,000 Liters", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Industrial Series (WBR-5M)", "volume": "5,000 Liters", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Industrial Series (WBR-10M)", "volume": "10,000 Liters", "pressure": "-1 / +3 Bar", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What does CIP and SIP compatibility mean?",
+          "a": "CIP (Clean-in-Place) means the system can be washed without being dismantled, while SIP (Sterilization-in-Place) is the killing of all bacteria inside with high-temperature steam, preparing the system sterilely for the new culture."
+        },
+        {
+          "q": "Why is DO (Dissolved Oxygen) and pH control important?",
+          "a": "It is mandatory to constantly keep the oxygen amount and acidity (pH) level in the environment at an ideal level so that bacteria or yeasts can reproduce without dying and secrete the targeted enzyme/product."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Bioreactor Applications",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Pharma and Vaccine Production", "alt": "Pharma Bioreactor" },
+        { "src": "galeri-2.webp", "label": "Yeast and Enzyme Fermentation", "alt": "Yeast Fermenter" },
+        { "src": "galeri-3.webp", "label": "Pilot Scale Bioprocess", "alt": "Pilot Bioreactor" },
+        { "src": "galeri-4.webp", "label": "Milk and Yogurt Cultures", "alt": "Food Fermentation Tank" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "fileUrl": "/assets/documents/en/fermentation-bioreactors-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "BIOTECHNOLOGY",
+        "desc": "A 5,000 L capacity fully automatic enzyme fermentation line we installed for an international biotechnology company.",
+        "imgAlt": "Bioreactor Reference",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "SCADA Specific to Your Process",
+        "desc": "Design the most suitable mixing technology and sensor infrastructure for your cell culture together with our engineers.",
+        "btn": "CONTACT US"
+      }
+    }
+  }
+}

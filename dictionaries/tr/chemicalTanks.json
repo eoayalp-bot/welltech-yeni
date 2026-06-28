@@ -1,0 +1,96 @@
+{
+  "chemicalTanksPage": {
+    "metadata": {
+      "title": "Kimyasal ve Asit Tankları | Welltech®",
+      "description": "Agresif kimyasallar, asitler ve yüksek basınçlı prosesler için maksimum korozyon dayanımlı paslanmaz çelik tanklar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "tanks": "Paslanmaz Tanklar",
+      "current": "Kimyasal Tanklar"
+    },
+    "hero": {
+      "title": "Kimyasal ve Asit Tankları",
+      "desc": "Agresif kimyasallar ve zorlu prosesler için yüksek korozyon direncine sahip, ATEX uyumlu ve maksimum güvenlikli paslanmaz çözümler."
+    },
+    "corrosion": {
+      "title": "Maksimum Korozyon Direnci",
+      "desc": "Asit, solvent ve kostik gibi yüksek korozif akışkanların depolanmasında standart paslanmaz çelikler yetersiz kalabilir. Welltech mühendisleri, kimyasalın pH değerine, çalışma sıcaklığına ve basıncına göre Titanyum alaşımlı (316Ti), Süper Dubleks veya özel kaplamalı (PTFE) tank tasarımları sunarak tesisinizde maksimum iş güvenliği sağlar."
+    },
+    "features": {
+      "title": "Tasarım ve Güvenlik Donanımları",
+      "items": {
+        "1": "Dubleks, 316Ti veya Hastelloy Özel Alaşım Seçenekleri",
+        "2": "ATEX (Ex-Proof) Sertifikalı Ekipman Entegrasyonu",
+        "3": "Sıfır Sızıntı İçin Çift Yüzeyli (Double Wall) Tasarım",
+        "4": "Gaz Yıkama (Scrubber) ve Havalandırma Sistemleri",
+        "5": "Asit ve Kimyasal Dirençli Özel Contalama (PTFE/Viton)",
+        "6": "Otomatik Dozajlama ve Seviye Kontrol Otomasyonu"
+      }
+    },
+    "capacityTable": {
+      "title": "Ağır Hizmet (Heavy-Duty) Üretim Kapasiteleri",
+      "note": "* Agresif kimyasallar için cidar kalınlıkları, akışkanın özgül ağırlığına ve basınca göre statik olarak hesaplanır.",
+      "heavy": " (Ağır Hizmet)",
+      "headers": {
+        "volume": "HACİM",
+        "diameter": "ÇAP (Ø mm)",
+        "height": "YÜKSEKLİK (mm)",
+        "thickness": "MİN. KALINLIK"
+      },
+      "customRow": "Bu kapasite ve üzeri özel mühendislik gerektiren tanklar için proje bazlı hesaplama yapılmaktadır."
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Hangi kimyasallar için paslanmaz çelik tank uygundur?",
+          "a": "Nitrik asit, sülfürik asit, sodyum hidroksit (kostik), solventler ve petrokimya ürünleri gibi birçok korozif madde için doğru alaşım (316L, 316Ti, Dubleks) seçimi yapılarak güvenli depolama sağlanır."
+        },
+        {
+          "q": "Parlayıcı / Patlayıcı kimyasallar için ATEX onayı var mı?",
+          "a": "Evet, parlayıcı özellik taşıyan solvent ve benzeri akışkanlar için tüm motor, sensör ve vanalar ATEX (Ex-Proof) sertifikalı olarak entegre edilir."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Örnek Kimya Projelerimiz",
+      "p1": {
+        "title": "Sülfürik Asit Tankı",
+        "alt": "Sülfürik Asit Tankı Projesi"
+      },
+      "p2": {
+        "title": "Kostik Depolama",
+        "alt": "Kostik Depolama Tankı"
+      },
+      "p3": {
+        "title": "ATEX Solvent Tankı",
+        "alt": "ATEX Onaylı Solvent Tankı"
+      },
+      "p4": {
+        "title": "Çift Cidar İzolasyonlu Tank",
+        "alt": "Çift Cidarlı Kimyasal Tank"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Kimyasal dayanım tabloları, cidar kalınlıkları ve güvenlik standartlarını içeren spesifikasyon dosyasını indirin.",
+        "fileUrl": "/assets/documents/tr/kimyasal-ve-asit-tanklari-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "ATEX PROJESİ",
+        "desc": "Uluslararası petrokimya tesisi için ürettiğimiz Ex-Proof solvent depolama hattı.",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Özel Alaşım Gerekli Mi?",
+        "desc": "Projenizde kullanılacak kimyasalın MSDS raporunu bize iletin, en uygun paslanmaz alaşımı birlikte belirleyelim.",
+        "whatsappMsg": "Merhaba, Kimyasal Depolama Tankları için alaşım seçimi ve fiyatlandırma hakkında görüşmek istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

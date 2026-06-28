@@ -1,0 +1,52 @@
+{
+  "processSystemsPage": {
+    "metadata": {
+      "title": "Prozesssysteme und Maschinen | Welltech®",
+      "description": "Edelstahltanks mit Rührwerk, Reaktoren, Homogenisatoren und CIP-Anlagen nach internationalen Standards für die Lebensmittel-, Chemie- und Pharmaindustrie."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "current": "Prozesssysteme"
+    },
+    "hero": {
+      "title": "Industrielle Prozesssysteme",
+      "desc": "Prozessmaschinen aus Edelstahl nach FDA- und CE-Standards, die mit hoher Präzision und Automatisierung das Herzstück Ihrer Produktionslinie bilden."
+    },
+    "categories": [
+      {
+        "title": "Rührwerksbehälter",
+        "desc": "Hocheffiziente Edelstahl-Mischbehälter mit speziell entwickelten Rührflügeln (Agitatoren) für flüssig-flüssig und flüssig-fest Gemische."
+      },
+      {
+        "title": "Chemische Reaktoren",
+        "desc": "Heavy-Duty-Systeme, die chemische Reaktionen unter Hochdruck, Vakuum und extremen Temperaturbedingungen sicher steuern."
+      },
+      {
+        "title": "Homogenisatoren",
+        "desc": "Hochgeschwindigkeitsmischer, die durch Zerkleinerung von Flüssigkeiten in verschiedenen Phasen (Emulsionen) auf Mikrometerebene glatte und stabile Produkte erzeugen."
+      },
+      {
+        "title": "Mobile Einheiten (Skids)",
+        "desc": "Tragbare Misch- und Transfereinheiten, die leicht zu verschiedenen Stationen innerhalb der Anlage transportiert werden können und über eigene Pumpen und Automatisierungspanels verfügen."
+      },
+      {
+        "title": "Beheizte/Gekühlte (Doppelmantel-) Tanks",
+        "desc": "Systeme mit Halbrohrschlangen-, Dimple-Jacket- oder Doppelwandtechnologie für Prozesse, bei denen die Produkttemperatur präzise geregelt werden muss."
+      },
+      {
+        "title": "Fermenter und Bioreaktoren",
+        "desc": "Sterile biotechnologische Reaktoren, die die Vermehrung von Bakterien-, Hefe- oder Zellkulturen in einer idealen Temperatur-, Sauerstoff- und pH-Umgebung ermöglichen."
+      },
+      {
+        "title": "Vollautomatische CIP-Anlagen",
+        "desc": "Sterilisationseinheiten, die das automatische Waschen und Desinfizieren von Produktionslinien, Tanks und Pumpen ohne Demontage (Clean-in-Place) ermöglichen."
+      }
+    ],
+    "viewModels": "SYSTEME ANSEHEN",
+    "cta": {
+      "title": "Prozessspezifisches Engineering",
+      "desc": "Teilen Sie unseren erfahrenen Ingenieuren Ihre Produktionsrezeptur und die gewünschte Kapazität mit, und wir entwerfen das für Ihren Prozess am besten geeignete System mit 3D-Simulationen.",
+      "btn": "INGENIEUR KONSULTIEREN"
+    }
+  }
+}

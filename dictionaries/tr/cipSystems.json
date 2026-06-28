@@ -1,0 +1,92 @@
+{
+  "cipSystemsPage": {
+    "metadata": {
+      "title": "Tam Otomatik CIP Sistemleri (Yerinde Yıkama) | Welltech®",
+      "description": "Gıda, ilaç ve kimya hatlarını sökmeden temizleyen, iletkenlik kontrollü ve yüksek enerji tasarruflu tam otomatik paslanmaz CIP sistemleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "CIP Sistemleri"
+    },
+    "hero": {
+      "title": "Tam Otomatik CIP Sistemleri",
+      "desc": "Endüstriyel tesislerinizde %100 hijyen sağlamak için tasarlanmış, insan hatasını ortadan kaldıran akıllı yerinde yıkama (Clean-In-Place) üniteleri."
+    },
+    "technology": {
+      "title": "Clean-In-Place (Yerinde Yıkama) Teknolojisi",
+      "desc": "CIP (Clean-in-Place) sistemleri, üretim hatlarını, boruları, valfleri ve proses tanklarını yerinden sökmeden temizleyen tam otomatik sistemlerdir. Suyun, asidin, kostiğin ve dezenfektanların doğru sıcaklık, debi ve sürede sirküle edilmesini sağlayarak insan hatalarını sıfıra indirir. Sistem, üretim hatlarınızı bir sonraki parti (batch) için tamamen steril ve güvenli hale getirir.",
+      "imgAlt": "CIP Sistemi Proses Teknolojisi"
+    },
+    "features": {
+      "title": "Otomasyon ve Hijyen Özellikleri",
+      "items": [
+        "PLC/SCADA Üzerinden Tam Otomatik Reçete Kontrolü",
+        "İletkenlik (Kondüktivite) Sensörleri ile Hassas Geri Kazanım",
+        "Otomatik Dozajlama Pompaları ile Doğru Kimyasal Karışımı",
+        "FDA ve 3A Hijyen Standartlarına Uygun Paslanmaz Tasarım",
+        "Bağımsız Asit, Kostik, Geri Dönüşüm ve Temiz Su Tankları",
+        "Boru Tipi Isı Eşanjörü ile Hızlı ve Enerji Tasarruflu Isıtma"
+      ],
+      "imgAlt": "CIP Sistemi Otomasyon Panosu"
+    },
+    "table": {
+      "title": "Sistem Konfigürasyonları",
+      "note": "* CIP sistemleri, yıkanacak hattın uzunluğuna, kirlilik derecesine ve tesisinizin kapasitesine göre özel olarak projelendirilmektedir.",
+      "headers": [
+        "SİSTEM KONFİGÜRASYONU",
+        "TANK KAPASİTELERİ",
+        "KULLANIM ALANI"
+      ],
+      "imgAlt": "CIP Sistemi Teknik Çizimi",
+      "rows": [
+        { "config": "2 Tanklı CIP (Su + Kostik)", "tanks": "500 L - 3.000 L", "sector": "Süt ve İçecek", "highlight": "dark" },
+        { "config": "3 Tanklı CIP (Su + Kostik + Asit)", "tanks": "1.000 L - 5.000 L", "sector": "Gıda ve Kozmetik", "highlight": "dark" },
+        { "config": "4 Tanklı (Geri Dönüşümlü) CIP", "tanks": "2.000 L - 10.000 L", "sector": "İlaç ve Biyoteknoloji", "highlight": "orange" },
+        { "config": "Mobil CIP Ünitesi (Taşınabilir)", "tanks": "300 L - 1.000 L", "sector": "Esnek ve Pilot Hatlar", "highlight": "dark" }
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "İletkenlik (Kondüktivite) sensörü ne işe yarar?",
+          "a": "Hattan dönen asit veya kostiğin yoğunluğunu ölçer. Kimyasal konsantrasyonu düştüğünde sisteme otomatik olarak taze kimyasal dozajlar. Ayrıca yıkama bittiğinde hattın kimyasaldan tamamen arındığını algılayarak işlemi güvenle sonlandırır."
+        },
+        {
+          "q": "CIP sistemi suyu nasıl tasarruf eder?",
+          "a": "Son durulama suyunu (kısmen temiz olan suyu) bir sonraki yıkamanın ilk kaba çalkalama suyu olarak kullanmak üzere 'Geri Dönüşüm (Recovery) Tankı'nda depolar. Bu sayede ciddi oranda su ve enerji sarfiyatını engeller."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Endüstriyel Uygulamalarımız",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Tam Otomatik 3 Tanklı CIP", "alt": "3 Tanklı CIP Sistemi" },
+        { "src": "galeri-2.webp", "label": "İlaç Sınıfı 4 Tanklı Sistem", "alt": "İlaç CIP Ünitesi" },
+        { "src": "galeri-3.webp", "label": "Mobil CIP Yıkama Arabası", "alt": "Mobil CIP" },
+        { "src": "galeri-4.webp", "label": "Gıda Hattı SCADA Kontrol", "alt": "CIP Kontrol Paneli" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Tank konfigürasyonları, debi ve pompa basınç hesaplamalarını içeren spesifikasyon dosyasını indirin.",
+        "fileUrl": "/assets/documents/tr/tam-otomatik-cip-sistemleri-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "İÇECEK TESİSİ",
+        "desc": "Uluslararası bir meyve suyu fabrikası için kurduğumuz 4 tanklı, tam otomatik iletkenlik kontrollü CIP hattı.",
+        "imgAlt": "CIP Sistemi Referansı",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Özel Bir Reçeteniz Mi Var?",
+        "desc": "Tesisinizdeki kirlilik yükünü ve yıkanacak hat uzunluğunu bize bildirin, en verimli kapasiteyi tasarlayalım.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

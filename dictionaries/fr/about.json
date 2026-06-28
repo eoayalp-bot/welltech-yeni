@@ -1,0 +1,49 @@
+{
+  "aboutPage": {
+    "metadata": {
+      "title": "À Propos | Welltech®",
+      "description": "Welltech International Engineering ; votre partenaire mondial pour l'ingénierie des cuves en inox, des réacteurs et des installations industrielles."
+    },
+    "jsonLd": {
+      "description": "Welltech International Engineering ; votre partenaire mondial pour l'ingénierie des cuves en inox, des réacteurs et des installations industrielles."
+    },
+    "hero": {
+      "titleStart": "L'Ingénierie qui Construit",
+      "titleHighlight": "l'Avenir",
+      "desc": "Avec plus de 20 ans d'expérience, nous sommes fiers d'être une marque mondiale dans les systèmes industriels de process et de stockage en acier inoxydable."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "corporate": "Entreprise",
+      "current": "À Propos"
+    },
+    "roots": {
+      "title": "Nos Racines et Notre Vision",
+      "p1": "Welltech® est une entreprise internationale spécialisée dans la conception, l'ingénierie et la fabrication de systèmes de process et de stockage, le cœur des installations industrielles. Notre usine opère à Kemalpaşa, Izmir, avec des lignes de production dotées des dernières technologies.",
+      "p2": "Nous offrons des solutions clé en main pour tous les projets soumis à des normes d'hygiène strictes et à des exigences de haute pression, en particulier dans les secteurs de l'alimentation, de la pharmacie, de la chimie et de la cosmétique. Nous ne fabriquons pas seulement des cuves ; nous construisons des systèmes intégrés à 100 % dans votre usine, de l'automatisation à l'isolation."
+    },
+    "global": {
+      "title": "6 Continents, Plus de 50 Pays",
+      "desc": "Notre ingénierie, née à Izmir, fonctionne aujourd'hui de manière fluide dans d'immenses installations industrielles à travers le monde, de l'Europe à l'Asie, de l'Afrique à l'Amérique du Sud."
+    },
+    "cards": {
+      "mission": {
+        "title": "Notre Mission",
+        "desc": "Construire des systèmes en inox durables et innovants qui rendront les processus de production de nos clients plus efficaces, sûrs et hygiéniques."
+      },
+      "vision": {
+        "title": "Notre Vision",
+        "desc": "Devenir l'une des 3 marques les plus fiables au monde dans les technologies de production industrielle, sans jamais compromettre les normes de qualité internationales."
+      },
+      "quality": {
+        "title": "Notre Approche Qualité",
+        "desc": "Nous testons et certifions chaque étape, du choix des matières premières jusqu'à la soudure finale, selon les normes (ASME, CE, ISO)."
+      }
+    },
+    "cta": {
+      "title": "Une Ingénierie Parfaite pour Votre Projet",
+      "desc": "Quels que soient vos besoins en capacité, notre équipe d'experts est prête à concevoir le système le plus adapté à votre usine.",
+      "btn": "CONTACTEZ-NOUS"
+    }
+  }
+}

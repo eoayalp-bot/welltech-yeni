@@ -1,0 +1,93 @@
+{
+  "skidSystemsPage": {
+    "metadata": {
+      "title": "Mobil Üniteler ve Skid Sistemler | Welltech®",
+      "description": "Tesis içinde kolayca taşınabilen, üzerinde kendi pompası, otomasyon panosu ve tankı bulunan tak-çalıştır paslanmaz mobil skid üniteleri."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "Mobil Üniteler"
+    },
+    "hero": {
+      "title": "Mobil (Skid) Üniteler",
+      "desc": "Tesisinizdeki tüm istasyonlara kolayca taşınabilen, üzerinde tankı, pompası ve panosu hazır 'Tak-Çalıştır' kompakt proses sistemleri."
+    },
+    "technology": {
+      "title": "Kompakt Skid (Şase) Teknolojisi",
+      "desc": "Mobil üniteler (Skid Systems), sabit bir borulama veya altyapı inşaatı gerektirmeden, tüm makine parkurunun (tank, pompa, filtre, pano) tek bir paslanmaz çelik şase üzerinde toplandığı taşınabilir sistemlerdir. Tesis içinde bir hattan diğerine tekerlekleri vasıtasıyla kolayca çekilir; sadece elektriğe (veya havaya) bağlanarak anında üretime geçilir. Modüler üretimin en esnek halidir.",
+      "imgAlt": "Paslanmaz Çelik Şase (Skid) Teknolojisi"
+    },
+    "features": {
+      "title": "Donanım ve Taşınabilirlik Özellikleri",
+      "items": [
+        "Ağır Yüklere Dayanıklı Özel Paslanmaz Çelik Şase",
+        "İstasyonlar Arası Hızlı Geçiş İçin Poliamid Tekerlekler",
+        "Kurulum ve Borulama Gerektirmeyen (Plug & Play) Yapı",
+        "Üzerinde Entegre Transfer Pompası (Loblu, Diyafram vb.)",
+        "Güvenli Elektrik Tesisatı ve Üzerinde Kontrol Panosu",
+        "Farklı Hatlara Bağlanabilen Esnek Hortum Rekorları (Kelepçeli)"
+      ],
+      "imgAlt": "Mobil Ünite Donanımları"
+    },
+    "table": {
+      "title": "Sistem Tipleri ve Modüller",
+      "note": "* Mobil üniteler, talep edilen kapasiteye (örneğin 500L veya 1000L) ve kullanılacak ekipmanlara göre özel olarak boyutlandırılır.",
+      "headers": [
+        "UYGULAMA / SİSTEM",
+        "ENTEGRE EKİPMANLAR",
+        "ÇALIŞMA (KURULUM) ŞEKLİ"
+      ],
+      "imgAlt": "Mobil Sistem Teknik Çizimi",
+      "rows": [
+        { "application": "Mobil CIP Ünitesi", "equipment": "Isıtmalı Tank + Santrifüj Pompa", "setup": "Tak-Çalıştır (Hortum Bağlantısı)", "highlight": "dark" },
+        { "application": "Mobil Dozaj Ünitesi", "equipment": "Tartım Sistemi (Loadcell) + Karıştırıcı", "setup": "Tak-Çalıştır (Fişe Tak)", "highlight": "dark" },
+        { "application": "Mobil Aktarım (Transfer)", "equipment": "Denge Tankı + Loblu / Monopomp", "setup": "Tak-Çalıştır (Hortum Bağlantısı)", "highlight": "dark" },
+        { "application": "Mobil Filtrasyon", "equipment": "Torbamsı Filtre Gövdesi + Pano", "setup": "Tak-Çalıştır (Hortum Bağlantısı)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Mobil üniteyi ATEX (Yanıcı) ortamda kullanabilir miyim?",
+          "a": "Evet. Eğer transfer edeceğiniz ürün yanıcı/parlayıcı ise, mobil ünitenin tekerlekleri antistatik (iletken) malzemeden yapılır, üzerine elektrik motoru yerine havalı diyafram pompa ve pnömatik mikser eklenerek %100 ATEX uyumlu hale getirilir."
+        },
+        {
+          "q": "Skid üzerindeki tank hacmi maksimum ne kadar olabilir?",
+          "a": "Mobil ünitelerde tekerleklerin taşıma kapasitesi ve operatörün insan gücüyle itebilmesi hesaplanarak genellikle maksimum 1.000 Litre (1 Ton) hacminde tanklar kullanılır."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Mobil Skid Uygulamalarımız",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Mobil Transfer Ünitesi", "alt": "Taşınabilir Pompa İstasyonu" },
+        { "src": "galeri-2.webp", "label": "Portatif CIP Yıkama Arabası", "alt": "Mobil CIP İstasyonu" },
+        { "src": "galeri-3.webp", "label": "Mobil Mikser ve Dozaj", "alt": "Tekerlekli Karıştırıcı Tank" },
+        { "src": "galeri-4.webp", "label": "Kozmetik Dolum Hazırlık", "alt": "Mobil Şampuan Ünitesi" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Skid şase taşıma kapasiteleri, tekerlek tipleri ve pano yerleşimlerini içeren kataloğumuzu indirin.",
+        "fileUrl": "/assets/documents/tr/mobil-uniteler-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "GIDA TESİSİ",
+        "desc": "Büyük kapasiteli bir sos fabrikası için tasarladığımız çok istasyonlu mobil mikser ve pompa arabaları.",
+        "imgAlt": "Mobil Ünite Referansı",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Üzerinde Neler Olsun?",
+        "desc": "Tek bir şase üzerinde tank, pompa, filtre ve ısıtıcıyı birleştirelim. İstediğiniz modülleri bize iletin, çizimini yapalım.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20mobil%20skid%20uniteler%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

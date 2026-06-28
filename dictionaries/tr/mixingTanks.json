@@ -1,0 +1,95 @@
+{
+  "mixingTanksPage": {
+    "metadata": {
+      "title": "Karıştırıcılı Tanklar ve Mikserler | Welltech®",
+      "description": "Gıda, ilaç ve kimya endüstrisi için farklı viskozitelere uygun paslanmaz çelik karıştırıcılı (ajitatörlü) mikser tankları."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "Karıştırıcılı Tanklar"
+    },
+    "hero": {
+      "title": "Karıştırıcılı Tanklar",
+      "desc": "Farklı viskozitelerdeki sıvı-sıvı veya sıvı-katı karışımlarını kusursuz şekilde birleştiren, ürüne ve prosese özel tasarımlı endüstriyel mikserler."
+    },
+    "technology": {
+      "title": "Akışkanlar Mekaniği ve Ajitatör Teknolojisi",
+      "desc": "Karıştırıcılı tankların verimliliği, karışacak ürünün viskozitesine ve yoğunluğuna göre seçilen <strong>Ajitatör (Kanat)</strong> tasarımına bağlıdır. Pervane (Propeller) tipi kanatlar düşük viskoziteli sıvılarda hızlı bir sirkülasyon yaratırken; <strong>Çapa (Anchor) ve Sıyırıcılı kanatlar</strong> yüksek viskoziteli ve yapışkan ürünlerin tank çeperine tutunmasını engelleyerek homojen bir karışım sağlar. Gerekli durumlarda tank içine entegre edilen dalgakıranlar (baffle) ile girdap oluşumu engellenerek karıştırma süresi minimuma indirilir.",
+      "imgAlt": "Karıştırıcı Kanat (Ajitatör) Teknolojisi"
+    },
+    "features": {
+      "title": "Tasarım ve Performans Üstünlükleri",
+      "items": [
+        "Sıvı ve Viskoziteye Özel Seçilmiş Karıştırıcı Kanat Tasarımı",
+        "Girdap (Vortex) Oluşumunu Önleyen Dalgakıran (Baffle) Sistemi",
+        "Teflon Sıyırıcılarla Ürünün Yanmasını ve Çepere Yapışmasını Önleme",
+        "İnvertör (Hız Kontrol Cihazı) ile Farklı Devirlerde Çalışma İmkanı",
+        "Ürün Formunu Bozmayan Özel Redüktör ve Motor Konfigürasyonu",
+        "Kolay Temizlik İçin Entegre CIP (Clean-in-Place) Yıkama Topları"
+      ],
+      "imgAlt": "Karıştırıcılı Tank Motor ve Otomasyon"
+    },
+    "table": {
+      "title": "Kanat Tipleri ve Uygulama Alanları",
+      "note": "* Listelenen devir hızları ve viskozite değerleri genel referans olup, motor/redüktör kombinasyonu projenize özel hesaplanmaktadır.",
+      "headers": [
+        "KANAT (AJİTATÖR) TİPİ",
+        "VİSKOZİTE ARALIĞI",
+        "KULLANIM ALANI",
+        "ÇALIŞMA DEVİR HIZI"
+      ],
+      "imgAlt": "Karıştırıcılı Tank Teknik Çizim",
+      "rows": [
+        { "type": "Pervane (Propeller)", "viscosity": "Düşük (Su, Meyve Suyu)", "usage": "Hızlı Karıştırma / Çözme", "speed": "Yüksek (1000 - 1500 RPM)", "highlight": "dark" },
+        { "type": "Türbin (Turbine)", "viscosity": "Düşük / Orta", "usage": "Emülsiyon / Dispersiyon", "speed": "Orta - Yüksek (300 - 1000 RPM)", "highlight": "dark" },
+        { "type": "Çapa (Anchor)", "viscosity": "Yüksek (Krema, Şampuan)", "usage": "Homojen Isı Transferi", "speed": "Düşük (10 - 60 RPM)", "highlight": "dark" },
+        { "type": "Teflon Sıyırıcılı (Scraper)", "viscosity": "Çok Yüksek (Salça, Macun)", "usage": "Isıtmalı Prosesler (Yanma Önleyici)", "speed": "Düşük (10 - 40 RPM)", "highlight": "dark" },
+        { "type": "Zıt Yönlü Çift Kanat", "viscosity": "Değişken", "usage": "Kompleks Kimyasal Reaksiyonlar", "speed": "Değişken (İnvertörlü)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Dalgakıran (Baffle) ne işe yarar?",
+          "a": "Hızlı karıştırma işlemlerinde sıvının tank içinde dönerek girdap (vortex) oluşturmasını engeller. Baffle, sıvının akış yönünü bozarak dikey yönde karışmasını sağlar ve işlem süresini %40'a kadar kısaltır."
+        },
+        {
+          "q": "Sıyırıcılı karıştırıcı neden tercih edilir?",
+          "a": "Özellikle ısıtmalı ceketli tanklarda, yoğun akışkanların (örneğin salça veya kozmetik kremlerin) ısınan sıcak çepere yapışarak yanmasını veya karamelize olmasını engellemek için teflon sıyırıcılı kanatlar zorunludur."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Endüstriyel Uygulamalarımız",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Kimyasal Solüsyon Hazırlama", "alt": "Kimyasal Karıştırıcı Mikser" },
+        { "src": "galeri-2.webp", "label": "Şampuan ve Deterjan Mikseri", "alt": "Kozmetik Karıştırıcılı Tank" },
+        { "src": "galeri-3.webp", "label": "Süt ve Ayran Proses Tankı", "alt": "Gıda Karıştırıcı Tank" },
+        { "src": "galeri-4.webp", "label": "Sos ve Salça Karıştırıcı", "alt": "Sıyırıcılı Mikser Tank" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Kanat tipi seçim tabloları, motor devir hesaplamaları ve baffle yerleşim şemalarını içeren spesifikasyon dosyasını indirin.",
+        "fileUrl": "/assets/documents/tr/karistiricili-tanklar-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "KOZMETİK TESİSİ",
+        "desc": "Global bir kozmetik firması için kurduğumuz teflon sıyırıcılı ve ısıtma ceketli sıvı sabun mikser hattı.",
+        "imgAlt": "Kozmetik Mikser Referansı",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Ürününüzün Viskozitesi Nedir?",
+        "desc": "Akışkanınızın yoğunluğunu ve kapasitenizi bize bildirin, girdap yaratmayan en doğru motor-redüktör ve kanat (ajitatör) tasarımını birlikte yapalım.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20karistiricili%20mikser%20tanklar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

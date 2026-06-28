@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "badge": "INGENIERÍA INDUSTRIAL DE PROCESOS Y ALMACENAMIENTO",
+    "title": "El Fuerte Corazón de Su Línea de Producción",
+    "desc": "Ingeniería de planta llave en mano para tanques industriales de acero inoxidable AISI 304/316L, sistemas de proceso totalmente automatizados y transferencia higiénica de fluidos conforme a las normas EN y ASME.",
+    "bgImage": "/assets/images/ana-sayfa/hero-bg.webp",
+    "bgAlt": "Instalaciones Industriales y Producción de Reactores de Acero Inoxidable Welltech",
+    "btn1": "SOLICITUD DE INGENIERÍA",
+    "btn2": "DESCARGAR CATÁLOGO TÉCNICO"
+  },
+  "stats": [
+    { "n": "20+", "t": "AÑOS DE EXPERIENCIA EN PRODUCCIÓN" },
+    { "n": "40+", "t": "RED GLOBAL DE EXPORTACIÓN" },
+    { "n": "1000+", "t": "SISTEMAS PUESTOS EN MARCHA" },
+    { "n": "100%", "t": "GARANTÍA DE ESTANQUEIDAD Y CALIDAD" }
+  ],
+  "services": {
+    "title": "Soluciones Integrales de Fabricación e Ingeniería",
+    "desc": "Fabricamos equipos de alta ingeniería respaldados por dinámica de fluidos computacional (CFD) de acuerdo con las directrices de diseño higiénico de EHEDG para las industrias alimentaria (Lácteos, Bebidas), química, farmacéutica y biotecnológica.",
+    "view_details": "VER DETALLES TÉCNICOS",
+    "items": [
+      {
+        "title": "Tanques Industriales de Almacenamiento",
+        "desc": "Unidades de almacenamiento de líquidos de acero inoxidable AISI 316L de alta capacidad, con aislamiento térmico, agitador y de larga duración, conforme a las normas EN 13445 y API 650.",
+        "image": "/assets/images/ana-sayfa/hizmet-depolama.webp",
+        "link": "paslanmaz-tanklar"
+      },
+      {
+        "title": "Sistemas de Proceso Automatizados",
+        "desc": "Para las reacciones críticas de su línea de producción; reactores encamisados controlados por PLC/SCADA, homogeneizadores de alto cizallamiento (High Shear) y mezcladores integrados CIP/SIP.",
+        "image": "/assets/images/ana-sayfa/hizmet-proses.webp",
+        "link": "proses-sistemleri"
+      },
+      {
+        "title": "Soluciones de Flujo y Transferencia Higiénica",
+        "desc": "Tecnologías de bombas higiénicas aprobadas por la FDA para la transferencia de fluidos de alta viscosidad: bombas centrífugas, de desplazamiento positivo (lóbulos) y neumáticas de membrana.",
+        "image": "/assets/images/pompalar/kategori-banner.webp",
+        "link": "hijyenik-pompalar"
+      }
+    ]
+  },
+  "why_us": {
+    "badge": "AUTORIDAD EN INGENIERÍA: WELLTECH",
+    "title": "Capacidad de Producción Nacional con Estándares Globales",
+    "desc": "No solo fabricamos equipos independientes para sus instalaciones; construimos infraestructuras de procesos completas, sostenibles, resistentes a altas presiones y energéticamente eficientes con cálculos termodinámicos.",
+    "list": [
+      "Fabricación bajo Estándares ASME, CE (Directiva DEP 2014/68/UE), ISO y EHEDG",
+      "Diseño Termodinámico de Procesos Soportado por CAD 3D y Análisis CFD",
+      "Ensayos No Destructivos (END), Líquidos Penetrantes y Pruebas de Presión Hidrostática",
+      "Red Global: Servicio Técnico 24/7 de Posventa y Repuestos Originales"
+    ],
+    "box1": {
+      "title": "AUTOMATIZACIÓN GLOBAL",
+      "desc": "Sistemas integrados de PLC operando activamente en más de 40 países"
+    },
+    "box2": {
+      "title": "RESISTENCIA DE INDUSTRIA PESADA",
+      "desc": "Garantía absoluta de protección contra la corrosión y estanqueidad en todos nuestros reactores y tanques"
+    }
+  }
+}

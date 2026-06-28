@@ -1,0 +1,40 @@
+{
+  "stainlessTanksPage": {
+    "metadata": {
+      "title": "Paslanmaz Tanklar | Welltech®",
+      "description": "Endüstriyel, gıda, kimya ve zeytinyağı sektörlerine özel yüksek kalite paslanmaz çelik depolama ve proses tankları."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "current": "Paslanmaz Tanklar"
+    },
+    "hero": {
+      "title": "Paslanmaz Tank Sistemleri",
+      "desc": "Farklı endüstriyel prosesler için uluslararası standartlarda tasarlanmış, uzun ömürlü ve hijyenik paslanmaz çelik çözümler."
+    },
+    "categories": [
+      {
+        "title": "Endüstriyel Depolama Tankları",
+        "desc": "Yüksek hacimli sıvı ve hammaddelerin güvenli depolanması için tasarlanmış, basınca ve zorlu koşullara dayanıklı ağır hizmet tank sistemleri."
+      },
+      {
+        "title": "Zeytinyağı Depolama Tankları",
+        "desc": "Premium zeytinyağının nefasetini koruyan, azot yastıklama sistemli, konik tabanlı ve sıfır oksidasyon garantili özel tasarım tanklar."
+      },
+      {
+        "title": "Süt ve Gıda Tankları",
+        "desc": "Gıda güvenliği standartlarına (FDA/GMP) tam uyumlu, ultra hijyenik, izoleli ve soğutma ceketli paslanmaz çelik proses tankları."
+      },
+      {
+        "title": "Kimyasal ve Asit Tankları",
+        "desc": "Agresif kimyasallara, yüksek sıcaklıklara ve basınca tam dayanıklı, uluslararası güvenlik normlarına uygun depolama üniteleri."
+      }
+    ],
+    "viewModels": "MODELLERİ İNCELE",
+    "cta": {
+      "title": "Projenize Özel Üretim",
+      "desc": "Standart modellerin ötesinde, fabrikanızın kapasite ve alan kısıtlamalarına tam uyumlu, özel mühendislik çözümleri için teklif alın.",
+      "btn": "BİZE ULAŞIN"
+    }
+  }
+}

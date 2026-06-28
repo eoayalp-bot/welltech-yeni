@@ -1,0 +1,95 @@
+{
+  "centrifugalPumpsPage": {
+    "metadata": {
+      "title": "Pompe Centrifughe | Welltech®",
+      "description": "Pompe centrifughe in acciaio inox per il trasferimento continuo, igienico e ad alta portata di fluidi a bassa viscosità come latte, succhi di frutta e acqua."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "pumps": "Pompe",
+      "current": "Pompe Centrifughe"
+    },
+    "hero": {
+      "title": "Pompe Centrifughe",
+      "desc": "Elevata portata e trasferimento continuo per fluidi a bassa viscosità. Design in acciaio inox per garantire la massima igiene nelle linee alimentari e delle bevande."
+    },
+    "technology": {
+      "title": "Tecnologia Centrifuga",
+      "desc": "Le pompe centrifughe funzionano secondo il principio della forza centrifuga generata dalla rotazione ad alta velocità della girante all'interno del corpo pompa. Il fluido viene aspirato dal centro della girante e accelerato dalle palette verso la linea di mandata. Rappresentano la soluzione più efficiente ed economica per il trasferimento di latte, acqua, succhi di frutta e liquidi di lavaggio CIP.",
+      "imgAlt": "Tecnologia della Girante della Pompa Centrifuga"
+    },
+    "features": {
+      "title": "Vantaggi di Design e Prestazioni",
+      "items": [
+        "Flusso Continuo e Uniforme ad Elevate Portate",
+        "Elevata Efficienza con Ridotto Consumo Energetico",
+        "Struttura Interna CIP con Zero Dead-Leg e Lavabilità Totale",
+        "Corpo Forgiato in Acciaio Inox AISI 304 o AISI 316L",
+        "Giranti Aperte, Semiaperte o Chiuse Disponibili",
+        "Tenuta Meccanica di Lunga Durata e Facile Manutenzione"
+      ],
+      "imgAlt": "Motore e Corpo della Pompa Centrifuga"
+    },
+    "table": {
+      "title": "Specifiche Tecniche e Capacità",
+      "note": "* I valori di portata e prevalenza vengono configurati in base alle esigenze del processo, alla potenza del motore e al diametro della girante.",
+      "headers": [
+        "MODELLO POMPA",
+        "PORTATA MAX (m³/h)",
+        "PREVALENZA (m)",
+        "POTENZA MOTORE (kW)"
+      ],
+      "imgAlt": "Disegno Tecnico della Pompa Centrifuga",
+      "rows": [
+        { "model": "WCP-10", "flow": "10 m³/h", "head": "15 m", "power": "1.1 kW", "highlight": "dark" },
+        { "model": "WCP-20", "flow": "20 m³/h", "head": "25 m", "power": "2.2 kW", "highlight": "dark" },
+        { "model": "WCP-30", "flow": "30 m³/h", "head": "30 m", "power": "4.0 kW", "highlight": "dark" },
+        { "model": "WCP-50", "flow": "50 m³/h", "head": "35 m", "power": "5.5 kW", "highlight": "dark" },
+        { "model": "WCP-80", "flow": "80 m³/h", "head": "45 m", "power": "11.0 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Le pompe centrifughe possono essere utilizzate con fluidi ad alta viscosità?",
+          "a": "No. Le pompe centrifughe sono progettate per fluidi a bassa viscosità come acqua, latte e succhi di frutta. Fluidi più densi come miele o panna possono causare fenomeni di cavitazione nella girante."
+        },
+        {
+          "q": "Qual è la differenza tra girante aperta e chiusa?",
+          "a": "Le giranti chiuse garantiscono la massima efficienza nel trasferimento di fluidi puliti come acqua e latte, mentre le giranti aperte o semiaperte sono utilizzate per fluidi contenenti piccoli sedimenti o particelle di frutta, evitando fenomeni di intasamento."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Le Nostre Applicazioni Industriali",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Trasferimento di Latte e Ayran", "alt": "Pompa per Latte" },
+        { "src": "galeri-2.webp", "label": "Linee di Produzione di Succhi di Frutta", "alt": "Pompa per Succhi di Frutta" },
+        { "src": "galeri-3.webp", "label": "Sistemi di Lavaggio CIP", "alt": "Pompa CIP" },
+        { "src": "galeri-4.webp", "label": "Processi per Acqua e Bevande", "alt": "Pompa di Trasferimento per Bevande" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il nostro catalogo contenente curve di prestazione, potenze motore e tipologie di tenute meccaniche.",
+        "fileUrl": "/assets/documents/it/pompe-centrifughe-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "IMPIANTO PER BEVANDE",
+        "desc": "Linea di pompe centrifughe igieniche installata presso uno stabilimento di produzione di succhi di frutta ad alta capacità.",
+        "imgAlt": "Riferimento Pompa Centrifuga",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "Portata e Pressione Corrette",
+        "desc": "Comunicateci il numero di curve e la lunghezza delle tubazioni della vostra linea: individueremo il diametro della girante più adatto per evitare fenomeni di cavitazione.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Merhaba,%20santrifuj%20pompalar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

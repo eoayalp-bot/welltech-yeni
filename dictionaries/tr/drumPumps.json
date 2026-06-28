@@ -1,0 +1,95 @@
+{
+  "drumPumpsPage": {
+    "metadata": {
+      "title": "Varil ve IBC Pompaları | Welltech®",
+      "description": "Varil ve konteynerlerden asit, solvent, baz ve yüksek viskoziteli kimyasalları güvenle transfer etmek için portatif paslanmaz dalgıç pompalar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Varil Pompaları"
+    },
+    "hero": {
+      "title": "Varil ve Konteyner Pompaları",
+      "desc": "Endüstriyel varil ve IBC tanklardaki akışkanları dışarı aktarmanın en hızlı ve güvenli yolu. Portatif, hafif ve dökülme riskini sıfıra indiren ergonomik tasarım."
+    },
+    "technology": {
+      "title": "Dikey Daldırma (Tube) Teknolojisi",
+      "desc": "Varil pompaları, ince ve uzun dikey gövdeleri sayesinde IBC, varil ve standart dışı dar ağızlı konteynerlerin dibine kadar ulaşacak şekilde tasarlanmıştır. Pompa motoru gövdenin üst kısmında (dışarıda) yer alırken, akışkanı iten rotor pompanın en alt (daldırılan) ucunda bulunur. Bu sayede ağır varilleri devirmeye veya eğmeye gerek kalmadan güvenli sıvı aktarımı sağlanır.",
+      "imgAlt": "Varil Pompası Daldırma Borusu Kesiti"
+    },
+    "features": {
+      "title": "Donanım ve İş Güvenliği Özellikleri",
+      "items": [
+        "Ağır Varilleri Kaldırma/Eğme Zorunluluğunu Ortadan Kaldırır",
+        "Kimyasal Sıçrama ve İş Kazası Riskini Minimuma İndirir",
+        "Farklı Viskoziteler İçin Elektrikli veya Pnömatik Motor Seçeneği",
+        "PP, PVDF, Alüminyum veya AISI 316L Paslanmaz Boru Alternatifleri",
+        "Asit, Solvent ve Yanıcı Kimyasallar İçin ATEX (Ex-Proof) Uyumu",
+        "Kolay Sökülebilir Tasarım Sayesinde Hızlı Temizlik ve Bakım"
+      ],
+      "imgAlt": "Varil Pompası Motor ve Gövde Bağlantısı"
+    },
+    "table": {
+      "title": "Malzeme ve Kapasite Seçimi",
+      "note": "* Pompa daldırma boyları, kullanılacak ambalajın (200L Varil, 1000L IBC vb.) derinliğine göre 700 mm ile 1200 mm arasında seçilmelidir.",
+      "headers": [
+        "UYGULAMA / KİMYASAL",
+        "GÖVDE MALZEMESİ",
+        "DALDIRMA BOYU",
+        "MAKS. VİSKOZİTE"
+      ],
+      "imgAlt": "Varil Pompa Teknik Kapasite Çizimi",
+      "rows": [
+        { "application": "Asitler ve Bazlar", "material": "PP (Polipropilen)", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Aşındırıcı Kimyasallar", "material": "PVDF", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Gıda ve İçecek Serisi", "material": "AISI 316L Paslanmaz", "length": "1000 mm / 1200 mm", "viscosity": "1.000 cPs", "highlight": "dark" },
+        { "application": "Yanıcı Solventler (ATEX)", "material": "Paslanmaz + Ex-Proof", "length": "1000 mm / 1200 mm", "viscosity": "800 cPs", "highlight": "dark" },
+        { "application": "Koyu Akışkanlar (Şampuan)", "material": "AISI 316L (Burgulu Model)", "length": "1000 mm / 1200 mm", "viscosity": "100.000 cPs", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Varil pompası ile hangi yoğunluktaki sıvılar basılabilir?",
+          "a": "Standart santrifüj tipli varil pompaları su kıvamından hafif yağlara kadar (max. 1000 cPs) çalışır. Krema, bal veya macun gibi yoğun sıvılar için 'burgulu (monopomp)' tip dikey varil pompaları tercih edilmelidir."
+        },
+        {
+          "q": "ATEX (Ex-Proof) onaylı motor zorunlu mudur?",
+          "a": "Eğer transfer edeceğiniz sıvı tiner, alkol, aseton veya yanıcı bir petrokimya ürünü ise statik elektrik veya kıvılcım kaynaklı patlamaları önlemek için kesinlikle ATEX onaylı havalı veya elektrikli motor kullanılmalıdır."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Endüstriyel Uygulamalarımız",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Kimyasal Asit Aktarımı", "alt": "Asit Varil Pompası" },
+        { "src": "galeri-2.webp", "label": "IBC Tank Boşaltma", "alt": "IBC Transfer Pompası" },
+        { "src": "galeri-3.webp", "label": "Gıda Sınıfı Transfer", "alt": "Paslanmaz Gıda Pompası" },
+        { "src": "galeri-4.webp", "label": "ATEX Solvent Çekimi", "alt": "Ex-Proof Varil Pompası" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Kimyasal dayanım tabloları, motor seçenekleri (elektrikli/havalı) ve debi eğrilerini içeren kataloğumuzu indirin.",
+        "fileUrl": "/assets/documents/tr/varil-ve-konteyner-pompalari-teknik-şartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "KİMYA TESİSİ",
+        "desc": "Uluslararası bir kimya üretim tesisinin hammadde kabul hattı için sağladığımız ATEX varil pompaları.",
+        "imgAlt": "Varil Pompası Referans",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Hangi Gövde Malzemesi?",
+        "desc": "PP, PVDF veya Paslanmaz Çelik... Kimyasalınızın MSDS raporunu bize iletin, en güvenli ve uzun ömürlü malzemeyi biz belirleyelim.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Merhaba,%20varil%20ve%20IBC%20pompalar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

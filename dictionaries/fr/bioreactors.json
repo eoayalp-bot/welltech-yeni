@@ -1,0 +1,92 @@
+{
+  "bioreactorsPage": {
+    "metadata": {
+      "title": "Fermenteurs et Bioréacteurs | Welltech®",
+      "description": "Systèmes de bioréacteurs industriels en acier inoxydable d'une stérilité de haut niveau pour la multiplication des bactéries, levures et cultures cellulaires."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "process": "Systèmes de Process",
+      "current": "Bioréacteurs"
+    },
+    "hero": {
+      "title": "Fermenteurs et Bioréacteurs",
+      "desc": "Systèmes de réacteurs stériles (aseptiques) entièrement automatiques permettant la multiplication de micro-organismes dans des conditions idéales pour les secteurs de la biotechnologie, de la pharmacie et de l'agroalimentaire."
+    },
+    "technology": {
+      "title": "Technologie Bioprocess de Précision",
+      "desc": "Les systèmes de fermentation exigent un équilibre parfait pour le développement des micro-organismes ou des cultures cellulaires. Les <strong>Bioréacteurs Welltech®</strong> surveillent et contrôlent simultanément le pH, l'oxygène dissous (OD), la température, la mousse et la vitesse d'agitation (RPM) en temps réel via le panneau d'automatisation. Les surfaces internes sans point mort (Ra < 0,4 µm) éliminent totalement les risques de contamination.",
+      "imgAlt": "Technologie de Process du Bioréacteur"
+    },
+    "features": {
+      "title": "Conception Stérile et Automatisation",
+      "items": [
+        "Conception 100 % aseptique (stérile) pour zéro contamination",
+        "Structure à double enveloppe pour un contrôle précis de la température",
+        "Contrôle automatique du pH, de l'oxygène dissous (OD) et de la mousse",
+        "Agitateurs magnétiques / mécaniques spécifiques préservant les cellules",
+        "Compatibilité Stérilisation en Place (SEP) et Nettoyage en Place (NEP)",
+        "Interface HMI tactile conviviale et intégration SCADA"
+      ],
+      "imgAlt": "Panneau de Contrôle Automatisé du Bioréacteur"
+    },
+    "table": {
+      "title": "Capacités et Spécifications Techniques",
+      "note": "* Le volume de travail est calculé à environ 70-80 % du volume total de la cuve. Des projets sur mesure peuvent être réalisés pour des volumes industriels plus importants.",
+      "headers": [
+        "SÉRIE / MODÈLE",
+        "VOLUME DE TRAVAIL",
+        "PRESSION DE CONCEPTION"
+      ],
+      "imgAlt": "Dessin Technique du Bioréacteur",
+      "rows": [
+        { "series": "Série Lab/Pilote (WBR-P)", "volume": "50 L - 500 L", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Série Production (WBR-1M)", "volume": "1 000 Litres", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Série Production (WBR-3M)", "volume": "3 000 Litres", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Série Industrielle (WBR-5M)", "volume": "5 000 Litres", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Série Industrielle (WBR-10M)", "volume": "10 000 Litres", "pressure": "-1 / +3 Bar", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Que signifie la compatibilité NEP (CIP) et SEP (SIP) ?",
+          "a": "NEP (Nettoyage En Place) signifie que le système peut être nettoyé sans démontage, tandis que SEP (Stérilisation En Place) permet d'éliminer toutes les bactéries avec de la vapeur à haute température pour préparer la nouvelle culture stérilement."
+        },
+        {
+          "q": "Pourquoi le contrôle de l'Oxygène (OD) et du pH est-il important ?",
+          "a": "Pour que les bactéries ou levures puissent se multiplier sans mourir et sécréter l'enzyme/produit visé, la quantité d'oxygène et le niveau d'acidité (pH) doivent obligatoirement être maintenus à un niveau idéal constant."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nos Applications Bioréacteurs",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Production de Produits Pharmaceutiques", "alt": "Bioréacteur Pharma" },
+        { "src": "galeri-2.webp", "label": "Fermentation de Levure et Enzymes", "alt": "Fermenteur à Levure" },
+        { "src": "galeri-3.webp", "label": "Bioprocess à Échelle Pilote", "alt": "Bioréacteur Pilote" },
+        { "src": "galeri-4.webp", "label": "Cultures Laitières et Yaourts", "alt": "Cuve de Fermentation Alimentaire" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "fileUrl": "/assets/documents/fr/bioreacteurs-fermentation-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "BIOTECHNOLOGIE",
+        "desc": "Ligne de fermentation d'enzymes entièrement automatique de 5 000 L installée pour une entreprise internationale.",
+        "imgAlt": "Référence Bioréacteur",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Un SCADA pour Votre Process",
+        "desc": "Définissez la technologie d'agitation et l'infrastructure de capteurs les plus adaptées à votre culture cellulaire avec nos ingénieurs.",
+        "btn": "CONTACTEZ-NOUS"
+      }
+    }
+  }
+}

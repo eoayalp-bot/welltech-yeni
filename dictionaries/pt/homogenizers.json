@@ -1,0 +1,92 @@
+{
+  "homogenizersPage": {
+    "metadata": {
+      "title": "Homogeneizadores e Misturadores de Alto Cisalhamento | Welltech®",
+      "description": "Misturadores industriais de alta velocidade que garantem a obtenção de um produto suave e estável, quebrando fluidos em diferentes fases (como água e óleo) em nível de mícrons."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "process": "Sistemas de Processo",
+      "current": "Homogeneizadores"
+    },
+    "hero": {
+      "title": "Homogeneizadores",
+      "desc": "Obtenha emulsões completamente homogêneas, suaves e estáveis (que não se separam) quebrando misturas líquido-líquido ou líquido-sólido em nível de mícrons."
+    },
+    "technology": {
+      "title": "Tecnologia de Moagem Rotor-Estator",
+      "desc": "Os homogeneizadores são sistemas de alta velocidade (3.000 RPM) que desintegram fluidos mutuamente insolúveis em nível de mícrons. A estrutura dentada especial do <strong>Rotor-Estator</strong> reduz o tamanho das partículas forçando o fluido através de um espaço muito estreito com uma alta força de cisalhamento (High Shear), evitando de forma definitiva a separação da mistura (separação de fases) ao longo do tempo."
+    },
+    "features": {
+      "title": "Vantagens de Projeto e Desempenho",
+      "items": [
+        "Alta Força de Cisalhamento (High Shear) em Nível de Mícrons",
+        "Alta Capacidade de Velocidade de até 3.000 RPM",
+        "Opções de Estator Dentado (Fino/Grosso) Específicas para a Estrutura do Produto",
+        "Modelos para Tanque (Imersão) ou Tipo Linha (In-Line)",
+        "Aço Inoxidável Higiênico nos Padrões FDA e 3A",
+        "Alta Vedação e Longa Vida Útil com Selo Mecânico"
+      ],
+      "imgAlt": "Motor do Homogeneizador e Estrutura do Rotor-Estator"
+    },
+    "table": {
+      "title": "Tipos de Modelos e Áreas de Aplicação",
+      "note": "* A estrutura dentada do rotor-estator (passagem de partículas finas, médias, grossas) é selecionada especialmente de acordo com a viscosidade do seu produto e o tamanho final em mícrons desejado.",
+      "headers": [
+        "TIPO DE MODELO",
+        "PRINCÍPIO DE FUNCIONAMENTO",
+        "ÁREA DE USO"
+      ],
+      "imgAlt": "Desenho Técnico do Homogeneizador",
+      "rows": [
+        { "type": "Em Linha (In-Line)", "principle": "Circulação contínua e cisalhamento na tubulação", "usage": "Farma e Química", "highlight": "dark" },
+        { "type": "Imersão (Batch)", "principle": "Homogeneização direta por imersão no líquido dentro do tanque", "usage": "Cosméticos e Alimentos", "highlight": "dark" },
+        { "type": "Entrada Inferior (Bottom Entry)", "principle": "Unidade de alto cisalhamento (Shear) integrada na base do tanque", "usage": "Molhos, Pastas e Cremes", "highlight": "dark" },
+        { "type": "Multiestágio (Multi-Stage)", "principle": "Emulsão de mícrons ultrafina com rotor-estator triplo", "usage": "Nanotecnologia (Farma)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "Qual é a diferença entre um homogeneizador e um misturador normal?",
+          "a": "Os misturadores normais (agitadores) apenas giram o líquido; fases como óleo e água se separam novamente quando deixadas em repouso. Um homogeneizador, no entanto, fornece uma emulsão permanente e inseparável cortando (cisalhando) as partículas em nível de mícrons."
+        },
+        {
+          "q": "Devo escolher o tipo Em Linha (In-Line) ou Imersão (Batch)?",
+          "a": "Se você já tem um tanque e deseja homogeneizar fazendo-o circular, escolha In-Line; se você vai misturar e cisalhar diretamente dentro do tanque, o tipo Batch (Imersão) deve ser selecionado."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nossas Aplicações Industriais",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Creme e Loção Cosmética", "alt": "Homogeneizador de Cosméticos" },
+        { "src": "galeri-2.webp", "label": "Produção de Maionese e Ketchup", "alt": "Homogeneizador de Alimentos" },
+        { "src": "galeri-3.webp", "label": "Circulação em Linha (In-Line)", "alt": "Homogeneizador In-Line" },
+        { "src": "galeri-4.webp", "label": "Emulsão Farmacêutica e de Xaropes", "alt": "Misturador do Setor Farmacêutico" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Baixe o arquivo técnico que inclui os tipos de rotor-estator, velocidades do motor e tabelas de capacidade de vazão.",
+        "fileUrl": "/assets/documents/pt/homogeneizadores-fichas-tec.pdf",
+        "btn": "BAIXAR ESPECIFICAÇÃO"
+      },
+      "reference": {
+        "badge": "FÁBRICA DE COSMÉTICOS",
+        "desc": "Unidade de homogeneização de creme com camisa dupla que fabricamos para uma marca de cosméticos mundialmente famosa.",
+        "imgAlt": "Referência de Misturador de Cosméticos",
+        "link": "IR PARA O PROJETO"
+      },
+      "cta": {
+        "title": "Seleção Correta do Rotor-Estator",
+        "desc": "Informe-nos a estrutura do produto que você irá produzir (por exemplo, ketchup ou loção) e escolheremos juntos o cabeçote de cisalhamento mais adequado.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Ola,%20gostaria%20de%20obter%20informacoes%20tecnicas%20e%20precos%20sobre%20homogeneizadores.",
+        "btn": "CONSULTAR UM ENGENHEIRO"
+      }
+    }
+  }
+}

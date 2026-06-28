@@ -1,0 +1,85 @@
+{
+  "documentsPage": {
+    "metadata": {
+      "title": "Qualidade e Certificações | Welltech®",
+      "description": "Nossos padrões internacionais de qualidade, certificações e processos de Ensaios Não Destrutivos (END)."
+    },
+    "hero": {
+      "title": "Qualidade e Certificações",
+      "desc": "Processos de engenharia rastreáveis e 100% confiáveis em nível internacional."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "corporate": "Corporativo",
+      "current": "Qualidade e Certificações"
+    },
+    "globalStandards": {
+      "title": "Padrões Globais de Produção",
+      "desc": "Cada equipamento fabricado em nossas instalações é inspecionado e certificado de acordo com as normas internacionais (ISO, ASME, CE) desde a entrada da matéria-prima até o teste final."
+    },
+    "ndt": {
+      "title": "Nossa Capacidade em Ensaios Não Destrutivos (END)",
+      "items": {
+        "rt": "Ensaio Radiográfico (RT)",
+        "pt": "Líquidos Penetrantes (PT)",
+        "ut": "Ensaio por Ultrassom (UT)",
+        "vt": "Inspeção Visual (VT)",
+        "hydro": "Teste de Pressão Hidrostática",
+        "roughness": "Medição de Rugosidade Superficial (Ra)"
+      }
+    },
+    "certifications": {
+      "title": "Nossos Certificados Vigentes",
+      "note": "* Você pode solicitar cópias dos documentos por meio do menu lateral ou de nosso departamento de qualidade.",
+      "tableHeaders": {
+        "standard": "PADRÃO / NORMAS",
+        "scope": "ESCOPO",
+        "status": "STATUS"
+      },
+      "scopes": {
+        "iso9001": "Sistema de Gestão da Qualidade",
+        "iso3834": "Requisitos de Qualidade para Soldagem",
+        "ped": "Diretiva de Equipamentos sob Pressão",
+        "asme": "Normas de Fabricação de Vasos de Pressão",
+        "ce": "Declaração de Conformidade Europeia"
+      },
+      "status": {
+        "active": "Ativo / Aprovado",
+        "compliant": "Produção em Conformidade"
+      }
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "Vocês fornecem certificados de materiais com o produto?",
+          "a": "Sim, os certificados EN 10204 3.1 para todos os materiais de aço inoxidável usados são fornecidos no dossiê de entrega do produto (Data Book)."
+        },
+        {
+          "q": "Os seus procedimentos de soldagem são aprovados?",
+          "a": "Todos os nossos processos de soldagem são realizados por nossos soldadores certificados e aprovados, de acordo com os procedimentos WPS e PQR."
+        }
+      ]
+    },
+    "sidebar": {
+      "iso": {
+        "title": "Certificados ISO e CE",
+        "subtitle": "CERTIFICADOS OFICIAIS",
+        "desc": "Você pode baixar os documentos de gestão de qualidade e certificação de produção de nossas instalações com um único clique.",
+        "fileUrl": "/assets/documents/pt/certificados-oficiais-iso-ce.pdf",
+        "btn": "BAIXAR CERTIFICADOS"
+      },
+      "catalog": {
+        "title": "Catálogo Geral",
+        "subtitle": "BOLETIM DE PRODUTOS 2026",
+        "desc": "Baixe nosso catálogo atualizado para ver toda a nossa gama de produtos e capacidade técnica.",
+        "fileUrl": "/assets/documents/pt/catalogo-geral-produtos-2026.pdf",
+        "btn": "BAIXAR CATÁLOGO"
+      },
+      "department": {
+        "title": "Departamento de Qualidade",
+        "desc": "Contate-nos para requisitos de qualidade e solicitações de inspeção por terceiros (Third-party inspection) em seus projetos especiais."
+      }
+    }
+  }
+}

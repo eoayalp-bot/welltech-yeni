@@ -1,0 +1,95 @@
+{
+  "drumPumpsPage": {
+    "metadata": {
+      "title": "Fass- und IBC-Pumpen | Welltech®",
+      "description": "Tragbare Edelstahl-Tauchpumpen zum sicheren Umpumpen von Säuren, Lösungsmitteln, Basen und hochviskosen Chemikalien aus Fässern und Containern."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "pumps": "Pumpen",
+      "current": "Fasspumpen"
+    },
+    "hero": {
+      "title": "Fass- und Behälterpumpen",
+      "desc": "Der schnellste und sicherste Weg zur Entleerung von Industriefässern und IBC-Tanks. Tragbares, leichtes und ergonomisches Design, das Verschüttungsrisiken eliminiert."
+    },
+    "technology": {
+      "title": "Vertikale Eintauchtechnologie (Tauchrohr)",
+      "desc": "Dank ihrer schlanken und langen vertikalen Rohre sind Fasspumpen so konzipiert, dass sie den Boden von IBCs, Fässern und eng halsigen Behältern erreichen. Während sich der Pumpenmotor oben (außerhalb) befindet, sitzt der Rotor, der das Fluid drückt, am untersten (eingetauchten) Ende der Pumpe. Dies ermöglicht eine sichere Flüssigkeitsförderung, ohne schwere Fässer kippen zu müssen.",
+      "imgAlt": "Tauchrohrquerschnitt einer Fasspumpe"
+    },
+    "features": {
+      "title": "Ausstattungs- und Arbeitssicherheitsmerkmale",
+      "items": [
+        "Eliminiert die Notwendigkeit, schwere Fässer zu heben/zu kippen",
+        "Minimiert das Risiko von Chemikalienspritzern und Arbeitsunfällen",
+        "Elektrische oder pneumatische Motoroptionen für verschiedene Viskositäten",
+        "Tauchrohr-Alternativen aus PP, PVDF, Aluminium oder Edelstahl AISI 316L",
+        "ATEX (Ex-Proof)-Konformität für Säuren, Lösungsmittel und brennbare Stoffe",
+        "Schnelle Reinigung und Wartung durch leicht demontierbares Design"
+      ],
+      "imgAlt": "Fasspumpenmotor und Rohrverbindung"
+    },
+    "table": {
+      "title": "Material- und Kapazitätsauswahl",
+      "note": "* Die Tauchlängen der Pumpen sollten entsprechend der Tiefe des zu entleerenden Gebindes (200-L-Fass, 1000-L-IBC usw.) zwischen 700 mm und 1200 mm gewählt werden.",
+      "headers": [
+        "ANWENDUNG / CHEMIKALIE",
+        "ROHRMATERIAL",
+        "TAUCHLÄNGE",
+        "MAX. VISKOSITÄT"
+      ],
+      "imgAlt": "Technische Kapazitätszeichnung Fasspumpe",
+      "rows": [
+        { "application": "Säuren und Basen", "material": "PP (Polypropylen)", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Korrosive Chemikalien", "material": "PVDF", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Lebensmittel und Getränke", "material": "Edelstahl AISI 316L", "length": "1000 mm / 1200 mm", "viscosity": "1.000 cPs", "highlight": "dark" },
+        { "application": "Brennbare Lösungsmittel (ATEX)", "material": "Edelstahl + Ex-Proof", "length": "1000 mm / 1200 mm", "viscosity": "800 cPs", "highlight": "dark" },
+        { "application": "Hochviskose Medien (Shampoo)", "material": "AISI 316L (Exzenterschnecken-Modell)", "length": "1000 mm / 1200 mm", "viscosity": "100.000 cPs", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Bis zu welcher Viskosität können Flüssigkeiten mit einer Fasspumpe gefördert werden?",
+          "a": "Standard-Kreiselfasspumpen eignen sich für wässrige bis leicht ölige Konsistenzen (max. 1000 cPs). Für zähflüssige Medien wie Creme, Honig oder Pasten sollten vertikale Fasspumpen nach dem Exzenterschnecken-Prinzip (Progressive Cavity) gewählt werden."
+        },
+        {
+          "q": "Ist ein ATEX (Ex-Proof) Motor zwingend erforderlich?",
+          "a": "Wenn die zu fördernde Flüssigkeit Verdünner, Alkohol, Aceton oder ein brennbares petrochemisches Produkt ist, muss zwingend ein ATEX-zugelassener Druckluft- oder Elektromotor verwendet werden, um Explosionen durch statische Aufladung oder Funkenflug zu vermeiden."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Unsere industriellen Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Chemischer Säuretransfer", "alt": "Säurefasspumpe" },
+        { "src": "galeri-2.webp", "label": "IBC-Tank-Entleerung", "alt": "IBC-Transferpumpe" },
+        { "src": "galeri-3.webp", "label": "Lebensmitteltauglicher Transfer", "alt": "Edelstahl-Lebensmittelpumpe" },
+        { "src": "galeri-4.webp", "label": "ATEX-Lösungsmittelabsaugung", "alt": "Ex-Proof-Fasspumpe" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie unseren Katalog mit chemischen Beständigkeitstabellen, Motoroptionen (elektrisch/pneumatisch) und Förderkennlinien herunter.",
+        "fileUrl": "/assets/documents/de/fass-containerpumpen-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "CHEMIEANLAGE",
+        "desc": "ATEX-Fasspumpen, die wir für die Rohstoffannahme einer internationalen chemischen Produktionsanlage geliefert haben.",
+        "imgAlt": "Fasspumpen Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Welches Gehäusematerial?",
+        "desc": "PP, PVDF oder Edelstahl? Senden Sie uns das Sicherheitsdatenblatt (SDB) Ihrer Chemikalie, und wir ermitteln das sicherste Material.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hallo,%20ich%20moechte%20technische%20Informationen%20und%20Preise%20zu%20Fass-%20und%20IBC-Pumpen%20erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

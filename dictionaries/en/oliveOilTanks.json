@@ -1,0 +1,95 @@
+{
+  "oliveOilTanksPage": {
+    "metadata": {
+      "title": "Olive Oil Tanks | Welltech®",
+      "description": "Stainless steel storage tanks with conical bottoms, nitrogen blanketing systems, and zero oxidation guarantee that preserve the exquisite taste of olive oil."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "tanks": "Stainless Tanks",
+      "current": "Olive Oil Tanks"
+    },
+    "hero": {
+      "title": "Olive Oil Tanks",
+      "desc": "High-quality stainless storage solutions with a zero oxidation guarantee that preserve the quality, acidity, and aroma of olive oil just like the first day."
+    },
+    "engineering": {
+      "title": "Anti-Oxidation Engineering",
+      "desc": "Olive oil is a delicate product that begins to degrade rapidly when it comes into contact with air (oxygen) and light. Welltech® olive oil tanks are equipped with a special Nitrogen Blanketing system that evacuates the air inside. Smooth welding craftsmanship (Ra < 0.6) prevents sediment accumulation, while the specially inclined conical bottom design ensures the olive oil is stored and filtered in its purest form (without pulp)."
+    },
+    "features": {
+      "title": "Design and Protection Features",
+      "items": {
+        "1": "AISI 304 or 316L High-Quality Stainless Steel",
+        "2": "Integrated Nitrogen Blanketing System for Zero Oxidation",
+        "3": "Specially Angled Conical Bottom for Sediment Discharge",
+        "4": "Lightproof, Completely Leak-Tight Argon Welded Shell",
+        "5": "Optional Insulation and Cooling/Heating Jacket (Rollbond)",
+        "6": "Level Indicator, Sampling Valve, and CIP System"
+      }
+    },
+    "capacityTable": {
+      "title": "Standard Production Capacities",
+      "note": "* Conical bottom inclinations can be calculated specifically (15°, 30°, 45°) according to the sediment structure of the oil and the facility's filtration process.",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIAMETER (Ø mm)",
+        "height": "HEIGHT (mm)",
+        "thickness": "SHELL THICKNESS"
+      },
+      "customRow": "Project-based custom production is carried out for higher capacity integrated olive oil silos."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What is a nitrogen blanketing system, and why is it necessary?",
+          "a": "Nitrogen gas pumped into the headspace of the tank completely pushes the oxygen out. This cuts off the oil's contact with air, prevents the rise in acidity (oxidation), and keeps the olive oil as fresh as the day it was pressed for months."
+        },
+        {
+          "q": "What is the purpose of a conical tank bottom?",
+          "a": "As olive oil rests, a natural sediment (pulp) accumulates at the bottom. The conical bottom design allows this sediment to collect at the lowest center point, making it easy to separate from the oil via the discharge valve."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Our Olive Oil Applications",
+      "p1": {
+        "title": "Boutique Production Storage",
+        "alt": "Boutique Olive Oil Storage Tank"
+      },
+      "p2": {
+        "title": "Nitrogen Blanketed Tank",
+        "alt": "Nitrogen Blanketed Olive Oil Tank"
+      },
+      "p3": {
+        "title": "Conical Bottom Resting",
+        "alt": "Conical Bottom Resting Tank"
+      },
+      "p4": {
+        "title": "Integrated Facility Silos",
+        "alt": "Olive Oil Facility Silos"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download the specification file containing nitrogen system details, bottom inclination ratios, and material standards.",
+        "fileUrl": "/assets/documents/en/olive-oil-storage-tanks-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "INTEGRATED FACILITY",
+        "desc": "Turnkey storage line we installed for a modern olive oil factory in the Aegean Region.",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "Is Climate Control Necessary?",
+        "desc": "Let's design your special tank with a heating jacket together to prevent the oil from freezing in cold climates.",
+        "whatsappMsg": "Hello, I would like to get technical information and pricing regarding Olive Oil Tanks (Nitrogen blanketed).",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

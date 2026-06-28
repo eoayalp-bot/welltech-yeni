@@ -1,0 +1,82 @@
+{
+  "reactorsPage": {
+    "metadata": {
+      "title": "Reatores Químicos e Tanques de Processo | Welltech®",
+      "description": "Reatores de aço inoxidável para trabalho pesado (heavy-duty) que controlam com segurança as reações químicas sob condições de alta pressão, vácuo e temperaturas extremas."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "process": "Sistemas de Processo",
+      "current": "Reatores Químicos"
+    },
+    "hero": {
+      "title": "Reatores Químicos",
+      "desc": "Sistemas de trabalho pesado que controlam as reações químicas sob condições rigorosas de processo (alta pressão, vácuo, calor extremo) com máxima segurança e precisão."
+    },
+    "technology": {
+      "title": "Tecnologia de Reação e Controle",
+      "desc1": "Os reatores industriais são tanques de processo especiais resistentes à pressão, projetados para garantir que reações químicas (polimerização, esterificação, condensação, etc.) ocorram de forma segura e em velocidade ideal.",
+      "desc2": "<strong>Os Reatores Welltech®</strong> são equipados com sistemas de meia-cana ou jaqueta de aquecimento para manter o controle de reações <strong>exotérmicas (liberação de calor)</strong> ou <strong>endotérmicas (absorção de calor)</strong>, dependendo do tipo de reação. A produção livre de riscos é fornecida com redutores especiais adaptados à estrutura da massa interna e sistemas de automação com certificação ATEX.",
+      "imgAlt": "Tecnologia de Processo de Reator Químico"
+    },
+    "features": {
+      "title": "Características de Projeto e Segurança",
+      "items": [
+        "Corpo de Alta Pressão Aprovado pela TÜV e ASME Seção VIII",
+        "Vedação Total com Selo Mecânico e Magnético",
+        "Automação e Painel de Motor em Conformidade com Ex-Proof (ATEX)",
+        "Sistemas de Camisa de Alta Eficiência para Aquecimento/Resfriamento",
+        "Capacidade de Redução do Ponto de Ebulição sob Vácuo",
+        "Válvula de Segurança e Disco de Ruptura para Gases Perigosos"
+      ],
+      "imgAlt": "Seção Transversal do Motor e Equipamento do Reator"
+    },
+    "table": {
+      "title": "Capacidades de Reatores Padrão",
+      "note": "* As dimensões e os valores de pressão fornecidos são para referência. A produção personalizada pode ser feita em qualquer capacidade de acordo com as necessidades especiais de processo da sua instalação.",
+      "headers": [
+        "VOLUME DO REATOR",
+        "PRESSÃO DE TRABALHO",
+        "TIPO DE AQUECIMENTO/RESFRIAMENTO",
+        "TIPO DE PÁ DO MISTURADOR"
+      ],
+      "imgAlt": "Desenho Técnico do Reator",
+      "rows": [
+        { "volume": "500 Litros (Piloto)", "pressure": "-1 / +6 Bar", "heating": "Elétrico / Vapor", "mixer": "Hélice / Âncora", "highlight": "dark" },
+        { "volume": "2.000 Litros", "pressure": "-1 / +10 Bar", "heating": "Serpentina de Meio Tubo", "mixer": "Âncora + Chicana (Baffle)", "highlight": "dark" },
+        { "volume": "5.000 Litros", "pressure": "-1 / +10 Bar", "heating": "Serpentina de Meio Tubo", "mixer": "Pá Dupla de Rotação Oposta", "highlight": "dark" },
+        { "volume": "10.000 Litros", "pressure": "-1 / +16 Bar", "heating": "Serpentina de Meio Tubo", "mixer": "Âncora com Raspador", "highlight": "dark" },
+        { "volume": "20.000+ Litros", "pressure": "-1 / +16 Bar", "heating": "Projeto Sob Medida", "mixer": "Projeto Sob Medida", "highlight": "orange" }
+      ]
+    },
+    "gallery": {
+      "title": "Nossas Aplicações de Reatores Industriais",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Reator de Polimerização", "alt": "Reator de Polímero" },
+        { "src": "galeri-2.webp", "label": "Mistura de Cosméticos e Vácuo", "alt": "Reator a Vácuo" },
+        { "src": "galeri-3.webp", "label": "Reator de Tinta e Resina", "alt": "Reator de Resina" },
+        { "src": "galeri-4.webp", "label": "Reator de Síntese Farmacêutica", "alt": "Reator Farmacêutico" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Baixe o arquivo técnico contendo valores de resistência à pressão, opções de camisa e combinações motor-redutor.",
+        "fileUrl": "/assets/documents/pt/reatores-quimicos-fichas-tec.pdf",
+        "btn": "BAIXAR ESPECIFICAÇÃO"
+      },
+      "reference": {
+        "badge": "FÁBRICA PETROQUÍMICA",
+        "desc": "Reator de síntese de alta pressão de 15.000 L com painel Ex-Proof que produzimos para uma instalação química internacional.",
+        "imgAlt": "Referência de Reator",
+        "link": "IR PARA O PROJETO"
+      },
+      "cta": {
+        "title": "Reator Específico para o seu Processo",
+        "desc": "Compartilhe seus tempos de reação e valores de pressão/temperatura conosco e vamos criar juntos o projeto de reator mais seguro.",
+        "btn": "CONSULTAR UM ENGENHEIRO"
+      }
+    }
+  }
+}

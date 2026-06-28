@@ -1,0 +1,95 @@
+{
+  "centrifugalPumpsPage": {
+    "metadata": {
+      "title": "Bombas Centrífugas | Welltech®",
+      "description": "Bombas centrífugas de acero inoxidable para la transferencia higiénica, continua y de alto caudal de fluidos de baja viscosidad como leche, jugos y agua."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "pumps": "Bombas",
+      "current": "Bombas Centrífugas"
+    },
+    "hero": {
+      "title": "Bombas Centrífugas",
+      "desc": "Caudal alto y transferencia ininterrumpida para fluidos de baja viscosidad. Diseño de acero inoxidable que proporciona máxima higiene para líneas de alimentos y bebidas."
+    },
+    "technology": {
+      "title": "Tecnología Centrífuga",
+      "desc": "Las bombas centrífugas funcionan según el principio de generar fuerza centrífuga mediante un impulsor (rodete) que gira a alta velocidad dentro de la carcasa. El líquido se aspira desde el centro del impulsor y se acelera a través de los álabes hacia la línea de descarga. Es la solución más eficiente y económica para la transferencia de fluidos como leche, agua, jugos de frutas y líquidos de lavado CIP.",
+      "imgAlt": "Tecnología de Impulsor de Bomba Centrífuga"
+    },
+    "features": {
+      "title": "Ventajas de Diseño y Rendimiento",
+      "items": [
+        "Flujo Continuo y Suave a Altos Caudales",
+        "Alta Eficiencia con Bajo Consumo de Energía",
+        "Estructura Interna 100% Lavable (CIP) sin Zonas Muertas",
+        "Carcasa Forjada de Acero Inoxidable AISI 304 o 316L",
+        "Opciones de Impulsor Abierto, Semiabierto o Cerrado",
+        "Sello Mecánico de Larga Duración y Fácil de Mantener"
+      ],
+      "imgAlt": "Motor y Carcasa de Bomba Centrífuga"
+    },
+    "table": {
+      "title": "Especificaciones Técnicas y Capacidad",
+      "note": "* Los valores de caudal y altura manométrica (carga) se configuran específicamente según las necesidades de su proceso, basándose en la potencia del motor y el diámetro del impulsor.",
+      "headers": [
+        "MODELO DE BOMBA",
+        "CAUDAL MÁX. (m³/h)",
+        "ALTURA MANOMÉTRICA (m)",
+        "POTENCIA DEL MOTOR (kW)"
+      ],
+      "imgAlt": "Dibujo Técnico de Bomba Centrífuga",
+      "rows": [
+        { "model": "WCP-10", "flow": "10 m³/h", "head": "15 m", "power": "1.1 kW", "highlight": "dark" },
+        { "model": "WCP-20", "flow": "20 m³/h", "head": "25 m", "power": "2.2 kW", "highlight": "dark" },
+        { "model": "WCP-30", "flow": "30 m³/h", "head": "30 m", "power": "4.0 kW", "highlight": "dark" },
+        { "model": "WCP-50", "flow": "50 m³/h", "head": "35 m", "power": "5.5 kW", "highlight": "dark" },
+        { "model": "WCP-80", "flow": "80 m³/h", "head": "45 m", "power": "11.0 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Se pueden utilizar bombas centrífugas para líquidos muy densos?",
+          "a": "No. Las bombas centrífugas están diseñadas para fluidos de baja viscosidad como agua, leche y jugos de frutas. Los líquidos de alta viscosidad como la miel o la crema causarán cavitación en el impulsor."
+        },
+        {
+          "q": "¿Cuál es la diferencia entre los impulsores abiertos y cerrados?",
+          "a": "Los impulsores cerrados proporcionan la máxima eficiencia en la transferencia de líquidos puros (agua, leche); mientras que los impulsores abiertos o semiabiertos se utilizan para transferir líquidos que contienen sedimentos ligeros o partículas de frutas sin obstruirse."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nuestras Aplicaciones Industriales",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Transferencia Láctea", "alt": "Bomba de Leche" },
+        { "src": "galeri-2.webp", "label": "Líneas de Jugo de Frutas", "alt": "Bomba de Jugo" },
+        { "src": "galeri-3.webp", "label": "Sistemas de Lavado CIP", "alt": "Bomba CIP" },
+        { "src": "galeri-4.webp", "label": "Procesos de Agua y Bebidas", "alt": "Bomba de Bebidas" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Descargue nuestro catálogo que incluye curvas de rendimiento de la bomba, potencias de motor y tipos de sellos mecánicos.",
+        "fileUrl": "/assets/documents/es/bombas-centrifugas-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "FÁBRICA DE BEBIDAS",
+        "desc": "Línea de bombas centrífugas higiénicas que instalamos para una instalación de producción de jugos de gran capacidad.",
+        "imgAlt": "Referencia de Bomba Centrífuga",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "Caudal y Presión Precisos",
+        "desc": "Díganos el número de codos y la longitud de tubería en su línea, y determinaremos el diámetro de impulsor correcto que no causará cavitación.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hola,%20me%20gustaria%20obtener%20informacion%20tecnica%20y%20precios%20sobre%20bombas%20centrifugas.",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

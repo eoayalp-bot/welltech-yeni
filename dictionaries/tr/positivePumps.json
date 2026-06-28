@@ -1,0 +1,95 @@
+{
+  "positivePumpsPage": {
+    "metadata": {
+      "title": "Pozitif Deplasmanlı (Loblu) Pompalar | Welltech®",
+      "description": "Krema, bal, şampuan ve salça gibi yüksek viskoziteli akışkanların partikül yapısını bozmadan transferini sağlayan paslanmaz loblu pompalar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Pozitif Deplasmanlı Pompalar"
+    },
+    "hero": {
+      "title": "Pozitif Deplasmanlı Pompalar",
+      "desc": "Bal, şampuan, krema ve salça gibi yoğun (yüksek viskoziteli) ürünlerin hücresel yapısını bozmadan, hassas ve pürüzsüz akışkan transferi."
+    },
+    "technology": {
+      "title": "Lob (Rotor) Teknolojisi",
+      "desc": "Pozitif deplasmanlı loblu pompalar, santrifüj pompaların aksine akışkanı yüksek hızda çırpıp ezmek yerine, birbirine zıt yönde dönen özel loblar (rotorlar) arasında hapsederek nazikçe iter. Bu teknoloji sayesinde ürünün içindeki partiküller (meyve parçacıkları, lifler vb.) parçalanmaz, akışkanın kalitesi ve kıvamı %100 korunarak bir sonraki istasyona aktarılır.",
+      "imgAlt": "Loblu Pompa Rotor Teknolojisi"
+    },
+    "features": {
+      "title": "Tasarım ve Operasyon Avantajları",
+      "items": [
+        "Hassas Gıdaların (Partiküllü) Ezilmeden Transferi",
+        "Sabit (Dalgalanmasız) ve Ölçülebilir Yüksek Debi",
+        "Yüksek Viskoziteli (Yoğun) Akışkanlarda Maksimum Verim",
+        "FDA/3A Onaylı %100 Hijyenik Paslanmaz Çelik Gövde",
+        "Çift Yönlü (Reverse) Çalışma Kabiliyeti",
+        "Kısa Süreli Kuru (Susuz) Çalışmaya Karşı Dayanım"
+      ],
+      "imgAlt": "Pozitif Deplasmanlı Pompa Redüktör"
+    },
+    "table": {
+      "title": "Teknik Özellikler ve Kapasite Tablosu",
+      "note": "* Debi değerleri ve rotor tipi (Kelebek, Bi-Wing, Tri-Lobe), transfer edilecek ürünün viskozitesine (yoğunluğuna) göre özel olarak hesaplanmaktadır.",
+      "headers": [
+        "POMPA MODELİ",
+        "MAKS. DEBİ (m³/h)",
+        "MAKS. BASINÇ (Bar)",
+        "BAĞLANTI ÖLÇÜSÜ"
+      ],
+      "imgAlt": "Loblu Pompa Teknik Çizim",
+      "rows": [
+        { "model": "WLP-10", "flow": "3 m³/h", "pressure": "10 Bar", "connection": "1\"", "highlight": "dark" },
+        { "model": "WLP-20", "flow": "10 m³/h", "pressure": "12 Bar", "connection": "1 1/2\"", "highlight": "dark" },
+        { "model": "WLP-30", "flow": "25 m³/h", "pressure": "12 Bar", "connection": "2\"", "highlight": "dark" },
+        { "model": "WLP-40", "flow": "45 m³/h", "pressure": "15 Bar", "connection": "2 1/2\"", "highlight": "dark" },
+        { "model": "WLP-50", "flow": "70 m³/h", "pressure": "15 Bar", "connection": "3\"", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Loblu pompa ile Santrifüj pompa arasındaki fark nedir?",
+          "a": "Santrifüj pompalar suyu fırlatarak (hızlı) transfer eder ve yoğun ürünlerde kavitasyon yapar. Loblu pompalar ise hacimsel (pozitif) olarak çalışır; sıvı ne kadar koyu (viskoz) olursa olsun eşit miktarda ve ürünü ezmeden ileri iter."
+        },
+        {
+          "q": "Loblu pompalar yıkanabilir (CIP) mi?",
+          "a": "Kesinlikle. Loblu pompaların iç yapısında ölü hacim bulunmaz. CIP (yerinde yıkama) sistemleriyle tesisattan sökülmeden, yüksek basınçlı sıcak su ve kimyasallarla %100 steril hale getirilebilir."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Endüstriyel Uygulamalarımız",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Bal ve Pekmez Transferi", "alt": "Bal Transfer Pompası" },
+        { "src": "galeri-2.webp", "label": "Kozmetik ve Şampuan Aktarımı", "alt": "Kozmetik Pompası" },
+        { "src": "galeri-3.webp", "label": "Salça ve Gıda Macunu Transferi", "alt": "Salça Pompası" },
+        { "src": "galeri-4.webp", "label": "Krema ve Çikolata Hatları", "alt": "Çikolata Loblu Pompa" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Viskozite grafikleri, rotor/lob tipleri (Tri-Lobe) ve bağlantı ölçülerini içeren spesifikasyon dosyasını indirin.",
+        "fileUrl": "/assets/documents/tr/pozitif-deplasmanli-pompalar-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "GIDA TESİSİ",
+        "desc": "Uluslararası bir bisküvi ve çikolata üretim tesisine kurduğumuz çift ceketli krema pompası hattı.",
+        "imgAlt": "Gıda Fabrikası Pompa Referansı",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Ürününüz İçin En Doğru Lob",
+        "desc": "Akışkanınızın partikül çapını ve çalışma sıcaklığını bizimle paylaşın, ezilme yaratmayan en doğru (Bi-Wing veya Tri-Lobe) rotor tasarımını birlikte yapalım.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Merhaba,%20pozitif%20deplasmanli%20(loblu)%20pompalar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

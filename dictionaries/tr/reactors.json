@@ -1,0 +1,82 @@
+{
+  "reactorsPage": {
+    "metadata": {
+      "title": "Kimyasal Reaktörler ve Proses Tankları | Welltech®",
+      "description": "Yüksek basınç, vakum ve aşırı sıcaklık koşullarında gerçekleşen kimyasal reaksiyonları güvenle kontrol eden ağır hizmet tipi paslanmaz çelik reaktörler."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "process": "Proses Sistemleri",
+      "current": "Kimyasal Reaktörler"
+    },
+    "hero": {
+      "title": "Kimyasal Reaktörler",
+      "desc": "Zorlu proses şartlarında (yüksek basınç, vakum, aşırı ısı) gerçekleşen reaksiyonları maksimum güvenlik ve hassasiyetle kontrol eden ağır hizmet sistemleri."
+    },
+    "technology": {
+      "title": "Reaksiyon ve Kontrol Teknolojisi",
+      "desc1": "Endüstriyel reaktörler, kimyasal tepkimelerin (polimerizasyon, esterleşme, kondenzasyon vb.) optimum hızda ve güvenli bir şekilde gerçekleşmesi için tasarlanmış, basınca dayanıklı özel proses tanklarıdır.",
+      "desc2": "<strong>Welltech® Reaktörleri</strong>, reaksiyonun türüne göre <strong>ekzotermik (ısı veren)</strong> veya <strong>endotermik (ısı alan)</strong> tepkimeleri kontrol altında tutmak için yarım boru serpantin veya ceket sistemleriyle donatılır. İçerideki kütlenin yapısına uygun özel redüktörler ve ATEX onaylı otomasyon sistemleri ile sıfır riskli üretim sağlanır.",
+      "imgAlt": "Kimyasal Reaktör Proses Teknolojisi"
+    },
+    "features": {
+      "title": "Tasarım ve Güvenlik Donanımları",
+      "items": [
+        "TÜV ve ASME Bölüm VIII Onaylı Yüksek Basınç Gövdesi",
+        "Mekanik ve Manyetik Salmastra ile Tam Sızdırmazlık",
+        "Ex-Proof (ATEX) Uyumlu Otomasyon ve Motor Panosu",
+        "Isıtma/Soğutma İçin Yüksek Verimli Ceket Sistemleri",
+        "Vakum Altında Kaynama Noktası Düşürme Kabiliyeti",
+        "Tehlikeli Gazlar İçin Emniyet Valfi ve Yırtılma Diski"
+      ],
+      "imgAlt": "Reaktör Motor ve Donanım Kesiti"
+    },
+    "table": {
+      "title": "Standart Reaktör Kapasiteleri",
+      "note": "* Verilen ölçü ve basınç değerleri referans amaçlıdır. Tesisinizin özel proses ihtiyaçlarına göre her kapasitede özel üretim yapılabilmektedir.",
+      "headers": [
+        "REAKTÖR HACMİ",
+        "ÇALIŞMA BASINCI",
+        "ISITMA/SOĞUTMA TİPİ",
+        "MİKSER KANAT TİPİ"
+      ],
+      "imgAlt": "Reaktör Teknik Çizimi",
+      "rows": [
+        { "volume": "500 Litre (Pilot)", "pressure": "-1 / +6 Bar", "heating": "Elektrik / Buhar", "mixer": "Pervane / Çapa", "highlight": "dark" },
+        { "volume": "2.000 Litre", "pressure": "-1 / +10 Bar", "heating": "Yarım Boru Serpantin", "mixer": "Çapa + Baffle", "highlight": "dark" },
+        { "volume": "5.000 Litre", "pressure": "-1 / +10 Bar", "heating": "Yarım Boru Serpantin", "mixer": "Zıt Yönlü Çift Kanat", "highlight": "dark" },
+        { "volume": "10.000 Litre", "pressure": "-1 / +16 Bar", "heating": "Yarım Boru Serpantin", "mixer": "Sıyırıcılı Çapa", "highlight": "dark" },
+        { "volume": "20.000+ Litre", "pressure": "-1 / +16 Bar", "heating": "Özel Tasarım", "mixer": "Özel Tasarım", "highlight": "orange" }
+      ]
+    },
+    "gallery": {
+      "title": "Endüstriyel Reaktör Uygulamalarımız",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Polimerizasyon Reaktörü", "alt": "Polimer Reaktörü" },
+        { "src": "galeri-2.webp", "label": "Kozmetik Karışım ve Vakum", "alt": "Vakumlu Reaktör" },
+        { "src": "galeri-3.webp", "label": "Boya ve Reçine Reaktörü", "alt": "Reçine Reaktörü" },
+        { "src": "galeri-4.webp", "label": "İlaç Sentez Reaktörü", "alt": "İlaç Reaktörü" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Basınç dayanım değerleri, ceket alternatifleri ve motor-redüktör kombinasyonlarını içeren teknik dosyayı indirin.",
+        "fileUrl": "/assets/documents/tr/kimyasal-reaktorler-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "PETROKİMYA TESİSİ",
+        "desc": "Uluslararası bir kimya tesisi için ürettiğimiz Ex-Proof panolu 15.000 L yüksek basınçlı sentez reaktörü.",
+        "imgAlt": "Reaktör Referansı",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Prosesinize Özel Reaktör",
+        "desc": "Tepkime sürelerinizi ve basınç/sıcaklık değerlerinizi bizimle paylaşın, en güvenli reaktör tasarımını birlikte oluşturalım.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

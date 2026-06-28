@@ -1,0 +1,95 @@
+{
+  "positivePumpsPage": {
+    "metadata": {
+      "title": "Positive Displacement (Lobe) Pumps | Welltech®",
+      "description": "Stainless lobe pumps that ensure the transfer of highly viscous fluids like cream, honey, shampoo, and tomato paste without breaking their particulate structure."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "pumps": "Pumps",
+      "current": "Positive Displacement Pumps"
+    },
+    "hero": {
+      "title": "Positive Displacement Pumps",
+      "desc": "Precise and smooth fluid transfer of dense (high viscosity) products like honey, shampoo, cream, and tomato paste without disrupting their cellular structure."
+    },
+    "technology": {
+      "title": "Lobe (Rotor) Technology",
+      "desc": "Unlike centrifugal pumps that agitate and crush the fluid at high speed, positive displacement lobe pumps gently push the fluid by trapping it between special counter-rotating lobes (rotors). Thanks to this technology, particles in the product (fruit pieces, fibers, etc.) are not crushed; the quality and consistency of the fluid are 100% preserved as it is transferred to the next station.",
+      "imgAlt": "Lobe Pump Rotor Technology"
+    },
+    "features": {
+      "title": "Design and Operational Advantages",
+      "items": [
+        "Transfer of Delicate (Particulate) Foods Without Crushing",
+        "Constant (Pulsation-Free) and Measurable High Flow Rate",
+        "Maximum Efficiency in High Viscosity (Dense) Fluids",
+        "FDA/3A Approved 100% Hygienic Stainless Steel Body",
+        "Bi-Directional (Reverse) Operation Capability",
+        "Resistance to Short-Term Dry Running"
+      ],
+      "imgAlt": "Positive Displacement Pump Gearbox"
+    },
+    "table": {
+      "title": "Technical Specifications and Capacity Table",
+      "note": "* Flow rate values and rotor type (Butterfly, Bi-Wing, Tri-Lobe) are calculated specifically based on the viscosity (density) of the product to be transferred.",
+      "headers": [
+        "PUMP MODEL",
+        "MAX. FLOW (m³/h)",
+        "MAX. PRESSURE (Bar)",
+        "CONNECTION SIZE"
+      ],
+      "imgAlt": "Lobe Pump Technical Drawing",
+      "rows": [
+        { "model": "WLP-10", "flow": "3 m³/h", "pressure": "10 Bar", "connection": "1\"", "highlight": "dark" },
+        { "model": "WLP-20", "flow": "10 m³/h", "pressure": "12 Bar", "connection": "1 1/2\"", "highlight": "dark" },
+        { "model": "WLP-30", "flow": "25 m³/h", "pressure": "12 Bar", "connection": "2\"", "highlight": "dark" },
+        { "model": "WLP-40", "flow": "45 m³/h", "pressure": "15 Bar", "connection": "2 1/2\"", "highlight": "dark" },
+        { "model": "WLP-50", "flow": "70 m³/h", "pressure": "15 Bar", "connection": "3\"", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What is the difference between a Lobe pump and a Centrifugal pump?",
+          "a": "Centrifugal pumps transfer water by throwing it (fast) and cause cavitation in dense products. Lobe pumps operate volumetrically (positive); no matter how thick (viscous) the liquid is, it pushes it forward in equal amounts and without crushing the product."
+        },
+        {
+          "q": "Are lobe pumps washable (CIP)?",
+          "a": "Absolutely. There are no dead volumes in the internal structure of lobe pumps. They can be made 100% sterile with high-pressure hot water and chemicals using CIP (clean-in-place) systems without being removed from the installation."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Industrial Applications",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Honey and Molasses Transfer", "alt": "Honey Transfer Pump" },
+        { "src": "galeri-2.webp", "label": "Cosmetics and Shampoo Transfer", "alt": "Cosmetics Pump" },
+        { "src": "galeri-3.webp", "label": "Paste and Food Paste Transfer", "alt": "Paste Pump" },
+        { "src": "galeri-4.webp", "label": "Cream and Chocolate Lines", "alt": "Chocolate Lobe Pump" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download the specification file containing viscosity charts, rotor/lobe types (Tri-Lobe), and connection dimensions.",
+        "fileUrl": "/assets/documents/en/positive-displacement-pumps-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "FOOD FACILITY",
+        "desc": "Double-jacketed cream pump line we installed for an international biscuit and chocolate production facility.",
+        "imgAlt": "Food Factory Pump Reference",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "The Right Lobe for Your Product",
+        "desc": "Share your fluid's particle diameter and operating temperature with us, and let's create the most accurate (Bi-Wing or Tri-Lobe) rotor design that prevents crushing.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hello,%20I%20would%20like%20to%20get%20technical%20information%20and%20pricing%20about%20positive%20displacement%20(lobe)%20pumps.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "positivePumpsPage": {
+    "metadata": {
+      "title": "Pompe a Lobi (a Spostamento Positivo) | Welltech®",
+      "description": "Pompe a lobi in acciaio inox per il trasferimento delicato di fluidi ad alta viscosità come creme, miele, shampoo e concentrati, senza alterarne la struttura delle particelle."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "pumps": "Pompe",
+      "current": "Pompe a Spostamento Positivo"
+    },
+    "hero": {
+      "title": "Pompe a Spostamento Positivo",
+      "desc": "Trasferimento delicato e uniforme di prodotti ad alta viscosità come miele, shampoo, creme e concentrati, preservandone completamente la struttura."
+    },
+    "technology": {
+      "title": "Tecnologia a Lobi (Rotori)",
+      "desc": "A differenza delle pompe centrifughe, le pompe a lobi a spostamento positivo non sottopongono il prodotto ad elevate velocità o a fenomeni di taglio. I lobi controrotanti trasportano delicatamente il fluido all'interno di camere volumetriche, preservando particelle solide come pezzi di frutta o fibre e mantenendo inalterate consistenza e qualità del prodotto fino alla fase successiva del processo.",
+      "imgAlt": "Tecnologia del Rotore della Pompa a Lobi"
+    },
+    "features": {
+      "title": "Vantaggi di Progettazione e Operativi",
+      "items": [
+        "Trasferimento Delicato di Prodotti Sensibili e con Particelle",
+        "Portata Elevata, Costante e Priva di Pulsazioni",
+        "Massima Efficienza con Fluidi ad Alta Viscosità",
+        "Corpo in Acciaio Inox Igienico Certificato FDA/3A",
+        "Possibilità di Funzionamento Bidirezionale (Reverse)",
+        "Resistenza a Brevi Periodi di Funzionamento a Secco"
+      ],
+      "imgAlt": "Motoriduttore della Pompa a Spostamento Positivo"
+    },
+    "table": {
+      "title": "Specifiche Tecniche e Capacità",
+      "note": "* I valori di portata e la configurazione dei rotori (Butterfly, Bi-Wing, Tri-Lobe) vengono dimensionati in funzione della viscosità del prodotto da trasferire.",
+      "headers": [
+        "MODELLO POMPA",
+        "PORTATA MAX (m³/h)",
+        "PRESSIONE MAX (Bar)",
+        "ATTACCO"
+      ],
+      "imgAlt": "Disegno Tecnico della Pompa a Lobi",
+      "rows": [
+        { "model": "WLP-10", "flow": "3 m³/h", "pressure": "10 Bar", "connection": "1\"", "highlight": "dark" },
+        { "model": "WLP-20", "flow": "10 m³/h", "pressure": "12 Bar", "connection": "1 1/2\"", "highlight": "dark" },
+        { "model": "WLP-30", "flow": "25 m³/h", "pressure": "12 Bar", "connection": "2\"", "highlight": "dark" },
+        { "model": "WLP-40", "flow": "45 m³/h", "pressure": "15 Bar", "connection": "2 1/2\"", "highlight": "dark" },
+        { "model": "WLP-50", "flow": "70 m³/h", "pressure": "15 Bar", "connection": "3\"", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Qual è la differenza tra una pompa a lobi e una pompa centrifuga?",
+          "a": "Le pompe centrifughe trasferiscono il prodotto mediante alta velocità e possono generare cavitazione con fluidi viscosi. Le pompe a lobi, invece, funzionano secondo il principio volumetrico (spostamento positivo), garantendo una portata costante e delicata indipendentemente dalla viscosità del prodotto."
+        },
+        {
+          "q": "Le pompe a lobi sono compatibili con i sistemi CIP?",
+          "a": "Assolutamente sì. L'interno delle pompe a lobi è progettato senza zone morte e può essere completamente sanificato tramite sistemi CIP (Clean-In-Place), utilizzando acqua calda e detergenti senza smontare la pompa dall'impianto."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Le Nostre Applicazioni Industriali",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Trasferimento di Miele e Melassa", "alt": "Pompa per Miele" },
+        { "src": "galeri-2.webp", "label": "Trasferimento di Shampoo e Prodotti Cosmetici", "alt": "Pompa per Cosmetica" },
+        { "src": "galeri-3.webp", "label": "Trasferimento di Concentrati e Paste Alimentari", "alt": "Pompa per Concentrati" },
+        { "src": "galeri-4.webp", "label": "Linee per Creme e Cioccolato", "alt": "Pompa a Lobi per Cioccolato" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il documento tecnico contenente curve di viscosità, tipologie di rotori (Tri-Lobe) e dimensioni delle connessioni.",
+        "fileUrl": "/assets/documents/it/pompe-volumetriche-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "IMPIANTO ALIMENTARE",
+        "desc": "Linea di pompaggio per creme con doppia camicia installata presso uno stabilimento internazionale di biscotti e cioccolato.",
+        "imgAlt": "Riferimento Pompa Industria Alimentare",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "Il Rotore Ideale per il Vostro Prodotto",
+        "desc": "Comunicateci la dimensione delle particelle e la temperatura di esercizio del vostro prodotto: selezioneremo insieme la configurazione Bi-Wing o Tri-Lobe più adatta, evitando qualsiasi danneggiamento.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Merhaba,%20pozitif%20deplasmanli%20(loblu)%20pompalar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

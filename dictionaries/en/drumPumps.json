@@ -1,0 +1,95 @@
+{
+  "drumPumpsPage": {
+    "metadata": {
+      "title": "Drum and IBC Pumps | Welltech®",
+      "description": "Portable stainless submersible pumps to safely transfer acids, solvents, bases, and highly viscous chemicals from drums and containers."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "pumps": "Pumps",
+      "current": "Drum Pumps"
+    },
+    "hero": {
+      "title": "Drum and Container Pumps",
+      "desc": "The fastest and safest way to extract fluids from industrial drums and IBC tanks. Portable, lightweight, and ergonomic design that eliminates the risk of spills."
+    },
+    "technology": {
+      "title": "Vertical Immersion (Tube) Technology",
+      "desc": "Thanks to their thin and long vertical bodies, drum pumps are designed to reach the bottom of IBCs, drums, and non-standard narrow-necked containers. While the pump motor is located at the top (outside) of the body, the rotor pushing the fluid is located at the lowest (immersed) end of the pump. In this way, safe liquid transfer is provided without the need to tip or tilt heavy drums.",
+      "imgAlt": "Drum Pump Immersion Tube Cross-Section"
+    },
+    "features": {
+      "title": "Hardware and Occupational Safety Features",
+      "items": [
+        "Eliminates the Need to Lift/Tilt Heavy Drums",
+        "Minimizes the Risk of Chemical Splashes and Work Accidents",
+        "Electric or Pneumatic Motor Options for Different Viscosities",
+        "PP, PVDF, Aluminum, or AISI 316L Stainless Tube Alternatives",
+        "ATEX (Ex-Proof) Compliance for Acids, Solvents, and Flammable Chemicals",
+        "Fast Cleaning and Maintenance Thanks to Easy-to-Dismantle Design"
+      ],
+      "imgAlt": "Drum Pump Motor and Body Connection"
+    },
+    "table": {
+      "title": "Material and Capacity Selection",
+      "note": "* Pump immersion lengths should be selected between 700 mm and 1200 mm according to the depth of the packaging to be used (200L Drum, 1000L IBC, etc.).",
+      "headers": [
+        "APPLICATION / CHEMICAL",
+        "TUBE MATERIAL",
+        "IMMERSION LENGTH",
+        "MAX. VISCOSITY"
+      ],
+      "imgAlt": "Drum Pump Technical Capacity Drawing",
+      "rows": [
+        { "application": "Acids and Bases", "material": "PP (Polypropylene)", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Corrosive Chemicals", "material": "PVDF", "length": "1000 mm / 1200 mm", "viscosity": "300 cPs", "highlight": "dark" },
+        { "application": "Food and Beverage Series", "material": "AISI 316L Stainless", "length": "1000 mm / 1200 mm", "viscosity": "1,000 cPs", "highlight": "dark" },
+        { "application": "Flammable Solvents (ATEX)", "material": "Stainless + Ex-Proof", "length": "1000 mm / 1200 mm", "viscosity": "800 cPs", "highlight": "dark" },
+        { "application": "Viscous Fluids (Shampoo)", "material": "AISI 316L (Progressive Cavity)", "length": "1000 mm / 1200 mm", "viscosity": "100,000 cPs", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What density of liquids can be pumped with a drum pump?",
+          "a": "Standard centrifugal type drum pumps work from water consistency up to light oils (max. 1000 cPs). For highly viscous liquids like cream, honey, or paste, 'progressive cavity' type vertical drum pumps should be preferred."
+        },
+        {
+          "q": "Is an ATEX (Ex-Proof) approved motor mandatory?",
+          "a": "If the liquid you are transferring is thinner, alcohol, acetone, or a flammable petrochemical product, an ATEX-approved air or electric motor must absolutely be used to prevent explosions caused by static electricity or sparks."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Industrial Applications",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Chemical Acid Transfer", "alt": "Acid Drum Pump" },
+        { "src": "galeri-2.webp", "label": "IBC Tank Evacuation", "alt": "IBC Transfer Pump" },
+        { "src": "galeri-3.webp", "label": "Food Grade Transfer", "alt": "Stainless Food Pump" },
+        { "src": "galeri-4.webp", "label": "ATEX Solvent Extraction", "alt": "Ex-Proof Drum Pump" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download our catalog containing chemical resistance charts, motor options (electric/pneumatic), and flow curves.",
+        "fileUrl": "/assets/documents/en/drum-ibc-pumps-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "CHEMICAL FACILITY",
+        "desc": "ATEX drum pumps we provided for the raw material receiving line of an international chemical production facility.",
+        "imgAlt": "Drum Pump Reference",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "Which Body Material?",
+        "desc": "PP, PVDF, or Stainless Steel... Send us your chemical's MSDS report, and we will determine the safest and longest-lasting material.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hello,%20I%20would%20like%20to%20get%20technical%20information%20and%20pricing%20about%20drum%20and%20IBC%20pumps.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "seo": {
+    "defaultTitle": "Welltech® | Industrietanks und Prozesssysteme",
+    "description": "Hersteller von industriellen Edelstahltanks, Hygienepumpen und Prozessausrüstungen nach internationalen Standards.",
+    "keywords": [
+      "Edelstahltank",
+      "Prozesssysteme",
+      "Hygienepumpe",
+      "Welltech"
+    ]
+  },
+  "cookieBanner": {
+    "title": "Cookie-Richtlinie",
+    "description": "Wir verwenden Cookies, um Ihnen ein besseres Erlebnis zu bieten.",
+    "details": "Details anzeigen",
+    "accept": "Akzeptieren",
+    "decline": "Ablehnen"
+  },
+  "navbar": {
+    "tanks": "Edelstahltanks",
+    "machines": "Prozesssysteme",
+    "pumps": "Hygienepumpen",
+    "about": "Über uns",
+    "blog": "Blog & News",
+    "docs": "Dokumente",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "description": "Schlüsselfertiges Engineering für Ihre Anlage mit industriellen Edelstahltanks, Prozesssystemen und Hygienepumpen-Lösungen nach internationalen Standards.",
+    "inokstek": "EIN UNTERNEHMEN DER INOKSTEK GRUPPE",
+    "products": "PRODUKTE & LÖSUNGEN",
+    "tanks": "Lagerbehälter aus Edelstahl",
+    "machines": "Prozesssysteme",
+    "pumps": "Hygienische Transferpumpen",
+    "locations": "STANDORTE",
+    "hq_title": "Hauptsitz",
+    "factory_title": "Produktionsstätten",
+    "copyright": "Alle Rechte vorbehalten."
+  }
+}

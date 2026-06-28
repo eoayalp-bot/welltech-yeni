@@ -1,0 +1,95 @@
+{
+  "selfPrimingPumpsPage": {
+    "metadata": {
+      "title": "Bombas Autocebantes | Welltech®",
+      "description": "Bombas autocebantes (self-priming) de acero inoxidable que pueden evacuar líquidos espumosos o con gas y succionar desde el fondo de los tanques sin problemas."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "pumps": "Bombas",
+      "current": "Bombas Autocebantes"
+    },
+    "hero": {
+      "title": "Bombas Autocebantes",
+      "desc": "Operación sin cavitación en fluidos con mezcla de aire y gas. Potencia de succión impecable para líneas de retorno CIP y vaciado de tanques desde alturas de succión negativas."
+    },
+    "technology": {
+      "title": "Tecnología de Vacío y Autocebado (Self-Priming)",
+      "desc": "Mientras que las bombas centrífugas estándar se bloquean cuando hay aire en la línea de succión, las bombas autocebantes crean un vacío evacuando el aire en su interior gracias a su diseño de carcasa especial. Es la solución ideal y más higiénica para extraer líquidos de tanques subterráneos o evacuar aguas de lavado espumosas en sistemas CIP.",
+      "imgAlt": "Tecnología de Impulsor de Bomba Autocebante"
+    },
+    "features": {
+      "title": "Ventajas de Rendimiento y Diseño",
+      "items": [
+        "Alta Capacidad de Succión desde Alturas Negativas (Profundidad)",
+        "Transferencia de Fluidos que Contienen Gas y Aire (Espumosos)",
+        "Plena Compatibilidad con Sistemas de Retorno CIP (Limpieza In Situ)",
+        "Diseño Interno Cero Zonas Muertas y Fácilmente Lavable (Higiénico)",
+        "Acero Inoxidable Forjado o de Fundición de Precisión AISI 316L",
+        "Sello Mecánico Resistente al Desgaste y de Larga Duración"
+      ],
+      "imgAlt": "Diseño Interno de la Bomba Autocebante"
+    },
+    "table": {
+      "title": "Especificaciones Técnicas y Capacidad",
+      "note": "* La profundidad de succión y los valores de caudal pueden variar dependiendo de la viscosidad del fluido (agua = 1 cPs) y la temperatura ambiente.",
+      "headers": [
+        "MODELO DE BOMBA",
+        "CAUDAL MÁX. (m³/h)",
+        "ALTURA MANOMÉTRICA (m)",
+        "POTENCIA DEL MOTOR (kW)"
+      ],
+      "imgAlt": "Dibujo de Capacidad Técnica de la Bomba",
+      "rows": [
+        { "model": "WSP-10", "flow": "10 m³/h", "head": "20 m", "power": "1.5 kW", "highlight": "dark" },
+        { "model": "WSP-20", "flow": "20 m³/h", "head": "25 m", "power": "2.2 kW", "highlight": "dark" },
+        { "model": "WSP-30", "flow": "30 m³/h", "head": "30 m", "power": "4.0 kW", "highlight": "dark" },
+        { "model": "WSP-40", "flow": "40 m³/h", "head": "35 m", "power": "5.5 kW", "highlight": "dark" },
+        { "model": "WSP-50", "flow": "50 m³/h", "head": "40 m", "power": "7.5 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Cuál es la lógica de funcionamiento de una bomba autocebante?",
+          "a": "En la instalación inicial, se llena una cierta cantidad de líquido en la carcasa. Al funcionar, mezcla la carga de aire en la línea de succión con este líquido y la expulsa; posteriormente extrae el líquido desde el fondo gracias al vacío creado en la línea."
+        },
+        {
+          "q": "¿Por qué se utiliza esta bomba en la línea de retorno CIP?",
+          "a": "Durante el proceso de lavado de tanques (CIP), se mezcla mucho aire y espuma con el líquido. Las bombas normales giran en vacío en la espuma (cavitación), mientras que las bombas autocebantes toleran el aire y transfieren el líquido de lavado sin problemas."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nuestras Aplicaciones Industriales",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Sistema de Retorno CIP", "alt": "Bomba de Retorno CIP" },
+        { "src": "galeri-2.webp", "label": "Vaciado de Tanque Subterráneo", "alt": "Bomba de Succión Subterránea" },
+        { "src": "galeri-3.webp", "label": "Transferencia de Líquidos Espumosos", "alt": "Bomba de Fluidos Espumosos" },
+        { "src": "galeri-4.webp", "label": "Estación de Succión Móvil", "alt": "Bomba Autocebante Móvil" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Descargue nuestro catálogo que contiene las curvas de bombeo, los cálculos de profundidad de succión y las opciones de motor.",
+        "fileUrl": "/assets/documents/es/bombas-autocebantes-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "SISTEMA CIP",
+        "desc": "Línea de retorno de lavado CIP totalmente automática que instalamos en una fábrica de bebidas con una capacidad diaria de 500 toneladas.",
+        "imgAlt": "Referencia de Retorno CIP",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "¿Cuál es su Distancia de Succión?",
+        "desc": "Díganos la profundidad (cota negativa) de su tanque subterráneo y la longitud de la tubería, y elegiremos la bomba correcta que elimine el riesgo de cavitación.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hola,%20me%20gustaria%20obtener%20informacion%20tecnica%20y%20precios%20sobre%20bombas%20autocebantes.",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

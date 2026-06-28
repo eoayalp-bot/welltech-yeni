@@ -1,0 +1,95 @@
+{
+  "mixingTanksPage": {
+    "metadata": {
+      "title": "Agitated Tanks and Mixers | Welltech®",
+      "description": "Stainless steel agitated mixer tanks suitable for different viscosities for the food, pharmaceutical, and chemical industries."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "process": "Process Systems",
+      "current": "Mixing Tanks"
+    },
+    "hero": {
+      "title": "Agitated Tanks",
+      "desc": "Product and process-specific industrial mixers that flawlessly combine liquid-liquid or liquid-solid mixtures of varying viscosities."
+    },
+    "technology": {
+      "title": "Fluid Mechanics and Agitator Technology",
+      "desc": "The efficiency of agitated tanks depends on the <strong>Agitator (Blade)</strong> design, which is selected according to the viscosity and density of the product to be mixed. While Propeller type blades create rapid circulation in low-viscosity liquids; <strong>Anchor and Scraper blades</strong> provide a homogeneous mixture by preventing high-viscosity and sticky products from clinging to the tank wall. By integrating baffles inside the tank when necessary, vortex formation is prevented, minimizing mixing time.",
+      "imgAlt": "Agitator Blade Technology"
+    },
+    "features": {
+      "title": "Design and Performance Advantages",
+      "items": [
+        "Agitator Blade Design Custom Selected for Liquid and Viscosity",
+        "Baffle System to Prevent Vortex Formation",
+        "Preventing Product Burn and Wall Adhesion with Teflon Scrapers",
+        "Ability to Operate at Different Speeds with Inverter (Speed Controller)",
+        "Special Gearbox and Motor Configuration that Preserves Product Form",
+        "Integrated CIP (Clean-in-Place) Wash Balls for Easy Cleaning"
+      ],
+      "imgAlt": "Mixing Tank Motor and Automation"
+    },
+    "table": {
+      "title": "Blade Types and Application Areas",
+      "note": "* The listed rotational speeds and viscosity values are general references; the motor/gearbox combination is calculated specifically for your project.",
+      "headers": [
+        "BLADE (AGITATOR) TYPE",
+        "VISCOSITY RANGE",
+        "APPLICATION AREA",
+        "OPERATING SPEED (RPM)"
+      ],
+      "imgAlt": "Mixing Tank Technical Drawing",
+      "rows": [
+        { "type": "Propeller", "viscosity": "Low (Water, Juice)", "usage": "Fast Mixing / Dissolving", "speed": "High (1000 - 1500 RPM)", "highlight": "dark" },
+        { "type": "Turbine", "viscosity": "Low / Medium", "usage": "Emulsion / Dispersion", "speed": "Medium - High (300 - 1000 RPM)", "highlight": "dark" },
+        { "type": "Anchor", "viscosity": "High (Cream, Shampoo)", "usage": "Homogeneous Heat Transfer", "speed": "Low (10 - 60 RPM)", "highlight": "dark" },
+        { "type": "Scraper (Teflon)", "viscosity": "Very High (Paste, Putty)", "usage": "Heated Processes (Anti-Burn)", "speed": "Low (10 - 40 RPM)", "highlight": "dark" },
+        { "type": "Counter-Rotating Double Blade", "viscosity": "Variable", "usage": "Complex Chemical Reactions", "speed": "Variable (Inverter)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What does a Baffle do?",
+          "a": "In fast mixing processes, it prevents the liquid from swirling inside the tank and forming a vortex. The baffle disrupts the flow direction of the liquid, allowing it to mix vertically and reducing processing time by up to 40%."
+        },
+        {
+          "q": "Why is a scraper agitator preferred?",
+          "a": "Especially in heated jacketed tanks, Teflon scraper blades are mandatory to prevent dense fluids (such as tomato paste or cosmetic creams) from sticking to the heated wall and burning or caramelizing."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Industrial Applications",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Chemical Solution Preparation", "alt": "Chemical Mixer" },
+        { "src": "galeri-2.webp", "label": "Shampoo and Detergent Mixer", "alt": "Cosmetic Agitated Tank" },
+        { "src": "galeri-3.webp", "label": "Milk and Ayran Process Tank", "alt": "Food Mixing Tank" },
+        { "src": "galeri-4.webp", "label": "Sauce and Paste Mixer", "alt": "Scraper Mixer Tank" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download the specification file containing blade type selection charts, motor RPM calculations, and baffle layout diagrams.",
+        "fileUrl": "/assets/documents/en/technical-specifications/DOC-06-mixing-tanks.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "COSMETICS FACILITY",
+        "desc": "Liquid soap mixer line with Teflon scrapers and heating jacket we installed for a global cosmetics company.",
+        "imgAlt": "Cosmetic Mixer Reference",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "What is Your Product's Viscosity?",
+        "desc": "Inform us about the density (viscosity) of your fluid and your capacity, and let's design the most accurate vortex-free motor-gearbox and blade (agitator) system together.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Hello,%20I%20would%20like%20to%20get%20technical%20information%20and%20pricing%20about%20mixing%20tanks.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

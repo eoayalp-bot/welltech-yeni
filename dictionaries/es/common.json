@@ -1,0 +1,40 @@
+{
+  "seo": {
+    "defaultTitle": "Welltech® | Tanques Industriales y Sistemas de Proceso",
+    "description": "Fabricante de tanques industriales de acero inoxidable, bombas higiénicas y equipos de proceso con estándares internacionales.",
+    "keywords": [
+      "tanque de acero inoxidable",
+      "sistemas de proceso",
+      "bomba higiénica",
+      "welltech"
+    ]
+  },
+  "cookieBanner": {
+    "title": "Política de Cookies",
+    "description": "Utilizamos cookies para ofrecerle una mejor experiencia.",
+    "details": "Ver Detalles",
+    "accept": "Aceptar",
+    "decline": "Rechazar"
+  },
+  "navbar": {
+    "tanks": "Tanques de Inoxidable",
+    "machines": "Sistemas de Proceso",
+    "pumps": "Bombas Higiénicas",
+    "about": "Sobre Nosotros",
+    "blog": "Blog y Noticias",
+    "docs": "Documentos",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "description": "Ingeniería llave en mano a medida para sus instalaciones con tanques industriales de acero inoxidable, sistemas de proceso y soluciones de bombas higiénicas con estándares internacionales.",
+    "inokstek": "UNA EMPRESA DEL GRUPO INOKSTEK",
+    "products": "PRODUCTOS Y SOLUCIONES",
+    "tanks": "Tanques de Almacenamiento Inoxidables",
+    "machines": "Sistemas de Proceso",
+    "pumps": "Bombas de Transferencia Higiénicas",
+    "locations": "UBICACIONES",
+    "hq_title": "Sede Central",
+    "factory_title": "Plantas de Producción",
+    "copyright": "Todos los derechos reservados."
+  }
+}

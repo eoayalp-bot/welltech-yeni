@@ -1,0 +1,101 @@
+{
+  "milkTanksPage": {
+    "metadata": {
+      "title": "Serbatoi per Latte e Industria Alimentare | Welltech®",
+      "description": "Serbatoi in acciaio inox ultra igienici per raffreddamento, stoccaggio e processo, pienamente conformi agli standard di sicurezza alimentare FDA/GMP."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "tanks": "Serbatoi in Acciaio Inox",
+      "current": "Serbatoi per Latte"
+    },
+    "hero": {
+      "title": "Serbatoi per Latte e Industria Alimentare",
+      "desc": "Superfici prive di rugosità che impediscono la proliferazione batterica, isolamento in poliuretano ad alta densità e progettazione in acciaio inox conforme agli standard alimentari."
+    },
+    "engineering": {
+      "title": "Ingegneria Ultra-Igienica (FDA/GMP)",
+      "desc": "Lo stoccaggio di latte, succhi di frutta e prodotti alimentari sensibili richiede il massimo livello di igiene. I serbatoi Welltech® sono progettati senza zone morte interne. Le saldature vengono levigate fino a raggiungere una rugosità superficiale Ra < 0.6 micron. In questo modo si eliminano le superfici in cui i batteri potrebbero annidarsi e, grazie alle sfere CIP (Clean-In-Place) integrate, si garantisce una pulizia perfetta."
+    },
+    "features": {
+      "title": "Caratteristiche di Progettazione e Raffreddamento",
+      "items": {
+        "1": "Acciaio Inox AISI 304 o AISI 316L Conforme agli Standard Alimentari",
+        "2": "Design Interno Senza Zone Morte e Completamente Lavabile (CIP)",
+        "3": "Isolamento in Poliuretano ad Alta Densità Privo di CFC",
+        "4": "Camicia di Raffreddamento/Riscaldamento Roll-Bond (Saldatura Laser) o a Semitubo",
+        "5": "Agitatori Raschianti a Bassa Velocità per Prodotti Sensibili",
+        "6": "Guarnizioni di Tenuta EPDM/Silicone Conformi alle Normative Alimentari"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacità Standard di Produzione",
+      "note": "* Gli spessori dell'isolamento in poliuretano (da 50 mm a 100 mm) possono essere ottimizzati in funzione della temperatura ambiente e del tempo di stoccaggio del prodotto.",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIAMETRO (Ø mm)",
+        "insulation": "ISOLAMENTO",
+        "material": "MATERIALE"
+      },
+      "insulationTypes": {
+        "50": "Poliuretano 50 mm",
+        "60": "Poliuretano 60 mm",
+        "80": "Poliuretano 80 mm",
+        "100": "Poliuretano 100 mm"
+      },
+      "customRow": "Per sili del latte di capacità superiori, viene effettuata l'installazione direttamente presso il sito del cliente (On-Site)."
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Quanto è efficace l'isolamento termico dei serbatoi del latte?",
+          "a": "Grazie all'isolamento in poliuretano ad alta densità (40-42 kg/m³), anche con una temperatura ambiente di 30°C, la temperatura del prodotto all'interno del serbatoio aumenta al massimo di 1°C nell'arco di 24 ore."
+        },
+        {
+          "q": "Come viene garantita la pulizia CIP dei serbatoi?",
+          "a": "Le sfere rotanti CIP a 360° installate nella parte superiore del serbatoio consentono al liquido di lavaggio in pressione di raggiungere uniformemente tutte le superfici interne, garantendo la massima igiene e l'eliminazione della carica batterica."
+        }
+      ]
+    },
+    "projects": {
+      "title": "I Nostri Progetti per l'Industria Lattiero-Casearia",
+      "p1": {
+        "title": "Silo per Latte Crudo",
+        "alt": "Silo ad Alta Capacità per lo Stoccaggio del Latte Crudo"
+      },
+      "p2": {
+        "title": "Serbatoio per Latte Pastorizzato",
+        "alt": "Serbatoio Coibentato per Latte Pastorizzato"
+      },
+      "p3": {
+        "title": "Processo per Ayran / Kefir",
+        "alt": "Serbatoio di Processo per Ayran e Kefir con Agitatore Speciale"
+      },
+      "p4": {
+        "title": "Serbatoio per Siero di Latte",
+        "alt": "Serbatoio in Acciaio Inox per lo Stoccaggio del Siero di Latte (Whey)"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il documento tecnico contenente configurazioni delle camicie di raffreddamento, densità dell'isolamento e standard igienici.",
+        "fileUrl": "/assets/documents/it/serbatoi-lattiero-alimentari-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "PROGETTO INDUSTRIA LATTIERO-CASEARIA",
+        "desc": "Linea di stoccaggio realizzata per un impianto nazionale di trasformazione del latte con capacità giornaliera di 1.000 tonnellate.",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "È Necessario un Agitatore Speciale?",
+        "desc": "Progettiamo sistemi con agitatori speciali dotati di raschiatori in PTFE per prodotti viscosi come yogurt, panna o miele.",
+        "whatsappMsg": "Buongiorno, desidero ricevere informazioni tecniche e un'offerta per i serbatoi Welltech per latte e industria alimentare.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

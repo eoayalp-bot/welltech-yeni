@@ -1,0 +1,95 @@
+{
+  "monopompPumpsPage": {
+    "metadata": {
+      "title": "Pompe Monovite (a Cavità Progressiva) | Welltech®",
+      "description": "Pompe monovite in acciaio inox per il trasferimento senza perdite di fluidi ad alta viscosità, adesivi e contenenti particelle solide come fanghi, paste e miele."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "pumps": "Pompe",
+      "current": "Pompe Monovite"
+    },
+    "hero": {
+      "title": "Pompe Monovite (a Cavità Progressiva)",
+      "desc": "Trasferimento delicato e uniforme di fluidi complessi, viscosi e adesivi come fanghi di depurazione, concentrati di pomodoro, polpa di frutta e miele, senza alterarne la struttura."
+    },
+    "technology": {
+      "title": "Tecnologia a Cavità Progressiva",
+      "desc": "Le pompe monovite (Progressive Cavity Pumps) funzionano grazie alla rotazione di un rotore in acciaio inox all'interno di uno statore elastomerico, creando cavità volumetriche progressive. Questo movimento elicoidale spinge il prodotto in modo continuo, senza schiacciarlo, aerarlo o generare pulsazioni. Costituiscono lo standard di riferimento per il trasferimento dei fluidi più difficili, viscosi o contenenti particelle solide.",
+      "imgAlt": "Sezione del Rotore e dello Statore della Pompa Monovite"
+    },
+    "features": {
+      "title": "Vantaggi di Design e Prestazioni",
+      "items": [
+        "Flusso Continuo, Preciso e Privo di Pulsazioni",
+        "Trasferimento di Fluidi con Viscosità fino a 1.000.000 cPs",
+        "Movimentazione di Particelle Solide e Fibre senza Danneggiamento",
+        "Elevata Pressione a Bassa Velocità grazie al Sistema a Statore Multistadio",
+        "Statori in NBR, EPDM o Viton Conformi alle Normative Alimentari",
+        "Funzionamento Silenzioso e Facile Sostituzione dei Ricambi"
+      ],
+      "imgAlt": "Caratteristiche Interne della Pompa Monovite"
+    },
+    "table": {
+      "title": "Specifiche Tecniche e Capacità",
+      "note": "* I valori di portata e pressione vengono dimensionati in funzione della viscosità del fluido e della velocità del motoriduttore.",
+      "headers": [
+        "MODELLO POMPA",
+        "PORTATA MAX (m³/h)",
+        "PRESSIONE MAX (Bar)",
+        "ATTACCO"
+      ],
+      "imgAlt": "Disegno Tecnico delle Capacità della Pompa Monovite",
+      "rows": [
+        { "model": "WMP-01", "flow": "1 m³/h", "head": "6 Bar", "power": "1\"", "highlight": "dark" },
+        { "model": "WMP-05", "flow": "5 m³/h", "head": "12 Bar", "power": "1 1/2\"", "highlight": "dark" },
+        { "model": "WMP-10", "flow": "10 m³/h", "head": "12 Bar", "power": "2\"", "highlight": "dark" },
+        { "model": "WMP-25", "flow": "25 m³/h", "head": "24 Bar", "power": "3\"", "highlight": "dark" },
+        { "model": "WMP-50", "flow": "50 m³/h", "head": "24 Bar", "power": "4\"", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Per quali fluidi vengono utilizzate le pompe monovite?",
+          "a": "Sono ideali per fluidi ad alta viscosità e adesivi come panna, shampoo, fanghi di depurazione, sansa di olive, concentrato di pomodoro, olio di pesce e colle, che risultano difficili da trasferire con pompe convenzionali."
+        },
+        {
+          "q": "Qual è la durata dello statore e come viene sostituito?",
+          "a": "La durata dello statore dipende dall'abrasività del prodotto e dalla temperatura di esercizio. Il funzionamento a secco può danneggiarlo rapidamente. In caso di usura, lo statore può essere sostituito facilmente aprendo la parte anteriore della pompa, senza rimuovere completamente l'unità dalla linea."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Le Nostre Applicazioni Industriali",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Depurazione e Trasferimento Fanghi", "alt": "Pompa Monovite per Fanghi" },
+        { "src": "galeri-2.webp", "label": "Trasferimento di Concentrati Alimentari", "alt": "Pompa Monovite Alimentare" },
+        { "src": "galeri-3.webp", "label": "Pompa per Sansa di Olive", "alt": "Pompa per Sansa" },
+        { "src": "galeri-4.webp", "label": "Riempimento Shampoo e Cosmetici", "alt": "Pompa Monovite per Cosmetica" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il catalogo con le compatibilità dei materiali degli statori, i calcoli di pressione/cavità e le curve dei motoriduttori.",
+        "fileUrl": "/assets/documents/it/pompe-monovite-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "IMPIANTO DI DEPURAZIONE",
+        "desc": "Pompe di alimentazione fanghi da 24 Bar installate presso un impianto industriale di trattamento delle acque reflue.",
+        "imgAlt": "Riferimento Monovite per Depurazione",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "Quanto è Viscoso il Vostro Fluido?",
+        "desc": "Comunicateci la viscosità del prodotto e la portata oraria richiesta, e selezioneremo la combinazione ottimale di rotore e statore.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Merhaba,%20monopomp%20(burgulu)%20pompalar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

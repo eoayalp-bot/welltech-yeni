@@ -6,7 +6,7 @@ import { getLocalizedUrl } from '../../../dictionaries/routes';
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
-  const dict = await getDictionary(resolvedParams.lang);
+  const dict = await getDictionary(resolvedParams.lang, 'pumps');
   return {
     title: dict.pumpsPage.metadata.title,
     description: dict.pumpsPage.metadata.description,
@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 export default async function PumpsPage({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+  const dict = await getDictionary(lang, 'pumps');
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -33,12 +33,12 @@ export default async function PumpsPage({ params }: { params: Promise<{ lang: st
   };
 
   const icons = [
-    <Waves className="w-6 h-6" />,
-    <Settings className="w-6 h-6" />,
-    <Activity className="w-6 h-6" />,
-    <Cylinder className="w-6 h-6" />,
-    <Wind className="w-6 h-6" />,
-    <Droplets className="w-6 h-6" />
+    <Waves key="1" className="w-6 h-6" />,
+    <Settings key="2" className="w-6 h-6" />,
+    <Activity key="3" className="w-6 h-6" />,
+    <Cylinder key="4" className="w-6 h-6" />,
+    <Wind key="5" className="w-6 h-6" />,
+    <Droplets key="6" className="w-6 h-6" />
   ];
 
   const images = [

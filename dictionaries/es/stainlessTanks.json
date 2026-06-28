@@ -1,0 +1,40 @@
+{
+  "stainlessTanksPage": {
+    "metadata": {
+      "title": "Tanques de Inoxidable | Welltech®",
+      "description": "Tanques de acero inoxidable de alta calidad para almacenamiento y procesos específicos de los sectores industrial, alimentario, químico y de aceite de oliva."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "current": "Tanques de Inoxidable"
+    },
+    "hero": {
+      "title": "Sistemas de Tanques de Acero Inoxidable",
+      "desc": "Soluciones higiénicas y duraderas de acero inoxidable, diseñadas bajo estándares internacionales para diferentes procesos industriales."
+    },
+    "categories": [
+      {
+        "title": "Tanques de Almacenamiento Industrial",
+        "desc": "Sistemas de tanques de trabajo pesado diseñados para el almacenamiento seguro de líquidos y materias primas de gran volumen, resistentes a la presión y a condiciones exigentes."
+      },
+      {
+        "title": "Tanques de Almacenamiento de Aceite de Oliva",
+        "desc": "Tanques de diseño especial que preservan el exquisito sabor del aceite de oliva premium, con sistema de recubrimiento de nitrógeno, fondo cónico y garantía de cero oxidación."
+      },
+      {
+        "title": "Tanques de Leche y Alimentos",
+        "desc": "Tanques de proceso de acero inoxidable ultra higiénicos, aislados y con camisa de refrigeración, totalmente conformes a las normas de seguridad alimentaria (FDA/GMP)."
+      },
+      {
+        "title": "Tanques Químicos y de Ácidos",
+        "desc": "Unidades de almacenamiento totalmente resistentes a productos químicos agresivos, altas temperaturas y presión, conformes a las normas internacionales de seguridad."
+      }
+    ],
+    "viewModels": "VER MODELOS",
+    "cta": {
+      "title": "Producción a Medida para su Proyecto",
+      "desc": "Más allá de los modelos estándar, solicite una cotización para soluciones de ingeniería especial que se adapten completamente a las restricciones de espacio y capacidad de su fábrica.",
+      "btn": "CONTÁCTENOS"
+    }
+  }
+}

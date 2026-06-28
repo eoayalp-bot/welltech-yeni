@@ -1,0 +1,112 @@
+{
+  "homogenizersPage": {
+    "metadata": {
+      "title": "Omogeneizzatori e Miscelatori High Shear | Welltech®",
+      "description": "Miscelatori industriali ad alta velocità in grado di ridurre fluidi di diverse fasi (come acqua e olio) fino a livello micronico, ottenendo prodotti omogenei, lisci e stabili."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "process": "Sistemi di Processo",
+      "current": "Omogeneizzatori"
+    },
+    "hero": {
+      "title": "Omogeneizzatori",
+      "desc": "Ottenete emulsioni completamente omogenee, lisce e stabili, riducendo miscele liquido-liquido o liquido-solido fino a livello micronico."
+    },
+    "technology": {
+      "title": "Tecnologia di Dispersione Rotor-Stator",
+      "desc": "Gli omogeneizzatori sono sistemi ad alta velocità (fino a 3.000 RPM) progettati per ridurre fluidi immiscibili fino a dimensioni microniche. La speciale struttura dentata <strong>Rotor-Stator</strong> sottopone il prodotto a elevate forze di taglio (High Shear) attraverso un passaggio estremamente ridotto, riducendo la dimensione delle particelle e prevenendo in modo permanente la separazione di fase nel tempo."
+    },
+    "features": {
+      "title": "Vantaggi di Design e Prestazioni",
+      "items": [
+        "Elevate Forze di Taglio (High Shear) a Livello Micronico",
+        "Velocità di Rotazione Fino a 3.000 RPM",
+        "Statori Dentati Personalizzati (Fine/Grossolano) in Base al Prodotto",
+        "Versioni ad Immersione (Batch) o In-Line",
+        "Acciaio Inox Igienico Conforme agli Standard FDA e 3A",
+        "Elevata Tenuta e Lunga Durata grazie alla Tenuta Meccanica"
+      ],
+      "imgAlt": "Motore e Gruppo Rotor-Stator dell'Omogeneizzatore"
+    },
+    "table": {
+      "title": "Tipologie di Modelli e Applicazioni",
+      "note": "* La configurazione Rotor-Stator (passaggio fine, medio o grossolano) viene selezionata in funzione della viscosità del prodotto e della dimensione finale delle particelle richiesta.",
+      "headers": [
+        "TIPO DI MODELLO",
+        "PRINCIPIO DI FUNZIONAMENTO",
+        "SETTORE DI APPLICAZIONE"
+      ],
+      "imgAlt": "Disegno Tecnico dell'Omogeneizzatore",
+      "rows": [
+        {
+          "type": "In-Line",
+          "principle": "Ricircolo continuo e dispersione all'interno della tubazione",
+          "usage": "Farmaceutico e Chimico",
+          "highlight": "dark"
+        },
+        {
+          "type": "Ad Immersione (Batch)",
+          "principle": "Omogeneizzazione diretta mediante immersione nel serbatoio",
+          "usage": "Cosmetico e Alimentare",
+          "highlight": "dark"
+        },
+        {
+          "type": "Ingresso dal Fondo (Bottom Entry)",
+          "principle": "Unità High Shear integrata sul fondo del serbatoio",
+          "usage": "Salse, Concentrati e Creme",
+          "highlight": "dark"
+        },
+        {
+          "type": "Multistadio (Multi-Stage)",
+          "principle": "Emulsioni ultrafini mediante triplo sistema Rotor-Stator",
+          "usage": "Nanotecnologia (Farmaceutica)",
+          "highlight": "orange"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Qual è la differenza tra un omogeneizzatore e un normale miscelatore?",
+          "a": "I miscelatori convenzionali mettono semplicemente in movimento il fluido e, nel tempo, fasi come acqua e olio tendono nuovamente a separarsi. Un omogeneizzatore, invece, riduce le particelle a livello micronico, garantendo un'emulsione stabile e permanente."
+        },
+        {
+          "q": "È preferibile una versione In-Line o Batch (ad immersione)?",
+          "a": "Se disponete già di un serbatoio e desiderate effettuare l'omogeneizzazione tramite ricircolo, la soluzione In-Line è la scelta ideale. Se invece il processo di miscelazione e dispersione avviene direttamente nel serbatoio, è consigliata la versione Batch (ad immersione)."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Le Nostre Applicazioni Industriali",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Creme e Lozioni Cosmetiche", "alt": "Omogeneizzatore Cosmetico" },
+        { "src": "galeri-2.webp", "label": "Produzione di Maionese e Ketchup", "alt": "Omogeneizzatore Alimentare" },
+        { "src": "galeri-3.webp", "label": "Ricircolo In-Line", "alt": "Omogeneizzatore In-Line" },
+        { "src": "galeri-4.webp", "label": "Emulsioni Farmaceutiche e Sciroppi", "alt": "Miscelatore per l'Industria Farmaceutica" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il dossier tecnico contenente configurazioni Rotor-Stator, velocità dei motori e tabelle di portata.",
+        "fileUrl": "/assets/documents/tr/omogeneizzatori-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "IMPIANTO COSMETICO",
+        "desc": "Unità di omogeneizzazione per creme con doppia camicia prodotta per un marchio cosmetico di fama internazionale.",
+        "imgAlt": "Riferimento Miscelatore Cosmetico",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "La Corretta Selezione Rotor-Stator",
+        "desc": "Comunicateci le caratteristiche del prodotto da realizzare (ad esempio ketchup o lozione) e selezioneremo insieme la testa di dispersione più adatta.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20homojenizatorler%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

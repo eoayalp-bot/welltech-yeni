@@ -1,0 +1,92 @@
+{
+  "cipSystemsPage": {
+    "metadata": {
+      "title": "Sistemi CIP Completamente Automatici (Clean-In-Place) | Welltech®",
+      "description": "Sistemi CIP in acciaio inox completamente automatici, con controllo della conducibilità ed elevata efficienza energetica, progettati per la pulizia senza smontaggio di linee alimentari, farmaceutiche e chimiche."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "process": "Sistemi di Processo",
+      "current": "Sistemi CIP"
+    },
+    "hero": {
+      "title": "Sistemi CIP Completamente Automatici",
+      "desc": "Unità intelligenti Clean-In-Place progettate per garantire il 100% di igiene negli impianti industriali, eliminando gli errori umani."
+    },
+    "technology": {
+      "title": "Tecnologia Clean-In-Place (CIP)",
+      "desc": "I sistemi CIP (Clean-In-Place) sono impianti completamente automatici che consentono la pulizia di linee di produzione, tubazioni, valvole e serbatoi di processo senza smontaggio. Grazie alla circolazione controllata di acqua, acidi, soda caustica e disinfettanti alla corretta temperatura, portata e durata, gli errori umani vengono eliminati. Il sistema prepara le linee produttive in condizioni completamente sterili e sicure per il batch successivo.",
+      "imgAlt": "Tecnologia di Processo del Sistema CIP"
+    },
+    "features": {
+      "title": "Caratteristiche di Automazione e Igiene",
+      "items": [
+        "Controllo Ricette Completamente Automatico tramite PLC/SCADA",
+        "Recupero Ottimizzato tramite Sensori di Conducibilità",
+        "Dosaggio Automatico dei Prodotti Chimici mediante Pompe Dosatrici",
+        "Design in Acciaio Inox Conforme agli Standard Igienici FDA e 3A",
+        "Serbatoi Indipendenti per Acido, Soda Caustica, Recupero e Acqua Pulita",
+        "Riscaldamento Rapido ed Efficiente tramite Scambiatore di Calore Tubolare"
+      ],
+      "imgAlt": "Quadro di Automazione del Sistema CIP"
+    },
+    "table": {
+      "title": "Configurazioni di Sistema",
+      "note": "* I sistemi CIP vengono progettati specificamente in funzione della lunghezza delle linee da lavare, del livello di contaminazione e della capacità dell'impianto.",
+      "headers": [
+        "CONFIGURAZIONE DEL SISTEMA",
+        "CAPACITÀ DEI SERBATOI",
+        "SETTORE DI APPLICAZIONE"
+      ],
+      "imgAlt": "Disegno Tecnico del Sistema CIP",
+      "rows": [
+        { "config": "CIP a 2 Serbatoi (Acqua + Soda Caustica)", "tanks": "500 L - 3.000 L", "sector": "Latte e Bevande", "highlight": "dark" },
+        { "config": "CIP a 3 Serbatoi (Acqua + Soda Caustica + Acido)", "tanks": "1.000 L - 5.000 L", "sector": "Alimentare e Cosmetico", "highlight": "dark" },
+        { "config": "CIP a 4 Serbatoi con Recupero", "tanks": "2.000 L - 10.000 L", "sector": "Farmaceutico e Biotecnologico", "highlight": "orange" },
+        { "config": "Unità CIP Mobile (Portatile)", "tanks": "300 L - 1.000 L", "sector": "Linee Flessibili e Pilota", "highlight": "dark" }
+      ]
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Qual è la funzione del sensore di conducibilità?",
+          "a": "Misura la concentrazione dell'acido o della soda caustica di ritorno dalla linea. Quando la concentrazione diminuisce, il sistema dosa automaticamente nuovo prodotto chimico. Inoltre, al termine del lavaggio, rileva l'assenza completa di residui chimici e conclude il processo in totale sicurezza."
+        },
+        {
+          "q": "Come consente il risparmio idrico un sistema CIP?",
+          "a": "L'acqua dell'ultimo risciacquo, ancora parzialmente pulita, viene immagazzinata nel serbatoio di recupero (Recovery Tank) per essere riutilizzata come acqua di pre-risciacquo nel ciclo successivo. Questo permette una significativa riduzione dei consumi di acqua ed energia."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Le Nostre Applicazioni Industriali",
+      "items": [
+        { "src": "galeri-1.webp", "label": "CIP Automatico a 3 Serbatoi", "alt": "Sistema CIP a 3 Serbatoi" },
+        { "src": "galeri-2.webp", "label": "Sistema a 4 Serbatoi per Applicazioni Farmaceutiche", "alt": "Unità CIP Farmaceutica" },
+        { "src": "galeri-3.webp", "label": "Carrello Mobile CIP", "alt": "CIP Mobile" },
+        { "src": "galeri-4.webp", "label": "Controllo SCADA per Linee Alimentari", "alt": "Pannello di Controllo CIP" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il documento tecnico contenente configurazioni dei serbatoi, portate e calcoli delle pressioni delle pompe.",
+        "fileUrl": "/assets/documents/it/sistemi-cip-automatici-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "IMPIANTO DI BEVANDE",
+        "desc": "Linea CIP completamente automatica a 4 serbatoi con controllo della conducibilità, realizzata per uno stabilimento internazionale di succhi di frutta.",
+        "imgAlt": "Riferimento Sistema CIP",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "Avete una Ricetta Personalizzata?",
+        "desc": "Comunicateci il livello di contaminazione e la lunghezza delle linee da lavare: progetteremo la capacità più efficiente per il vostro impianto.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

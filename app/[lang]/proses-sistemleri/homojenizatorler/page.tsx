@@ -6,7 +6,7 @@ import { getLocalizedUrl } from '../../../../dictionaries/routes';
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
-  const dict = await getDictionary(resolvedParams.lang);
+  const dict = await getDictionary(resolvedParams.lang, 'homogenizers');
   const t = dict.homogenizersPage;
   return { title: t.metadata.title, description: t.metadata.description };
 }
@@ -14,13 +14,13 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 export default async function HomogenizersPage({ params }: { params: Promise<{ lang: string }> }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+  const dict = await getDictionary(lang, 'homogenizers');
   const t = dict.homogenizersPage;
 
   const jsonLd = {
     "@context": "https://schema.org", "@type": "Product",
     "name": t.hero.title,
-    "image": "https://www.welltech.com/assets/images/proses-sistemleri/kategori-homojenizator.webp",
+    "image": "https://www.welltech.com.tr/assets/images/proses-sistemleri/kategori-homojenizator.webp",
     "description": t.metadata.description,
     "brand": { "@type": "Brand", "name": "Welltech®" },
     "manufacturer": { "@type": "Organization", "name": "Welltech® International Engineering" },
@@ -33,7 +33,7 @@ export default async function HomogenizersPage({ params }: { params: Promise<{ l
 
       <section className="relative h-[65vh] pt-32 pb-20 px-6 overflow-hidden">
         <div className="absolute inset-0 z-0">
-          <Image src="/assets/images/proses-sistemleri/kategori-homojenizator.webp" alt={t.hero.title} fill priority className="object-cover" sizes="100vw" />
+          <Image src="/assets/images/proses-sistemleri/kategori-homojenizator.webp" alt={t.hero.title || "Welltech Homojenizatörler"} fill priority className="object-cover" sizes="100vw" />
           <div className="absolute inset-0 bg-[#005284]/80"></div>
           <div className="absolute inset-0 bg-gradient-to-r from-black/80 to-transparent"></div>
         </div>
@@ -67,10 +67,11 @@ export default async function HomogenizersPage({ params }: { params: Promise<{ l
                   <Activity className="w-6 h-6 text-[#E35205]" />
                   {t.technology.title}
                 </h2>
-                <p className="text-gray-600 leading-relaxed text-sm mb-6">{t.technology.desc}</p>
+                <p className="text-gray-600 leading-relaxed text-sm mb-6" dangerouslySetInnerHTML={{ __html: t.technology.desc }} />
               </div>
               <div className="relative h-64 sm:h-80 w-full overflow-hidden border border-gray-100 rounded-lg shadow-inner group">
-                <Image src="/assets/images/proses-sistemleri/homojenizator/stator.webp" alt={t.technology.imgAlt} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 50vw" />
+                {/* DÜZELTME: alt niteliğine fallback değeri eklendi */}
+                <Image src="/assets/images/proses-sistemleri/homojenizator/stator.webp" alt={t.technology.imgAlt || "Welltech Homojenizatör Stator"} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 50vw" />
               </div>
             </div>
 
@@ -95,14 +96,16 @@ export default async function HomogenizersPage({ params }: { params: Promise<{ l
                   </div>
                 </div>
                 <div className="relative h-48 md:h-full w-full overflow-hidden border border-gray-100 rounded-lg shadow-inner group">
-                  <Image src="/assets/images/proses-sistemleri/homojenizator/motor.webp" alt={t.features.imgAlt} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 33vw" />
+                  {/* DÜZELTME: alt niteliğine fallback değeri eklendi */}
+                  <Image src="/assets/images/proses-sistemleri/homojenizator/motor.webp" alt={t.features.imgAlt || "Welltech Homojenizatör Özellikleri"} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 33vw" />
                 </div>
               </div>
             </div>
 
             <div className="bg-white p-8 md:p-10 rounded-xl shadow-lg border border-gray-100 grid md:grid-cols-3 gap-8 items-center">
               <div className="relative h-64 sm:h-96 w-full overflow-hidden border border-gray-100 rounded-lg shadow-sm group">
-                <Image src="/assets/images/proses-sistemleri/homojenizator/cizim.webp" alt={t.table.imgAlt} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 33vw" />
+                {/* DÜZELTME: alt niteliğine fallback değeri eklendi */}
+                <Image src="/assets/images/proses-sistemleri/homojenizator/cizim.webp" alt={t.table.imgAlt || "Welltech Homojenizatör Teknik Çizim"} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 33vw" />
               </div>
               <div className="md:col-span-2 overflow-x-auto">
                 <h3 className="text-xl font-bold text-gray-900 mb-6 tracking-tight border-b pb-4">{t.table.title}</h3>
@@ -132,14 +135,15 @@ export default async function HomogenizersPage({ params }: { params: Promise<{ l
               <h2 className="text-2xl md:text-3xl font-black text-gray-900 mb-8 tracking-tight border-b-2 border-gray-200 pb-4">{t.gallery.title}</h2>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
                 {t.gallery.items.map((item: { src: string; label: string; alt: string }, index: number) => (
-                  <div key={index} className="relative h-64 sm:h-80 w-full overflow-hidden rounded-xl shadow-md group cursor-pointer">
-                    <Image src={`/assets/images/proses-sistemleri/homojenizator/${item.src}`} alt={item.alt} fill className="object-cover transition-transform duration-700 group-hover:scale-110" sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 25vw" />
+                  <Link href={`/${lang}/referanslar`} key={index} className="block relative h-64 sm:h-80 w-full overflow-hidden rounded-xl shadow-md group cursor-pointer">
+                    {/* DÜZELTME: alt niteliğine fallback değeri eklendi */}
+                    <Image src={`/assets/images/proses-sistemleri/homojenizator/${item.src}`} alt={item.alt || item.label || "Welltech Referans"} fill className="object-cover transition-transform duration-700 group-hover:scale-110" sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 25vw" />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-80 group-hover:opacity-90 transition-opacity duration-300"></div>
                     <div className="absolute bottom-0 left-0 p-6 w-full">
                       <span className="block text-white text-lg font-black tracking-widest drop-shadow-lg transform translate-y-1 group-hover:-translate-y-1 transition-transform duration-300">{item.label}</span>
                       <div className="h-1 w-8 bg-[#E35205] mt-2 rounded-full transform scale-x-0 group-hover:scale-x-100 origin-left transition-transform duration-300"></div>
                     </div>
-                  </div>
+                  </Link>
                 ))}
               </div>
             </div>
@@ -170,10 +174,12 @@ export default async function HomogenizersPage({ params }: { params: Promise<{ l
                   <span className="text-[10px] font-bold tracking-widest text-gray-400">{t.sidebar.reference.badge}</span>
                 </div>
                 <div className="relative h-40 w-full overflow-hidden border border-gray-100 rounded shadow-inner group">
-                  <Image src="/assets/images/proses-sistemleri/homojenizator/referans.webp" alt={t.sidebar.reference.imgAlt} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 33vw" />
+                  {/* DÜZELTME: alt niteliğine fallback değeri eklendi */}
+                  <Image src="/assets/images/proses-sistemleri/homojenizator/referans.webp" alt={t.sidebar.reference.imgAlt || "Welltech Referans Projeler"} fill className="object-cover transition-transform duration-700 group-hover:scale-105" sizes="(max-width: 768px) 100vw, 33vw" />
                 </div>
                 <p className="text-xs text-gray-500 line-clamp-2 mt-2">{t.sidebar.reference.desc}</p>
-                <Link href={getLocalizedUrl('referanslar', lang)} className="text-[10px] font-bold tracking-widest text-[#005284] border-b-2 border-transparent hover:border-[#E35205] pb-0.5 transition-all inline-block mt-2">
+                
+                <Link href={`/${lang}/referanslar`} className="text-[10px] font-bold tracking-widest text-[#005284] border-b-2 border-transparent hover:border-[#E35205] pb-0.5 transition-all inline-block mt-2">
                   {t.sidebar.reference.link}
                 </Link>
               </div>

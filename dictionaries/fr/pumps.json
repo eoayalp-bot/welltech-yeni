@@ -1,0 +1,48 @@
+{
+  "pumpsPage": {
+    "metadata": {
+      "title": "Pompes Hygiéniques Industrielles | Welltech®",
+      "description": "Modèles de pompes en acier inoxydable à haut rendement : centrifuges, à lobes, auto-amorçantes et pneumatiques à membrane pour les industries alimentaire, pharmaceutique et chimique."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "current": "Pompes Industrielles"
+    },
+    "hero": {
+      "title": "Pompes de Process Industrielles",
+      "desc": "Zéro perte et hygiène maximale (FDA/3A) dans le transfert de fluides. Produits de haute ingénierie conçus pour le lait, le miel, le chocolat et les produits chimiques agressifs."
+    },
+    "categories": [
+      {
+        "title": "Pompes Centrifuges",
+        "desc": "Systèmes standard ou à refroidissement autonome conçus pour le transfert hygiénique, continu et à haut débit de fluides à faible viscosité comme le lait, les jus de fruits et l'eau."
+      },
+      {
+        "title": "Pompes Volumétriques à Lobes",
+        "desc": "Pompes à lobes assurant le transfert précis de produits denses (à haute viscosité) tels que la crème, le miel, le shampoing ou la pâte de tomate sans altérer leur structure particulaire."
+      },
+      {
+        "title": "Pompes Auto-amorçantes",
+        "desc": "Unités de transfert de liquides puissantes et compactes, capables d'évacuer des fluides mousseux ou contenant du gaz et d'aspirer depuis le fond des cuves sans problème de désamorçage."
+      },
+      {
+        "title": "Pompes Vide-Fûts et Conteneurs",
+        "desc": "Pompes portatives, légères et hautement sécurisées pour extraire des acides, solvants ou additifs alimentaires depuis des fûts industriels et des cuves IBC."
+      },
+      {
+        "title": "Pompes Pneumatiques à Membrane",
+        "desc": "Pompes pneumatiques fonctionnant sans électricité, pouvant être utilisées en toute sécurité dans des environnements explosifs/inflammables (ATEX) et pour le transfert de fluides contenant des particules solides."
+      },
+      {
+        "title": "Pompes à Vis Excentrée (Moineau)",
+        "desc": "Pompes à cavité progressive utilisées pour pousser en continu de la pulpe de fruits, du caillé, des boues d'épuration ou des pâtes à forte teneur en solides dans les tuyauteries."
+      }
+    ],
+    "viewModels": "DÉTAILS DU PRODUIT",
+    "cta": {
+      "title": "Choisir la Bonne Pompe est une Ingénierie Critique",
+      "desc": "En calculant la viscosité, la température de votre fluide et les pertes de charge de votre ligne, choisissons ensemble la pompe la plus précise (sans cavitation) pour votre processus.",
+      "btn": "CONSULTEZ NOTRE INGÉNIERIE"
+    }
+  }
+}

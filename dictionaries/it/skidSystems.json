@@ -1,0 +1,129 @@
+{
+  "skidSystemsPage": {
+    "metadata": {
+      "title": "Unità Mobili e Sistemi Skid | Welltech®",
+      "description": "Unità mobili skid in acciaio inox Plug & Play, dotate di serbatoio, pompa e quadro di automazione integrati, facilmente movimentabili all'interno dell'impianto."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "process": "Sistemi di Processo",
+      "current": "Unità Mobili"
+    },
+    "hero": {
+      "title": "Unità Mobili (Skid)",
+      "desc": "Sistemi di processo compatti Plug & Play completi di serbatoio, pompa e quadro elettrico, facilmente trasferibili tra le diverse stazioni del vostro impianto."
+    },
+    "technology": {
+      "title": "Tecnologia Skid Compatta",
+      "desc": "Le unità mobili (Skid Systems) sono sistemi trasportabili in cui tutte le apparecchiature di processo (serbatoio, pompa, filtro, quadro elettrico) sono integrate su un unico telaio in acciaio inox. Non richiedono tubazioni fisse o opere civili dedicate; possono essere spostate facilmente da una linea all'altra grazie alle ruote e sono immediatamente operative semplicemente collegando l'alimentazione elettrica o pneumatica. Rappresentano la soluzione più flessibile per la produzione modulare.",
+      "imgAlt": "Tecnologia del Telaio (Skid) in Acciaio Inox"
+    },
+    "features": {
+      "title": "Dotazioni e Caratteristiche di Mobilità",
+      "items": [
+        "Telaio Speciale in Acciaio Inox ad Alta Capacità di Carico",
+        "Ruote in Poliammide per Spostamenti Rapidi tra le Stazioni",
+        "Struttura Plug & Play senza Necessità di Installazione o Tubazioni",
+        "Pompa di Trasferimento Integrata (Lobi, Membrana, ecc.)",
+        "Quadro Elettrico Integrato e Cablaggio Sicuro",
+        "Connessioni Flessibili a Morsetto per il Collegamento a Diverse Linee"
+      ],
+      "imgAlt": "Dotazioni delle Unità Mobili"
+    },
+    "table": {
+      "title": "Tipologie di Sistema e Moduli",
+      "note": "* Le unità mobili vengono dimensionate su misura in funzione della capacità richiesta (ad esempio 500 L o 1000 L) e delle apparecchiature da integrare.",
+      "headers": [
+        "APPLICAZIONE / SISTEMA",
+        "APPARECCHIATURE INTEGRATE",
+        "TIPO DI INSTALLAZIONE"
+      ],
+      "imgAlt": "Disegno Tecnico del Sistema Mobile",
+      "rows": [
+        {
+          "application": "Unità CIP Mobile",
+          "equipment": "Serbatoio Riscaldato + Pompa Centrifuga",
+          "setup": "Plug & Play (Connessione tramite Tubazioni Flessibili)",
+          "highlight": "dark"
+        },
+        {
+          "application": "Unità Mobile di Dosaggio",
+          "equipment": "Sistema di Pesatura (Loadcell) + Agitatore",
+          "setup": "Plug & Play (Collegamento Elettrico)",
+          "highlight": "dark"
+        },
+        {
+          "application": "Unità Mobile di Trasferimento",
+          "equipment": "Serbatoio Polmone + Pompa a Lobi / Monovite",
+          "setup": "Plug & Play (Connessione tramite Tubazioni Flessibili)",
+          "highlight": "dark"
+        },
+        {
+          "application": "Sistema Mobile di Filtrazione",
+          "equipment": "Filtro a Sacco + Quadro Elettrico",
+          "setup": "Plug & Play (Connessione tramite Tubazioni Flessibili)",
+          "highlight": "orange"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Posso utilizzare l'unità mobile in ambienti ATEX (esplosivi)?",
+          "a": "Sì. In presenza di fluidi infiammabili o esplosivi, le ruote vengono realizzate con materiali antistatici e il sistema può essere equipaggiato con pompe pneumatiche a membrana e agitatori pneumatici, garantendo una piena conformità ATEX."
+        },
+        {
+          "q": "Qual è la capacità massima del serbatoio installabile sullo skid?",
+          "a": "Tenendo conto della capacità di carico delle ruote e della movimentazione da parte degli operatori, i serbatoi installati su unità mobili hanno normalmente una capacità massima di circa 1.000 litri (1 tonnellata)."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Le Nostre Applicazioni con Sistemi Skid Mobili",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "Unità Mobile di Trasferimento",
+          "alt": "Stazione di Pompaggio Mobile"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "Carrello CIP Portatile",
+          "alt": "Stazione CIP Mobile"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "Miscelazione e Dosaggio Mobile",
+          "alt": "Serbatoio con Agitatore su Ruote"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "Preparazione per Riempimento Cosmetico",
+          "alt": "Unità Mobile per Shampoo"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il catalogo contenente capacità di carico dei telai skid, tipologie di ruote e layout dei quadri elettrici.",
+        "fileUrl": "/assets/documents/it/unita-mobili-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "IMPIANTO ALIMENTARE",
+        "desc": "Carrelli mobili con miscelatori e pompe multistazione progettati per uno stabilimento ad alta capacità di produzione di salse.",
+        "imgAlt": "Riferimento Unità Mobile",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "Quali Moduli Desiderate Integrare?",
+        "desc": "Possiamo combinare serbatoio, pompa, filtro e riscaldatore su un unico telaio. Comunicateci i moduli desiderati e realizzeremo il progetto dedicato.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20mobil%20skid%20uniteler%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

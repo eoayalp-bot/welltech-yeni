@@ -1,0 +1,95 @@
+{
+  "oliveOilTanksPage": {
+    "metadata": {
+      "title": "Zeytinyağı Tankları | Welltech®",
+      "description": "Zeytinyağının nefasetini koruyan, sıfır oksidasyon garantili, azot yastıklama sistemli ve konik tabanlı paslanmaz çelik depolama tankları."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "tanks": "Paslanmaz Tanklar",
+      "current": "Zeytinyağı Tankları"
+    },
+    "hero": {
+      "title": "Zeytinyağı Tankları",
+      "desc": "Zeytinyağının kalitesini, asiditesini ve aromasını ilk günkü gibi koruyan, sıfır oksidasyon garantili yüksek kalite paslanmaz depolama çözümleri."
+    },
+    "engineering": {
+      "title": "Oksidasyon Karşıtı Mühendislik",
+      "desc": "Zeytinyağı, hava (oksijen) ve ışıkla temas ettiğinde hızla bozulmaya başlayan hassas bir üründür. Welltech® zeytinyağı tankları, içindeki havayı tahliye eden özel Azot Yastıklama (Nitrogen Blanketing) sistemiyle donatılır. Pürüzsüz kaynak işçiliği (Ra < 0.6) tortu birikimini engellerken, özel eğimli konik taban tasarımı sayesinde zeytinyağının en saf haliyle (posasız) depolanması ve filtrelenmesi sağlanır."
+    },
+    "features": {
+      "title": "Tasarım ve Koruma Donanımları",
+      "items": {
+        "1": "AISI 304 veya 316L Yüksek Kalite Paslanmaz Çelik",
+        "2": "Sıfır Oksidasyon İçin Entegre Azot (Nitrojen) Yastıklama Sistemi",
+        "3": "Tortu Tahliyesi İçin Özel Açılı Konik (Koni) Taban",
+        "4": "Işık Geçirmez, Tamamen Sızdırmaz Argon Kaynaklı Gövde",
+        "5": "İsteğe Bağlı İzolasyon ve Soğutma/Isıtma Ceketi (Rollbond)",
+        "6": "Seviye Göstergesi, Numune Alma Vanası ve CIP Sistemi"
+      }
+    },
+    "capacityTable": {
+      "title": "Standart Üretim Kapasiteleri",
+      "note": "* Konik taban eğimleri, yağın tortu yapısına ve işletmenin filtreleme prosesine göre özel olarak (15°, 30°, 45°) hesaplanabilir.",
+      "headers": {
+        "volume": "HACİM",
+        "diameter": "ÇAP (Ø mm)",
+        "height": "YÜKSEKLİK (mm)",
+        "thickness": "GÖVDE KALINLIĞI"
+      },
+      "customRow": "Daha yüksek kapasiteli entegre zeytinyağı siloları için proje bazlı özel üretim yapılmaktadır."
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Azot yastıklama sistemi nedir ve neden gereklidir?",
+          "a": "Tankın üst kısmındaki boşluğa basılan azot gazı, oksijeni tamamen dışarı atar. Bu sayede yağın havayla teması kesilir, asit oranının yükselmesi (oksidasyon) önlenir ve zeytinyağı aylar boyunca ilk sıkıldığı günkü tazeliğini korur."
+        },
+        {
+          "q": "Tank tabanının konik olması ne işe yarar?",
+          "a": "Zeytinyağı dinlendikçe dibinde doğal bir tortu (posa) birikir. Konik taban tasarımı, bu tortunun en alt merkez noktada toplanmasını sağlar ve tahliye vanasıyla yağdan kolayca ayrıştırılmasına olanak tanır."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Zeytinyağı Uygulamalarımız",
+      "p1": {
+        "title": "Butik Üretim Depolama",
+        "alt": "Butik Zeytinyağı Depolama Tankı"
+      },
+      "p2": {
+        "title": "Azot Yastıklamalı Tank",
+        "alt": "Azot Yastıklamalı Zeytinyağı Tankı"
+      },
+      "p3": {
+        "title": "Konik Tabanlı Dinlendirme",
+        "alt": "Konik Tabanlı Dinlendirme Tankı"
+      },
+      "p4": {
+        "title": "Entegre Tesis Siloları",
+        "alt": "Zeytinyağı Tesis Siloları"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Azot sistemi detayları, taban eğim oranları ve malzeme standartlarını içeren spesifikasyon dosyasını indirin.",
+        "fileUrl": "/assets/documents/tr/zeytinyagi-depolama-tanklari-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "ENTEGRE TESİS",
+        "desc": "Ege Bölgesi'ndeki modern bir zeytinyağı fabrikası için kurduğumuz anahtar teslim depolama hattı.",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "İklimlendirme Gerekli Mi?",
+        "desc": "Soğuk iklimlerde yağın donmasını engellemek için ısıtma ceketli özel tank tasarımınızı birlikte yapalım.",
+        "whatsappMsg": "Merhaba, Zeytinyağı Tankları (Azot yastıklamalı) hakkında teknik bilgi ve fiyat almak istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

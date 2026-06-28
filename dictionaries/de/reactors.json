@@ -1,0 +1,82 @@
+{
+  "reactorsPage": {
+    "metadata": {
+      "title": "Chemische Reaktoren und Prozesstanks | Welltech®",
+      "description": "Heavy-Duty-Edelstahlreaktoren, die chemische Reaktionen unter Hochdruck, Vakuum und extremen Temperaturbedingungen sicher steuern."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "Chemische Reaktoren"
+    },
+    "hero": {
+      "title": "Chemische Reaktoren",
+      "desc": "Heavy-Duty-Systeme, die Reaktionen unter anspruchsvollen Prozessbedingungen (Hochdruck, Vakuum, extreme Hitze) mit maximaler Sicherheit und Präzision steuern."
+    },
+    "technology": {
+      "title": "Reaktions- und Steuerungstechnologie",
+      "desc1": "Industrielle Reaktoren sind druckfeste Spezialprozesstanks, die dafür ausgelegt sind, chemische Reaktionen (Polymerisation, Veresterung, Kondensation usw.) mit optimaler Geschwindigkeit und sicher ablaufen zu lassen.",
+      "desc2": "<strong>Welltech® Reaktoren</strong> sind je nach Reaktionsart mit Halbrohrschlangen oder Mantelsystemen ausgestattet, um <strong>exotherme (wärmeabgebende)</strong> oder <strong>endotherme (wärmeaufnehmende)</strong> Reaktionen unter Kontrolle zu halten. Eine risikofreie Produktion wird mit speziellen, auf die interne Masse abgestimmten Getrieben und ATEX-zugelassenen Automatisierungssystemen gewährleistet.",
+      "imgAlt": "Chemische Reaktor Prozesstechnologie"
+    },
+    "features": {
+      "title": "Design- und Sicherheitsausstattung",
+      "items": [
+        "TÜV- und ASME Section VIII-geprüftes Hochdruckgehäuse",
+        "Absolute Dichtheit durch mechanische und magnetische Gleitringdichtungen",
+        "Ex-Proof (ATEX) konformer Automatisierungs- und Motorschaltschrank",
+        "Hocheffiziente Mantelsysteme zum Heizen/Kühlen",
+        "Fähigkeit zur Siedepunkterniedrigung unter Vakuum",
+        "Sicherheitsventil und Berstscheibe (Rupture Disk) für gefährliche Gase"
+      ],
+      "imgAlt": "Reaktormotor und Hardwarequerschnitt"
+    },
+    "table": {
+      "title": "Standard-Reaktorkapazitäten",
+      "note": "* Die angegebenen Abmessungen und Druckwerte dienen als Referenz. Abhängig von den spezifischen Prozessanforderungen Ihrer Anlage kann in jeder Kapazität individuell produziert werden.",
+      "headers": [
+        "REAKTORVOLUMEN",
+        "BETRIEBSDRUCK",
+        "HEIZ-/KÜHLTYP",
+        "MISCHFLÜGELTYP"
+      ],
+      "imgAlt": "Technische Zeichnung Reaktor",
+      "rows": [
+        { "volume": "500 Liter (Pilot)", "pressure": "-1 / +6 Bar", "heating": "Elektrisch / Dampf", "mixer": "Propeller / Anker", "highlight": "dark" },
+        { "volume": "2.000 Liter", "pressure": "-1 / +10 Bar", "heating": "Halbrohrschlange", "mixer": "Ankerrührer + Baffle", "highlight": "dark" },
+        { "volume": "5.000 Liter", "pressure": "-1 / +10 Bar", "heating": "Halbrohrschlange", "mixer": "Gegenläufiger Doppelrührer", "highlight": "dark" },
+        { "volume": "10.000 Liter", "pressure": "-1 / +16 Bar", "heating": "Halbrohrschlange", "mixer": "Ankerrührer mit Abstreifer", "highlight": "dark" },
+        { "volume": "20.000+ Liter", "pressure": "-1 / +16 Bar", "heating": "Sonderkonstruktion", "mixer": "Sonderkonstruktion", "highlight": "orange" }
+      ]
+    },
+    "gallery": {
+      "title": "Unsere industriellen Reaktor-Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Polymerisationsreaktor", "alt": "Polymerreaktor" },
+        { "src": "galeri-2.webp", "label": "Kosmetisches Mischen und Vakuum", "alt": "Vakuumreaktor" },
+        { "src": "galeri-3.webp", "label": "Farb- und Harzreaktor", "alt": "Harzreaktor" },
+        { "src": "galeri-4.webp", "label": "Pharmazeutischer Synthesereaktor", "alt": "Pharmareaktor" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie die technische Datei herunter, die Druckfestigkeitswerte, Mantelalternativen und Motor-Getriebe-Kombinationen enthält.",
+        "fileUrl": "/assets/documents/de/chemische-reaktoren-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "PETROCHEMIEANLAGE",
+        "desc": "15.000 L Hochdruck-Synthesereaktor mit Ex-Proof-Panel, den wir für eine internationale Chemieanlage hergestellt haben.",
+        "imgAlt": "Reaktor Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Prozessspezifischer Reaktor",
+        "desc": "Teilen Sie uns Ihre Reaktionszeiten und Druck-/Temperaturwerte mit, und wir entwickeln gemeinsam das sicherste Reaktordesign.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

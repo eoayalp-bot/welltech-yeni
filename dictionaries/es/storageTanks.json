@@ -1,0 +1,83 @@
+{
+  "storageTanksPage": {
+    "metadata": {
+      "title": "Tanques de Almacenamiento Industrial | Welltech®",
+      "description": "Fabricación de tanques de acero inoxidable de trabajo pesado para almacenamiento de gran volumen de químicos y alimentos según las normas ASME y CE."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "tanks": "Tanques de Inoxidable",
+      "current": "Tanques de Almacenamiento"
+    },
+    "hero": {
+      "title": "Tanques de Almacenamiento Industrial",
+      "desc": "Soluciones inoxidables duraderas, con estándares internacionales (ASME, EN 14015, API 650), alta estanqueidad y garantía de cero oxidación para el corazón de sus instalaciones."
+    },
+    "engineering": {
+      "title": "Ingeniería de Trabajo Pesado (Heavy-Duty)",
+      "desc": "El almacenamiento seguro de líquidos, materias primas o productos semiacabados de gran volumen es vital para la sostenibilidad de su fábrica. Los Tanques de Almacenamiento Welltech® se dimensionan con pruebas de simulación 3D avanzadas frente a la gravedad específica (viscosidad) del fluido contenido y las cargas sísmicas y de viento. Cada punto de soldadura está certificado por métodos de Ensayos No Destructivos (END) para garantizar la máxima resistencia."
+    },
+    "features": {
+      "title": "Ventajas de Diseño y Hardware",
+      "items": {
+        "1": "Producción en Acero AISI 304L, 316L, 316Ti o Dúplex",
+        "2": "Tecnología de Soldadura Robótica TIG y Plasma Específica a la Capacidad",
+        "3": "Cumplimiento Total con los Estándares API 650 y EN 14015",
+        "4": "Opciones de Fondo Especial Cónico, Abombado o Plano Inclinado",
+        "5": "Alta Resistencia a la Presión, al Viento y a Cargas Sísmicas",
+        "6": "Integración de Control de Nivel, Ventilación y Bola de Lavado CIP"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacidades de Producción Estándar",
+      "note": "* Las dimensiones proporcionadas (Diámetro x Altura) son valores aproximados. Se pueden realizar revisiones milimétricas de acuerdo a las restricciones de espacio de su planta.",
+      "headers": {
+        "volume": "VOLUMEN",
+        "diameter": "DIÁMETRO (Ø mm)",
+        "height": "ALTURA (mm)",
+        "material": "MATERIAL"
+      },
+      "onSite": "Para tanques de esta capacidad y superior, se proporciona servicio de instalación in situ (On-Site)."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Cómo entregan los tanques que son más grandes que las puertas de nuestra fábrica?",
+          "a": "Los tanques de gran diámetro y alto volumen (más de 100.000 L) se preparan de manera modular en nuestra fábrica y son ensamblados in situ (On-site) por nuestros expertos ingenieros soldadores."
+        },
+        {
+          "q": "¿Cuál es la diferencia entre el almacenamiento de Alimentos y de Químicos?",
+          "a": "En los tanques para alimentos, la calidad de superficie lisa (Ra < 0.6) y las líneas de lavado CIP son críticas; en tanques de químicos como ácidos o disolventes, se prefieren los aceros Dúplex con alta resistencia a la corrosión y equipos ATEX."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nuestras Aplicaciones de Almacenamiento",
+      "p1": "Tanque de Almacenamiento de Ácido y Cáustico",
+      "p2": "Almacenamiento de Acero Inoxidable Grado Alimenticio",
+      "p3": "Tanque de Reserva Petroquímica",
+      "p4": "Silos Industriales de Gran Volumen"
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Puede descargar el archivo de especificaciones técnicas que incluye espesores de materiales, procedimientos de soldadura y normas de calidad.",
+        "fileUrl": "/assets/documents/es/tanques-almacenamiento-industrial-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "INSTALACIÓN EN EL SITIO",
+        "desc": "Eche un vistazo a nuestro megaproyecto de almacenamiento de 500.000 litros finalizado el año pasado.",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "¿Necesita Dimensiones Especiales?",
+        "desc": "Calculemos junto a nuestros ingenieros la capacidad máxima que mejor se adapte al espacio vacío (altura/anchura) de su fábrica.",
+        "whatsappMsg": "Hola, me gustaria obtener informacion sobre el calculo de dimensiones y capacidades especiales para los Tanques de Almacenamiento Industrial.",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

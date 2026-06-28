@@ -1,0 +1,93 @@
+{
+  "jacketedTanksPage": {
+    "metadata": {
+      "title": "Jacketed Heating and Cooling Tanks | Welltech®",
+      "description": "Stainless steel jacketed and insulated tanks designed to precisely control product temperature in chemical, food, and pharmaceutical processes."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "process": "Process Systems",
+      "current": "Jacketed Tanks"
+    },
+    "hero": {
+      "title": "Jacketed (Heating/Cooling) Tanks",
+      "desc": "Reactors and tanks with half-pipe coil, roll-bond, and double-wall technologies featuring high heat transfer efficiency that provide the precise temperature control your process needs."
+    },
+    "technology": {
+      "title": "Heat Transfer and Jacket Technologies",
+      "desc": "Jacketed tanks are systems that have a secondary cavity (jacket) integrated into their body to heat or cool the fluid inside. <strong>Welltech® Engineering</strong> calculates the optimal surface area according to your process's heating/cooling rate and the fluid to be used (steam, thermal oil, glycol, chilled water). While <strong>Half-pipe coil</strong> is ideal for high-pressure steam, <strong>Roll-bond (Dimple)</strong> jackets provide excellent efficiency in homogeneous cooling and heating applications."
+    },
+    "features": {
+      "title": "Design and Insulation Advantages",
+      "items": [
+        "Special Jacket Designs Providing Homogeneous Heat Distribution",
+        "Welds Tested for High-Pressure Steam and Thermal Oil",
+        "100% Energy Efficient Insulation with Polyurethane or Rock Wool",
+        "Fully Welded Stainless Outer Cladding Over Insulation",
+        "Thermal Break Connections to Prevent Heat Loss",
+        "Compatibility with Precise PT-100 Thermocouple and Heat Control Automation"
+      ],
+      "imgAlt": "Jacketed Tank Insulation and Heat Transfer"
+    },
+    "table": {
+      "title": "Jacket Types and Technical Applications",
+      "note": "* Operating pressure and jacket sheet thicknesses are statically calculated according to (ASME Section VIII or EN 13445) standards.",
+      "headers": [
+        "JACKET TYPE",
+        "PURPOSE OF USE",
+        "HEAT TRANSFER FLUID",
+        "MAXIMUM PRESSURE"
+      ],
+      "imgAlt": "Jacketed Tank Technical Drawing",
+      "rows": [
+        { "type": "Half-Pipe Coil", "purpose": "High-Pressure Heating", "fluid": "Steam / Thermal Oil", "pressure": "25 Bar", "highlight": "orange" },
+        { "type": "Double Wall", "purpose": "Atmospheric Heating/Cooling", "fluid": "Hot Water / Cold Water", "pressure": "3 Bar", "highlight": "dark" },
+        { "type": "Roll-Bond (Dimple Jacket)", "purpose": "Homogeneous Fast Cooling/Heating", "fluid": "Chilled Water / Glycol / Steam", "pressure": "15 Bar", "highlight": "dark" },
+        { "type": "Electrical (Resistance)", "purpose": "Autonomous (Boiler-less) Heating", "fluid": "Thermal Oil / Water", "pressure": "Atmospheric", "highlight": "dark" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What is the difference between a Half-Pipe Coil jacket and a Double Wall?",
+          "a": "A half-pipe jacket consists of pipes wrapped and welded around the shell. Its high-pressure (e.g., 10 bar steam) resistance is excellent. A double wall is a second sheet that completely surrounds the tank, more suitable for low-pressure (atmospheric) water circulation."
+        },
+        {
+          "q": "How is the insulation material chosen?",
+          "a": "While Polyurethane foam is used to prevent condensation in cooling (chiller) processes, non-combustible Rock Wool or Ceramic Wool insulation is preferred in high-temperature (steam, thermal oil) heating processes."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Industrial Applications",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Steam Heated Reactor", "alt": "Steam Jacketed Reactor" },
+        { "src": "galeri-2.webp", "label": "Chilled Water Cooled Tank", "alt": "Cooling Jacketed Tank" },
+        { "src": "galeri-3.webp", "label": "Thermal Oil Jacketed Melting Tank", "alt": "Melting Tank" },
+        { "src": "galeri-4.webp", "label": "Insulated and Resisted Mixer", "alt": "Electric Heated Tank" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download our catalog containing heat transfer surface calculations, jacket pressure tests, and insulation details.",
+        "fileUrl": "/assets/documents/en/jacketed-heating-cooling-tanks-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "CHEMICAL FACILITY",
+        "desc": "A 20,000 L capacity polymerization tank line with glycol cooling and polyurethane insulation.",
+        "imgAlt": "Jacketed Tank Reference",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "Which Jacket Type?",
+        "desc": "Let us know your targeted reaction time and heating/cooling fluid, and let's choose the safest jacket system together.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Hello,%20I%20would%20like%20to%20get%20technical%20information%20and%20pricing%20about%20jacketed%20tanks.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "seo": {
+    "defaultTitle": "Welltech® | Endüstriyel Tank ve Proses Sistemleri",
+    "description": "Uluslararası standartlarda paslanmaz çelik endüstriyel tanklar, hijyenik pompalar ve proses ekipmanları üreticisi.",
+    "keywords": [
+      "paslanmaz tank",
+      "proses sistemleri",
+      "hijyenik pompa",
+      "welltech"
+    ]
+  },
+  "cookieBanner": {
+    "title": "Çerez Politikası",
+    "description": "Size daha iyi bir deneyim sunmak için çerezleri kullanıyoruz.",
+    "details": "Detayları İncele",
+    "accept": "Kabul Et",
+    "decline": "Reddet"
+  },
+  "navbar": {
+    "tanks": "Paslanmaz Tanklar",
+    "machines": "Proses Sistemleri",
+    "pumps": "Hijyenik Pompalar",
+    "about": "Hakkımızda",
+    "blog": "Blog & Haberler",
+    "docs": "Dökümanlar",
+    "contact": "İletişim"
+  },
+  "footer": {
+    "description": "Uluslararası standartlarda paslanmaz çelik endüstriyel tanklar, proses sistemleri ve hijyenik pompa çözümleriyle tesisinize özel anahtar teslim mühendislik.",
+    "inokstek": "BİR İNOKSTEK KURULUŞUDUR",
+    "products": "ÜRÜNLER & ÇÖZÜMLER",
+    "tanks": "Paslanmaz Depolama Tankları",
+    "machines": "Proses Sistemleri",
+    "pumps": "Hijyenik Transfer Pompaları",
+    "locations": "LOKASYONLAR",
+    "hq_title": "Merkez Ofis",
+    "factory_title": "Üretim Tesisleri",
+    "copyright": "Tüm Hakları Saklıdır."
+  }
+}

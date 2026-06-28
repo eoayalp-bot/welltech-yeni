@@ -1,0 +1,95 @@
+{
+  "centrifugalPumpsPage": {
+    "metadata": {
+      "title": "Kreiselpumpen | Welltech®",
+      "description": "Edelstahl-Kreiselpumpen für den leistungsstarken, kontinuierlichen und hygienischen Transfer von niedrigviskosen Medien wie Milch, Saft und Wasser."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "pumps": "Pumpen",
+      "current": "Kreiselpumpen"
+    },
+    "hero": {
+      "title": "Kreiselpumpen",
+      "desc": "Hohe Förderleistung und kontinuierlicher Transfer für niedrigviskose Flüssigkeiten. Edelstahldesign für maximale Hygiene in Lebensmittel- und Getränkelinien."
+    },
+    "technology": {
+      "title": "Zentrifugaltechnologie (Kreiselpumpe)",
+      "desc": "Kreiselpumpen arbeiten nach dem Prinzip der Erzeugung von Zentrifugalkräften durch ein Laufrad, das mit hoher Geschwindigkeit im Gehäuse rotiert. Die Flüssigkeit wird in der Mitte des Laufrads angesaugt und durch die Schaufeln zur Druckleitung beschleunigt. Dies ist die effizienteste und wirtschaftlichste Lösung für den Transfer von Medien wie Milch, Wasser, Fruchtsaft und CIP-Reinigungsflüssigkeiten.",
+      "imgAlt": "Kreiselpumpen-Laufradtechnologie"
+    },
+    "features": {
+      "title": "Design- und Leistungsvorteile",
+      "items": [
+        "Kontinuierlicher und gleichmäßiger Durchfluss bei hohen Leistungen",
+        "Hoher Wirkungsgrad bei geringem Energieverbrauch",
+        "Totraumfreie und zu 100 % waschbare (CIP) Innenstruktur",
+        "Geschmiedetes Gehäuse aus Edelstahl AISI 304 oder 316L",
+        "Offene, halboffene oder geschlossene Laufräder wählbar",
+        "Wartungsfreundliche, langlebige Gleitringdichtung"
+      ],
+      "imgAlt": "Kreiselpumpenmotor und Gehäuse"
+    },
+    "table": {
+      "title": "Technische Spezifikationen und Kapazität",
+      "note": "* Fördermenge und Förderhöhe werden basierend auf der Motorleistung und dem Laufraddurchmesser individuell für Ihren Prozess konfiguriert.",
+      "headers": [
+        "PUMPENMODELL",
+        "MAX. FÖRDERMENGE (m³/h)",
+        "FÖRDERHÖHE (m)",
+        "MOTORLEISTUNG (kW)"
+      ],
+      "imgAlt": "Technische Zeichnung der Kreiselpumpe",
+      "rows": [
+        { "model": "WCP-10", "flow": "10 m³/h", "head": "15 m", "power": "1,1 kW", "highlight": "dark" },
+        { "model": "WCP-20", "flow": "20 m³/h", "head": "25 m", "power": "2,2 kW", "highlight": "dark" },
+        { "model": "WCP-30", "flow": "30 m³/h", "head": "30 m", "power": "4,0 kW", "highlight": "dark" },
+        { "model": "WCP-50", "flow": "50 m³/h", "head": "35 m", "power": "5,5 kW", "highlight": "dark" },
+        { "model": "WCP-80", "flow": "80 m³/h", "head": "45 m", "power": "11,0 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Können Kreiselpumpen für hochviskose (zähflüssige) Flüssigkeiten eingesetzt werden?",
+          "a": "Nein. Kreiselpumpen sind für niedrigviskose Flüssigkeiten wie Wasser, Milch und Fruchtsaft ausgelegt. Hochviskose Medien wie Honig oder Sahne verursachen Kavitation am Laufrad."
+        },
+        {
+          "q": "Was ist der Unterschied zwischen offenen und geschlossenen Laufrädern?",
+          "a": "Geschlossene Laufräder bieten maximale Effizienz beim Transfer reiner Flüssigkeiten (Wasser, Milch), während offene oder halboffene Laufräder verwendet werden, um feststoffhaltige oder mit leichten Fruchtstücken versetzte Medien verstopfungsfrei zu fördern."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Unsere industriellen Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Milch- und Molkereitransfer", "alt": "Milchpumpe" },
+        { "src": "galeri-2.webp", "label": "Fruchtsaftlinien", "alt": "Fruchtsaftpumpe" },
+        { "src": "galeri-3.webp", "label": "CIP-Reinigungsanlagen", "alt": "CIP-Pumpe" },
+        { "src": "galeri-4.webp", "label": "Wasser- und Getränkeprozesse", "alt": "Getränkepumpe" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "desc": "Laden Sie unseren Katalog mit Pumpenkennlinien, Motorleistungen und Gleitringdichtungstypen herunter.",
+        "fileUrl": "/assets/documents/de/kreiselpumpen-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "GETRÄNKEANLAGE",
+        "desc": "Hygienische Kreiselpumpenlinie, die wir für eine Großanlage zur Fruchtsaftherstellung installiert haben.",
+        "imgAlt": "Kreiselpumpe Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "Korrekte Fördermenge und Druck",
+        "desc": "Teilen Sie uns die Anzahl der Rohrbögen und die Leitungslänge mit, und wir bestimmen den richtigen kavitationsfreien Laufraddurchmesser.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hallo,%20ich%20moechte%20technische%20Informationen%20und%20Preise%20zu%20Kreiselpumpen%20erhalten.",
+        "btn": "INGENIEUR KONSULTIEREN"
+      }
+    }
+  }
+}

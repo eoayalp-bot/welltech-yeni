@@ -1,0 +1,93 @@
+{
+  "skidSystemsPage": {
+    "metadata": {
+      "title": "Unités Mobiles et Systèmes Skid | Welltech®",
+      "description": "Unités skid mobiles en inox « Prêt-à-l'emploi » (Plug & Play), facilement déplaçables en usine, équipées de leur propre pompe, panneau d'automatisation et cuve."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "process": "Systèmes de Process",
+      "current": "Unités Mobiles"
+    },
+    "hero": {
+      "title": "Unités Mobiles (Skids)",
+      "desc": "Systèmes de process compacts « Prêt-à-l'emploi », équipés d'une cuve, pompe et panneau, pouvant être facilement déplacés vers toutes les stations de votre usine."
+    },
+    "technology": {
+      "title": "Technologie Skid Compact (Châssis)",
+      "desc": "Les unités mobiles (Skid Systems) sont des systèmes portables où tout le parc machines (cuve, pompe, filtre, panneau) est assemblé sur un seul châssis en acier inoxydable, sans nécessiter de tuyauterie fixe ou de travaux d'infrastructure. Elles peuvent être facilement tirées d'une ligne à l'autre grâce à leurs roues ; la production démarre instantanément en se branchant simplement à l'électricité (ou à l'air). C'est la forme la plus flexible de la production modulaire.",
+      "imgAlt": "Technologie de Châssis en Acier Inoxydable (Skid)"
+    },
+    "features": {
+      "title": "Caractéristiques Matérielles et de Portabilité",
+      "items": [
+        "Châssis spécial en acier inoxydable résistant aux charges lourdes",
+        "Roues en polyamide pour un déplacement rapide entre les stations",
+        "Structure Prêt-à-l'emploi (Plug & Play) sans besoin d'installation",
+        "Pompe de transfert intégrée (à lobes, à membrane, etc.)",
+        "Installation électrique sécurisée et panneau de contrôle intégré",
+        "Raccords de tuyaux flexibles (à collier) raccordables à différentes lignes"
+      ],
+      "imgAlt": "Équipements de l'Unité Mobile"
+    },
+    "table": {
+      "title": "Types de Systèmes et Modules",
+      "note": "* Les unités mobiles sont dimensionnées sur mesure en fonction de la capacité demandée (par ex. 500L ou 1000L) et des équipements à utiliser.",
+      "headers": [
+        "APPLICATION / SYSTÈME",
+        "ÉQUIPEMENTS INTÉGRÉS",
+        "MODE DE FONCTIONNEMENT"
+      ],
+      "imgAlt": "Dessin Technique du Système Mobile",
+      "rows": [
+        { "application": "Unité NEP Mobile", "equipment": "Cuve Chauffante + Pompe Centrifuge", "setup": "Prêt-à-l'emploi (Raccord Tuyau)", "highlight": "dark" },
+        { "application": "Unité de Dosage Mobile", "equipment": "Pesage (Loadcell) + Agitateur", "setup": "Prêt-à-l'emploi (Prise)", "highlight": "dark" },
+        { "application": "Transfert Mobile", "equipment": "Cuve Tampon + Lobes / Vis Excentrée", "setup": "Prêt-à-l'emploi (Raccord Tuyau)", "highlight": "dark" },
+        { "application": "Filtration Mobile", "equipment": "Corps de Filtre à Poche + Panneau", "setup": "Prêt-à-l'emploi (Raccord Tuyau)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Puis-je utiliser l'unité mobile dans un environnement ATEX (Inflammable) ?",
+          "a": "Oui. Si le produit à transférer est inflammable/combustible, les roues de l'unité mobile sont fabriquées en matériau antistatique (conducteur), et elle est rendue 100% conforme ATEX en intégrant une pompe pneumatique à membrane et un mélangeur pneumatique au lieu d'un moteur électrique."
+        },
+        {
+          "q": "Quel peut être le volume maximum de la cuve sur un skid ?",
+          "a": "Sur les unités mobiles, on utilise généralement des cuves d'un volume maximal de 1 000 Litres (1 Tonne), en calculant la capacité de charge des roues et la force de poussée humaine de l'opérateur."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nos Applications Skid Mobile",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Unité de Transfert Mobile", "alt": "Station de Pompe Portable" },
+        { "src": "galeri-2.webp", "label": "Chariot de Lavage NEP Portable", "alt": "Station NEP Mobile" },
+        { "src": "galeri-3.webp", "label": "Mélangeur et Dosage Mobile", "alt": "Cuve Agitée sur Roues" },
+        { "src": "galeri-4.webp", "label": "Préparation Remplissage Cosmétique", "alt": "Unité de Shampoing Mobile" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez notre catalogue contenant les capacités de charge des châssis skids, les types de roues et les agencements de panneaux.",
+        "fileUrl": "/assets/documents/fr/unites-mobiles-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "USINE ALIMENTAIRE",
+        "desc": "Mélangeurs et chariots de pompage mobiles multi-stations conçus pour une usine de sauces de grande capacité.",
+        "imgAlt": "Référence Unité Mobile",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Que Faut-il Intégrer ?",
+        "desc": "Combinons cuve, pompe, filtre et chauffage sur un seul châssis. Indiquez-nous les modules que vous souhaitez, et nous réaliserons le plan.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Bonjour,%20je%20souhaite%20obtenir%20des%20informations%20techniques%20et%20des%20prix%20sur%20les%20unites%20skid%20mobiles.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

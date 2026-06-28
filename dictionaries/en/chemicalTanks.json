@@ -1,0 +1,96 @@
+{
+  "chemicalTanksPage": {
+    "metadata": {
+      "title": "Chemical and Acid Tanks | Welltech®",
+      "description": "Maximum corrosion-resistant stainless steel tanks for aggressive chemicals, acids, and high-pressure processes."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "tanks": "Stainless Tanks",
+      "current": "Chemical Tanks"
+    },
+    "hero": {
+      "title": "Chemical and Acid Tanks",
+      "desc": "High corrosion-resistant, ATEX-compliant, and maximum-security stainless solutions for aggressive chemicals and demanding processes."
+    },
+    "corrosion": {
+      "title": "Maximum Corrosion Resistance",
+      "desc": "Standard stainless steels may be insufficient for storing highly corrosive fluids like acids, solvents, and caustics. Depending on the chemical's pH value, operating temperature, and pressure, Welltech engineers provide maximum occupational safety in your facility by offering Titanium alloy (316Ti), Super Duplex, or specially coated (PTFE) tank designs."
+    },
+    "features": {
+      "title": "Design and Safety Features",
+      "items": {
+        "1": "Duplex, 316Ti, or Hastelloy Special Alloy Options",
+        "2": "ATEX (Ex-Proof) Certified Equipment Integration",
+        "3": "Double Wall Design for Zero Leakage",
+        "4": "Gas Scrubbers and Ventilation Systems",
+        "5": "Acid and Chemical Resistant Special Sealing (PTFE/Viton)",
+        "6": "Automatic Dosing and Level Control Automation"
+      }
+    },
+    "capacityTable": {
+      "title": "Heavy-Duty Production Capacities",
+      "note": "* Wall thicknesses for aggressive chemicals are statically calculated based on the fluid's specific gravity and pressure.",
+      "heavy": " (Heavy-Duty)",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIAMETER (Ø mm)",
+        "height": "HEIGHT (mm)",
+        "thickness": "MIN. THICKNESS"
+      },
+      "customRow": "For tanks of this capacity and above requiring special engineering, project-based calculations are made."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Which chemicals are stainless steel tanks suitable for?",
+          "a": "Safe storage is ensured by selecting the right alloy (316L, 316Ti, Duplex) for many corrosive substances such as nitric acid, sulfuric acid, sodium hydroxide (caustic), solvents, and petrochemical products."
+        },
+        {
+          "q": "Is there ATEX approval for flammable / explosive chemicals?",
+          "a": "Yes, for solvents and similar fluids with flammable properties, all motors, sensors, and valves are integrated as ATEX (Ex-Proof) certified."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Our Chemical Project Examples",
+      "p1": {
+        "title": "Sulfuric Acid Tank",
+        "alt": "Sulfuric Acid Tank Project"
+      },
+      "p2": {
+        "title": "Caustic Storage",
+        "alt": "Caustic Storage Tank"
+      },
+      "p3": {
+        "title": "ATEX Solvent Tank",
+        "alt": "ATEX Approved Solvent Tank"
+      },
+      "p4": {
+        "title": "Double Wall Insulated Tank",
+        "alt": "Double Wall Chemical Tank"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Technical Specification",
+        "subtitle": "PDF DOCUMENT",
+        "desc": "Download the specification file containing chemical resistance charts, wall thicknesses, and safety standards.",
+        "fileUrl": "/assets/documents/en/chemical-and-acid-tanks-tech-specs.pdf",
+        "btn": "DOWNLOAD SPECIFICATION"
+      },
+      "reference": {
+        "badge": "ATEX PROJECT",
+        "desc": "Ex-Proof solvent storage line we manufactured for an international petrochemical facility.",
+        "link": "GO TO PROJECT"
+      },
+      "cta": {
+        "title": "Need a Special Alloy?",
+        "desc": "Send us the MSDS report of the chemical to be used in your project, and let's determine the most suitable stainless alloy together.",
+        "whatsappMsg": "Hello, I would like to discuss alloy selection and pricing for Chemical Storage Tanks.",
+        "btn": "CONSULT AN ENGINEER"
+      }
+    }
+  }
+}

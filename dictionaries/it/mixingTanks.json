@@ -1,0 +1,141 @@
+{
+  "mixingTanksPage": {
+    "metadata": {
+      "title": "Serbatoi con Agitatore e Miscelatori | Welltech®",
+      "description": "Serbatoi miscelatori in acciaio inox con agitatori, progettati per fluidi con differenti viscosità nei settori alimentare, farmaceutico e chimico."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "process": "Sistemi di Processo",
+      "current": "Serbatoi con Agitatore"
+    },
+    "hero": {
+      "title": "Serbatoi con Agitatore",
+      "desc": "Miscelatori industriali progettati su misura per il prodotto e il processo, in grado di garantire una perfetta omogeneizzazione di miscele liquido-liquido o liquido-solido con diverse viscosità."
+    },
+    "technology": {
+      "title": "Meccanica dei Fluidi e Tecnologia degli Agitatori",
+      "desc": "L'efficienza dei serbatoi con agitatore dipende dalla selezione della <strong>girante (agitatore)</strong> più adatta alla viscosità e alla densità del prodotto. Le pale di tipo elica (Propeller) generano una rapida circolazione nei fluidi a bassa viscosità, mentre le <strong>giranti ad ancora (Anchor) e con raschiatori</strong> impediscono ai prodotti viscosi e adesivi di depositarsi sulle pareti del serbatoio, garantendo una miscelazione omogenea. Quando necessario, l'integrazione di frangiflutti (baffle) riduce la formazione di vortici e minimizza i tempi di processo.",
+      "imgAlt": "Tecnologia degli Agitatori"
+    },
+    "features": {
+      "title": "Vantaggi di Design e Prestazioni",
+      "items": [
+        "Giranti Progettate in Funzione della Viscosità del Prodotto",
+        "Sistema Frangivortice (Baffle) per Eliminare la Formazione di Vortex",
+        "Raschiatori in PTFE per Evitare Incrostazioni e Surriscaldamento del Prodotto",
+        "Regolazione della Velocità tramite Inverter",
+        "Configurazione Motore-Riduttore Progettata per Preservare la Struttura del Prodotto",
+        "Sfere CIP (Clean-In-Place) Integrate per una Pulizia Rapida ed Efficiente"
+      ],
+      "imgAlt": "Motore e Automazione del Serbatoio con Agitatore"
+    },
+    "table": {
+      "title": "Tipologie di Giranti e Applicazioni",
+      "note": "* I valori di viscosità e velocità indicati sono di riferimento generale; la combinazione motore-riduttore viene dimensionata specificamente per ogni progetto.",
+      "headers": [
+        "TIPO DI GIRANTE (AGITATORE)",
+        "INTERVALLO DI VISCOSITÀ",
+        "APPLICAZIONE",
+        "VELOCITÀ DI ROTAZIONE"
+      ],
+      "imgAlt": "Disegno Tecnico del Serbatoio con Agitatore",
+      "rows": [
+        {
+          "type": "Elica (Propeller)",
+          "viscosity": "Bassa (Acqua, Succhi di Frutta)",
+          "usage": "Miscelazione Rapida / Dissoluzione",
+          "speed": "Alta (1000 - 1500 RPM)",
+          "highlight": "dark"
+        },
+        {
+          "type": "Turbina (Turbine)",
+          "viscosity": "Bassa / Media",
+          "usage": "Emulsione / Dispersione",
+          "speed": "Media - Alta (300 - 1000 RPM)",
+          "highlight": "dark"
+        },
+        {
+          "type": "Ancora (Anchor)",
+          "viscosity": "Alta (Creme, Shampoo)",
+          "usage": "Trasferimento Termico Omogeneo",
+          "speed": "Bassa (10 - 60 RPM)",
+          "highlight": "dark"
+        },
+        {
+          "type": "Con Raschiatori in PTFE (Scraper)",
+          "viscosity": "Molto Alta (Concentrati, Paste)",
+          "usage": "Processi Riscaldati (Prevenzione delle Bruciature)",
+          "speed": "Bassa (10 - 40 RPM)",
+          "highlight": "dark"
+        },
+        {
+          "type": "Doppia Girante Controrotante",
+          "viscosity": "Variabile",
+          "usage": "Reazioni Chimiche Complesse",
+          "speed": "Variabile (Con Inverter)",
+          "highlight": "orange"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Qual è la funzione dei frangiflutti (Baffle)?",
+          "a": "Nei processi di miscelazione ad alta velocità impediscono la formazione di vortici all'interno del serbatoio. Alterando il flusso del liquido, favoriscono una miscelazione verticale più efficiente e possono ridurre i tempi di processo fino al 40%."
+        },
+        {
+          "q": "Perché vengono utilizzati agitatori con raschiatori?",
+          "a": "Nei serbatoi camiciati riscaldati, i raschiatori in PTFE sono indispensabili per evitare che prodotti viscosi, come concentrati di pomodoro o creme cosmetiche, aderiscano e si brucino sulle superfici riscaldate."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Le Nostre Applicazioni Industriali",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "Preparazione di Soluzioni Chimiche",
+          "alt": "Miscelatore Chimico"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "Miscelatore per Shampoo e Detergenti",
+          "alt": "Serbatoio Miscelatore Cosmetico"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "Serbatoio di Processo per Latte e Ayran",
+          "alt": "Serbatoio Miscelatore Alimentare"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "Miscelatore per Salse e Concentrati",
+          "alt": "Serbatoio Miscelatore con Raschiatori"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il documento contenente tabelle di selezione delle giranti, calcoli delle velocità dei motori e configurazioni dei baffle.",
+        "fileUrl": "/assets/documents/it/serbatoi-miscelatori-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "IMPIANTO COSMETICO",
+        "desc": "Linea per sapone liquido con raschiatori in PTFE e camicia di riscaldamento realizzata per un'azienda cosmetica globale.",
+        "imgAlt": "Riferimento Miscelatore Cosmetico",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "Qual è la Viscosità del Vostro Prodotto?",
+        "desc": "Comunicateci la densità del fluido e la capacità richiesta: progetteremo insieme la configurazione ottimale di motore-riduttore e girante, evitando la formazione di vortici.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20karistiricili%20mikser%20tanklar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

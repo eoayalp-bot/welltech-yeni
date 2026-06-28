@@ -1,0 +1,95 @@
+{
+  "oliveOilTanksPage": {
+    "metadata": {
+      "title": "Tanques de Azeite | Welltech®",
+      "description": "Tanques de armazenamento de aço inoxidável com fundo cônico, sistema de inertização com nitrogênio e garantia de oxidação zero que preservam o sabor requintado do azeite de oliva."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "tanks": "Tanques em Inox",
+      "current": "Tanques de Azeite"
+    },
+    "hero": {
+      "title": "Tanques de Azeite",
+      "desc": "Soluções de armazenamento em aço inoxidável de alta qualidade com garantia de zero oxidação, que preservam a qualidade, a acidez e o aroma do azeite de oliva como no primeiro dia."
+    },
+    "engineering": {
+      "title": "Engenharia Anti-Oxidação",
+      "desc": "O azeite é um produto delicado que começa a se degradar rapidamente quando em contato com o ar (oxigênio) e a luz. Os tanques de azeite Welltech® são equipados com um sistema especial de Inertização com Nitrogênio (Nitrogen Blanketing) que exaure o ar interno. A soldagem suave (Ra < 0,6) evita o acúmulo de sedimentos, enquanto o design especial de fundo cônico inclinado garante que o azeite de oliva seja armazenado e filtrado em sua forma mais pura (sem polpa)."
+    },
+    "features": {
+      "title": "Equipamento de Projeto e Proteção",
+      "items": {
+        "1": "Aço Inoxidável de Alta Qualidade AISI 304 ou 316L",
+        "2": "Sistema de Inertização com Nitrogênio (Blanketing) para Zero Oxidação",
+        "3": "Fundo Cônico com Ângulo Especial para Descarga de Sedimentos",
+        "4": "Corpo Soldado a Argônio, Totalmente Estanque e À Prova de Luz",
+        "5": "Isolamento Opcional e Camisa de Resfriamento/Aquecimento (Rollbond)",
+        "6": "Indicador de Nível, Válvula de Amostragem e Sistema CIP"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacidades de Produção Padrão",
+      "note": "* As inclinações do fundo cônico podem ser calculadas especificamente (15°, 30°, 45°) de acordo com a estrutura dos sedimentos do azeite e o processo de filtração da instalação.",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIÂMETRO (Ø mm)",
+        "height": "ALTURA (mm)",
+        "thickness": "ESPESSURA DO CORPO"
+      },
+      "customRow": "Para silos de azeite integrados de maior capacidade, é feita a produção sob medida com base no projeto."
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "O que é o sistema de inertização com nitrogênio (blanketing) e por que é necessário?",
+          "a": "O gás nitrogênio bombeado para o espaço vazio na parte superior do tanque expulsa completamente o oxigênio. Dessa forma, o contato do óleo com o ar é cortado, o aumento da taxa de acidez (oxidação) é evitado e o azeite de oliva mantém a frescura do primeiro dia de prensagem durante meses."
+        },
+        {
+          "q": "Qual a utilidade do fundo do tanque ser cônico?",
+          "a": "À medida que o azeite repousa, um sedimento natural (borra) se acumula no fundo. O design do fundo cônico garante que esses sedimentos se acumulem no ponto central mais baixo, permitindo que sejam facilmente separados do azeite através da válvula de descarga."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nossas Aplicações de Azeite",
+      "p1": {
+        "title": "Armazenamento de Produção Boutique",
+        "alt": "Tanque de Azeite Boutique"
+      },
+      "p2": {
+        "title": "Tanque com Cobertura de Nitrogênio",
+        "alt": "Tanque de Azeite com Nitrogênio"
+      },
+      "p3": {
+        "title": "Repouso com Fundo Cônico",
+        "alt": "Tanque de Repouso de Fundo Cônico"
+      },
+      "p4": {
+        "title": "Silos Integrados da Instalação",
+        "alt": "Silos de Azeite"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Especificação Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Baixe o arquivo de especificações contendo os detalhes do sistema de nitrogênio, as taxas de inclinação do fundo e os padrões de materiais.",
+        "fileUrl": "/assets/documents/pt/tanques-azeite-oliva-fichas-tec.pdf",
+        "btn": "BAIXAR ESPECIFICAÇÃO"
+      },
+      "reference": {
+        "badge": "INSTALAÇÃO INTEGRADA",
+        "desc": "Linha de armazenamento turnkey que instalamos para uma fábrica moderna de azeite na Região do Egeu.",
+        "link": "IR PARA O PROJETO"
+      },
+      "cta": {
+        "title": "A Climatização É Necessária?",
+        "desc": "Vamos projetar o seu tanque especial com uma camisa de aquecimento em conjunto para evitar que o azeite congele em climas frios.",
+        "whatsappMsg": "Ola, gostaria de obter informacoes tecnicas e precos sobre Tanques de Azeite (com inertizacao de nitrogenio).",
+        "btn": "CONSULTAR UM ENGENHEIRO"
+      }
+    }
+  }
+}

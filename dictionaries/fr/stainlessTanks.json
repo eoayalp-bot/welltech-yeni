@@ -1,0 +1,40 @@
+{
+  "stainlessTanksPage": {
+    "metadata": {
+      "title": "Cuves en Inox | Welltech®",
+      "description": "Cuves de stockage et de process en acier inoxydable de haute qualité spécialement conçues pour les secteurs de l'industrie, de l'alimentation, de la chimie et de l'huile d'olive."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "current": "Cuves en Inox"
+    },
+    "hero": {
+      "title": "Systèmes de Cuves en Inox",
+      "desc": "Solutions durables et hygiéniques en acier inoxydable, conçues aux normes internationales pour divers processus industriels."
+    },
+    "categories": [
+      {
+        "title": "Cuves de Stockage Industrielles",
+        "desc": "Systèmes de cuves à usage intensif conçus pour le stockage sécurisé de liquides et de matières premières en grand volume, résistants à la pression et aux conditions extrêmes."
+      },
+      {
+        "title": "Cuves de Stockage d'Huile d'Olive",
+        "desc": "Cuves sur mesure avec système d'inertage à l'azote, fond conique et garantie zéro oxydation pour préserver la qualité de l'huile d'olive premium."
+      },
+      {
+        "title": "Cuves pour Lait et Alimentation",
+        "desc": "Cuves de process en acier inoxydable ultra-hygiéniques, isolées et avec double enveloppe de refroidissement, entièrement conformes aux normes (FDA/GMP)."
+      },
+      {
+        "title": "Cuves pour Produits Chimiques et Acides",
+        "desc": "Unités de stockage totalement résistantes aux produits chimiques agressifs, aux températures élevées et à la pression, conformes aux normes de sécurité internationales."
+      }
+    ],
+    "viewModels": "VOIR LES MODÈLES",
+    "cta": {
+      "title": "Fabrication Sur Mesure pour Votre Projet",
+      "desc": "Au-delà des modèles standards, obtenez un devis pour des solutions d'ingénierie spéciales, entièrement adaptées à la capacité et aux contraintes d'espace de votre usine.",
+      "btn": "CONTACTEZ-NOUS"
+    }
+  }
+}

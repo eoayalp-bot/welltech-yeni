@@ -1,0 +1,101 @@
+{
+  "milkTanksPage": {
+    "metadata": {
+      "title": "Tanques de Leche y Alimentos | Welltech®",
+      "description": "Tanques de acero inoxidable para refrigeración, almacenamiento y proceso de leche, ultra higiénicos y totalmente conformes con las normas de seguridad alimentaria (FDA/GMP)."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "tanks": "Tanques de Inoxidable",
+      "current": "Tanques de Leche"
+    },
+    "hero": {
+      "title": "Tanques de Leche y Alimentos",
+      "desc": "Ingeniería en acero inoxidable apta para la seguridad alimentaria, con superficies de cero rugosidad que evitan el crecimiento bacteriano y aislamiento de poliuretano de alta retención térmica."
+    },
+    "engineering": {
+      "title": "Ingeniería Ultra Higiénica (FDA/GMP)",
+      "desc": "El almacenamiento de leche, jugos y productos alimenticios sensibles requiere máxima higiene. Los tanques de leche Welltech® están diseñados para no dejar puntos ciegos (volumen muerto) en el interior. Las costuras de soldadura se pulen hasta lograr una suavidad de Ra < 0,6 micras. De este modo, no queda ninguna superficie a la que puedan adherirse las bacterias y, gracias a las bolas de pulverización CIP (Clean-In-Place) integradas, se garantiza una limpieza perfecta."
+    },
+    "features": {
+      "title": "Diseño y Equipamiento de Refrigeración",
+      "items": {
+        "1": "Acero Inoxidable AISI 304 o 316L Apto para Uso Alimentario",
+        "2": "Diseño Interno 100% Lavable (CIP) sin Puntos Ciegos",
+        "3": "Aislamiento de Poliuretano Libre de CFC de Alta Densidad",
+        "4": "Camisa de Enfriamiento/Calentamiento Roll-bond (Soldadura Láser) o Medio Tubo",
+        "5": "Agitadores de Baja Velocidad con Rascadores para Productos Sensibles",
+        "6": "Juntas de Sellado Conformes a Normas Alimentarias (EPDM/Silicona)"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacidades de Producción Estándar",
+      "note": "* Los espesores del aislamiento de poliuretano (entre 50 mm y 100 mm) se pueden optimizar en función de la temperatura ambiente y el tiempo de retención del producto.",
+      "headers": {
+        "volume": "VOLUMEN",
+        "diameter": "DIÁMETRO (Ø mm)",
+        "insulation": "AISLAMIENTO",
+        "material": "MATERIAL"
+      },
+      "insulationTypes": {
+        "50": "Poliuretano 50 mm",
+        "60": "Poliuretano 60 mm",
+        "80": "Poliuretano 80 mm",
+        "100": "Poliuretano 100 mm"
+      },
+      "customRow": "Para esta capacidad y silos de leche más grandes, la instalación se realiza in situ (On-Site)."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Qué tan bien conserva el calor el aislamiento en los tanques de leche?",
+          "a": "Gracias al aislamiento de poliuretano de alta densidad (40-42 kg/m³) que utilizamos, incluso si la temperatura exterior es de 30°C, la temperatura del producto dentro del tanque aumenta un máximo de 1°C en 24 horas."
+        },
+        {
+          "q": "¿Cómo se realiza la limpieza (CIP) de los tanques?",
+          "a": "Gracias a las bolas de pulverización rotativas 360° CIP colocadas en la parte superior de los tanques, el líquido de lavado a presión entra en contacto con todas las superficies internas del tanque de manera homogénea, ofreciendo una garantía de cero bacterias."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Nuestros Proyectos en la Industria Láctea",
+      "p1": {
+        "title": "Silo de Leche Cruda",
+        "alt": "Silo de Almacenamiento de Leche Cruda de Gran Volumen"
+      },
+      "p2": {
+        "title": "Tanque de Leche Pasteurizada",
+        "alt": "Tanque Aislado para Leche Pasteurizada"
+      },
+      "p3": {
+        "title": "Proceso de Ayran / Kéfir",
+        "alt": "Tanque de Proceso con Agitador Especial para Kéfir"
+      },
+      "p4": {
+        "title": "Tanque de Suero de Leche",
+        "alt": "Almacenamiento Inoxidable de Suero (Whey)"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Descargue el archivo de especificaciones que incluye diseños de camisas de enfriamiento, densidades de aislamiento y estándares de higiene.",
+        "fileUrl": "/assets/documents/es/tanques-lacteos-alimentos-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "PROYECTO LÁCTEO",
+        "desc": "Línea de almacenamiento que instalamos para una instalación nacional de procesamiento de leche con una capacidad diaria de 1.000 toneladas.",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "¿Se Necesita un Agitador Especial?",
+        "desc": "Diseñemos nuestros sistemas de agitadores especiales con rascadores de teflón para alimentos viscosos como yogur, crema o miel.",
+        "whatsappMsg": "Hola, me gustaría obtener información técnica y precios sobre su producción de Tanques de Leche y Alimentos.",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "chemicalTanksPage": {
+    "metadata": {
+      "title": "Serbatoi per Prodotti Chimici e Acidi | Welltech®",
+      "description": "Serbatoi in acciaio inox ad elevata resistenza alla corrosione per prodotti chimici aggressivi, acidi e processi ad alta pressione."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "tanks": "Serbatoi in Acciaio Inox",
+      "current": "Serbatoi Chimici"
+    },
+    "hero": {
+      "title": "Serbatoi per Prodotti Chimici e Acidi",
+      "desc": "Soluzioni in acciaio inox ad elevata resistenza alla corrosione, conformi ATEX e progettate per garantire la massima sicurezza nei processi più gravosi e con sostanze chimiche aggressive."
+    },
+    "corrosion": {
+      "title": "Massima Resistenza alla Corrosione",
+      "desc": "Gli acciai inox standard possono risultare insufficienti per lo stoccaggio di fluidi altamente corrosivi come acidi, solventi e soda caustica. Gli ingegneri Welltech progettano serbatoi in lega di titanio (316Ti), Super Duplex o con rivestimenti speciali (PTFE), selezionati in funzione del pH, della temperatura di esercizio e della pressione del fluido, garantendo il massimo livello di sicurezza operativa."
+    },
+    "features": {
+      "title": "Caratteristiche di Progetto e Sicurezza",
+      "items": {
+        "1": "Opzioni in Duplex, 316Ti o Leghe Speciali Hastelloy",
+        "2": "Integrazione di Apparecchiature Certificate ATEX (Ex-Proof)",
+        "3": "Design a Doppia Parete (Double Wall) per Garantire Zero Perdite",
+        "4": "Sistemi di Scrubber e Ventilazione",
+        "5": "Guarnizioni Speciali Resistenti ad Acidi e Prodotti Chimici (PTFE/Viton)",
+        "6": "Automazione per Dosaggio Automatico e Controllo di Livello"
+      }
+    },
+    "capacityTable": {
+      "title": "Capacità di Produzione Heavy-Duty",
+      "note": "* Gli spessori delle pareti per sostanze chimiche aggressive vengono calcolati staticamente in funzione del peso specifico del fluido e della pressione di esercizio.",
+      "heavy": " (Heavy-Duty)",
+      "headers": {
+        "volume": "VOLUME",
+        "diameter": "DIAMETRO (Ø mm)",
+        "height": "ALTEZZA (mm)",
+        "thickness": "SPESSORE MIN."
+      },
+      "customRow": "Per serbatoi di questa capacità e superiori, soggetti a requisiti ingegneristici speciali, vengono eseguiti calcoli specifici su progetto."
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Per quali prodotti chimici sono adatti i serbatoi in acciaio inox?",
+          "a": "Grazie alla corretta selezione delle leghe (316L, 316Ti, Duplex), è possibile garantire uno stoccaggio sicuro di numerose sostanze corrosive come acido nitrico, acido solforico, idrossido di sodio (soda caustica), solventi e prodotti petrolchimici."
+        },
+        {
+          "q": "È disponibile la certificazione ATEX per sostanze infiammabili o esplosive?",
+          "a": "Sì. Per solventi e altri fluidi infiammabili, motori, sensori e valvole vengono integrati con certificazione ATEX (Ex-Proof)."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Esempi di Progetti nel Settore Chimico",
+      "p1": {
+        "title": "Serbatoio per Acido Solforico",
+        "alt": "Progetto Serbatoio per Acido Solforico"
+      },
+      "p2": {
+        "title": "Stoccaggio Soda Caustica",
+        "alt": "Serbatoio per Stoccaggio Soda Caustica"
+      },
+      "p3": {
+        "title": "Serbatoio per Solventi ATEX",
+        "alt": "Serbatoio per Solventi Certificato ATEX"
+      },
+      "p4": {
+        "title": "Serbatoio Coibentato a Doppia Parete",
+        "alt": "Serbatoio Chimico a Doppia Parete"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il documento contenente tabelle di resistenza chimica, spessori delle pareti e standard di sicurezza.",
+        "fileUrl": "/assets/documents/it/serbatoi-chimici-acidi-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "PROGETTO ATEX",
+        "desc": "Linea di stoccaggio solventi Ex-Proof realizzata per un impianto petrolchimico internazionale.",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "È Necessaria una Lega Speciale?",
+        "desc": "Inviateci la scheda MSDS del prodotto chimico utilizzato nel vostro processo e individueremo insieme la lega inox più adatta.",
+        "whatsappMsg": "Buongiorno, desidero ricevere informazioni sulla selezione delle leghe e sui prezzi dei serbatoi per lo stoccaggio di prodotti chimici.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

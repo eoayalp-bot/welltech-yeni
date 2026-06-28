@@ -1,0 +1,101 @@
+{
+  "milkTanksPage": {
+    "metadata": {
+      "title": "Süt ve Gıda Tankları | Welltech®",
+      "description": "Gıda güvenliği standartlarına (FDA/GMP) tam uyumlu, ultra hijyenik paslanmaz çelik süt soğutma, depolama ve proses tankları."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "tanks": "Paslanmaz Tanklar",
+      "current": "Süt Tankları"
+    },
+    "hero": {
+      "title": "Süt ve Gıda Tankları",
+      "desc": "Bakteri üremesini engelleyen sıfır pürüzlü yüzeyler, yüksek yalıtımlı poliüretan izolasyon ve gıda güvenliğine uygun paslanmaz mühendislik."
+    },
+    "engineering": {
+      "title": "Ultra Hijyenik Mühendislik (FDA/GMP)",
+      "desc": "Süt, meyve suyu ve hassas gıda ürünlerinin depolanması maksimum hijyen gerektirir. Welltech® süt tankları, içeride kör nokta (ölü hacim) bırakmayacak şekilde tasarlanır. Kaynak dikişleri taşlanarak Ra < 0.6 mikron pürüzsüzlüğe getirilir. Böylece bakterilerin tutunabileceği hiçbir yüzey kalmaz ve entegre CIP (Clean-In-Place) topları sayesinde mükemmel temizlik sağlanır."
+    },
+    "features": {
+      "title": "Tasarım ve Soğutma Donanımları",
+      "items": {
+        "1": "AISI 304 veya 316L Gıda Uygunluğuna Sahip Paslanmaz Çelik",
+        "2": "Kör Noktasız, %100 Yıkanabilir (CIP) İç Tasarım",
+        "3": "Yüksek Yoğunluklu CFC-Free Poliüretan İzolasyon",
+        "4": "Rollbond (Lazer Kaynaklı) veya Yarım Boru Soğutma/Isıtma Ceketi",
+        "5": "Hassas Ürünler İçin Düşük Devirli Sıyırıcılı Karıştırıcılar",
+        "6": "Gıda Normlarına Uygun (EPDM/Silikon) Sızdırmazlık Contaları"
+      }
+    },
+    "capacityTable": {
+      "title": "Standart Üretim Kapasiteleri",
+      "note": "* Poliüretan izolasyon kalınlıkları (50mm - 100mm arası), ortam sıcaklığına ve ürünün bekleme süresine göre optimize edilebilir.",
+      "headers": {
+        "volume": "HACİM",
+        "diameter": "ÇAP (Ø mm)",
+        "insulation": "İZOLASYON",
+        "material": "MALZEME"
+      },
+      "insulationTypes": {
+        "50": "50 mm Poliüretan",
+        "60": "60 mm Poliüretan",
+        "80": "80 mm Poliüretan",
+        "100": "100 mm Poliüretan"
+      },
+      "customRow": "Bu kapasite ve üzeri büyük süt siloları için tesis içi (On-Site) kurulum yapılmaktadır."
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Süt tanklarındaki izolasyon ısıyı ne kadar korur?",
+          "a": "Kullandığımız yüksek yoğunluklu (40-42 kg/m³) poliüretan izolasyon sayesinde, dış ortam sıcaklığı 30°C olsa dahi, tank içindeki ürün sıcaklığı 24 saatte maksimum 1°C artar."
+        },
+        {
+          "q": "Tankların temizliği (CIP) nasıl sağlanıyor?",
+          "a": "Tankların üst tepe noktalarına yerleştirilen 360° döner CIP spreyleme topları sayesinde, basınçlı yıkama sıvısı tankın tüm iç yüzeylerine homojen olarak temas eder ve sıfır bakteri garantisi sunar."
+        }
+      ]
+    },
+    "projects": {
+      "title": "Süt Endüstrisi Projelerimiz",
+      "p1": {
+        "title": "Çiğ Süt Silosu",
+        "alt": "Yüksek Hacimli Çiğ Süt Depolama Silosu"
+      },
+      "p2": {
+        "title": "Pastörize Süt Tankı",
+        "alt": "İzoleli Pastörize Süt Depolama Tankı"
+      },
+      "p3": {
+        "title": "Ayran / Kefir Proses",
+        "alt": "Özel Karıştırıcılı Ayran ve Kefir Proses Tankı"
+      },
+      "p4": {
+        "title": "Peynir Altı Suyu Tankı",
+        "alt": "Peynir Altı Suyu (Whey) Paslanmaz Depolama"
+      }
+    },
+    "sidebar": {
+      "spec": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Soğutma ceket tasarımları, izolasyon yoğunlukları ve hijyen standartlarını içeren spesifikasyon dosyasını indirin.",
+        "fileUrl": "/assets/documents/tr/sut-ve-gida-tanklari-teknik-sartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "SÜT TESİSİ PROJESİ",
+        "desc": "Günlük 1.000 ton kapasiteli ulusal bir süt işleme tesisi için kurduğumuz depolama hattı.",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Özel Karıştırıcı Gerekli Mi?",
+        "desc": "Yoğurt, krema veya bal gibi viskoz gıdalar için teflon sıyırıcılı özel karıştırıcı sistemlerimizi projelendirelim.",
+        "whatsappMsg": "Merhaba, Süt ve Gıda Tankları üretiminiz hakkında teknik bilgi ve fiyat almak istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

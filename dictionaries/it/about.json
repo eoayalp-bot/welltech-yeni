@@ -1,0 +1,49 @@
+{
+  "aboutPage": {
+    "metadata": {
+      "title": "Chi Siamo | Welltech®",
+      "description": "Welltech International Engineering; il vostro partner globale di ingegneria per serbatoi in acciaio inox, reattori e impianti industriali completi."
+    },
+    "jsonLd": {
+      "description": "Welltech International Engineering; il vostro partner globale di ingegneria per serbatoi in acciaio inox, reattori e impianti industriali completi."
+    },
+    "hero": {
+      "titleStart": "L'Ingegneria che Costruisce",
+      "titleHighlight": "il Futuro",
+      "desc": "Con oltre 20 anni di esperienza, siamo orgogliosi di essere un marchio globale nei sistemi industriali di processo e stoccaggio in acciaio inox."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "corporate": "Azienda",
+      "current": "Chi Siamo"
+    },
+    "roots": {
+      "title": "Le Nostre Radici e la Nostra Visione",
+      "p1": "Welltech® è un'azienda internazionale specializzata nella progettazione, ingegneria e produzione di sistemi di processo e stoccaggio, cuore degli impianti industriali. Il nostro stabilimento di İzmir Kemalpaşa opera con linee produttive dotate delle più moderne tecnologie.",
+      "p2": "Offriamo soluzioni chiavi in mano per progetti nei settori alimentare, farmaceutico, chimico e cosmetico, nonché per tutte le applicazioni che richiedono elevati standard igienici e condizioni di alta pressione. Non produciamo soltanto serbatoi; realizziamo sistemi completamente integrati per il vostro impianto, dall'automazione all'isolamento."
+    },
+    "global": {
+      "title": "6 Continenti, Oltre 50 Paesi",
+      "desc": "La nostra ingegneria, nata a İzmir, opera oggi in modo affidabile in grandi impianti industriali in tutto il mondo, dall'Europa all'Asia, dall'Africa al Sud America."
+    },
+    "cards": {
+      "mission": {
+        "title": "La Nostra Missione",
+        "desc": "Realizzare sistemi in acciaio inox innovativi, affidabili e durevoli, in grado di rendere i processi produttivi dei nostri clienti più efficienti, sicuri e igienici."
+      },
+      "vision": {
+        "title": "La Nostra Visione",
+        "desc": "Diventare uno dei tre marchi più affidabili al mondo nelle tecnologie di produzione industriale, senza mai compromettere gli standard qualitativi internazionali."
+      },
+      "quality": {
+        "title": "La Nostra Filosofia della Qualità",
+        "desc": "Dalla selezione delle materie prime fino all'ultima saldatura, ogni fase viene testata e certificata secondo gli standard ASME, CE e ISO."
+      }
+    },
+    "cta": {
+      "title": "Ingegneria Perfetta per il Vostro Progetto",
+      "desc": "Qualunque sia la capacità richiesta, il nostro team di ingegneri è pronto a sviluppare la soluzione più adatta al vostro stabilimento.",
+      "btn": "CONTATTACI"
+    }
+  }
+}

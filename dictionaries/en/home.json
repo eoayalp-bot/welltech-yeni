@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "badge": "INDUSTRIAL PROCESS AND STORAGE ENGINEERING",
+    "title": "The Strong Heart of Your Production Line",
+    "desc": "Turnkey facility engineering for AISI 304/316L stainless steel industrial tanks, fully automated process systems, and hygienic fluid transfer in compliance with EN and ASME standards.",
+    "bgImage": "/assets/images/ana-sayfa/hero-bg.webp",
+    "bgAlt": "Welltech Industrial Facility and Stainless Reactor Production",
+    "btn1": "ENGINEERING REQUEST",
+    "btn2": "DOWNLOAD TECHNICAL CATALOG"
+  },
+  "stats": [
+    { "n": "20+", "t": "YEARS OF PRODUCTION EXPERIENCE" },
+    { "n": "40+", "t": "GLOBAL EXPORT NETWORK" },
+    { "n": "1000+", "t": "COMMISSIONED SYSTEMS" },
+    { "n": "100%", "t": "LEAK-TIGHTNESS & QUALITY APPROVAL" }
+  ],
+  "services": {
+    "title": "Turnkey Engineering and Manufacturing Solutions",
+    "desc": "We manufacture CFD-supported, high-engineering equipment in accordance with EHEDG hygienic design guidelines for the food (Dairy, Beverage), chemical, pharmaceutical, and biotechnology industries.",
+    "view_details": "VIEW TECHNICAL DETAILS",
+    "items": [
+      {
+        "title": "Industrial Storage Tanks",
+        "desc": "High-capacity, thermally insulated, agitated, and long-lasting AISI 316L stainless steel liquid storage units in accordance with EN 13445 and API 650 standards.",
+        "image": "/assets/images/ana-sayfa/hizmet-depolama.webp",
+        "link": "paslanmaz-tanklar"
+      },
+      {
+        "title": "Automated Process Systems",
+        "desc": "For the critical reactions of your production line; PLC/SCADA controlled jacketed reactors, high-shear homogenizers, and CIP/SIP integrated mixers.",
+        "image": "/assets/images/ana-sayfa/hizmet-proses.webp",
+        "link": "proses-sistemleri"
+      },
+      {
+        "title": "Hygienic Transfer and Flow Solutions",
+        "desc": "FDA-approved hygienic pump technologies including centrifugal, positive displacement lobe, and air-operated diaphragm pumps for high-viscosity fluid transfer.",
+        "image": "/assets/images/pompalar/kategori-banner.webp",
+        "link": "hijyenik-pompalar"
+      }
+    ]
+  },
+  "why_us": {
+    "badge": "ENGINEERING AUTHORITY: WELLTECH",
+    "title": "In-House Manufacturing Power at Global Standards",
+    "desc": "We do not just manufacture independent equipment for your facility; we build complete, sustainable, high-pressure resistant, and energy-efficient process infrastructures with calculated thermodynamics.",
+    "list": [
+      "Manufacturing at ASME, CE (PED 2014/68/EU), ISO, and EHEDG Standards",
+      "3D CAD and CFD Analysis Supported Thermodynamic Process Design",
+      "NDT (Non-Destructive Testing), Penetrant, and Hydrostatic Pressure Tests",
+      "Global Network: 24/7 After-Sales Technical Service and Original Spare Parts"
+    ],
+    "box1": {
+      "title": "GLOBAL AUTOMATION",
+      "desc": "PLC integrated systems actively operating in over 40 countries"
+    },
+    "box2": {
+      "title": "HEAVY INDUSTRY DURABILITY",
+      "desc": "Absolute corrosion and leak-tightness guarantee in all our reactors and tanks"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "homogenizersPage": {
+    "metadata": {
+      "title": "Homogénéisateurs et Mélangeurs à Haut Cisaillement | Welltech®",
+      "description": "Mélangeurs industriels à grande vitesse permettant d'obtenir un produit lisse et stable en réduisant les fluides de différentes phases (comme l'eau et l'huile) au niveau du micron."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "process": "Systèmes de Process",
+      "current": "Homogénéisateurs"
+    },
+    "hero": {
+      "title": "Homogénéisateurs",
+      "desc": "Obtenez des émulsions parfaitement homogènes, lisses et stables (non séparables) en réduisant les mélanges liquide-liquide ou liquide-solide au niveau du micron."
+    },
+    "technology": {
+      "title": "Technologie de Broyage Rotor-Stator",
+      "desc": "Les homogénéisateurs sont des systèmes à haute vitesse (3 000 Tr/min) qui désintègrent des fluides mutuellement insolubles jusqu'au niveau du micron. La structure dentée du <strong>Rotor-Stator</strong> spécialement conçue réduit la taille des particules en forçant le fluide à travers un espace très étroit avec une force de cisaillement élevée (High Shear), empêchant de manière fiable la séparation du mélange (séparation de phase) au fil du temps."
+    },
+    "features": {
+      "title": "Avantages de Conception et Performance",
+      "items": [
+        "Force de Cisaillement Élevée (High Shear) au niveau du Micron",
+        "Capacité de Rotation Élevée atteignant 3 000 Tr/min",
+        "Options de Stator Denté (Fin/Gros) spécifiques à la structure du produit",
+        "Modèles En Cuve (Immersif) ou En Ligne (In-Line)",
+        "Acier Inoxydable Hygiénique conforme aux Normes FDA et 3A",
+        "Haute Étanchéité et Longue Durée de Vie grâce à la Garniture Mécanique"
+      ],
+      "imgAlt": "Moteur d'Homogénéisateur et Structure Rotor-Stator"
+    },
+    "table": {
+      "title": "Types de Modèles et Domaines d'Application",
+      "note": "* La structure dentée du rotor-stator (passage de particules fin, moyen, gros) est choisie sur mesure en fonction de la viscosité de votre produit et de la taille de micron finale souhaitée.",
+      "headers": [
+        "TYPE DE MODÈLE",
+        "PRINCIPE DE FONCTIONNEMENT",
+        "DOMAINE D'APPLICATION"
+      ],
+      "imgAlt": "Dessin Technique de l'Homogénéisateur",
+      "rows": [
+        { "type": "En Ligne (In-Line)", "principle": "Circulation continue et cisaillement sur la tuyauterie", "usage": "Pharmacie et Chimie", "highlight": "dark" },
+        { "type": "Immersion (Batch)", "principle": "Homogénéisation directe par immersion dans le liquide à l'intérieur de la cuve", "usage": "Cosmétique et Alimentation", "highlight": "dark" },
+        { "type": "Entrée par le Fond", "principle": "Unité à Haut Cisaillement intégrée au fond de la cuve", "usage": "Sauces, Pâtes et Crèmes", "highlight": "dark" },
+        { "type": "Multi-étages", "principle": "Émulsion micronique ultra-fine avec triple rotor-stator", "usage": "Nanotechnologie (Pharma)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Quelle est la différence entre un homogénéisateur et un mélangeur classique ?",
+          "a": "Les mélangeurs normaux (agitateurs) ne font que faire tourner le liquide ; les phases comme l'huile et l'eau se séparent à nouveau après un temps de repos. L'homogénéisateur, en revanche, assure une émulsion permanente et inséparable en coupant (cisaillant) les particules jusqu'au niveau du micron."
+        },
+        {
+          "q": "Dois-je choisir un modèle En Ligne (In-Line) ou à Immersion (Batch) ?",
+          "a": "Si vous possédez déjà une cuve et allez homogénéiser en créant une circulation, choisissez In-Line ; si vous allez mélanger et cisailler directement à l'intérieur de la cuve, optez pour le type Batch (Immersion)."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nos Applications Industrielles",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Crème et Lotion Cosmétique", "alt": "Homogénéisateur Cosmétique" },
+        { "src": "galeri-2.webp", "label": "Production de Mayonnaise", "alt": "Homogénéisateur Alimentaire" },
+        { "src": "galeri-3.webp", "label": "Circulation En Ligne (In-Line)", "alt": "Homogénéisateur In-Line" },
+        { "src": "galeri-4.webp", "label": "Émulsion de Sirops Pharmaceutiques", "alt": "Mélangeur Secteur Pharma" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez le fichier technique contenant les types de rotor-stator, les vitesses de rotation du moteur et les tableaux de capacité de débit.",
+        "fileUrl": "/assets/documents/fr/homogeneisateurs-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "USINE COSMÉTIQUE",
+        "desc": "Unité d'homogénéisation de crème à double enveloppe fabriquée pour une marque de cosmétiques de renommée mondiale.",
+        "imgAlt": "Référence Mélangeur Cosmétique",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Le Bon Choix de Rotor-Stator",
+        "desc": "Communiquez-nous la structure du produit que vous allez fabriquer (ex: ketchup ou lotion), et choisissons ensemble la tête de cisaillement la plus appropriée.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Bonjour,%20je%20souhaite%20obtenir%20des%20informations%20techniques%20et%20des%20prix%20sur%20les%20homogeneisateurs.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "bioreactorsPage": {
+    "metadata": {
+      "title": "Fermenter und Bioreaktoren | Welltech®",
+      "description": "Industrielle Bioreaktor- und Fermentersysteme aus Edelstahl mit höchster Sterilität für die Vermehrung von Bakterien-, Hefe- und Zellkulturen."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "process": "Prozesssysteme",
+      "current": "Bioreaktoren"
+    },
+    "hero": {
+      "title": "Fermenter und Bioreaktoren",
+      "desc": "Vollautomatische, sterile (aseptische) Reaktorsysteme für die Biotechnologie-, Pharma- und Lebensmittelindustrie, in denen sich Mikroorganismen unter idealen Bedingungen vermehren."
+    },
+    "technology": {
+      "title": "Präzise Bioprozess-Technologie",
+      "desc": "Fermentationssysteme erfordern ein perfektes Gleichgewicht, damit Mikroorganismen oder Zellkulturen wachsen können. <strong>Welltech® Bioreaktoren</strong> überwachen während der Reaktion simultan pH-Wert, gelösten Sauerstoff (DO), Temperatur, Schaum und Rührgeschwindigkeit (RPM) und steuern diese in Echtzeit über das Automatisierungspanel. Innenflächen, die nach dem Totraumfrei-Prinzip (Ra < 0,4 µm) konzipiert sind, eliminieren das Kontaminationsrisiko vollständig.",
+      "imgAlt": "Bioreaktor Prozesstechnologie"
+    },
+    "features": {
+      "title": "Steriles Design und Automatisierung",
+      "items": [
+        "100% aseptisches (steriles) Design für null Kontamination",
+        "Doppelwandig / Doppelmantel-Konstruktion für präzise Temperaturkontrolle",
+        "Automatische Kontrolle von pH, gelöstem Sauerstoff (DO) und Schaum",
+        "Spezielle magnetische / mechanische Rührwerke zur Schonung der Zellstruktur",
+        "Sterilization-in-Place (SIP) und Clean-In-Place (CIP) Kompatibilität",
+        "Benutzerfreundlicher HMI-Touchscreen und SCADA-Integration"
+      ],
+      "imgAlt": "Automatisierungsbedienfeld des Bioreaktors"
+    },
+    "table": {
+      "title": "Kapazität und Technische Spezifikationen",
+      "note": "* Das Arbeitsvolumen wird mit ca. 70-80 % des gesamten Tankvolumens berechnet. Für größere industrielle Produktionsmengen ist eine projektspezifische Auslegung möglich.",
+      "headers": [
+        "SERIE / MODELL",
+        "ARBEITSVOLUMEN",
+        "AUSLEGUNGSDRUCK"
+      ],
+      "imgAlt": "Technische Zeichnung des Bioreaktors",
+      "rows": [
+        { "series": "Labor/Pilot-Serie (WBR-P)", "volume": "50 L - 500 L", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Produktionsserie (WBR-1M)", "volume": "1.000 Liter", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Produktionsserie (WBR-3M)", "volume": "3.000 Liter", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Industrieserie (WBR-5M)", "volume": "5.000 Liter", "pressure": "-1 / +3 Bar", "highlight": "dark" },
+        { "series": "Industrieserie (WBR-10M)", "volume": "10.000 Liter", "pressure": "-1 / +3 Bar", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        {
+          "q": "Was bedeutet CIP- und SIP-Kompatibilität?",
+          "a": "CIP (Clean-in-Place) bedeutet, dass das System gereinigt werden kann, ohne demontiert zu werden. SIP (Sterilization-in-Place) bedeutet, dass alle Bakterien im Inneren durch Hochtemperaturdampf abgetötet werden und das System steril für die neue Kultur vorbereitet wird."
+        },
+        {
+          "q": "Warum ist die Kontrolle von Sauerstoff (DO) und pH-Wert wichtig?",
+          "a": "Es ist zwingend erforderlich, den Sauerstoffgehalt und den Säuregrad (pH) kontinuierlich auf einem idealen Niveau zu halten, damit sich Bakterien oder Hefen vermehren und das anvisierte Enzym/Produkt absondern können, ohne abzusterben."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Unsere Bioreaktor-Anwendungen",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Pharmazeutische und Impfstoffproduktion", "alt": "Pharma-Bioreaktor" },
+        { "src": "galeri-2.webp", "label": "Hefe- und Enzymfermentation", "alt": "Hefe-Fermenter" },
+        { "src": "galeri-3.webp", "label": "Pilot-Bioprozess", "alt": "Pilot-Bioreaktor" },
+        { "src": "galeri-4.webp", "label": "Milch- und Joghurtkulturen", "alt": "Fermentationstank Lebensmittel" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Technische Spezifikation",
+        "subtitle": "PDF-DOKUMENT",
+        "fileUrl": "/assets/documents/de/fermentations-bioreaktoren-datenblatt.pdf",
+        "btn": "SPEZIFIKATION HERUNTERLADEN"
+      },
+      "reference": {
+        "badge": "BIOTECHNOLOGIE",
+        "desc": "Eine vollautomatische Enzymfermentationslinie mit 5.000 L Kapazität, die wir für ein internationales Biotechnologieunternehmen installiert haben.",
+        "imgAlt": "Bioreaktor Referenz",
+        "link": "ZUM PROJEKT"
+      },
+      "cta": {
+        "title": "SCADA speziell für Ihren Prozess",
+        "desc": "Planen Sie mit unseren Ingenieuren die am besten geeignete Rührwerkstechnologie und Sensorinfrastruktur für Ihre Zellkultur.",
+        "btn": "KONTAKTIEREN SIE UNS"
+      }
+    }
+  }
+}

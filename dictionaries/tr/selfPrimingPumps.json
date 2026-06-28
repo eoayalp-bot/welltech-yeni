@@ -1,0 +1,95 @@
+{
+  "selfPrimingPumpsPage": {
+    "metadata": {
+      "title": "Kendinden Emişli Pompalar | Welltech®",
+      "description": "Köpüklü veya gaz içeren sıvıları tahliye edebilen, tank diplerinden sorunsuz emiş yapan paslanmaz çelik kendinden emişli (self-priming) pompalar."
+    },
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "pumps": "Pompalar",
+      "current": "Kendinden Emişli Pompalar"
+    },
+    "hero": {
+      "title": "Kendinden Emişli Pompalar",
+      "desc": "Hava ve gaz karışımlı akışkanlarda kavitasyonsuz çalışma. CIP geri dönüş hatları ve eksi kottan tank boşaltımı için kusursuz emiş gücü."
+    },
+    "technology": {
+      "title": "Vakum ve Emiş (Self-Priming) Teknolojisi",
+      "desc": "Standart santrifüj pompalar emiş hattında hava olduğunda kilitlenirken, kendinden emişli (Self-Priming) pompalar özel gövde tasarımı sayesinde içindeki havayı tahliye ederek vakum oluşturur. Yeraltı tanklarından sıvı çekmek veya CIP sistemlerinde köpüklü yıkama sularını tahliye etmek için en ideal ve hijyenik çözümdür.",
+      "imgAlt": "Kendinden Emişli Pompa Fan Teknolojisi"
+    },
+    "features": {
+      "title": "Performans ve Tasarım Üstünlükleri",
+      "items": [
+        "Eksi Kottan (Derinden) Yüksek Emiş Kabiliyeti",
+        "Gaz ve Hava İçeren (Köpüklü) Akışkan Transferi",
+        "CIP (Yerinde Yıkama) Geri Dönüş Sistemlerine Tam Uyum",
+        "Sıfır Ölü Nokta ve Kolay Yıkanabilir (Hijyenik) İç Tasarım",
+        "AISI 316L Dövme veya Hassas Döküm Paslanmaz Çelik",
+        "Aşınmaya Dayanıklı, Uzun Ömürlü Mekanik Salmastra"
+      ],
+      "imgAlt": "Kendinden Emişli Pompa İç Tasarımı"
+    },
+    "table": {
+      "title": "Teknik Özellikler ve Kapasite",
+      "note": "* Emiş derinliği ve debi değerleri, akışkanın viskozitesine (su = 1 cPs) ve ortam sıcaklığına göre değişiklik gösterebilir.",
+      "headers": [
+        "POMPA MODELİ",
+        "MAKS. DEBİ (m³/h)",
+        "BASMA YÜKSEKLİĞİ (m)",
+        "MOTOR GÜCÜ (kW)"
+      ],
+      "imgAlt": "Pompa Teknik Kapasite Çizimi",
+      "rows": [
+        { "model": "WSP-10", "flow": "10 m³/h", "head": "20 m", "power": "1.5 kW", "highlight": "dark" },
+        { "model": "WSP-20", "flow": "20 m³/h", "head": "25 m", "power": "2.2 kW", "highlight": "dark" },
+        { "model": "WSP-30", "flow": "30 m³/h", "head": "30 m", "power": "4.0 kW", "highlight": "dark" },
+        { "model": "WSP-40", "flow": "40 m³/h", "head": "35 m", "power": "5.5 kW", "highlight": "dark" },
+        { "model": "WSP-50", "flow": "50 m³/h", "head": "40 m", "power": "7.5 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Kendinden emişli pompanın çalışma mantığı nedir?",
+          "a": "İlk kurulumda gövde içine bir miktar sıvı doldurulur. Çalıştığında bu sıvı ile emiş hattındaki havayı karıştırıp dışarı atar, ardından hatta oluşan vakum sayesinde sıvıyı dipten yukarı çeker."
+        },
+        {
+          "q": "CIP geri dönüş (Return) hattında neden bu pompa kullanılır?",
+          "a": "Tank yıkama (CIP) işlemi sırasında sıvıya çok fazla hava ve köpük karışır. Normal pompalar köpükte boşa döner (kavitasyon), kendinden emişli pompalar ise havayı tolere edip yıkama sıvısını sorunsuz aktarır."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Endüstriyel Uygulamalarımız",
+      "items": [
+        { "src": "galeri-1.webp", "label": "CIP Geri Dönüş Sistemi", "alt": "CIP Dönüş Pompası" },
+        { "src": "galeri-2.webp", "label": "Yeraltı Tankı Tahliyesi", "alt": "Yeraltı Tank Emiş Pompası" },
+        { "src": "galeri-3.webp", "label": "Köpüklü Sıvı Transferi", "alt": "Köpüklü Akışkan Pompası" },
+        { "src": "galeri-4.webp", "label": "Mobil Emiş İstasyonu", "alt": "Mobil Kendinden Emişli Pompa" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Teknik Şartname",
+        "subtitle": "PDF DOKÜMANI",
+        "desc": "Pompa eğrileri (Curve), emiş derinliği hesaplamaları ve motor seçeneklerini içeren kataloğumuzu indirin.",
+        "fileUrl": "/assets/documents/tr/kendinden-emisli-pompalar-teknik-şartname.pdf",
+        "btn": "ŞARTNAMEYİ İNDİR"
+      },
+      "reference": {
+        "badge": "CIP SİSTEMİ",
+        "desc": "Günlük 500 ton kapasiteli içecek fabrikasına kurduğumuz tam otomatik CIP yıkama dönüş hattı.",
+        "imgAlt": "CIP Geri Dönüş Referansı",
+        "link": "PROJEYE GİT"
+      },
+      "cta": {
+        "title": "Emiş Mesafeniz Ne Kadar?",
+        "desc": "Yeraltı tankınızın derinliğini (eksi kotunu) ve boru metrajını bize iletin, kavitasyon riskini sıfırlayan doğru pompayı seçelim.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Merhaba,%20kendinden%20emisli%20pompalar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "MÜHENDİSLE GÖRÜŞ"
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "mixingTanksPage": {
+    "metadata": {
+      "title": "Tanques con Agitador y Mezcladores | Welltech®",
+      "description": "Tanques mezcladores de acero inoxidable con agitador, adecuados para diferentes viscosidades para la industria alimentaria, farmacéutica y química."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "process": "Sistemas de Proceso",
+      "current": "Tanques Mezcladores"
+    },
+    "hero": {
+      "title": "Tanques con Agitador",
+      "desc": "Mezcladores industriales diseñados específicamente para el producto y el proceso, que combinan a la perfección mezclas líquido-líquido o líquido-sólido de diferentes viscosidades."
+    },
+    "technology": {
+      "title": "Mecánica de Fluidos y Tecnología de Agitación",
+      "desc": "La eficiencia de los tanques de mezcla depende del diseño del <strong>Agitador (Palas/Hélices)</strong> seleccionado según la viscosidad y densidad del producto a mezclar. Mientras que las palas tipo Hélice (Propeller) crean una circulación rápida en líquidos de baja viscosidad; las <strong>palas tipo Ancla y con Rascador</strong> evitan que los productos de alta viscosidad y pegajosos se adhieran a la pared del tanque, asegurando una mezcla homogénea. Cuando es necesario, se integra un rompeolas (baffle/placa deflectora) dentro del tanque para evitar la formación de vórtices, reduciendo el tiempo de mezcla al mínimo.",
+      "imgAlt": "Tecnología de Palas de Agitador"
+    },
+    "features": {
+      "title": "Ventajas de Diseño y Rendimiento",
+      "items": [
+        "Diseño de Palas de Agitador Seleccionado Específicamente para el Líquido y la Viscosidad",
+        "Sistema de Rompeolas (Baffle) que Previene la Formación de Vórtices",
+        "Prevención de Quemaduras y Adherencia a la Pared con Rascadores de Teflón",
+        "Posibilidad de Operar a Diferentes Velocidades mediante Variador de Frecuencia (Inverter)",
+        "Configuración Especial de Motor y Reductor que No Altera la Forma del Producto",
+        "Bolas de Lavado CIP (Clean-in-Place) Integradas para una Fácil Limpieza"
+      ],
+      "imgAlt": "Motor y Automatización del Tanque Mezclador"
+    },
+    "table": {
+      "title": "Tipos de Palas y Áreas de Aplicación",
+      "note": "* Las velocidades de rotación y los valores de viscosidad enumerados son una referencia general; la combinación motor/reductor se calcula de forma específica para su proyecto.",
+      "headers": [
+        "TIPO DE PALA (AGITADOR)",
+        "RANGO DE VISCOSIDAD",
+        "ÁREA DE USO",
+        "VELOCIDAD DE OPERACIÓN (RPM)"
+      ],
+      "imgAlt": "Dibujo Técnico de Tanque Mezclador",
+      "rows": [
+        { "type": "Hélice (Propeller)", "viscosity": "Baja (Agua, Jugo)", "usage": "Mezcla Rápida / Disolución", "speed": "Alta (1000 - 1500 RPM)", "highlight": "dark" },
+        { "type": "Turbina (Turbine)", "viscosity": "Baja / Media", "usage": "Emulsión / Dispersión", "speed": "Media - Alta (300 - 1000 RPM)", "highlight": "dark" },
+        { "type": "Ancla (Anchor)", "viscosity": "Alta (Crema, Champú)", "usage": "Transferencia de Calor Homogénea", "speed": "Baja (10 - 60 RPM)", "highlight": "dark" },
+        { "type": "Con Rascador de Teflón (Scraper)", "viscosity": "Muy Alta (Pasta, Masilla)", "usage": "Procesos con Calor (Antiquemaduras)", "speed": "Baja (10 - 40 RPM)", "highlight": "dark" },
+        { "type": "Doble Pala Contrarrotativa", "viscosity": "Variable", "usage": "Reacciones Químicas Complejas", "speed": "Variable (Con Inverter)", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Para qué sirve un Rompeolas (Baffle)?",
+          "a": "En los procesos de mezcla rápida, evita que el líquido gire en el tanque y cree un vórtice (remolino). El baffle rompe la dirección del flujo del líquido, asegurando que se mezcle verticalmente y acortando el tiempo de procesamiento hasta en un 40%."
+        },
+        {
+          "q": "¿Por qué se prefiere un agitador con rascador?",
+          "a": "Especialmente en los tanques con camisa de calentamiento, las palas con rascador de teflón son obligatorias para evitar que los fluidos densos (por ejemplo, pasta de tomate o cremas cosméticas) se adhieran a la pared caliente y se quemen o caramelicen."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nuestras Aplicaciones Industriales",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Preparación de Soluciones Químicas", "alt": "Mezclador Químico" },
+        { "src": "galeri-2.webp", "label": "Mezclador de Champú y Detergente", "alt": "Tanque Agitador para Cosméticos" },
+        { "src": "galeri-3.webp", "label": "Tanque de Proceso de Leche y Ayran", "alt": "Tanque Mezclador de Alimentos" },
+        { "src": "galeri-4.webp", "label": "Mezclador de Salsas y Pastas", "alt": "Tanque con Agitador Rascador" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Descargue el archivo de especificaciones que contiene tablas de selección de palas, cálculos de RPM del motor y diagramas de disposición de rompeolas.",
+        "fileUrl": "/assets/documents/es/tanques-mezcladores-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "PLANTA DE COSMÉTICOS",
+        "desc": "Línea de mezcla de jabón líquido con rascadores de teflón y camisa calefactora que instalamos para una firma global de cosméticos.",
+        "imgAlt": "Referencia de Mezclador de Cosméticos",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "¿Cuál es la Viscosidad de su Producto?",
+        "desc": "Infórmenos sobre la densidad de su fluido y su capacidad, y diseñemos juntos la combinación de motor-reductor y diseño de pala (agitador) correcto que no genere vórtices.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Hola,%20me%20gustaria%20obtener%20informacion%20tecnica%20y%20precios%20sobre%20tanques%20mezcladores%20con%20agitador.",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

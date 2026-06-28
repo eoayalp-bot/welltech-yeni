@@ -1,0 +1,40 @@
+{
+  "stainlessTanksPage": {
+    "metadata": {
+      "title": "Edelstahltanks | Welltech®",
+      "description": "Hochwertige Lager- und Prozesstanks aus Edelstahl speziell für die Industrie-, Lebensmittel-, Chemie- und Olivenölbranche."
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "current": "Edelstahltanks"
+    },
+    "hero": {
+      "title": "Edelstahltank-Systeme",
+      "desc": "Langlebige und hygienische Edelstahllösungen nach internationalen Standards für verschiedene industrielle Prozesse."
+    },
+    "categories": [
+      {
+        "title": "Industrielle Lagerbehälter",
+        "desc": "Heavy-Duty-Tanksysteme, die für die sichere Lagerung großer Mengen von Flüssigkeiten und Rohstoffen entwickelt wurden und druck- und beanspruchungsresistent sind."
+      },
+      {
+        "title": "Olivenöl-Lagertanks",
+        "desc": "Speziell entwickelte Tanks mit Stickstoffüberlagerungssystem, konischem Boden und Null-Oxidations-Garantie, die den exquisiten Geschmack von Premium-Olivenöl bewahren."
+      },
+      {
+        "title": "Milch- und Lebensmitteltanks",
+        "desc": "Ultrahygienische, isolierte und kühlmantelversehene Edelstahl-Prozesstanks in voller Übereinstimmung mit Lebensmittelsicherheitsstandards (FDA/GMP)."
+      },
+      {
+        "title": "Chemie- und Säuretanks",
+        "desc": "Lagereinheiten, die gegen aggressive Chemikalien, hohe Temperaturen und Drücke absolut beständig sind und den internationalen Sicherheitsnormen entsprechen."
+      }
+    ],
+    "viewModels": "MODELLE ANSEHEN",
+    "cta": {
+      "title": "Sonderanfertigung für Ihr Projekt",
+      "desc": "Holen Sie sich über die Standardmodelle hinaus ein Angebot für spezielle Engineering-Lösungen ein, die perfekt auf die Kapazität und Platzbeschränkungen Ihrer Fabrik abgestimmt sind.",
+      "btn": "KONTAKTIEREN SIE UNS"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "jacketedTanksPage": {
+    "metadata": {
+      "title": "Serbatoi Camiciati per Riscaldamento e Raffreddamento | Welltech®",
+      "description": "Serbatoi in acciaio inox camiciati e coibentati progettati per il controllo preciso della temperatura nei processi chimici, alimentari e farmaceutici."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "process": "Sistemi di Processo",
+      "current": "Serbatoi Camiciati"
+    },
+    "hero": {
+      "title": "Serbatoi Camiciati (Riscaldamento/Raffreddamento)",
+      "desc": "Reattori e serbatoi con tecnologia a semitubo, roll-bond e doppia parete, progettati per garantire un controllo preciso della temperatura e un'elevata efficienza di trasferimento termico."
+    },
+    "technology": {
+      "title": "Tecnologie di Trasferimento Termico e Camicie",
+      "desc": "I serbatoi camiciati sono sistemi dotati di una camera secondaria (camicia) integrata nel mantello, utilizzata per riscaldare o raffreddare il fluido interno. <strong>L'ingegneria Welltech®</strong> calcola la superficie di scambio più idonea in base ai tempi di riscaldamento/raffreddamento richiesti e al fluido termovettore utilizzato (vapore, olio diatermico, glicole o acqua refrigerata). Le camicie a <strong>semitubo (serpentino)</strong> sono ideali per applicazioni con vapore ad alta pressione, mentre le camicie <strong>Roll-Bond (Dimple)</strong> garantiscono un'eccellente uniformità nel riscaldamento e nel raffreddamento."
+    },
+    "features": {
+      "title": "Vantaggi di Progettazione e Isolamento",
+      "items": [
+        "Design Speciali della Camicia per una Distribuzione Omogenea del Calore",
+        "Saldature Collaudate per Vapore ad Alta Pressione e Olio Diatermico",
+        "Isolamento ad Alta Efficienza Energetica con Poliuretano o Lana di Roccia",
+        "Rivestimento Esterno in Acciaio Inox Completamente Saldato",
+        "Connessioni con Thermal Break per Ridurre le Perdite di Calore",
+        "Compatibilità con Sonde PT-100 e Sistemi Automatici di Controllo della Temperatura"
+      ],
+      "imgAlt": "Isolamento e Trasferimento Termico del Serbatoio Camiciato"
+    },
+    "table": {
+      "title": "Tipologie di Camicia e Applicazioni Tecniche",
+      "note": "* La pressione di esercizio e gli spessori della camicia vengono calcolati staticamente secondo ASME Sezione VIII o EN 13445.",
+      "headers": [
+        "TIPO DI CAMICIA",
+        "APPLICAZIONE",
+        "FLUIDO TERMOVETTORE",
+        "PRESSIONE MASSIMA"
+      ],
+      "imgAlt": "Disegno Tecnico del Serbatoio Camiciato",
+      "rows": [
+        {
+          "type": "Semitubo (Serpentino)",
+          "purpose": "Riscaldamento ad Alta Pressione",
+          "fluid": "Vapore / Olio Diatermico",
+          "pressure": "25 Bar",
+          "highlight": "orange"
+        },
+        {
+          "type": "Doppia Parete (Double Wall)",
+          "purpose": "Riscaldamento/Raffreddamento Atmosferico",
+          "fluid": "Acqua Calda / Acqua Fredda",
+          "pressure": "3 Bar",
+          "highlight": "dark"
+        },
+        {
+          "type": "Roll-Bond (Dimple Jacket)",
+          "purpose": "Raffreddamento/Riscaldamento Rapido e Uniforme",
+          "fluid": "Acqua Refrigerata / Glicole / Vapore",
+          "pressure": "15 Bar",
+          "highlight": "dark"
+        },
+        {
+          "type": "Elettrica (Resistenze)",
+          "purpose": "Riscaldamento Autonomo (Senza Caldaia)",
+          "fluid": "Olio Termico / Acqua",
+          "pressure": "Atmosferica",
+          "highlight": "dark"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "items": [
+        {
+          "q": "Qual è la differenza tra una camicia a semitubo e una doppia parete?",
+          "a": "La camicia a semitubo è costituita da tubi saldati attorno al mantello e offre un'eccellente resistenza alle alte pressioni (ad esempio vapore a 10 bar). La doppia parete è invece formata da un secondo mantello che avvolge completamente il serbatoio ed è più adatta alla circolazione di acqua a bassa pressione."
+        },
+        {
+          "q": "Come viene scelto il materiale isolante?",
+          "a": "Nei processi di raffreddamento (chiller) viene utilizzata schiuma poliuretanica per prevenire la condensazione, mentre per processi ad alta temperatura con vapore o olio diatermico si preferiscono materiali non combustibili come lana di roccia o fibra ceramica."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Le Nostre Applicazioni Industriali",
+      "items": [
+        {
+          "src": "galeri-1.webp",
+          "label": "Reattore Riscaldato a Vapore",
+          "alt": "Reattore Camiciato a Vapore"
+        },
+        {
+          "src": "galeri-2.webp",
+          "label": "Serbatoio Raffreddato con Acqua Refrigerata (Chiller)",
+          "alt": "Serbatoio con Camicia di Raffreddamento"
+        },
+        {
+          "src": "galeri-3.webp",
+          "label": "Serbatoio di Fusione con Camicia ad Olio Diatermico",
+          "alt": "Serbatoio di Fusione"
+        },
+        {
+          "src": "galeri-4.webp",
+          "label": "Miscelatore Coibentato con Riscaldamento Elettrico",
+          "alt": "Serbatoio Riscaldato Elettricamente"
+        }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Scheda Tecnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Scaricate il nostro catalogo con i calcoli delle superfici di scambio termico, i test di pressione delle camicie e i dettagli dell'isolamento.",
+        "fileUrl": "/assets/documents/it/serbatoi-incamiciati-termici-schede-tec.pdf",
+        "btn": "SCARICA LA SCHEDA TECNICA"
+      },
+      "reference": {
+        "badge": "IMPIANTO CHIMICO",
+        "desc": "Linea di serbatoi per polimerizzazione da 20.000 L con raffreddamento a glicole e isolamento in poliuretano.",
+        "imgAlt": "Riferimento Serbatoio Camiciato",
+        "link": "VAI AL PROGETTO"
+      },
+      "cta": {
+        "title": "Quale Tipo di Camicia?",
+        "desc": "Comunicateci il tempo di reazione richiesto e il fluido termovettore utilizzato, e progetteremo insieme il sistema di camicia più sicuro ed efficiente.",
+        "whatsappUrl": "https://wa.me/905324125152?text=Merhaba,%20isitnali%20ve%20sogutmali%20(ceketli)%20tanklar%20hakkinda%20teknik%20bilgi%20ve%20fiyat%20almak%20istiyorum.",
+        "btn": "CONTATTA UN INGEGNERE"
+      }
+    }
+  }
+}

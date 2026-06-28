@@ -1,18 +1,47 @@
 import 'server-only';
 
-const dictionaries = {
-  tr: () => import('./tr.json').then((module) => module.default),
-  en: () => import('./en.json').then((module) => module.default),
-  de: () => import('./de.json').then((module) => module.default),
-  fr: () => import('./fr.json').then((module) => module.default),
-  es: () => import('./es.json').then((module) => module.default),
-  pt: () => import('./pt.json').then((module) => module.default),
-  it: () => import('./it.json').then((module) => module.default),
-  ru: () => import('./ru.json').then((module) => module.default),
-  ar: () => import('./ar.json').then((module) => module.default),
-};
+export type DictionaryNamespace =
+  | 'navbar'
+  | 'common'
+  | 'footer'
+  | 'home'
+  | 'documents'
+  | 'about'
+  | 'contact'
+  | 'stainlessTanks'
+  | 'storageTanks'
+  | 'chemicalTanks'
+  | 'milkTanks'
+  | 'oliveOilTanks'
+  | 'pumps'
+  | 'diaphragmPumps'
+  | 'selfPrimingPumps'
+  | 'monopompPumps'
+  | 'positivePumps'
+  | 'centrifugalPumps'
+  | 'drumPumps'
+  | 'references'
+  | 'processSystems'
+  | 'jacketedTanks'
+  | 'bioreactors'
+  | 'homogenizers'
+  | 'mixingTanks'
+  | 'reactors'
+  | 'skidSystems'
+  | 'cipSystems'
+  | 'academy';
 
-export const getDictionary = async (locale: string): Promise<any> => {
-  const loadDictionary = dictionaries[locale as keyof typeof dictionaries] || dictionaries['tr'];
-  return loadDictionary();
+const supportedLocales = ['tr', 'en', 'de', 'fr', 'es', 'pt', 'ru', 'it', 'ar'];
+
+export const getDictionary = async (locale: string, namespace: DictionaryNamespace): Promise<any> => {
+  const validLocale = supportedLocales.includes(locale) ? locale : 'tr';
+
+  try {
+    const module = await import(`./${validLocale}/${namespace}.json`);
+    return module.default;
+  } catch (error) {
+    console.error(`Dosya bulunamadı: Dil: ${validLocale}, Modül: ${namespace}`);
+    const fallbackModule = await import(`./tr/${namespace}.json`);
+    return fallbackModule.default;
+  }
 };

@@ -1,0 +1,95 @@
+{
+  "positivePumpsPage": {
+    "metadata": {
+      "title": "Bombas de Desplazamiento Positivo (Lobulares) | Welltech®",
+      "description": "Bombas lobulares de acero inoxidable que aseguran la transferencia de fluidos de alta viscosidad como crema, miel, champú y pasta de tomate sin romper su estructura de partículas."
+    },
+    "breadcrumb": {
+      "home": "Inicio",
+      "pumps": "Bombas",
+      "current": "Bombas de Desplazamiento Positivo"
+    },
+    "hero": {
+      "title": "Bombas de Desplazamiento Positivo",
+      "desc": "Transferencia de fluidos precisa y suave para productos densos (de alta viscosidad) como miel, champú, crema y pasta de tomate, sin alterar su estructura celular."
+    },
+    "technology": {
+      "title": "Tecnología de Lóbulos (Rotor)",
+      "desc": "A diferencia de las bombas centrífugas que agitan y aplastan el fluido a alta velocidad, las bombas lobulares de desplazamiento positivo empujan suavemente el fluido atrapándolo entre lóbulos especiales (rotores) que giran en direcciones opuestas. Gracias a esta tecnología, las partículas del producto (trozos de fruta, fibras, etc.) no se aplastan; la calidad y consistencia del fluido se preserva al 100% mientras se transfiere a la siguiente estación.",
+      "imgAlt": "Tecnología de Rotor de Bomba Lobular"
+    },
+    "features": {
+      "title": "Ventajas de Diseño y Operación",
+      "items": [
+        "Transferencia sin Aplastamiento de Alimentos Delicados (Con Partículas)",
+        "Caudal Alto, Constante (Sin Pulsaciones) y Medible",
+        "Máxima Eficiencia en Fluidos de Alta Viscosidad (Densos)",
+        "Cuerpo de Acero Inoxidable 100% Higiénico Aprobado por FDA/3A",
+        "Capacidad de Funcionamiento Bidireccional (Reversible)",
+        "Resistencia al Funcionamiento en Seco de Corta Duración"
+      ],
+      "imgAlt": "Reductor de Bomba de Desplazamiento Positivo"
+    },
+    "table": {
+      "title": "Especificaciones Técnicas y Tabla de Capacidad",
+      "note": "* Los valores de caudal y el tipo de rotor (Mariposa, Bi-Lobe, Tri-Lobe) se calculan a medida de acuerdo con la viscosidad (densidad) del producto a transferir.",
+      "headers": [
+        "MODELO DE BOMBA",
+        "CAUDAL MÁX. (m³/h)",
+        "PRESIÓN MÁX. (Bar)",
+        "TAMAÑO DE CONEXIÓN"
+      ],
+      "imgAlt": "Dibujo Técnico de Bomba Lobular",
+      "rows": [
+        { "model": "WLP-10", "flow": "3 m³/h", "pressure": "10 Bar", "connection": "1\"", "highlight": "dark" },
+        { "model": "WLP-20", "flow": "10 m³/h", "pressure": "12 Bar", "connection": "1 1/2\"", "highlight": "dark" },
+        { "model": "WLP-30", "flow": "25 m³/h", "pressure": "12 Bar", "connection": "2\"", "highlight": "dark" },
+        { "model": "WLP-40", "flow": "45 m³/h", "pressure": "15 Bar", "connection": "2 1/2\"", "highlight": "dark" },
+        { "model": "WLP-50", "flow": "70 m³/h", "pressure": "15 Bar", "connection": "3\"", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "items": [
+        {
+          "q": "¿Cuál es la diferencia entre una bomba Lobular y una bomba Centrífuga?",
+          "a": "Las bombas centrífugas transfieren el agua lanzándola (rápido) y causan cavitación en productos densos. Las bombas lobulares funcionan volumétricamente (positivo); sin importar lo espeso (viscoso) que sea el líquido, lo empujan hacia adelante en cantidades iguales y sin aplastar el producto."
+        },
+        {
+          "q": "¿Las bombas lobulares son lavables (CIP)?",
+          "a": "Absolutamente. No hay volúmenes muertos en la estructura interna de las bombas lobulares. Pueden esterilizarse al 100% con agua caliente a alta presión y productos químicos a través de sistemas CIP (limpieza in situ) sin necesidad de desmontarlas de la instalación."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nuestras Aplicaciones Industriales",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Transferencia de Miel y Melaza", "alt": "Bomba de Miel" },
+        { "src": "galeri-2.webp", "label": "Transferencia de Cosméticos y Champú", "alt": "Bomba para Cosméticos" },
+        { "src": "galeri-3.webp", "label": "Transferencia de Salsas y Pastas Alimenticias", "alt": "Bomba de Pasta de Tomate" },
+        { "src": "galeri-4.webp", "label": "Líneas de Crema y Chocolate", "alt": "Bomba Lobular para Chocolate" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Especificación Técnica",
+        "subtitle": "DOCUMENTO PDF",
+        "desc": "Descargue el archivo de especificaciones que incluye gráficos de viscosidad, tipos de rotor/lóbulo (Tri-Lobe) y dimensiones de conexión.",
+        "fileUrl": "/assets/documents/es/bombas-desplazamiento-positivo-fichas-tec.pdf",
+        "btn": "DESCARGAR ESPECIFICACIÓN"
+      },
+      "reference": {
+        "badge": "PLANTA DE ALIMENTOS",
+        "desc": "Línea de bombas de crema con doble camisa que instalamos en una instalación internacional de producción de galletas y chocolate.",
+        "imgAlt": "Referencia de Bomba para Alimentos",
+        "link": "IR AL PROYECTO"
+      },
+      "cta": {
+        "title": "El Lóbulo Adecuado para Su Producto",
+        "desc": "Comparta con nosotros el diámetro de partícula de su fluido y la temperatura de trabajo, y diseñemos juntos el rotor correcto (Bi-Lobe o Tri-Lobe) que evite el aplastamiento.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Hola,%20me%20gustaria%20obtener%20informacion%20tecnica%20y%20precios%20sobre%20bombas%20de%20desplazamiento%20positivo%20(lobulares).",
+        "btn": "CONSULTAR A UN INGENIERO"
+      }
+    }
+  }
+}

@@ -28,7 +28,9 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+
+  const commonDict = await getDictionary(lang, 'common');
+  const seo = commonDict.seo;
 
   const alternates: Record<string, string> = {};
   locales.forEach((locale) => {
@@ -39,10 +41,10 @@ export async function generateMetadata({
   return {
     title: {
       template: '%s | Welltech®',
-      default: dict?.metadata?.default_title || "Welltech® | Endüstriyel Tank ve Proses Sistemleri",
+      default: seo.defaultTitle,
     },
-    description: dict?.metadata?.default_desc || "Uluslararası standartlarda paslanmaz çelik endüstriyel tanklar, hijyenik pompalar ve proses ekipmanları üreticisi.",
-    keywords: dict?.metadata?.keywords || ["paslanmaz tank", "proses sistemleri", "hijyenik pompa", "welltech"],
+    description: seo.description,
+    keywords: seo.keywords,
     robots: {
       index: true,
       follow: true,
@@ -70,7 +72,40 @@ export default async function RootLayout({
 }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang;
-  const dict = await getDictionary(lang);
+  
+  const navbarDict = await getDictionary(lang, 'navbar');
+  const commonDict = await getDictionary(lang, 'common');
+  const footerDict = await getDictionary(lang, 'footer');
+
+  const corporateSchema = {
+    "@context": "https://schema.org",
+    "@type": ["Organization", "Manufacturer"],
+    "name": "Welltech® International Engineering",
+    "legalName": "İnokstek Paslanmaz Teknolojileri",
+    "url": baseUrl,
+    "logo": `${baseUrl}/assets/images/logo.svg`,
+    "description": "Türkiye'nin lider endüstriyel paslanmaz tank, proses sistemleri ve hijyenik pompa üreticisi.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Organize Sanayi Bölgesi, Kemalpaşa OSB, 10. Sk. No:6",
+      "addressLocality": "Kemalpaşa",
+      "addressRegion": "İzmir",
+      "postalCode": "35730",
+      "addressCountry": "TR"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+90-532-412-51-52",
+      "contactType": "customer service",
+      "areaServed": "Global",
+      "availableLanguage": ["Turkish", "English", "German", "Russian", "French", "Spanish", "Arabic", "Portuguese", "Italian"]
+    },
+    "sameAs": [
+      "https://www.linkedin.com/in/inokstek/",
+      "https://www.youtube.com/channel/UCS2q0VBo8vSKv_HO04OghCg",
+      "https://www.instagram.com/inokstek_tr/"
+    ]
+  };
 
   return (
     <html lang={lang} className="scroll-smooth" suppressHydrationWarning>
@@ -78,13 +113,22 @@ export default async function RootLayout({
         className={`${inter.variable} ${montserrat.variable} font-sans antialiased text-gray-900 bg-white flex flex-col min-h-screen selection:bg-[#E35205] selection:text-white`}
         suppressHydrationWarning
       >
-        <Navbar lang={lang} dict={dict} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(corporateSchema) }}
+        />
+
+        <Navbar lang={lang} dict={navbarDict} />
+        
         <main className="flex-grow flex flex-col">
           {children}
         </main>
-        <Footer lang={lang} dict={dict} />
+        
+        <Footer lang={lang} dict={footerDict} />
+        
         <div id="welltech-ai-chatbot-root" data-langs={locales.join(',')} aria-hidden="true"></div>
-        <CookieBanner lang={lang} />
+        
+        <CookieBanner lang={lang} dict={commonDict.cookieBanner} />
       </body>
     </html>
   );

@@ -1,0 +1,95 @@
+{
+  "selfPrimingPumpsPage": {
+    "metadata": {
+      "title": "Pompes Auto-amorçantes | Welltech®",
+      "description": "Pompes auto-amorçantes en acier inoxydable capables d'évacuer des liquides mousseux ou contenant du gaz, et d'aspirer sans problème depuis le fond des cuves."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "pumps": "Pompes",
+      "current": "Pompes Auto-amorçantes"
+    },
+    "hero": {
+      "title": "Pompes Auto-amorçantes",
+      "desc": "Fonctionnement sans cavitation dans les fluides avec mélange d'air et de gaz. Puissance d'aspiration parfaite pour les lignes de retour NEP et la vidange de cuves en aspiration négative."
+    },
+    "technology": {
+      "title": "Technologie de Vide et d'Auto-amorçage",
+      "desc": "Alors que les pompes centrifuges standard se bloquent lorsqu'il y a de l'air dans la conduite d'aspiration, les pompes auto-amorçantes (Self-Priming) créent un vide en évacuant l'air contenu grâce à la conception spéciale de leur corps. C'est la solution la plus idéale et hygiénique pour aspirer des liquides depuis des cuves souterraines ou évacuer les eaux de lavage mousseuses dans les systèmes NEP (CIP).",
+      "imgAlt": "Technologie de Turbine de Pompe Auto-amorçante"
+    },
+    "features": {
+      "title": "Avantages de Performance et de Conception",
+      "items": [
+        "Capacité d'aspiration élevée depuis une charge négative (profondeur)",
+        "Transfert de fluides contenant des gaz et de l'air (mousseux)",
+        "Compatibilité totale avec les systèmes de retour NEP (Nettoyage en Place)",
+        "Conception interne sans point mort et facilement lavable (Hygiénique)",
+        "Acier inoxydable forgé ou de fonderie de précision AISI 316L",
+        "Garniture mécanique résistante à l'usure et longue durée"
+      ],
+      "imgAlt": "Conception Interne de la Pompe Auto-amorçante"
+    },
+    "table": {
+      "title": "Spécifications Techniques et Capacité",
+      "note": "* La profondeur d'aspiration et les valeurs de débit peuvent varier en fonction de la viscosité du fluide (eau = 1 cPs) et de la température ambiante.",
+      "headers": [
+        "MODÈLE DE POMPE",
+        "DÉBIT MAX. (m³/h)",
+        "HAUTEUR MANO. (m)",
+        "PUISSANCE (kW)"
+      ],
+      "imgAlt": "Dessin Technique de Capacité de la Pompe",
+      "rows": [
+        { "model": "WSP-10", "flow": "10 m³/h", "head": "20 m", "power": "1,5 kW", "highlight": "dark" },
+        { "model": "WSP-20", "flow": "20 m³/h", "head": "25 m", "power": "2,2 kW", "highlight": "dark" },
+        { "model": "WSP-30", "flow": "30 m³/h", "head": "30 m", "power": "4,0 kW", "highlight": "dark" },
+        { "model": "WSP-40", "flow": "40 m³/h", "head": "35 m", "power": "5,5 kW", "highlight": "dark" },
+        { "model": "WSP-50", "flow": "50 m³/h", "head": "40 m", "power": "7,5 kW", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Quel est le principe de fonctionnement de la pompe auto-amorçante ?",
+          "a": "Lors de l'installation initiale, une certaine quantité de liquide est remplie dans le corps. Lorsqu'elle fonctionne, elle mélange ce liquide avec l'air de la conduite d'aspiration et l'expulse, puis aspire le liquide depuis le fond grâce au vide créé dans la conduite."
+        },
+        {
+          "q": "Pourquoi utilise-t-on cette pompe dans la ligne de retour NEP (CIP) ?",
+          "a": "Pendant le lavage de cuves (NEP), beaucoup d'air et de mousse se mélangent au liquide. Les pompes normales tournent à vide dans la mousse (cavitation), tandis que les pompes auto-amorçantes tolèrent l'air et transfèrent le liquide de lavage sans problème."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Nos Applications Industrielles",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Système de Retour NEP", "alt": "Pompe de Retour NEP" },
+        { "src": "galeri-2.webp", "label": "Vidange de Cuve Souterraine", "alt": "Pompe d'Aspiration Souterraine" },
+        { "src": "galeri-3.webp", "label": "Transfert de Liquide Mousseux", "alt": "Pompe pour Fluide Mousseux" },
+        { "src": "galeri-4.webp", "label": "Station d'Aspiration Mobile", "alt": "Pompe Auto-amorçante Mobile" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Téléchargez notre catalogue contenant les courbes de pompage, les calculs de profondeur d'aspiration et les options de moteur.",
+        "fileUrl": "/assets/documents/fr/pompes-auto-amorcantes-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "SYSTÈME NEP",
+        "desc": "Ligne de retour de lavage NEP entièrement automatique installée pour une usine de boissons d'une capacité quotidienne de 500 tonnes.",
+        "imgAlt": "Référence de Retour NEP",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Quelle est Votre Distance d'Aspiration ?",
+        "desc": "Indiquez-nous la profondeur de votre cuve souterraine (aspiration négative) et le métrage de la tuyauterie, choisissons la pompe adéquate éliminant le risque de cavitation.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Bonjour,%20je%20souhaite%20obtenir%20des%20informations%20techniques%20et%20des%20prix%20sur%20les%20pompes%20auto-amorcantes.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

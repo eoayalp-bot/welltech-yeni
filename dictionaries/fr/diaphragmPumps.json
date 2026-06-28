@@ -1,0 +1,95 @@
+{
+  "diaphragmPumpsPage": {
+    "metadata": {
+      "title": "Pompes Pneumatiques à Membrane | Welltech®",
+      "description": "Pompes pneumatiques à membrane en acier inoxydable, fonctionnant sans électricité, avec une forte capacité d'aspiration pour les environnements explosifs et inflammables (ATEX)."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "pumps": "Pompes",
+      "current": "Pompes à Membrane"
+    },
+    "hero": {
+      "title": "Pompes Pneumatiques à Membrane",
+      "desc": "Garantie anti-calage (sans blocage) pour les fluides contenant des particules solides et à haute viscosité, certifiées ATEX grâce à un fonctionnement pneumatique sans électricité."
+    },
+    "safety": {
+      "title": "Sécurité Maximale (ATEX)",
+      "desc": "Le principe de fonctionnement pneumatique sans moteur électrique fait de ces pompes la solution unique et la plus sûre pour le transfert de solvants inflammables et de produits chimiques explosifs. Elles peuvent tolérer le transfert de liquides chargés de particules solides ou la marche à sec sans tomber en panne. Le système de valve pneumatique anti-calage assure une production ininterrompue et sécurisée.",
+      "imgAlt": "Coupe de la Pompe Pneumatique Certifiée ATEX"
+    },
+    "features": {
+      "title": "Avantages de Conception et d'Équipement",
+      "items": [
+        "Conception entièrement sécurisée et certifiée ATEX (Antidéflagrante)",
+        "Résistance totale à la marche à sec",
+        "Capacité à transférer des particules solides sans blocage",
+        "Système de valve pneumatique anti-calage (Non-Stalling)",
+        "Faible coût d'exploitation grâce au fonctionnement sans électricité",
+        "Installation facile, faible besoin en pièces de rechange et entretien"
+      ],
+      "imgAlt": "Mécanisme de Valve de la Pompe à Membrane"
+    },
+    "table": {
+      "title": "Courbe de Performance et Tableau de Capacité",
+      "note": "* Les valeurs de fluide indiquées sont calculées sur la base de l'eau (1 cPs). Pour les liquides à haute viscosité et chargés en particules, la taille de la pompe peut varier.",
+      "headers": [
+        "TAILLE DE RACCORDEMENT",
+        "DÉBIT MAX. (L/min)",
+        "PRESSION MAX. DE SERVICE",
+        "PASSAGE DE PARTICULES (mm)"
+      ],
+      "imgAlt": "Dessin Technique de la Pompe à Membrane",
+      "rows": [
+        { "size": "1/2\"", "flow": "55 L/min", "pressure": "8 Bar", "particle": "2,5 mm", "highlight": "dark" },
+        { "size": "1\"", "flow": "160 L/min", "pressure": "8 Bar", "particle": "3,5 mm", "highlight": "dark" },
+        { "size": "1 1/2\"", "flow": "350 L/min", "pressure": "8 Bar", "particle": "6,0 mm", "highlight": "dark" },
+        { "size": "2\"", "flow": "550 L/min", "pressure": "8 Bar", "particle": "6,5 mm", "highlight": "dark" },
+        { "size": "3\"", "flow": "900 L/min", "pressure": "8 Bar", "particle": "9,5 mm", "highlight": "orange" }
+      ]
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "items": [
+        {
+          "q": "Comment choisir le matériau de la membrane ?",
+          "a": "Les membranes en Téflon (PTFE), Santoprène, NBR ou Hytrel sont choisies en fonction du niveau de pH (acidité) et de la température du fluide à transférer."
+        },
+        {
+          "q": "Quel est l'avantage du fonctionnement à l'air de la pompe ?",
+          "a": "Puisqu'elle ne nécessite pas de réseau électrique, le risque d'explosion est nul. De plus, lorsque la vanne de refoulement est fermée, la pompe s'arrête d'elle-même et ne nécessite pas d'équipements de protection coûteux supplémentaires comme une vanne by-pass."
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Applications des Pompes à Membrane",
+      "items": [
+        { "src": "galeri-1.webp", "label": "Transfert de Solvants et Diluants", "alt": "Pompe à Solvant ATEX" },
+        { "src": "galeri-2.webp", "label": "Traitement et Transfert de Boues", "alt": "Pompe à Boues" },
+        { "src": "galeri-3.webp", "label": "Additifs Alimentaires", "alt": "Pompe à Membrane en Inox" },
+        { "src": "galeri-4.webp", "label": "Transfert de Peinture et Résine", "alt": "Pompe de Transfert de Peinture" }
+      ]
+    },
+    "sidebar": {
+      "doc": {
+        "title": "Spécification Technique",
+        "subtitle": "DOCUMENT PDF",
+        "desc": "Vous pouvez télécharger les tableaux de compatibilité des matériaux, les graphiques de consommation d'air (SCFM) et les certificats ATEX.",
+        "fileUrl": "/assets/documents/fr/pompes-pneumatiques-membranes-fiches-tech.pdf",
+        "btn": "TÉLÉCHARGER LA SPÉCIFICATION"
+      },
+      "reference": {
+        "badge": "USINE CHIMIQUE",
+        "desc": "Une ligne de pompes à membrane de 40 unités que nous avons installée pour une usine internationale de fabrication de peinture.",
+        "imgAlt": "Référence de Pompe à Membrane",
+        "link": "ALLER AU PROJET"
+      },
+      "cta": {
+        "title": "Quelle Membrane Vous Convient ?",
+        "desc": "PTFE, NBR ou Santoprène ? Envoyez-nous la fiche de données de sécurité (FDS/MSDS) de votre fluide, et nous choisirons le matériau de membrane le plus durable.",
+        "whatsappUrl": "https://wa.me/905334959994?text=Bonjour,%20je%20souhaite%20obtenir%20des%20informations%20techniques%20et%20des%20prix%20sur%20les%20pompes%20pneumatiques%20a%20membrane.",
+        "btn": "CONSULTER UN INGÉNIEUR"
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "documentsPage": {
+    "metadata": {
+      "title": "Quality and Certifications | Welltech®",
+      "description": "Our international quality standards, certifications, and non-destructive testing (NDT) processes."
+    },
+    "hero": {
+      "title": "Quality and Certifications",
+      "desc": "Traceable and 100% reliable engineering processes at international standards."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "corporate": "Corporate",
+      "current": "Quality and Certifications"
+    },
+    "globalStandards": {
+      "title": "Global Production Standards",
+      "desc": "Every equipment produced in our facility is inspected and certified according to international norms (ISO, ASME, CE) from raw material entry to the final test."
+    },
+    "ndt": {
+      "title": "Our Non-Destructive Testing (NDT) Capacity",
+      "items": {
+        "rt": "Radiographic Testing (RT)",
+        "pt": "Penetrant Testing (PT)",
+        "ut": "Ultrasonic Testing (UT)",
+        "vt": "Visual Testing (VT)",
+        "hydro": "Hydrostatic Pressure Testing",
+        "roughness": "Surface Roughness (Ra) Measurement"
+      }
+    },
+    "certifications": {
+      "title": "Our Valid Certifications",
+      "note": "* You can request copies of the relevant documents from the side menu or from our quality department.",
+      "tableHeaders": {
+        "standard": "STANDARD / NORMS",
+        "scope": "SCOPE",
+        "status": "STATUS"
+      },
+      "scopes": {
+        "iso9001": "Quality Management System",
+        "iso3834": "Welded Manufacturing Qualification",
+        "ped": "Pressure Equipment Directive",
+        "asme": "Pressure Vessels Production Standards",
+        "ce": "European Conformity Declaration"
+      },
+      "status": {
+        "active": "Active / Approved",
+        "compliant": "Compliant Production"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Do you provide material certificates with the product?",
+          "a": "Yes, EN 10204 3.1 certificates for all stainless steel materials used are provided in the product delivery file (Data Book)."
+        },
+        {
+          "q": "Are your welding procedures approved?",
+          "a": "All our welded manufacturing is carried out by our certified and approved welding operators in accordance with WPS and PQR procedures."
+        }
+      ]
+    },
+    "sidebar": {
+      "iso": {
+        "title": "ISO & CE Certificates",
+        "subtitle": "OFFICIAL CERTIFICATES",
+        "desc": "You can download our facility's quality management and production qualification documents with a single click.",
+        "fileUrl": "/assets/documents/en/official-certificates-iso-ce.pdf",
+        "btn": "DOWNLOAD CERTIFICATES"
+      },
+      "catalog": {
+        "title": "General Catalog",
+        "subtitle": "2026 PRODUCT BULLETIN",
+        "desc": "Download our current catalog to review our entire product range and technical capacity.",
+        "fileUrl": "/assets/documents/en/general-product-catalog-2026.pdf",
+        "btn": "DOWNLOAD CATALOG"
+      },
+      "department": {
+        "title": "Quality Department",
+        "desc": "Contact us for quality requirements and third-party inspection requests in your special projects."
+      }
+    }
+  }
+}
