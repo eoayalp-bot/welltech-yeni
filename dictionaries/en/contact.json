@@ -1,12 +1,12 @@
 {
   "contactPage": {
     "metadata": {
-      "title": "Contact | Welltech®",
-      "description": "Contact us for your projects. Our headquarters and production facility in Kemalpasa, Izmir."
+      "title": "Contact Us | Welltech®",
+      "description": "Contact us for your projects. Our headquarters and production facility are located in Kemalpaşa, İzmir."
     },
     "hero": {
       "title": "Contact Us",
-      "desc": "Contact our expert team directly for your projects, engineering requests, and production solutions."
+      "desc": "Get in touch directly with our expert team regarding your projects, engineering inquiries, and production solutions."
     },
     "breadcrumb": {
       "home": "Home",
@@ -16,82 +16,84 @@
     "sidebar": {
       "title": "Contact Information",
       "hq": {
-        "title": "HEADQUARTERS",
-        "address": "Organize Sanayi Bolgesi, Kemalpasa OSB<br/>10. Sk. No:6, 35730<br/>Kemalpasa / Izmir / Turkiye"
+        "title": "Headquarters",
+        "address": "Organize Sanayi Bölgesi, Kemalpaşa OSB<br/>10. Sk. No:6, 35730<br/>Kemalpaşa / İzmir"
       },
       "factory": {
-        "title": "PRODUCTION FACILITY",
-        "address": "Ulucak Istiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpasa / Izmir / Turkiye"
+        "title": "Production Facility",
+        "address": "Ulucak İstiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
       },
+      "kromTank": "Stainless Steel Tanks",
+      "pumps": "Pumps",
       "phone": {
-        "title": "PHONE"
+        "title": "Phone"
       },
       "whatsapp": {
         "title": "WHATSAPP LINE"
       },
       "email": {
-        "title": "E-MAIL"
+        "title": "Email"
       },
       "hours": {
-        "title": "WORKING HOURS",
+        "title": "Working Hours",
         "desc1": "Monday - Friday: 08:30 - 18:30",
         "desc2": "Closed on weekends."
       },
       "social": {
-        "title": "FOLLOW US"
+        "title": "Follow Us"
       }
     },
     "form": {
-      "title": "Let's Plan Your Project Together",
-      "name": "FULL NAME",
-      "company": "COMPANY NAME (Optional)",
-      "email": "E-MAIL ADDRESS",
-      "phone": "PHONE NUMBER (Optional)",
+      "title": "Let's plan your project together",
+      "name": "Name and Surname",
+      "company": "Company Name (Optional)",
+      "email": "Email Address",
+      "phone": "Phone Number (Optional)",
       "subject": {
-        "label": "PRODUCT / SERVICE OF INTEREST",
+        "label": "Requested Product / Service",
         "placeholder": "Please select a subject...",
         "groups": {
-          "tanks": "Stainless Storage Tanks",
-          "process": "Process Systems",
+          "tanks": "Stainless Steel Storage Tanks",
+          "process": "Processing Systems",
           "hygienic": "Hygienic Pumps",
           "other": "Other Requests"
         },
         "options": {
           "tanks_1": "Industrial Storage Tank",
           "tanks_2": "Olive Oil Storage Tank",
-          "tanks_3": "Milk and Food Process Tank",
+          "tanks_3": "Dairy and Food Processing Tank",
           "tanks_4": "Chemical / Acid Tank",
-          "process_1": "Agitated Process Tank",
+          "process_1": "Processing Tank with Agitator",
           "process_2": "Chemical / Pharmaceutical Reactor",
-          "process_3": "High Shear Homogenizer",
+          "process_3": "High Shear Homogenizers",
           "process_4": "Mobile Process Skid",
           "process_5": "Heating/Cooling Jacketed Tank",
-          "process_6": "Fermentation and Bioreactor",
+          "process_6": "Fermenter and Bioreactor",
           "process_7": "Automatic CIP System",
           "hygienic_1": "Centrifugal Pump",
           "hygienic_2": "Positive Displacement Lobe Pump",
           "hygienic_3": "Self-Priming Pump",
           "hygienic_4": "Drum Pump",
-          "hygienic_5": "Air Operated Diaphragm Pump",
-          "hygienic_6": "Progressive Cavity Pump",
-          "other_1": "Turnkey Facility Installation",
+          "hygienic_5": "Air-Operated Diaphragm Pump",
+          "hygienic_6": "Progressive Cavity Pump (Mono)",
+          "other_1": "Turnkey Plant Installation",
           "other_2": "Custom Production / Other"
         }
       },
       "message": {
-        "label": "PROJECT DETAILS",
-        "placeholder": "Please briefly state your project capacity, working pressure, temperature, or other technical requirements..."
+        "label": "Project Details",
+        "placeholder": "Please briefly indicate the project capacity, working pressure, temperature, or other technical requirements..."
       },
       "status": {
         "errorFields": "Please fill in the name, email, and message fields completely.",
         "loading": "Sending your message...",
-        "success": "Your message has been sent successfully. We will get back to you as soon as possible.",
+        "success": "Your message has been successfully sent. We will contact you as soon as possible.",
         "errorServer": "A server error occurred. Please try again later.",
-        "errorConnection": "A connection error occurred. Please check your internet."
+        "errorConnection": "A connection error occurred. Please check your internet connection."
       },
       "submit": {
-        "loading": "SENDING...",
-        "idle": "SEND MESSAGE"
+        "loading": "Sending...",
+        "idle": "Send Message"
       }
     }
   }

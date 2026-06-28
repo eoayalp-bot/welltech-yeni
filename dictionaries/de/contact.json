@@ -23,6 +23,8 @@
         "title": "Produktionsstätte",
         "address": "Ulucak İstiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
       },
+      "kromTank": "Edelstahltanks",
+      "pumps": "Pumpen",
       "phone": {
         "title": "Telefon"
       },

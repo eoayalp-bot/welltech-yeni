@@ -2,11 +2,11 @@
   "contactPage": {
     "metadata": {
       "title": "İletişim | Welltech®",
-      "description": "Projeleriniz için bize ulaşın. İzmir Kemalpaşa'daki merkezimiz ve üretim tesisimiz."
+      "description": "Projeleriniz için bizimle iletişime geçin. Merkez ofisimiz ve üretim tesisimiz İzmir, Kemalpaşa'da bulunmaktadır."
     },
     "hero": {
-      "title": "Bize Ulaşın",
-      "desc": "Projeleriniz, mühendislik talepleriniz ve üretim çözümlerimiz için uzman ekibimizle doğrudan iletişime geçin."
+      "title": "İletişim",
+      "desc": "Projeleriniz, mühendislik talepleriniz ve üretim çözümleriniz için uzman ekibimizle doğrudan iletişime geçin."
     },
     "breadcrumb": {
       "home": "Ana Sayfa",
@@ -16,13 +16,15 @@
     "sidebar": {
       "title": "İletişim Bilgileri",
       "hq": {
-        "title": "MERKEZ OFİS",
+        "title": "Merkez Ofis",
         "address": "Organize Sanayi Bölgesi, Kemalpaşa OSB<br/>10. Sk. No:6, 35730<br/>Kemalpaşa / İzmir"
       },
       "factory": {
-        "title": "ÜRETİM TESİSİ",
+        "title": "Üretim Tesisi",
         "address": "Ulucak İstiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
       },
+      "kromTank": "KROM TANK",
+      "pumps": "POMPALAR",
       "phone": {
         "title": "TELEFON"
       },
@@ -33,22 +35,22 @@
         "title": "E-POSTA"
       },
       "hours": {
-        "title": "ÇALIŞMA SAATLERİ",
+        "title": "Çalışma Saatleri",
         "desc1": "Pazartesi - Cuma: 08:30 - 18:30",
-        "desc2": "Hafta sonu kapalıyız."
+        "desc2": "Hafta sonu kapalıdır."
       },
       "social": {
-        "title": "BİZİ TAKİP EDİN"
+        "title": "Bizi Takip Edin"
       }
     },
     "form": {
-      "title": "Projenizi Birlikte Planlayalım",
-      "name": "AD SOYAD",
-      "company": "FİRMA ADI (Opsiyonel)",
-      "email": "E-POSTA ADRESİ",
-      "phone": "TELEFON NUMARASI (Opsiyonel)",
+      "title": "Projenizi birlikte planlayalım",
+      "name": "Adınız ve Soyadınız",
+      "company": "Firma Adı (Opsiyonel)",
+      "email": "E-posta Adresi",
+      "phone": "Telefon Numarası (Opsiyonel)",
       "subject": {
-        "label": "İLGİLENDİĞİNİZ ÜRÜN / HİZMET",
+        "label": "Talep Edilen Ürün / Hizmet",
         "placeholder": "Lütfen bir konu seçin...",
         "groups": {
           "tanks": "Paslanmaz Depolama Tankları",
@@ -63,8 +65,8 @@
           "tanks_4": "Kimyasal / Asit Tankı",
           "process_1": "Karıştırıcılı Proses Tankı",
           "process_2": "Kimyasal / İlaç Reaktörü",
-          "process_3": "High Shear Homojenizatör",
-          "process_4": "Mobil Proses Skid",
+          "process_3": "High Shear Homojenizatörler",
+          "process_4": "Mobil Proses Ünitesi (Skid)",
           "process_5": "Isıtma/Soğutma Ceketli Tank",
           "process_6": "Fermantasyon ve Biyoreaktör",
           "process_7": "Otomatik CIP Sistemi",
@@ -73,25 +75,25 @@
           "hygienic_3": "Kendinden Emişli Pompa",
           "hygienic_4": "Varil Pompası",
           "hygienic_5": "Havalı Diyafram Pompa",
-          "hygienic_6": "Monopomp Pompa",
+          "hygienic_6": "Monopomp (Helezon Pompa)",
           "other_1": "Anahtar Teslim Tesis Kurulumu",
           "other_2": "Özel Üretim / Diğer"
         }
       },
       "message": {
-        "label": "PROJE DETAYLARI",
-        "placeholder": "Lütfen proje kapasitesi, çalışma basıncı, sıcaklık veya diğer teknik gereksinimlerinizi kısaca belirtin..."
+        "label": "Proje Detayları",
+        "placeholder": "Lütfen proje kapasitesi, çalışma basıncı, sıcaklık veya diğer teknik gereksinimleri kısaca belirtin..."
       },
       "status": {
-        "errorFields": "Lütfen ad, e-posta ve mesaj alanlarını eksiksiz doldurun.",
+        "errorFields": "Lütfen isim, e-posta ve mesaj alanlarını eksiksiz doldurun.",
         "loading": "Mesajınız gönderiliyor...",
-        "success": "Mesajınız başarıyla iletildi. En kısa sürede dönüş yapacağız.",
+        "success": "Mesajınız başarıyla gönderildi. En kısa sürede sizinle iletişime geçeceğiz.",
         "errorServer": "Sunucu hatası oluştu. Lütfen daha sonra tekrar deneyin.",
-        "errorConnection": "Bağlantı hatası oluştu. Lütfen internetinizi kontrol edin."
+        "errorConnection": "Bağlantı hatası oluştu. Lütfen internet bağlantınızı kontrol edin."
       },
       "submit": {
-        "loading": "GÖNDERİLİYOR...",
-        "idle": "MESAJI GÖNDER"
+        "loading": "Gönderiliyor...",
+        "idle": "Mesaj Gönder"
       }
     }
   }

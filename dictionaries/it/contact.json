@@ -1,12 +1,12 @@
 {
   "contactPage": {
     "metadata": {
-      "title": "Contatti | Welltech®",
-      "description": "Contattateci per i vostri progetti. Sede centrale e stabilimento produttivo a Kemalpaşa, İzmir."
+      "title": "Contattaci | Welltech®",
+      "description": "Contattaci per i tuoi progetti. La nostra sede centrale e il nostro stabilimento di produzione si trovano a Kemalpaşa, İzmir."
     },
     "hero": {
       "title": "Contattaci",
-      "desc": "Mettetevi direttamente in contatto con il nostro team di esperti per i vostri progetti, richieste ingegneristiche e soluzioni produttive."
+      "desc": "Mettiti in contatto direttamente con il nostro team di esperti per i tuoi progetti, richieste di ingegneria e soluzioni di produzione."
     },
     "breadcrumb": {
       "home": "Home",
@@ -14,84 +14,86 @@
       "current": "Contatti"
     },
     "sidebar": {
-      "title": "Informazioni di Contatto",
+      "title": "Informazioni di contatto",
       "hq": {
-        "title": "SEDE CENTRALE",
-        "address": "Zona Industriale Organizzata, Kemalpaşa OSB<br/>10ª Strada No:6, 35730<br/>Kemalpaşa / İzmir"
+        "title": "Sede centrale",
+        "address": "Organize Sanayi Bölgesi, Kemalpaşa OSB<br/>10. Sk. No:6, 35730<br/>Kemalpaşa / İzmir"
       },
       "factory": {
-        "title": "STABILIMENTO PRODUTTIVO",
-        "address": "Ulucak İstiklal, Viale Gazi<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
+        "title": "Stabilimento di produzione",
+        "address": "Ulucak İstiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
       },
+      "kromTank": "Serbatoi in acciaio inossidabile",
+      "pumps": "Pompe",
       "phone": {
-        "title": "TELEFONO"
+        "title": "Telefono"
       },
       "whatsapp": {
         "title": "LINEA WHATSAPP"
       },
       "email": {
-        "title": "E-MAIL"
+        "title": "E-mail"
       },
       "hours": {
-        "title": "ORARI DI LAVORO",
+        "title": "Orari di lavoro",
         "desc1": "Lunedì - Venerdì: 08:30 - 18:30",
-        "desc2": "Chiuso nel fine settimana."
+        "desc2": "Chiuso nei fine settimana."
       },
       "social": {
-        "title": "SEGUICI"
+        "title": "Seguici"
       }
     },
     "form": {
-      "title": "Pianifichiamo Insieme il Vostro Progetto",
-      "name": "NOME E COGNOME",
-      "company": "NOME AZIENDA (Opzionale)",
-      "email": "INDIRIZZO E-MAIL",
-      "phone": "NUMERO DI TELEFONO (Opzionale)",
+      "title": "Pianifichiamo insieme il tuo progetto",
+      "name": "Nome e Cognome",
+      "company": "Nome dell'azienda (Opzionale)",
+      "email": "Indirizzo E-mail",
+      "phone": "Numero di telefono (Opzionale)",
       "subject": {
-        "label": "PRODOTTO / SERVIZIO DI INTERESSE",
-        "placeholder": "Selezionare un argomento...",
+        "label": "Prodotto / Servizio richiesto",
+        "placeholder": "Seleziona un argomento...",
         "groups": {
-          "tanks": "Serbatoi di Stoccaggio in Acciaio Inox",
-          "process": "Sistemi di Processo",
-          "hygienic": "Pompe Igieniche",
-          "other": "Altre Richieste"
+          "tanks": "Serbatoi di stoccaggio in acciaio inossidabile",
+          "process": "Sistemi di processo",
+          "hygienic": "Pompe igieniche",
+          "other": "Altre richieste"
         },
         "options": {
-          "tanks_1": "Serbatoio di Stoccaggio Industriale",
-          "tanks_2": "Serbatoio per Olio d'Oliva",
-          "tanks_3": "Serbatoio di Processo per Latte e Alimentari",
-          "tanks_4": "Serbatoio per Prodotti Chimici / Acidi",
-          "process_1": "Serbatoio di Processo con Agitatore",
-          "process_2": "Reattore Chimico / Farmaceutico",
-          "process_3": "Omogeneizzatore High Shear",
-          "process_4": "Skid di Processo Mobile",
-          "process_5": "Serbatoio Camiciato per Riscaldamento/Raffreddamento",
-          "process_6": "Fermentatore e Bioreattore",
-          "process_7": "Sistema CIP Automatico",
-          "hygienic_1": "Pompa Centrifuga",
-          "hygienic_2": "Pompa Lobulare a Spostamento Positivo",
-          "hygienic_3": "Pompa Autoadescante",
-          "hygienic_4": "Pompa per Fusti",
-          "hygienic_5": "Pompa Pneumatica a Membrana",
-          "hygienic_6": "Pompa a Cavità Progressiva",
-          "other_1": "Installazione Chiavi in Mano di Impianti",
-          "other_2": "Produzione Speciale / Altro"
+          "tanks_1": "Serbatoio di stoccaggio industriale",
+          "tanks_2": "Serbatoio di stoccaggio per olio d'oliva",
+          "tanks_3": "Serbatoio di processo per latte e alimenti",
+          "tanks_4": "Serbatoio per prodotti chimici / acidi",
+          "process_1": "Serbatoio di processo con agitatore",
+          "process_2": "Reattore chimico / farmaceutico",
+          "process_3": "Omogeneizzatori ad alto taglio (High Shear)",
+          "process_4": "Unità di processo mobile (Skid)",
+          "process_5": "Serbatoio con camicia di riscaldamento/raffreddamento",
+          "process_6": "Fermentatore e bioreattore",
+          "process_7": "Sistema CIP automatico",
+          "hygienic_1": "Pompa centrifuga",
+          "hygienic_2": "Pompa a lobi a spostamento positivo",
+          "hygienic_3": "Pompa autoadescante",
+          "hygienic_4": "Pompa svuotafusti",
+          "hygienic_5": "Pompa pneumatica a membrana",
+          "hygienic_6": "Pompa a cavità progressiva (Mono)",
+          "other_1": "Installazione impianto chiavi in mano",
+          "other_2": "Produzione speciale / Altro"
         }
       },
       "message": {
-        "label": "DETTAGLI DEL PROGETTO",
-        "placeholder": "Indicate brevemente la capacità richiesta, la pressione di esercizio, la temperatura o altri requisiti tecnici del vostro progetto..."
+        "label": "Dettagli del progetto",
+        "placeholder": "Si prega di indicare brevemente la capacità del progetto, la pressione di esercizio, la temperatura o altri requisiti tecnici..."
       },
       "status": {
-        "errorFields": "Compilare correttamente i campi nome, e-mail e messaggio.",
+        "errorFields": "Si prega di compilare completamente i campi nome, e-mail e messaggio.",
         "loading": "Invio del messaggio in corso...",
-        "success": "Il vostro messaggio è stato inviato con successo. Vi contatteremo al più presto.",
-        "errorServer": "Si è verificato un errore del server. Riprovare più tardi.",
-        "errorConnection": "Si è verificato un errore di connessione. Verificare la connessione Internet."
+        "success": "Il tuo messaggio è stato inviato con successo. Ti contatteremo il prima possibile.",
+        "errorServer": "Si è verificato un errore del server. Riprova più tardi.",
+        "errorConnection": "Si è verificato un errore di connessione. Controlla la tua connessione Internet."
       },
       "submit": {
-        "loading": "INVIO IN CORSO...",
-        "idle": "INVIA MESSAGGIO"
+        "loading": "Invio in corso...",
+        "idle": "Invia messaggio"
       }
     }
   }

@@ -2,11 +2,11 @@
   "contactPage": {
     "metadata": {
       "title": "Contact | Welltech®",
-      "description": "Contactez-nous pour vos projets. Notre siège et usine de production à Kemalpasa, Izmir."
+      "description": "Contactez-nous pour vos projets. Notre siège social et notre usine de production sont situés à Kemalpaşa, İzmir."
     },
     "hero": {
-      "title": "Contactez-Nous",
-      "desc": "Contactez directement notre équipe d'experts pour vos projets, demandes d'ingénierie et solutions de production."
+      "title": "Contactez-nous",
+      "desc": "Contactez directement notre équipe d'experts concernant vos projets, vos demandes d'ingénierie et vos solutions de production."
     },
     "breadcrumb": {
       "home": "Accueil",
@@ -16,82 +16,84 @@
     "sidebar": {
       "title": "Coordonnées",
       "hq": {
-        "title": "SIÈGE SOCIAL",
-        "address": "Organize Sanayi Bolgesi, Kemalpasa OSB<br/>10. Sk. No:6, 35730<br/>Kemalpasa / Izmir / Turquie"
+        "title": "Siège social",
+        "address": "Organize Sanayi Bölgesi, Kemalpaşa OSB<br/>10. Sk. No:6, 35730<br/>Kemalpaşa / İzmir"
       },
       "factory": {
-        "title": "USINE DE PRODUCTION",
-        "address": "Ulucak Istiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpasa / Izmir / Turquie"
+        "title": "Usine de production",
+        "address": "Ulucak İstiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
       },
+      "kromTank": "Réservoirs en acier inoxydable",
+      "pumps": "Pompes",
       "phone": {
-        "title": "TÉLÉPHONE"
+        "title": "Téléphone"
       },
       "whatsapp": {
         "title": "LIGNE WHATSAPP"
       },
       "email": {
-        "title": "E-MAIL"
+        "title": "E-mail"
       },
       "hours": {
-        "title": "HEURES D'OUVERTURE",
+        "title": "Heures d'ouverture",
         "desc1": "Lundi - Vendredi : 08h30 - 18h30",
         "desc2": "Fermé le week-end."
       },
       "social": {
-        "title": "SUIVEZ-NOUS"
+        "title": "Suivez-nous"
       }
     },
     "form": {
-      "title": "Planifions Votre Projet Ensemble",
-      "name": "NOM ET PRÉNOM",
-      "company": "NOM DE L'ENTREPRISE (Optionnel)",
-      "email": "ADRESSE E-MAIL",
-      "phone": "NUMÉRO DE TÉLÉPHONE (Optionnel)",
+      "title": "Planifions votre projet ensemble",
+      "name": "Nom et prénom",
+      "company": "Nom de l'entreprise (Facultatif)",
+      "email": "Adresse e-mail",
+      "phone": "Numéro de téléphone (Facultatif)",
       "subject": {
-        "label": "PRODUIT / SERVICE D'INTÉRÊT",
+        "label": "Produit / Service demandé",
         "placeholder": "Veuillez sélectionner un sujet...",
         "groups": {
-          "tanks": "Cuves de Stockage en Inox",
-          "process": "Systèmes de Process",
-          "hygienic": "Pompes Hygiéniques",
-          "other": "Autres Demandes"
+          "tanks": "Réservoirs de stockage en acier inoxydable",
+          "process": "Systèmes de traitement",
+          "hygienic": "Pompes hygiéniques",
+          "other": "Autres demandes"
         },
         "options": {
-          "tanks_1": "Cuve de Stockage Industrielle",
-          "tanks_2": "Cuve de Stockage d'Huile d'Olive",
-          "tanks_3": "Cuve de Process Laitier et Alimentaire",
-          "tanks_4": "Cuve pour Produits Chimiques / Acides",
-          "process_1": "Cuve de Process avec Agitateur",
-          "process_2": "Réacteur Chimique / Pharmaceutique",
-          "process_3": "Homogénéisateur à Haut Cisaillement",
-          "process_4": "Skid de Process Mobile",
-          "process_5": "Cuve à Double Enveloppe (Chauffage/Refroidissement)",
-          "process_6": "Fermenteur et Bioréacteur",
-          "process_7": "Système NEP (CIP) Automatique",
-          "hygienic_1": "Pompe Centrifuge",
-          "hygienic_2": "Pompe Volumétrique à Lobes",
-          "hygienic_3": "Pompe Auto-amorçante",
-          "hygienic_4": "Pompe Vide-Fût",
-          "hygienic_5": "Pompe Pneumatique à Membrane",
-          "hygienic_6": "Pompe à Cavité Progressive (Moineau)",
-          "other_1": "Installation d'Usine Clé en Main",
-          "other_2": "Fabrication Sur Mesure / Autre"
+          "tanks_1": "Réservoir de stockage industriel",
+          "tanks_2": "Réservoir de stockage d'huile d'olive",
+          "tanks_3": "Réservoir de traitement laitier et alimentaire",
+          "tanks_4": "Réservoir pour produits chimiques / acides",
+          "process_1": "Cuve de mélange avec agitateur",
+          "process_2": "Réacteur chimique / pharmaceutique",
+          "process_3": "Homogénéisateurs à haut cisaillement (High Shear)",
+          "process_4": "Unité de traitement mobile (Skid)",
+          "process_5": "Cuve à double enveloppe (chauffage/refroidissement)",
+          "process_6": "Fermenteur et bioréacteur",
+          "process_7": "Système NEP (CIP) automatique",
+          "hygienic_1": "Pompe centrifuge",
+          "hygienic_2": "Pompe à lobes à déplacement positif",
+          "hygienic_3": "Pompe auto-amorçante",
+          "hygienic_4": "Pompe vide-fût",
+          "hygienic_5": "Pompe pneumatique à membrane",
+          "hygienic_6": "Pompe à cavité progressive (Mono)",
+          "other_1": "Installation d'usine clé en main",
+          "other_2": "Production spéciale / Autres"
         }
       },
       "message": {
-        "label": "DÉTAILS DU PROJET",
-        "placeholder": "Veuillez indiquer brièvement la capacité de votre projet, la pression de service, la température ou d'autres exigences techniques..."
+        "label": "Détails du projet",
+        "placeholder": "Veuillez indiquer brièvement la capacité du projet, la pression de service, la température ou d'autres exigences techniques..."
       },
       "status": {
-        "errorFields": "Veuillez remplir correctement les champs nom, e-mail et message.",
-        "loading": "Envoi de votre message...",
-        "success": "Votre message a été envoyé avec succès. Nous vous répondrons dans les plus brefs délais.",
+        "errorFields": "Veuillez remplir complètement les champs nom, e-mail et message.",
+        "loading": "Envoi de votre message en cours...",
+        "success": "Votre message a été envoyé avec succès. Nous vous contacterons dans les plus brefs délais.",
         "errorServer": "Une erreur de serveur s'est produite. Veuillez réessayer plus tard.",
-        "errorConnection": "Une erreur de connexion s'est produite. Veuillez vérifier votre connexion internet."
+        "errorConnection": "Une erreur de connexion s'est produite. Veuillez vérifier votre connexion Internet."
       },
       "submit": {
-        "loading": "ENVOI...",
-        "idle": "ENVOYER LE MESSAGE"
+        "loading": "Envoi en cours...",
+        "idle": "Envoyer le message"
       }
     }
   }

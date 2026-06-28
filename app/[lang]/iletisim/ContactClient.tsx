@@ -181,7 +181,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                    <h2 className="text-2xl font-black text-gray-900 tracking-tight">{dict.contactPage.sidebar.title}</h2>
                 </div>
                 
-                <div className="flex flex-col gap-8">
+                <div className="flex flex-col gap-6">
                   
                   <div className="flex items-start gap-5">
                     <div className="p-4 bg-gray-50 rounded-xl shrink-0 border border-gray-100 group hover:border-[#005284] transition-colors">
@@ -193,33 +193,49 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                     </div>
                   </div>
 
-                  {/* İMALATHANE / FABRİKA ALANI BURADAN TAMAMEN SİLİNDİ */}
-
+                  {/* KROM TANK İLETİŞİM */}
+                  <div className="mt-2 text-xs font-bold text-[#005284] border-b pb-1">KROM TANK</div>
                   <div className="flex items-start gap-5">
                     <div className="p-4 bg-gray-50 rounded-xl shrink-0 border border-gray-100 group hover:border-[#E35205] transition-colors">
                       <Phone className="w-6 h-6 text-[#005284] group-hover:text-[#E35205] transition-colors" />
                     </div>
                     <div className="flex flex-col pt-1">
-                      <span className="text-xs font-bold tracking-widest text-gray-400 mb-1">{dict.contactPage.sidebar.phone.title}</span>
-                      <a href="tel:+905324125152" className="text-sm text-gray-900 font-bold hover:text-[#E35205] transition-colors">
-                        +90 (532) 412 51 52
-                      </a>
+                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1">TELEFON</span>
+                      <a href="tel:+905324125152" className="text-sm text-gray-900 font-bold hover:text-[#E35205] transition-colors">+90 (532) 412 51 52</a>
                     </div>
                   </div>
-
                   <div className="flex items-start gap-5">
                     <div className="p-4 bg-[#25D366]/10 rounded-xl shrink-0 border border-[#25D366]/20 group hover:border-[#E35205] transition-colors">
                       <MessageCircle className="w-6 h-6 text-[#25D366] group-hover:text-[#E35205] transition-colors" />
                     </div>
                     <div className="flex flex-col pt-1">
-                      <span className="text-xs font-bold tracking-widest text-gray-400 mb-1">{dict.contactPage.sidebar.whatsapp.title}</span>
-                      <a href="https://wa.me/905324125152" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-900 font-bold hover:text-[#E35205] transition-colors">
-                        +90 (532) 412 51 52
-                      </a>
+                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1">WHATSAPP HATTI</span>
+                      <a href="https://wa.me/905324125152" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-900 font-bold hover:text-[#E35205] transition-colors">+90 (532) 412 51 52</a>
                     </div>
                   </div>
 
+                  {/* POMPALAR İLETİŞİM */}
+                  <div className="mt-6 text-xs font-bold text-[#E35205] border-b pb-1">POMPALAR</div>
                   <div className="flex items-start gap-5">
+                    <div className="p-4 bg-gray-50 rounded-xl shrink-0 border border-gray-100 group hover:border-[#E35205] transition-colors">
+                      <Phone className="w-6 h-6 text-[#005284] group-hover:text-[#E35205] transition-colors" />
+                    </div>
+                    <div className="flex flex-col pt-1">
+                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1">TELEFON</span>
+                      <a href="tel:+905334959994" className="text-sm text-gray-900 font-bold hover:text-[#E35205] transition-colors">+90 (533) 495 99 94</a>
+                    </div>
+                  </div>
+                  <div className="flex items-start gap-5">
+                    <div className="p-4 bg-[#25D366]/10 rounded-xl shrink-0 border border-[#25D366]/20 group hover:border-[#E35205] transition-colors">
+                      <MessageCircle className="w-6 h-6 text-[#25D366] group-hover:text-[#E35205] transition-colors" />
+                    </div>
+                    <div className="flex flex-col pt-1">
+                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1">WHATSAPP HATTI</span>
+                      <a href="https://wa.me/905334959994" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-900 font-bold hover:text-[#E35205] transition-colors">+90 (533) 495 99 94</a>
+                    </div>
+                  </div>
+
+                  <div className="flex items-start gap-5 mt-4">
                     <div className="p-4 bg-gray-50 rounded-xl shrink-0 border border-gray-100 group hover:border-[#E35205] transition-colors">
                       <Mail className="w-6 h-6 text-[#005284] group-hover:text-[#E35205] transition-colors" />
                     </div>
