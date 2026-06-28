@@ -193,14 +193,13 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                     </div>
                   </div>
 
-                  {/* KROM TANK İLETİŞİM */}
-                  <div className="mt-2 text-xs font-bold text-[#005284] border-b pb-1">KROM TANK</div>
+                  <div className="mt-2 text-xs font-bold text-[#005284] border-b pb-1 uppercase">{dict.contactPage.sidebar.kromTank}</div>
                   <div className="flex items-start gap-5">
                     <div className="p-4 bg-gray-50 rounded-xl shrink-0 border border-gray-100 group hover:border-[#E35205] transition-colors">
                       <Phone className="w-6 h-6 text-[#005284] group-hover:text-[#E35205] transition-colors" />
                     </div>
                     <div className="flex flex-col pt-1">
-                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1">TELEFON</span>
+                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1 uppercase">{dict.contactPage.sidebar.phone.title}</span>
                       <a href="tel:+905324125152" className="text-sm text-gray-900 font-bold hover:text-[#E35205] transition-colors">+90 (532) 412 51 52</a>
                     </div>
                   </div>
@@ -209,19 +208,18 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                       <MessageCircle className="w-6 h-6 text-[#25D366] group-hover:text-[#E35205] transition-colors" />
                     </div>
                     <div className="flex flex-col pt-1">
-                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1">WHATSAPP HATTI</span>
+                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1 uppercase">{dict.contactPage.sidebar.whatsapp.title}</span>
                       <a href="https://wa.me/905324125152" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-900 font-bold hover:text-[#E35205] transition-colors">+90 (532) 412 51 52</a>
                     </div>
                   </div>
 
-                  {/* POMPALAR İLETİŞİM */}
-                  <div className="mt-6 text-xs font-bold text-[#E35205] border-b pb-1">POMPALAR</div>
+                  <div className="mt-6 text-xs font-bold text-[#E35205] border-b pb-1 uppercase">{dict.contactPage.sidebar.pumps}</div>
                   <div className="flex items-start gap-5">
                     <div className="p-4 bg-gray-50 rounded-xl shrink-0 border border-gray-100 group hover:border-[#E35205] transition-colors">
                       <Phone className="w-6 h-6 text-[#005284] group-hover:text-[#E35205] transition-colors" />
                     </div>
                     <div className="flex flex-col pt-1">
-                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1">TELEFON</span>
+                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1 uppercase">{dict.contactPage.sidebar.phone.title}</span>
                       <a href="tel:+905334959994" className="text-sm text-gray-900 font-bold hover:text-[#E35205] transition-colors">+90 (533) 495 99 94</a>
                     </div>
                   </div>
@@ -230,7 +228,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                       <MessageCircle className="w-6 h-6 text-[#25D366] group-hover:text-[#E35205] transition-colors" />
                     </div>
                     <div className="flex flex-col pt-1">
-                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1">WHATSAPP HATTI</span>
+                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1 uppercase">{dict.contactPage.sidebar.whatsapp.title}</span>
                       <a href="https://wa.me/905334959994" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-900 font-bold hover:text-[#E35205] transition-colors">+90 (533) 495 99 94</a>
                     </div>
                   </div>
@@ -240,7 +238,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                       <Mail className="w-6 h-6 text-[#005284] group-hover:text-[#E35205] transition-colors" />
                     </div>
                     <div className="flex flex-col pt-1">
-                      <span className="text-xs font-bold tracking-widest text-gray-400 mb-1">{dict.contactPage.sidebar.email.title}</span>
+                      <span className="text-xs font-bold tracking-widest text-gray-400 mb-1 uppercase">{dict.contactPage.sidebar.email.title}</span>
                       <a href="mailto:info@welltech.com.tr" className="text-sm text-gray-900 font-bold hover:text-[#E35205] transition-colors">
                         info@welltech.com.tr
                       </a>
@@ -252,7 +250,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                       <Clock className="w-6 h-6 text-gray-400" />
                     </div>
                     <div className="flex flex-col pt-1">
-                      <span className="text-xs font-bold tracking-widest text-gray-400 mb-1">{dict.contactPage.sidebar.hours.title}</span>
+                      <span className="text-xs font-bold tracking-widest text-gray-400 mb-1 uppercase">{dict.contactPage.sidebar.hours.title}</span>
                       <span className="text-sm text-gray-700 font-medium leading-relaxed">
                         {dict.contactPage.sidebar.hours.desc1}<br/>
                         <span className="text-[11px] text-gray-400 font-normal tracking-wide">{dict.contactPage.sidebar.hours.desc2}</span>
@@ -264,7 +262,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
               </div>
 
               <div className="mt-auto pt-8 border-t border-gray-100">
-                <span className="text-xs font-bold tracking-widest text-gray-400 mb-4 block">{dict.contactPage.sidebar.social.title}</span>
+                <span className="text-xs font-bold tracking-widest text-gray-400 mb-4 block uppercase">{dict.contactPage.sidebar.social.title}</span>
                 <div className="flex items-center gap-4">
                   <a href="https://www.linkedin.com/in/inokstek/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 bg-gray-50 rounded-xl border border-gray-100 flex items-center justify-center hover:border-[#E35205] hover:bg-white transition-all group">
                     <Image src="/assets/images/icons/linkedin.svg" alt="LinkedIn" width={20} height={20} className="opacity-50 group-hover:opacity-100 transition-opacity" />
