@@ -23,6 +23,7 @@
         "title": "Stabilimento di produzione",
         "address": "Ulucak İstiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
       },
+      "hqPhoneTitle": "TELEFONO SEDE CENTRALE",
       "kromTank": "Serbatoi in acciaio inossidabile",
       "pumps": "Pompe",
       "phone": {
@@ -64,7 +65,7 @@
           "tanks_3": "Serbatoio di processo per latte e alimenti",
           "tanks_4": "Serbatoio per prodotti chimici / acidi",
           "process_1": "Serbatoio di processo con agitatore",
-          "process_2": "Reattore chimico / farmaceutico",
+          "process_2": "Reattore chimico / farmacéutico",
           "process_3": "Omogeneizzatori ad alto taglio (High Shear)",
           "process_4": "Unità di processo mobile (Skid)",
           "process_5": "Serbatoio con camicia di riscaldamento/raffreddamento",
@@ -83,6 +84,17 @@
       "message": {
         "label": "Dettagli del progetto",
         "placeholder": "Si prega di indicare brevemente la capacità del progetto, la pressione di esercizio, la temperatura o altri requisiti tecnici..."
+      },
+      "fileUpload": {
+        "label": "AGGIUNGI FILE DI PROGETTO O IMMAGINE",
+        "clickToSelect": "Fai clic per selezionare un file",
+        "formats": "PDF, JPG, CAD (Max. 3MB)",
+        "largeFiles": "Per file di assemblaggio di grandi dimensioni, puoi aggiungere un link WeTransfer/Drive al tuo messaggio.",
+        "compressing": "Ottimizzazione dell'immagine...",
+        "added": "Aggiunto"
+      },
+      "security": {
+        "label": "VERIFICA DI SICUREZZA"
       },
       "status": {
         "errorFields": "Si prega di compilare completamente i campi nome, e-mail e messaggio.",

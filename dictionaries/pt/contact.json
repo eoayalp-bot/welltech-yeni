@@ -23,6 +23,7 @@
         "title": "Fábrica",
         "address": "Ulucak İstiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
       },
+      "hqPhoneTitle": "TELEFONE DA SEDE",
       "kromTank": "Tanques de Aço Inoxidável",
       "pumps": "Bombas",
       "phone": {
@@ -83,6 +84,17 @@
       "message": {
         "label": "Detalhes do Projeto",
         "placeholder": "Por favor, indique brevemente a capacidade do projeto, pressão de trabalho, temperatura ou outros requisitos técnicos..."
+      },
+      "fileUpload": {
+        "label": "ADICIONAR FICHEIRO DE PROJETO OU IMAGEM",
+        "clickToSelect": "Clique para selecionar um ficheiro",
+        "formats": "PDF, JPG, CAD (Máx. 3MB)",
+        "largeFiles": "Para ficheiros de montagem grandes, pode adicionar um link do WeTransfer/Drive à sua mensagem.",
+        "compressing": "Otimizando imagem...",
+        "added": "Adicionado"
+      },
+      "security": {
+        "label": "VERIFICAÇÃO DE SEGURANÇA"
       },
       "status": {
         "errorFields": "Por favor, preencha os campos de nome, e-mail e mensagem completamente.",

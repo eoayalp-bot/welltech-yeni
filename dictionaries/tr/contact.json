@@ -23,6 +23,7 @@
         "title": "Üretim Tesisi",
         "address": "Ulucak İstiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
       },
+      "hqPhoneTitle": "MERKEZ OFİS TELEFON",
       "kromTank": "KROM TANK",
       "pumps": "POMPALAR",
       "phone": {
@@ -83,6 +84,17 @@
       "message": {
         "label": "Proje Detayları",
         "placeholder": "Lütfen proje kapasitesi, çalışma basıncı, sıcaklık veya diğer teknik gereksinimleri kısaca belirtin..."
+      },
+      "fileUpload": {
+        "label": "PROJE DOSYASI VEYA GÖRSEL EKLEYİN",
+        "clickToSelect": "Dosya seçmek için tıklayın",
+        "formats": "PDF, JPG, CAD (Max. 3MB)",
+        "largeFiles": "Büyük montaj dosyaları için mesajınıza WeTransfer/Drive linki ekleyebilirsiniz.",
+        "compressing": "Görsel optimize ediliyor...",
+        "added": "Eklendi"
+      },
+      "security": {
+        "label": "GÜVENLİK DOĞRULAMASI"
       },
       "status": {
         "errorFields": "Lütfen isim, e-posta ve mesaj alanlarını eksiksiz doldurun.",

@@ -193,6 +193,16 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                     </div>
                   </div>
 
+                  <div className="flex items-start gap-5">
+                    <div className="p-4 bg-gray-50 rounded-xl shrink-0 border border-gray-100 group hover:border-[#E35205] transition-colors">
+                      <Phone className="w-6 h-6 text-[#005284] group-hover:text-[#E35205] transition-colors" />
+                    </div>
+                    <div className="flex flex-col pt-1">
+                      <span className="text-[10px] font-bold tracking-widest text-gray-400 mb-1 uppercase">{dict.contactPage.sidebar.hqPhoneTitle}</span>
+                      <a href="tel:+902328770444" className="text-sm text-gray-900 font-bold hover:text-[#E35205] transition-colors">+90 (232) 877 0 444</a>
+                    </div>
+                  </div>
+
                   <div className="mt-2 text-xs font-bold text-[#005284] border-b pb-1 uppercase">{dict.contactPage.sidebar.kromTank}</div>
                   <div className="flex items-start gap-5">
                     <div className="p-4 bg-gray-50 rounded-xl shrink-0 border border-gray-100 group hover:border-[#E35205] transition-colors">
@@ -356,14 +366,14 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                 </div>
 
                 <div className="flex flex-col gap-2">
-                  <label className="text-xs font-bold tracking-widest text-gray-500">PROJE DOSYASI VEYA GÖRSEL EKLEYİN</label>
+                  <label className="text-xs font-bold tracking-widest text-gray-500">{dict.contactPage.form.fileUpload.label}</label>
                   
                   {!fileData && !isCompressing ? (
                     <label className="flex flex-col items-center justify-center w-full min-h-[128px] border-2 border-gray-200 border-dashed rounded-xl cursor-pointer bg-gray-50 hover:bg-gray-100 hover:border-[#005284] transition-colors p-4">
                       <div className="flex flex-col items-center justify-center text-center">
                         <UploadCloud className="w-8 h-8 text-gray-400 mb-2" />
-                        <p className="text-sm text-gray-500 font-medium">Dosya seçmek için tıklayın</p>
-                        <p className="text-xs text-gray-400 mt-1">PDF, JPG, CAD (Max. 3MB)<br/><span className="text-[10px]">Büyük montaj dosyaları için mesajınıza WeTransfer/Drive linki ekleyebilirsiniz.</span></p>
+                        <p className="text-sm text-gray-500 font-medium">{dict.contactPage.form.fileUpload.clickToSelect}</p>
+                        <p className="text-xs text-gray-400 mt-1">{dict.contactPage.form.fileUpload.formats}<br/><span className="text-[10px]">{dict.contactPage.form.fileUpload.largeFiles}</span></p>
                       </div>
                       <input 
                         type="file" 
@@ -377,7 +387,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                     <div className="flex items-center justify-center w-full h-32 border border-gray-200 rounded-xl bg-gray-50">
                       <div className="flex flex-col items-center gap-2">
                         <Loader2 className="w-6 h-6 text-[#005284] animate-spin" />
-                        <span className="text-sm text-gray-500 font-medium">Görsel optimize ediliyor...</span>
+                        <span className="text-sm text-gray-500 font-medium">{dict.contactPage.form.fileUpload.compressing}</span>
                       </div>
                     </div>
                   ) : (
@@ -388,7 +398,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                         </div>
                         <div className="flex flex-col min-w-0">
                           <span className="text-sm font-bold text-gray-900 truncate">{fileData?.name}</span>
-                          <span className="text-xs text-gray-500">{fileData?.size} • Eklendi</span>
+                          <span className="text-xs text-gray-500">{fileData?.size} • {dict.contactPage.form.fileUpload.added}</span>
                         </div>
                       </div>
                       <button type="button" onClick={removeFile} className="p-2 text-gray-400 hover:text-red-500 hover:bg-white rounded-lg transition-colors shrink-0">
@@ -399,7 +409,7 @@ export default function ContactClient({ lang, dict }: { lang: string; dict: any 
                 </div>
 
                 <div className="flex flex-col gap-2 mt-2 w-full">
-                  <label className="text-xs font-bold tracking-widest text-gray-500">GÜVENLİK DOĞRULAMASI</label>
+                  <label className="text-xs font-bold tracking-widest text-gray-500">{dict.contactPage.form.security.label}</label>
                   <div className="transform scale-[0.85] origin-left sm:scale-100">
                     <ReCAPTCHA
                       ref={recaptchaRef}

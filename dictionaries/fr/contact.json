@@ -23,6 +23,7 @@
         "title": "Usine de production",
         "address": "Ulucak İstiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
       },
+      "hqPhoneTitle": "TÉLÉPHONE DU SIÈGE",
       "kromTank": "Réservoirs en acier inoxydable",
       "pumps": "Pompes",
       "phone": {
@@ -83,6 +84,17 @@
       "message": {
         "label": "Détails du projet",
         "placeholder": "Veuillez indiquer brièvement la capacité du projet, la pression de service, la température ou d'autres exigences techniques..."
+      },
+      "fileUpload": {
+        "label": "AJOUTER UN FICHIER DE PROJET OU UNE IMAGE",
+        "clickToSelect": "Cliquez pour sélectionner un fichier",
+        "formats": "PDF, JPG, CAD (Max. 3 Mo)",
+        "largeFiles": "Pour les fichiers d'assemblage volumineux, vous pouvez ajouter un lien WeTransfer/Drive à votre message.",
+        "compressing": "Optimisation de l'image...",
+        "added": "Ajouté"
+      },
+      "security": {
+        "label": "VÉRIFICATION DE SÉCURITÉ"
       },
       "status": {
         "errorFields": "Veuillez remplir complètement les champs nom, e-mail et message.",

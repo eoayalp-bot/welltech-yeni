@@ -23,6 +23,7 @@
         "title": "Production Facility",
         "address": "Ulucak İstiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
       },
+      "hqPhoneTitle": "HEADQUARTERS PHONE",
       "kromTank": "Stainless Steel Tanks",
       "pumps": "Pumps",
       "phone": {
@@ -83,6 +84,17 @@
       "message": {
         "label": "Project Details",
         "placeholder": "Please briefly indicate the project capacity, working pressure, temperature, or other technical requirements..."
+      },
+      "fileUpload": {
+        "label": "ADD PROJECT FILE OR IMAGE",
+        "clickToSelect": "Click to select a file",
+        "formats": "PDF, JPG, CAD (Max. 3MB)",
+        "largeFiles": "For large assembly files, you can add a WeTransfer/Drive link to your message.",
+        "compressing": "Optimizing image...",
+        "added": "Added"
+      },
+      "security": {
+        "label": "SECURITY VERIFICATION"
       },
       "status": {
         "errorFields": "Please fill in the name, email, and message fields completely.",

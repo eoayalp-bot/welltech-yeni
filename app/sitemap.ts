@@ -1,33 +1,30 @@
 import { MetadataRoute } from 'next';
-import { routeDictionary } from '../dictionaries/routes';
-
-const baseUrl = 'https://www.welltech.com.tr';
-const locales = ['tr', 'en', 'de', 'ru', 'fr', 'ar', 'es', 'pt', 'it'];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticRoutes = [
-    '', 
-    'kurumsal',
-    'paslanmaz-tanklar',
-    'proses-sistemleri',
-    'pompalar',
-    'referanslar',
-    'iletisim',
-    'blog'
+  const baseUrl = 'https://www.welltech.com.tr';
+
+  const locales = ['tr', 'en', 'de', 'fr', 'es', 'pt', 'it', 'ru', 'ar'];
+
+  const routes = [
+    '',
+    '/kurumsal/hakkimizda',
+    '/kurumsal/iletisim',
+    '/paslanmaz-tanklar',
+    '/paslanmaz-tanklar/depolama-tanklari',
+    '/proses-sistemleri',
+    '/hijyenik-pompalar',
+    '/referanslar'
   ];
 
   const sitemapEntries: MetadataRoute.Sitemap = [];
 
-  staticRoutes.forEach((route) => {
-    locales.forEach((locale) => {
-      const translatedRoute = routeDictionary[route as keyof typeof routeDictionary]?.[locale] || route;
-      const path = route === '' ? `/${locale}` : `/${locale}/${translatedRoute}`;
-
+  locales.forEach((locale) => {
+    routes.forEach((route) => {
       sitemapEntries.push({
-        url: `${baseUrl}${path}`,
+        url: `${baseUrl}/${locale}${route}`,
         lastModified: new Date(),
-        changeFrequency: route === '' ? 'daily' : 'weekly',
-        priority: route === '' ? 1.0 : 0.8,
+        changeFrequency: route === '' ? 'yearly' : 'monthly',
+        priority: route === '' ? 1 : 0.8,
       });
     });
   });

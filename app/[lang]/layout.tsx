@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Inter, Montserrat } from 'next/font/google';
+import Script from 'next/script';
 import '../globals.css';
 import Navbar from '../../components/Navbar';
 import Footer from '../../components/Footer';
@@ -113,6 +114,19 @@ export default async function RootLayout({
         className={`${inter.variable} ${montserrat.variable} font-sans antialiased text-gray-900 bg-white flex flex-col min-h-screen selection:bg-[#E35205] selection:text-white`}
         suppressHydrationWarning
       >
+        <Script
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-3C8KX3804Q"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-3C8KX3804Q');
+          `}
+        </Script>
+
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(corporateSchema) }}

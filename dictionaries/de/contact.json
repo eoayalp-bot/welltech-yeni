@@ -23,6 +23,7 @@
         "title": "Produktionsstätte",
         "address": "Ulucak İstiklal, Gazi Blv.<br/>No:169, 35735<br/>Kemalpaşa / İzmir"
       },
+      "hqPhoneTitle": "HAUPTSITZ TELEFON",
       "kromTank": "Edelstahltanks",
       "pumps": "Pumpen",
       "phone": {
@@ -83,6 +84,17 @@
       "message": {
         "label": "Projektdetails",
         "placeholder": "Bitte geben Sie kurz die Projektkapazität, den Betriebsdruck, die Temperatur oder andere technische Anforderungen an..."
+      },
+      "fileUpload": {
+        "label": "PROJEKTDATEI ODER BILD HINZUFÜGEN",
+        "clickToSelect": "Klicken Sie hier, um eine Datei auszuwählen",
+        "formats": "PDF, JPG, CAD (Max. 3MB)",
+        "largeFiles": "Für große Baugruppendateien können Sie Ihrer Nachricht einen WeTransfer/Drive-Link hinzufügen.",
+        "compressing": "Bild wird optimiert...",
+        "added": "Hinzugefügt"
+      },
+      "security": {
+        "label": "SICHERHEITSÜBERPRÜFUNG"
       },
       "status": {
         "errorFields": "Bitte füllen Sie die Felder Name, E-Mail und Nachricht vollständig aus.",
